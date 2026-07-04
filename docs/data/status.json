@@ -3,10 +3,10 @@
   "manual_refresh_enabled": false,
   "snapshots": {
     "event_schedule": {
-      "fetched_at_fmt": "2026-07-04 23:41:47"
+      "fetched_at_fmt": "2026-07-05 00:12:19"
     },
     "video_defs": {
-      "fetched_at_fmt": "2026-07-04 23:41:47"
+      "fetched_at_fmt": "2026-07-05 00:12:19"
     }
   }
 }
