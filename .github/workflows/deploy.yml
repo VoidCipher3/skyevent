@@ -4,13 +4,33 @@ on:
   push:
     branches:
       - main
+
+permissions:
+  contents: write
+
 jobs:
   run:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install requests
-      - run: python scripts/fetch_and_build.py
+    
+      - name: Install dependencies and run script
+        run: |
+          pip install requests
+          python scripts/update.py
+    
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          # 注意這裡：同時加入 data.json 和 archive 資料夾
+          git add docs/data/*.json archive/
+          git commit -m "Update data & archive" || exit 0
+          git push
