@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#101827">
+  <title>光遇 活动 / 影片 数据</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main>
+  <h1>光遇 活动 / 影片 数据</h1>
+  <div class="hint">数据由 GitHub Actions 每 30 分钟自动拉取一次，无需手动刷新。</div>
+
+  <section class="card">
+    <p id="fetchMeta" class="meta"></p>
+    <p id="msg"></p>
+  </section>
+
+  <section class="card">
+    <div class="row tabs tab-bar">
+      <button id="tabSchedule" class="active-tab" type="button">活动</button>
+      <button id="tabVideo" type="button">影片</button>
+      <button id="tabDiff" type="button">差异</button>
+    </div>
+    <div class="row toolbar">
+      <input id="filterQ" class="field-grow" placeholder="搜索名称…" autocomplete="off">
+      <label class="meta chk-only-active"><input type="checkbox" id="onlyActive"> 仅进行中</label>
+    </div>
+    <p id="dataMeta" class="meta"></p>
+
+    <div id="panelSchedule">
+      <div class="table-wrap">
+        <table class="responsive-table">
+          <thead><tr><th>状态</th><th>名称</th><th>开始</th><th>结束</th><th>时长</th></tr></thead>
+          <tbody id="scheduleBody"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <div id="panelVideo" class="hidden">
+      <div class="table-wrap">
+        <table class="responsive-table">
+          <thead><tr><th>名称</th><th>时长</th><th>播放</th><th>字幕</th><th>备注</th></tr></thead>
+          <tbody id="videoBody"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <div id="panelDiff" class="hidden">
+      <div id="diffMeta" class="meta" style="margin-bottom:12px"></div>
+      <div class="diff-grid">
+        <div class="diff-block"><h3>活动 · 新增</h3><ul id="diffScheduleAdded" class="diff-list"></ul></div>
+        <div class="diff-block"><h3>活动 · 删除</h3><ul id="diffScheduleRemoved" class="diff-list"></ul></div>
+        <div class="diff-block"><h3>影片 · 新增</h3><ul id="diffVideoAdded" class="diff-list"></ul></div>
+        <div class="diff-block"><h3>影片 · 删除</h3><ul id="diffVideoRemoved" class="diff-list"></ul></div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<div id="videoModal" class="video-modal hidden" aria-hidden="true">
+  <div class="video-modal-panel">
+    <div class="video-modal-head">
+      <h2 id="videoModalTitle">播放</h2>
+      <button type="button" id="videoModalClose" class="secondary">关闭</button>
+    </div>
+    <video id="videoPlayer" controls playsinline></video>
+    <p id="videoModalHint" class="meta"></p>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/hls.js@1.5.15/dist/hls.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
