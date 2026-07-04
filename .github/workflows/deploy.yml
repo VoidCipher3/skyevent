@@ -24,13 +24,14 @@ jobs:
       - name: Install dependencies and run script
         run: |
           pip install requests
-          python scripts/update.py
+          # 注意：這裡的腳本名稱已經修正為你目錄中實際存在的檔案
+          python scripts/fetch_and_build.py
     
       - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          # 注意這裡：同時加入 data.json 和 archive 資料夾
-          git add docs/data/*.json archive/
+          # 加上 *.json 讓範圍更精確
+          git add docs/data/*.json archive/*.json
           git commit -m "Update data & archive" || exit 0
           git push
