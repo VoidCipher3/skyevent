@@ -683,6 +683,7 @@
       "gen_shop_monthly_reset",
       "gen_shop_weekly_reset",
       "gen_shop_yearly_reset",
+      "global_ann_perf1",
       "global_ann_perf12",
       "global_aurora",
       "global_ball_beach",
@@ -906,7 +907,6 @@
       "skyfest2026_w1",
       "skyfest_fireworks_show",
       "skyfest_fireworks_show_act1",
-      "skyfest_fireworks_show_act4",
       "skyfest_fireworks_show_medpad",
       "skyfest_parade",
       "skyfest_soundbath",
@@ -1112,7 +1112,7 @@
       "wildlifepark_cycle_sunset",
       "wing_buff_conversion_period"
     ],
-    "total": 738,
-    "active_count": 543
+    "total": 742,
+    "active_count": 538
   }
 }

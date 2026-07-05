@@ -3,87 +3,282 @@
   "diff": {
     "event_schedule": {
       "has_recorded_diff": true,
-      "recorded_at_fmt": "2026-07-05 23:56:59",
-      "previous_fetched_at_fmt": "2026-07-05 23:38:24",
+      "recorded_at_fmt": "2026-07-06 02:45:34",
+      "previous_fetched_at_fmt": "2026-07-06 02:37:04",
       "unchanged_since_last_change": false,
       "added": [
-        "aurora_minigame_2",
-        "global_ann_perf4",
-        "skyfest_fireworks_show_act2"
+        {
+          "name": "global_ann_perf1",
+          "label": {
+            "tw": "global_ann_perf1",
+            "cn": "global_ann_perf1",
+            "en": "global_ann_perf1"
+          },
+          "start": "2026-07-06 03:13:00",
+          "end": "2026-07-06 03:18:00",
+          "duration_label": "5 分钟"
+        }
       ],
       "removed": [
-        "global_ann_perf3",
-        "mainstreet_cycle_sunset_B",
-        "skyfest_fireworks_show_act4",
-        "social_rain_grandmatable"
+        {
+          "name": "skyfest_fireworks_show_act4",
+          "label": {
+            "tw": "skyfest_fireworks_show_act4",
+            "cn": "skyfest_fireworks_show_act4",
+            "en": "skyfest_fireworks_show_act4"
+          },
+          "start": "2026-07-06 02:29:00",
+          "end": "2026-07-06 02:37:00",
+          "duration_label": "8 分钟"
+        }
       ]
     },
     "video_defs": {
       "has_recorded_diff": true,
-      "recorded_at_fmt": "2026-07-05 23:38:24",
-      "previous_fetched_at_fmt": "2026-07-05 23:08:28",
+      "recorded_at_fmt": "2026-07-06 02:33:41",
+      "previous_fetched_at_fmt": "2026-07-05 23:56:59",
       "unchanged_since_last_change": true,
       "added": [
-        "295filler",
-        "6yrsofsky",
-        "7th_celebration",
-        "Prop_AP27Projector_p1chapters_cc",
-        "activity_kinetic",
-        "activity_tranquil",
-        "art_of_sky_gallery",
-        "artbook_signing",
-        "aurora_concert_thank_you",
-        "awd26_sel_a",
-        "awd26_sel_b",
-        "awd26_sel_c",
-        "awd_corner_a",
-        "awd_corner_b",
-        "awd_countdown",
-        "awd_countdown_replay",
-        "awd_show_p1",
-        "awd_show_p1_replay",
-        "awd_show_p2",
-        "awd_show_p2_replay",
-        "awd_winners_a",
-        "awd_winners_b",
-        "cinema_trailer",
-        "cmty_corner_a",
-        "cmty_corner_b",
-        "cmty_corner_c",
-        "cmty_corner_d",
-        "cocowoll_skyfest_animation",
-        "creator_const_a",
-        "creator_const_b",
-        "dev_corner_a",
-        "dev_corner_b",
-        "dev_corner_c",
-        "dev_corner_d",
-        "ember_ch_1",
-        "ember_ch_2",
-        "ember_ch_3",
-        "ember_ch_4",
-        "ember_ch_all",
-        "fifth_anniversary_trailer",
-        "history_of_sky_gallery",
-        "jenova_dev_talk",
-        "jenova_keynote",
-        "medpad_ch_1",
-        "medpad_ch_2",
-        "medpad_ch_3",
-        "medpad_ch_4",
-        "nic_dev_talk",
-        "recruitment_amelia",
-        "recruitment_dylan",
-        "recruitment_jeremy",
-        "recruitment_kyle",
-        "recruitment_nick",
-        "recruitment_reika",
-        "recruitment_sam",
-        "recruitment_samantha",
-        "sam_dev_talk",
-        "studio_stories_a",
-        "studio_stories_b",
-        "yui_dev_talk"
+        {
+          "name": "295filler",
+          "duration_fmt": "1:00:00"
+        },
+        {
+          "name": "6yrsofsky",
+          "duration_fmt": "1:00:00"
+        },
+        {
+          "name": "7th_celebration",
+          "duration_fmt": "6:37"
+        },
+        {
+          "name": "Prop_AP27Projector_p1chapters_cc",
+          "duration_fmt": "1:20:00"
+        },
+        {
+          "name": "activity_kinetic",
+          "duration_fmt": "30:00"
+        },
+        {
+          "name": "activity_tranquil",
+          "duration_fmt": "30:00"
+        },
+        {
+          "name": "art_of_sky_gallery",
+          "duration_fmt": "11:12"
+        },
+        {
+          "name": "artbook_signing",
+          "duration_fmt": "0:47"
+        },
+        {
+          "name": "aurora_concert_thank_you",
+          "duration_fmt": "1:00"
+        },
+        {
+          "name": "awd26_sel_a",
+          "duration_fmt": "30:00"
+        },
+        {
+          "name": "awd26_sel_b",
+          "duration_fmt": "30:00"
+        },
+        {
+          "name": "awd26_sel_c",
+          "duration_fmt": "30:00"
+        },
+        {
+          "name": "awd_corner_a",
+          "duration_fmt": "30:00"
+        },
+        {
+          "name": "awd_corner_b",
+          "duration_fmt": "30:00"
+        },
+        {
+          "name": "awd_countdown",
+          "duration_fmt": "30:00"
+        },
+        {
+          "name": "awd_countdown_replay",
+          "duration_fmt": "30:00"
+        },
+        {
+          "name": "awd_show_p1",
+          "duration_fmt": "49:00"
+        },
+        {
+          "name": "awd_show_p1_replay",
+          "duration_fmt": "49:00"
+        },
+        {
+          "name": "awd_show_p2",
+          "duration_fmt": "41:00"
+        },
+        {
+          "name": "awd_show_p2_replay",
+          "duration_fmt": "41:00"
+        },
+        {
+          "name": "awd_winners_a",
+          "duration_fmt": "30:00"
+        },
+        {
+          "name": "awd_winners_b",
+          "duration_fmt": "30:00"
+        },
+        {
+          "name": "cinema_trailer",
+          "duration_fmt": "0:47"
+        },
+        {
+          "name": "cmty_corner_a",
+          "duration_fmt": "30:00"
+        },
+        {
+          "name": "cmty_corner_b",
+          "duration_fmt": "30:00"
+        },
+        {
+          "name": "cmty_corner_c",
+          "duration_fmt": "30:00"
+        },
+        {
+          "name": "cmty_corner_d",
+          "duration_fmt": "30:00"
+        },
+        {
+          "name": "cocowoll_skyfest_animation",
+          "duration_fmt": "3:30"
+        },
+        {
+          "name": "creator_const_a",
+          "duration_fmt": "15:00"
+        },
+        {
+          "name": "creator_const_b",
+          "duration_fmt": "15:00"
+        },
+        {
+          "name": "dev_corner_a",
+          "duration_fmt": "30:00"
+        },
+        {
+          "name": "dev_corner_b",
+          "duration_fmt": "30:00"
+        },
+        {
+          "name": "dev_corner_c",
+          "duration_fmt": "30:00"
+        },
+        {
+          "name": "dev_corner_d",
+          "duration_fmt": "30:00"
+        },
+        {
+          "name": "ember_ch_1",
+          "duration_fmt": "30:00"
+        },
+        {
+          "name": "ember_ch_2",
+          "duration_fmt": "30:00"
+        },
+        {
+          "name": "ember_ch_3",
+          "duration_fmt": "30:00"
+        },
+        {
+          "name": "ember_ch_4",
+          "duration_fmt": "30:00"
+        },
+        {
+          "name": "ember_ch_all",
+          "duration_fmt": "1:00:00"
+        },
+        {
+          "name": "fifth_anniversary_trailer",
+          "duration_fmt": "1:01"
+        },
+        {
+          "name": "history_of_sky_gallery",
+          "duration_fmt": "8:12"
+        },
+        {
+          "name": "jenova_dev_talk",
+          "duration_fmt": "56:32"
+        },
+        {
+          "name": "jenova_keynote",
+          "duration_fmt": "39:07"
+        },
+        {
+          "name": "medpad_ch_1",
+          "duration_fmt": "20:00"
+        },
+        {
+          "name": "medpad_ch_2",
+          "duration_fmt": "20:00"
+        },
+        {
+          "name": "medpad_ch_3",
+          "duration_fmt": "20:00"
+        },
+        {
+          "name": "medpad_ch_4",
+          "duration_fmt": "20:00"
+        },
+        {
+          "name": "nic_dev_talk",
+          "duration_fmt": "53:55"
+        },
+        {
+          "name": "recruitment_amelia",
+          "duration_fmt": "1:45"
+        },
+        {
+          "name": "recruitment_dylan",
+          "duration_fmt": "1:23"
+        },
+        {
+          "name": "recruitment_jeremy",
+          "duration_fmt": "1:53"
+        },
+        {
+          "name": "recruitment_kyle",
+          "duration_fmt": "1:35"
+        },
+        {
+          "name": "recruitment_nick",
+          "duration_fmt": "1:33"
+        },
+        {
+          "name": "recruitment_reika",
+          "duration_fmt": "1:33"
+        },
+        {
+          "name": "recruitment_sam",
+          "duration_fmt": "1:55"
+        },
+        {
+          "name": "recruitment_samantha",
+          "duration_fmt": "1:36"
+        },
+        {
+          "name": "sam_dev_talk",
+          "duration_fmt": "50:27"
+        },
+        {
+          "name": "studio_stories_a",
+          "duration_fmt": "15:00"
+        },
+        {
+          "name": "studio_stories_b",
+          "duration_fmt": "15:00"
+        },
+        {
+          "name": "yui_dev_talk",
+          "duration_fmt": "31:10"
+        }
       ],
       "removed": []
     }

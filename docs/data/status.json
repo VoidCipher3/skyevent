@@ -1,12 +1,11 @@
 {
   "ready": true,
-  "manual_refresh_enabled": false,
   "snapshots": {
     "event_schedule": {
-      "fetched_at_fmt": "2026-07-05 23:56:59"
+      "fetched_at_fmt": "2026-07-06 02:45:34"
     },
     "video_defs": {
-      "fetched_at_fmt": "2026-07-05 23:56:59"
+      "fetched_at_fmt": "2026-07-06 02:45:34"
     }
   }
 }
