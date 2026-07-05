@@ -683,7 +683,6 @@
       "gen_shop_monthly_reset",
       "gen_shop_weekly_reset",
       "gen_shop_yearly_reset",
-      "global_ann_perf11",
       "global_ann_perf12",
       "global_aurora",
       "global_ball_beach",
@@ -712,6 +711,7 @@
       "mainstreet_cycle_day_B",
       "mainstreet_cycle_morning_B",
       "mainstreet_cycle_night_B",
+      "mainstreet_cycle_overcast_day_B",
       "mainstreet_cycle_sunset_B",
       "musicshop_weekly_rotation_01",
       "nature_geyser_on",
@@ -1112,7 +1112,7 @@
       "wildlifepark_cycle_sunset",
       "wing_buff_conversion_period"
     ],
-    "total": 729,
-    "active_count": 539
+    "total": 738,
+    "active_count": 543
   }
 }
