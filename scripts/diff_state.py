@@ -1,50 +1,35 @@
 """
 差异比对：只有「這次抓到的名稱集合」跟「上次存檔的名稱集合」不同時，才更新 added/removed，
 否則保留上一筆有變化的紀錄（對應前端 unchanged_since_last_change 的提示文字）。
+
+current_items 現在是 dict：{name: info}，info 至少含 label，
+schedule 還會多帶 start/end/duration_label，讓「新增/刪除」清單能直接顯示具體時段，
+不用另外回頭查詢。
 """
 from converter import fmt_ts
 
 
-def compute_diff(current_names, prev_entry, now_ts):
-    """
-    current_names: set[str] 這次抓到的名稱
-    prev_entry: 上次存的 dict，或 None（第一次跑）
-                {"names": [...], "fetched_at": int, "fetched_at_fmt": str, "last_diff": {...} | None}
-    回傳 (diff_for_frontend, new_entry)
-    """
-    current_names = set(current_names)
-
+def compute_diff(current_items: dict, prev_entry, now_ts: int):
     if prev_entry is None:
-        new_entry = {
-            "names": sorted(current_names),
-            "fetched_at": now_ts,
-            "fetched_at_fmt": fmt_ts(now_ts),
-            "last_diff": None,
-        }
+        new_entry = {"items": current_items, "fetched_at_fmt": fmt_ts(now_ts), "last_diff": None}
         return _render(None, False), new_entry
 
-    old_names = set(prev_entry.get("names", []))
-    added = sorted(current_names - old_names)
-    removed = sorted(old_names - current_names)
-    changed = bool(added or removed)
+    old_items = prev_entry.get("items", {})
+    added_names = sorted(set(current_items) - set(old_items))
+    removed_names = sorted(set(old_items) - set(current_items))
+    changed = bool(added_names or removed_names)
 
     if changed:
         last_diff = {
-            "recorded_at": now_ts,
             "recorded_at_fmt": fmt_ts(now_ts),
             "previous_fetched_at_fmt": prev_entry.get("fetched_at_fmt", ""),
-            "added": added,
-            "removed": removed,
+            "added": [{"name": n, **current_items[n]} for n in added_names],
+            "removed": [{"name": n, **old_items[n]} for n in removed_names],
         }
     else:
         last_diff = prev_entry.get("last_diff")  # 保留上一筆有變化的紀錄
 
-    new_entry = {
-        "names": sorted(current_names),
-        "fetched_at": now_ts,
-        "fetched_at_fmt": fmt_ts(now_ts),
-        "last_diff": last_diff,
-    }
+    new_entry = {"items": current_items, "fetched_at_fmt": fmt_ts(now_ts), "last_diff": last_diff}
     return _render(last_diff, not changed and last_diff is not None), new_entry
 
 
