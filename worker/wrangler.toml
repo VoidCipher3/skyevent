@@ -1,0 +1,28 @@
+name = "skyevent"
+main = "src/index.js"
+compatibility_date = "2024-11-01"
+
+# 靜態網站：把 docs/ 整個資料夾當這個 Worker 的網站內容
+# run_worker_first = true 代表「每一個 request 都先進到 index.js」，
+# 讓 index.js 自己決定要處理 POST 還是把 GET 轉交給 ASSETS 去伺服 docs/ 的靜態檔案。
+[assets]
+directory = "../docs"
+binding = "ASSETS"
+run_worker_first = true
+
+# 非機密設定，可以直接寫在這裡：
+[vars]
+GH_OWNER = "huaji55"        # 換成你的 GitHub 帳號或組織
+GH_REPO = "skyevent"                # 換成這個 repo 的名稱
+GH_WORKFLOW_FILE = "deploy.yml"          # .github/workflows/ 底下的檔名
+GH_REF = "main"                          # 要觸發的分支
+
+# 節流用的 KV，先用 `wrangler kv namespace create REFRESH_KV` 建立，
+# 再把印出來的 id 貼到下面。
+[[kv_namespaces]]
+binding = "REFRESH_KV"
+id = "a767cd29a69f4df59e446389d83e301c"
+
+# 機密設定不要寫在這裡，改用指令設定（不會進 git）：
+#   wrangler secret put REFRESH_PASSWORD
+#   wrangler secret put GH_TOKEN
