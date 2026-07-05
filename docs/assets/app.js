@@ -2,8 +2,8 @@ const LANG = window.APP_LANG || "en";
 
 // 部署完 worker/ 底下的 Cloudflare Worker 後，把印出來的網址貼在這裡。
 // 沒填之前，手動刷新按鈕會直接顯示「尚未設定」，不會亂打 request。
-const REFRESH_ENDPOINT = ""; // 例如 "https://sky-refresh-trigger.your-subdomain.workers.dev"
-
+const REFRESH_ENDPOINT = "https://skyevent.adam105195.workers.dev";
+ // 例如 "https://sky-refresh-trigger.your-subdomain.workers.dev"
 const UI = {
   tw: {
     title: "光遇 活動 / 影片 資料", hint: "資料每 30 分鐘自動拉取一次，也可以在下方輸入密碼立即刷新。",
