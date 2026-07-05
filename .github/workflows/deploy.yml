@@ -1,37 +1,52 @@
-name: Run Python
+name: Fetch Sky data & deploy
 
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: "*/30 * * * *"   # 每 30 分鐘一次（GitHub 排程本身有 ±幾分鐘延遲，屬正常現象）
+  workflow_dispatch: {}       # 允許在 Actions 頁面手動點一下立即跑一次
+
+concurrency:
+  group: sky-data-sync
+  cancel-in-progress: false
 
 permissions:
   contents: write
 
 jobs:
-  run:
+  fetch-and-deploy:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-    
-      - name: Install dependencies and run script
-        run: |
-          pip install requests
-          # 注意：這裡的腳本名稱已經修正為你目錄中實際存在的檔案
-          python scripts/fetch_and_build.py
-    
-      - name: Commit and Push
+
+      - name: Install deps
+        run: pip install requests
+
+      - name: Fetch & build
+        working-directory: scripts
+        env:
+          B: ${{ secrets.SKY_B }}
+          B1: ${{ secrets.SKY_B1 }}
+          EVENT_NAMES_JSON: ${{ secrets.SKY_EVENT_NAMES_JSON }}
+          SERVER_NAME: global
+        run: python fetch_and_build.py
+
+      - name: Deploy docs/ to Cloudflare Pages
+        uses: cloudflare/pages-action@v1
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          projectName: sky-data-sync
+          directory: docs
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit archive & diff-state only
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          # 加上 *.json 讓範圍更精確
-          git add docs/data/*.json archive/*.json
-          git commit -m "Update data & archive" || exit 0
+          git add archive docs/data/diff_state.json
+          git diff --cached --quiet || git commit -m "chore: update archive & diff-state $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push
