@@ -67,8 +67,8 @@ jobs:
       # 差別只是 repo 會養得比較快、日後可能要考慮定期 squash 歷史。
       - name: Commit archive & diff-state only
         run: |
-          git config user.name "sky-data-bot"
-          git config user.email "actions@users.noreply.github.com"
-          git add archive docs/data/diff_state.json
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add archive docs/data/*.json
           git diff --cached --quiet || git commit -m "chore: update archive & diff-state $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push
