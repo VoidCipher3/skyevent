@@ -6,7 +6,7 @@ on:
   workflow_dispatch: {}       # 允許在 Actions 頁面手動點一下立即跑一次
 
 concurrency:
-  group: skyevent
+  group: sky-data-sync
   cancel-in-progress: false
 
 permissions:
@@ -22,9 +22,15 @@ jobs:
         with:
           python-version: "3.12"
 
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
       - name: Install deps
         run: pip install requests
 
+      # 唯一要執行的腳本；sky_client / converter / diff_state / translate 都只是被它 import 的模組。
+      # 產出寫進 docs/data/*.json，其中 diff_state.json 是差异比对要跨次執行保留的內部狀態。
       - name: Fetch & build
         working-directory: scripts
         env:
@@ -34,19 +40,35 @@ jobs:
           SERVER_NAME: global
         run: python fetch_and_build.py
 
-      - name: Deploy docs/ to Cloudflare Pages
-        uses: cloudflare/pages-action@v1
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          projectName: skyevent
-          directory: docs
-          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+      # 用 wrangler 把 Worker 重新部署一次，這一步會把最新的 docs/ 內容
+      # (剛剛 fetch_and_build.py 產生的 json) 當成 Worker 的 Static Assets 一起打包上去。
+      # 這樣 https://skyevent.adam105195.workers.dev/ 看到的資料才會跟著自動更新，
+      # 不用每次手動在自己電腦上跑 wrangler deploy。
+      #
+      # 前置作業（一次性）：
+      #   1. 在這個 repo 的 Settings → Secrets 加上：
+      #      CLOUDFLARE_API_TOKEN（權限需要 Account -> Workers Scripts: Edit）
+      #      CLOUDFLARE_ACCOUNT_ID
+      #   注意：REFRESH_PASSWORD、GH_TOKEN 這兩個 Worker secret 已經用
+      #   `wrangler secret put` 個別設定過，wrangler deploy 不會動到它們，不用重設。
+      - name: Deploy Worker (site + API)
+        working-directory: worker
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: npx wrangler deploy
 
+      # git 只保留兩種東西：
+      #   - archive/：一天才變一次，留著當長期歷史紀錄很划算
+      #   - docs/data/diff_state.json：差异比对要用的「上次名稱集合」，下次執行要讀得到才能比對出變化
+      # docs/data 底下其餘會被前端讀取的 schedule.json / video.json / diff.json / status.json
+      # 每 30 分鐘都會整包重新產生，不 commit 這些，避免 git 歷史被灌爆。
+      # 如果你還是想留一份 GitHub Pages 當備援，把下面 git add 換回 `docs/data archive` 即可，
+      # 差別只是 repo 會養得比較快、日後可能要考慮定期 squash 歷史。
       - name: Commit archive & diff-state only
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "sky-data-bot"
+          git config user.email "actions@users.noreply.github.com"
           git add archive docs/data/diff_state.json
           git diff --cached --quiet || git commit -m "chore: update archive & diff-state $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push
