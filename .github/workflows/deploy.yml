@@ -6,7 +6,7 @@ on:
   workflow_dispatch: {}       # 允許在 Actions 頁面手動點一下立即跑一次
 
 concurrency:
-  group: sky-data-sync
+  group: skyevent
   cancel-in-progress: false
 
 permissions:
@@ -39,7 +39,7 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          projectName: sky-data-sync
+          projectName: skyevent
           directory: docs
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
 
