@@ -589,7 +589,6 @@
       "aurora_exhaleinhale_wrap",
       "aurora_eyesofachild",
       "aurora_eyesofachild_countdown",
-      "aurora_minigame_3",
       "aurora_minigame_4",
       "aurora_minigame_vote_rotation",
       "aurora_orbit",
@@ -1111,7 +1110,7 @@
       "wildlifepark_cycle_sunset",
       "wing_buff_conversion_period"
     ],
-    "total": 741,
-    "active_count": 549
+    "total": 740,
+    "active_count": 535
   }
 }
