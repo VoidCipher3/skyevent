@@ -3,21 +3,143 @@
   "diff": {
     "event_schedule": {
       "has_recorded_diff": true,
-      "recorded_at_fmt": "2026-07-06 10:46:00",
-      "previous_fetched_at_fmt": "2026-07-06 10:41:27",
+      "recorded_at_fmt": "2026-07-06 13:52:38",
+      "previous_fetched_at_fmt": "2026-07-06 10:46:00",
       "unchanged_since_last_change": false,
-      "added": [],
+      "added": [
+        {
+          "name": "aurora_minigame_1",
+          "label": {
+            "tw": "aurora_minigame_1",
+            "cn": "aurora_minigame_1",
+            "en": "aurora_minigame_1"
+          },
+          "start": "2026-07-06 14:00:00",
+          "end": "2026-07-06 14:12:00",
+          "duration_label": "12 分钟"
+        },
+        {
+          "name": "aurora_minigame_2",
+          "label": {
+            "tw": "aurora_minigame_2",
+            "cn": "aurora_minigame_2",
+            "en": "aurora_minigame_2"
+          },
+          "start": "2026-07-06 14:15:00",
+          "end": "2026-07-06 14:27:00",
+          "duration_label": "12 分钟"
+        },
+        {
+          "name": "global_ann_perf10",
+          "label": {
+            "tw": "global_ann_perf10",
+            "cn": "global_ann_perf10",
+            "en": "global_ann_perf10"
+          },
+          "start": "2026-07-06 14:15:00",
+          "end": "2026-07-06 14:20:00",
+          "duration_label": "5 分钟"
+        },
+        {
+          "name": "skyfest_fireworks_show_act2",
+          "label": {
+            "tw": "skyfest_fireworks_show_act2",
+            "cn": "skyfest_fireworks_show_act2",
+            "en": "skyfest_fireworks_show_act2"
+          },
+          "start": "2026-07-06 14:25:00",
+          "end": "2026-07-06 14:28:00",
+          "duration_label": "3 分钟"
+        },
+        {
+          "name": "social_nature2022turtle",
+          "label": {
+            "tw": "social_nature2022turtle",
+            "cn": "social_nature2022turtle",
+            "en": "social_nature2022turtle"
+          },
+          "start": "2026-07-06 13:50:00",
+          "end": "2026-07-06 14:00:00",
+          "duration_label": "10 分钟"
+        },
+        {
+          "name": "social_sunsetskater",
+          "label": {
+            "tw": "social_sunsetskater",
+            "cn": "social_sunsetskater",
+            "en": "social_sunsetskater"
+          },
+          "start": "2026-07-06 14:00:00",
+          "end": "2026-07-06 14:15:00",
+          "duration_label": "15 分钟"
+        },
+        {
+          "name": "social_turtle_despawn",
+          "label": {
+            "tw": "social_turtle_despawn",
+            "cn": "social_turtle_despawn",
+            "en": "social_turtle_despawn"
+          },
+          "start": "2026-07-06 14:00:00",
+          "end": "2026-07-06 14:10:00",
+          "duration_label": "10 分钟"
+        }
+      ],
       "removed": [
         {
-          "name": "aurora_minigame_3",
+          "name": "aurora_minigame_4",
           "label": {
-            "tw": "aurora_minigame_3",
-            "cn": "aurora_minigame_3",
-            "en": "aurora_minigame_3"
+            "tw": "aurora_minigame_4",
+            "cn": "aurora_minigame_4",
+            "en": "aurora_minigame_4"
           },
-          "start": "2026-07-06 10:30:00",
-          "end": "2026-07-06 10:42:00",
+          "start": "2026-07-06 10:45:00",
+          "end": "2026-07-06 10:57:00",
           "duration_label": "12 分钟"
+        },
+        {
+          "name": "global_ann_perf1",
+          "label": {
+            "tw": "global_ann_perf1",
+            "cn": "global_ann_perf1",
+            "en": "global_ann_perf1"
+          },
+          "start": "2026-07-06 11:13:00",
+          "end": "2026-07-06 11:18:00",
+          "duration_label": "5 分钟"
+        },
+        {
+          "name": "global_ann_perf12",
+          "label": {
+            "tw": "global_ann_perf12",
+            "cn": "global_ann_perf12",
+            "en": "global_ann_perf12"
+          },
+          "start": "2026-07-06 10:45:00",
+          "end": "2026-07-06 10:50:00",
+          "duration_label": "5 分钟"
+        },
+        {
+          "name": "global_nature_geyser",
+          "label": {
+            "tw": "global_nature_geyser",
+            "cn": "global_nature_geyser",
+            "en": "global_nature_geyser"
+          },
+          "start": "2026-07-06 11:00:00",
+          "end": "2026-07-06 11:15:00",
+          "duration_label": "15 分钟"
+        },
+        {
+          "name": "mainstreet_cycle_sunset_B",
+          "label": {
+            "tw": "mainstreet_cycle_sunset_B",
+            "cn": "mainstreet_cycle_sunset_B",
+            "en": "mainstreet_cycle_sunset_B"
+          },
+          "start": "2026-07-06 10:40:00",
+          "end": "2026-07-06 10:50:00",
+          "duration_label": "10 分钟"
         }
       ]
     },
