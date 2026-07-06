@@ -560,7 +560,6 @@
   "2026-07-06": {
     "active_events": [
       "AP27CapeHealingSpa",
-      "anniversary_office_video_thankyou",
       "ap18_ritual_02",
       "ap18_ritual_02_audience_lobby",
       "ap18_ritual_03",
@@ -680,8 +679,9 @@
       "gen_shop_monthly_reset",
       "gen_shop_weekly_reset",
       "gen_shop_yearly_reset",
-      "global_ann_perf1",
-      "global_ann_perf2",
+      "global_ann_perf7",
+      "global_ann_perf8",
+      "global_ann_perf9",
       "global_aurora",
       "global_ball_beach",
       "global_cafe_open",
@@ -693,7 +693,6 @@
       "global_merchandise_live",
       "global_musicshop_sale",
       "global_nature_geyser",
-      "global_newyear_firework_interval",
       "global_office_shop",
       "global_pc_launch",
       "global_qixi_couple",
@@ -707,8 +706,8 @@
       "global_wing_none",
       "hub_clocktower",
       "mainstreet_cycle_day_B",
-      "mainstreet_cycle_morning_B",
       "mainstreet_cycle_overcast_day_B",
+      "mainstreet_cycle_sunset_B",
       "musicshop_weekly_rotation_01",
       "nature_geyser_on",
       "personality_quiz_evergreen",
@@ -1108,7 +1107,7 @@
       "wildlifepark_cycle_sunset",
       "wing_buff_conversion_period"
     ],
-    "total": 740,
-    "active_count": 545
+    "total": 745,
+    "active_count": 550
   }
 }

@@ -2,16 +2,16 @@
   "ok": true,
   "server": "global",
   "meta": {
-    "fetched_at_fmt": "2026-07-06 07:05:21",
+    "fetched_at_fmt": "2026-07-06 09:13:51",
     "auto_refresh": true,
     "refresh_interval_hours": 0.5
   },
   "data": {
-    "server_time_fmt": "2026-07-06 07:05:21",
-    "valid_until_fmt": "2026-07-06 07:35:21",
+    "server_time_fmt": "2026-07-06 09:13:51",
+    "valid_until_fmt": "2026-07-06 09:43:51",
     "base_time_fmt": "2020-04-20 15:00:00",
-    "total": 740,
-    "active_count": 545,
+    "total": 745,
+    "active_count": 550,
     "events": [
       {
         "name": "social_dusk_spitroastpassive",
@@ -118,8 +118,22 @@
           "cn": "aurora_theseed",
           "en": "aurora_theseed"
         },
-        "start": "2026-07-06 07:41:00",
-        "end": "2026-07-06 07:45:00",
+        "start": "2026-07-06 09:41:00",
+        "end": "2026-07-06 09:45:00",
+        "duration_minutes": 4,
+        "duration_label": "4 分钟",
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "aurora_theseed",
+        "label": {
+          "tw": "aurora_theseed",
+          "cn": "aurora_theseed",
+          "en": "aurora_theseed"
+        },
+        "start": "2026-07-06 11:41:00",
+        "end": "2026-07-06 11:45:00",
         "duration_minutes": 4,
         "duration_label": "4 分钟",
         "active": false,
@@ -146,8 +160,8 @@
           "cn": "aurora_softinside",
           "en": "aurora_softinside"
         },
-        "start": "2026-07-06 07:26:00",
-        "end": "2026-07-06 07:31:00",
+        "start": "2026-07-06 09:26:00",
+        "end": "2026-07-06 09:31:00",
         "duration_minutes": 5,
         "duration_label": "5 分钟",
         "active": false,
@@ -160,8 +174,8 @@
           "cn": "aurora_softinside",
           "en": "aurora_softinside"
         },
-        "start": "2026-07-06 09:26:00",
-        "end": "2026-07-06 09:31:00",
+        "start": "2026-07-06 11:26:00",
+        "end": "2026-07-06 11:31:00",
         "duration_minutes": 5,
         "duration_label": "5 分钟",
         "active": false,
@@ -468,8 +482,8 @@
           "cn": "aurora_orbit_countdown",
           "en": "aurora_orbit_countdown"
         },
-        "start": "2026-07-06 07:50:00",
-        "end": "2026-07-06 07:51:00",
+        "start": "2026-07-06 09:50:00",
+        "end": "2026-07-06 09:51:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -594,12 +608,12 @@
           "cn": "aurora_exhaleinhale_countdown",
           "en": "aurora_exhaleinhale_countdown"
         },
-        "start": "2026-07-06 07:12:00",
-        "end": "2026-07-06 07:13:00",
+        "start": "2026-07-06 09:12:00",
+        "end": "2026-07-06 09:13:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
-        "upcoming": true
+        "upcoming": false
       },
       {
         "name": "aurora_exhaleinhale_countdown",
@@ -608,8 +622,8 @@
           "cn": "aurora_exhaleinhale_countdown",
           "en": "aurora_exhaleinhale_countdown"
         },
-        "start": "2026-07-06 09:12:00",
-        "end": "2026-07-06 09:13:00",
+        "start": "2026-07-06 11:12:00",
+        "end": "2026-07-06 11:13:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -720,8 +734,8 @@
           "cn": "te_ep_2",
           "en": "te_ep_2"
         },
-        "start": "2026-07-06 07:05:00",
-        "end": "2026-07-06 07:20:00",
+        "start": "2026-07-06 09:05:00",
+        "end": "2026-07-06 09:20:00",
         "duration_minutes": 15,
         "duration_label": "15 分钟",
         "active": true,
@@ -734,8 +748,8 @@
           "cn": "te_ep_2",
           "en": "te_ep_2"
         },
-        "start": "2026-07-06 07:25:00",
-        "end": "2026-07-06 07:40:00",
+        "start": "2026-07-06 09:25:00",
+        "end": "2026-07-06 09:40:00",
         "duration_minutes": 15,
         "duration_label": "15 分钟",
         "active": false,
@@ -748,8 +762,22 @@
           "cn": "te_ep_2",
           "en": "te_ep_2"
         },
-        "start": "2026-07-06 07:45:00",
-        "end": "2026-07-06 08:00:00",
+        "start": "2026-07-06 09:45:00",
+        "end": "2026-07-06 10:00:00",
+        "duration_minutes": 15,
+        "duration_label": "15 分钟",
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "te_ep_2",
+        "label": {
+          "tw": "te_ep_2",
+          "cn": "te_ep_2",
+          "en": "te_ep_2"
+        },
+        "start": "2026-07-06 10:05:00",
+        "end": "2026-07-06 10:20:00",
         "duration_minutes": 15,
         "duration_label": "15 分钟",
         "active": false,
@@ -776,8 +804,8 @@
           "cn": "aurora_runaway_countdown",
           "en": "aurora_runaway_countdown"
         },
-        "start": "2026-07-06 07:18:00",
-        "end": "2026-07-06 07:19:00",
+        "start": "2026-07-06 09:18:00",
+        "end": "2026-07-06 09:19:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -790,8 +818,8 @@
           "cn": "aurora_runaway_countdown",
           "en": "aurora_runaway_countdown"
         },
-        "start": "2026-07-06 09:18:00",
-        "end": "2026-07-06 09:19:00",
+        "start": "2026-07-06 11:18:00",
+        "end": "2026-07-06 11:19:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -1000,8 +1028,22 @@
           "cn": "aurora_theseed_countdown",
           "en": "aurora_theseed_countdown"
         },
-        "start": "2026-07-06 07:40:00",
-        "end": "2026-07-06 07:41:00",
+        "start": "2026-07-06 09:40:00",
+        "end": "2026-07-06 09:41:00",
+        "duration_minutes": 1,
+        "duration_label": "1 分钟",
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "aurora_theseed_countdown",
+        "label": {
+          "tw": "aurora_theseed_countdown",
+          "cn": "aurora_theseed_countdown",
+          "en": "aurora_theseed_countdown"
+        },
+        "start": "2026-07-06 11:40:00",
+        "end": "2026-07-06 11:41:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -1076,20 +1118,6 @@
         "duration_label": "长期",
         "active": true,
         "upcoming": false
-      },
-      {
-        "name": "global_ann_perf2",
-        "label": {
-          "tw": "global_ann_perf2",
-          "cn": "global_ann_perf2",
-          "en": "global_ann_perf2"
-        },
-        "start": "2026-07-06 07:30:00",
-        "end": "2026-07-06 07:35:00",
-        "duration_minutes": 5,
-        "duration_label": "5 分钟",
-        "active": false,
-        "upcoming": true
       },
       {
         "name": "ap29_fetch_07_secret",
@@ -1196,8 +1224,8 @@
           "cn": "aurora_softinside_wrap",
           "en": "aurora_softinside_wrap"
         },
-        "start": "2026-07-06 07:31:00",
-        "end": "2026-07-06 07:33:00",
+        "start": "2026-07-06 09:31:00",
+        "end": "2026-07-06 09:33:00",
         "duration_minutes": 2,
         "duration_label": "2 分钟",
         "active": false,
@@ -1210,8 +1238,8 @@
           "cn": "aurora_softinside_wrap",
           "en": "aurora_softinside_wrap"
         },
-        "start": "2026-07-06 09:31:00",
-        "end": "2026-07-06 09:33:00",
+        "start": "2026-07-06 11:31:00",
+        "end": "2026-07-06 11:33:00",
         "duration_minutes": 2,
         "duration_label": "2 分钟",
         "active": false,
@@ -1224,8 +1252,22 @@
           "cn": "aurora_eyesofachild",
           "en": "aurora_eyesofachild"
         },
-        "start": "2026-07-06 07:46:00",
-        "end": "2026-07-06 07:50:00",
+        "start": "2026-07-06 09:46:00",
+        "end": "2026-07-06 09:50:00",
+        "duration_minutes": 4,
+        "duration_label": "4 分钟",
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "aurora_eyesofachild",
+        "label": {
+          "tw": "aurora_eyesofachild",
+          "cn": "aurora_eyesofachild",
+          "en": "aurora_eyesofachild"
+        },
+        "start": "2026-07-06 11:46:00",
+        "end": "2026-07-06 11:50:00",
         "duration_minutes": 4,
         "duration_label": "4 分钟",
         "active": false,
@@ -1300,34 +1342,6 @@
         "duration_label": "0 分钟",
         "active": false,
         "upcoming": true
-      },
-      {
-        "name": "skyfest_fireworks_show",
-        "label": {
-          "tw": "skyfest_fireworks_show",
-          "cn": "skyfest_fireworks_show",
-          "en": "skyfest_fireworks_show"
-        },
-        "start": "2026-07-05 08:00:00",
-        "end": "2026-07-06 08:00:00",
-        "duration_minutes": 1440,
-        "duration_label": "1440 分钟",
-        "active": true,
-        "upcoming": false
-      },
-      {
-        "name": "skyfest_fireworks_show",
-        "label": {
-          "tw": "skyfest_fireworks_show",
-          "cn": "skyfest_fireworks_show",
-          "en": "skyfest_fireworks_show"
-        },
-        "start": "2026-07-05 09:00:00",
-        "end": "2026-07-06 09:00:00",
-        "duration_minutes": 1440,
-        "duration_label": "1440 分钟",
-        "active": true,
-        "upcoming": false
       },
       {
         "name": "skyfest_fireworks_show",
@@ -1526,6 +1540,34 @@
         "upcoming": false
       },
       {
+        "name": "skyfest_fireworks_show",
+        "label": {
+          "tw": "skyfest_fireworks_show",
+          "cn": "skyfest_fireworks_show",
+          "en": "skyfest_fireworks_show"
+        },
+        "start": "2026-07-06 00:00:00",
+        "end": "2026-07-07 00:00:00",
+        "duration_minutes": 1440,
+        "duration_label": "1440 分钟",
+        "active": true,
+        "upcoming": false
+      },
+      {
+        "name": "skyfest_fireworks_show",
+        "label": {
+          "tw": "skyfest_fireworks_show",
+          "cn": "skyfest_fireworks_show",
+          "en": "skyfest_fireworks_show"
+        },
+        "start": "2026-07-06 01:00:00",
+        "end": "2026-07-07 01:00:00",
+        "duration_minutes": 1440,
+        "duration_label": "1440 分钟",
+        "active": true,
+        "upcoming": false
+      },
+      {
         "name": "quest_ap29_fetch_08",
         "label": {
           "tw": "quest_ap29_fetch_08",
@@ -1546,8 +1588,22 @@
           "cn": "ap18_ritual_04_audience_lobby",
           "en": "ap18_ritual_04_audience_lobby"
         },
-        "start": "2026-07-06 07:08:00",
-        "end": "2026-07-06 07:15:00",
+        "start": "2026-07-06 09:08:00",
+        "end": "2026-07-06 09:15:00",
+        "duration_minutes": 7,
+        "duration_label": "7 分钟",
+        "active": true,
+        "upcoming": false
+      },
+      {
+        "name": "ap18_ritual_04_audience_lobby",
+        "label": {
+          "tw": "ap18_ritual_04_audience_lobby",
+          "cn": "ap18_ritual_04_audience_lobby",
+          "en": "ap18_ritual_04_audience_lobby"
+        },
+        "start": "2026-07-06 09:23:00",
+        "end": "2026-07-06 09:30:00",
         "duration_minutes": 7,
         "duration_label": "7 分钟",
         "active": false,
@@ -1560,8 +1616,8 @@
           "cn": "ap18_ritual_04_audience_lobby",
           "en": "ap18_ritual_04_audience_lobby"
         },
-        "start": "2026-07-06 07:23:00",
-        "end": "2026-07-06 07:30:00",
+        "start": "2026-07-06 09:38:00",
+        "end": "2026-07-06 09:45:00",
         "duration_minutes": 7,
         "duration_label": "7 分钟",
         "active": false,
@@ -1574,22 +1630,8 @@
           "cn": "ap18_ritual_04_audience_lobby",
           "en": "ap18_ritual_04_audience_lobby"
         },
-        "start": "2026-07-06 07:38:00",
-        "end": "2026-07-06 07:45:00",
-        "duration_minutes": 7,
-        "duration_label": "7 分钟",
-        "active": false,
-        "upcoming": true
-      },
-      {
-        "name": "ap18_ritual_04_audience_lobby",
-        "label": {
-          "tw": "ap18_ritual_04_audience_lobby",
-          "cn": "ap18_ritual_04_audience_lobby",
-          "en": "ap18_ritual_04_audience_lobby"
-        },
-        "start": "2026-07-06 07:53:00",
-        "end": "2026-07-06 08:00:00",
+        "start": "2026-07-06 09:53:00",
+        "end": "2026-07-06 10:00:00",
         "duration_minutes": 7,
         "duration_label": "7 分钟",
         "active": false,
@@ -1714,8 +1756,8 @@
           "cn": "aurora_warrior_wrap",
           "en": "aurora_warrior_wrap"
         },
-        "start": "2026-07-06 07:38:00",
-        "end": "2026-07-06 07:40:00",
+        "start": "2026-07-06 09:38:00",
+        "end": "2026-07-06 09:40:00",
         "duration_minutes": 2,
         "duration_label": "2 分钟",
         "active": false,
@@ -1728,8 +1770,8 @@
           "cn": "aurora_warrior_wrap",
           "en": "aurora_warrior_wrap"
         },
-        "start": "2026-07-06 09:38:00",
-        "end": "2026-07-06 09:40:00",
+        "start": "2026-07-06 11:38:00",
+        "end": "2026-07-06 11:40:00",
         "duration_minutes": 2,
         "duration_label": "2 分钟",
         "active": false,
@@ -1742,8 +1784,8 @@
           "cn": "skyfest_fireworks_show_act1",
           "en": "skyfest_fireworks_show_act1"
         },
-        "start": "2026-07-06 07:22:00",
-        "end": "2026-07-06 07:25:00",
+        "start": "2026-07-06 09:22:00",
+        "end": "2026-07-06 09:25:00",
         "duration_minutes": 3,
         "duration_label": "3 分钟",
         "active": false,
@@ -1756,8 +1798,8 @@
           "cn": "skyfest_fireworks_show_act1",
           "en": "skyfest_fireworks_show_act1"
         },
-        "start": "2026-07-06 08:22:00",
-        "end": "2026-07-06 08:25:00",
+        "start": "2026-07-06 10:22:00",
+        "end": "2026-07-06 10:25:00",
         "duration_minutes": 3,
         "duration_label": "3 分钟",
         "active": false,
@@ -1798,8 +1840,8 @@
           "cn": "snake_random_rail",
           "en": "snake_random_rail"
         },
-        "start": "2026-07-06 07:00:00",
-        "end": "2026-07-06 07:06:00",
+        "start": "2026-07-06 09:12:00",
+        "end": "2026-07-06 09:18:00",
         "duration_minutes": 6,
         "duration_label": "6 分钟",
         "active": true,
@@ -1812,8 +1854,8 @@
           "cn": "snake_random_rail",
           "en": "snake_random_rail"
         },
-        "start": "2026-07-06 07:06:00",
-        "end": "2026-07-06 07:12:00",
+        "start": "2026-07-06 09:18:00",
+        "end": "2026-07-06 09:24:00",
         "duration_minutes": 6,
         "duration_label": "6 分钟",
         "active": false,
@@ -1826,8 +1868,8 @@
           "cn": "snake_random_rail",
           "en": "snake_random_rail"
         },
-        "start": "2026-07-06 07:12:00",
-        "end": "2026-07-06 07:18:00",
+        "start": "2026-07-06 09:24:00",
+        "end": "2026-07-06 09:30:00",
         "duration_minutes": 6,
         "duration_label": "6 分钟",
         "active": false,
@@ -1840,8 +1882,8 @@
           "cn": "snake_random_rail",
           "en": "snake_random_rail"
         },
-        "start": "2026-07-06 07:18:00",
-        "end": "2026-07-06 07:24:00",
+        "start": "2026-07-06 09:30:00",
+        "end": "2026-07-06 09:36:00",
         "duration_minutes": 6,
         "duration_label": "6 分钟",
         "active": false,
@@ -1854,8 +1896,8 @@
           "cn": "snake_random_rail",
           "en": "snake_random_rail"
         },
-        "start": "2026-07-06 07:24:00",
-        "end": "2026-07-06 07:30:00",
+        "start": "2026-07-06 09:36:00",
+        "end": "2026-07-06 09:42:00",
         "duration_minutes": 6,
         "duration_label": "6 分钟",
         "active": false,
@@ -1868,22 +1910,8 @@
           "cn": "snake_random_rail",
           "en": "snake_random_rail"
         },
-        "start": "2026-07-06 07:30:00",
-        "end": "2026-07-06 07:36:00",
-        "duration_minutes": 6,
-        "duration_label": "6 分钟",
-        "active": false,
-        "upcoming": true
-      },
-      {
-        "name": "snake_random_rail",
-        "label": {
-          "tw": "snake_random_rail",
-          "cn": "snake_random_rail",
-          "en": "snake_random_rail"
-        },
-        "start": "2026-07-06 07:36:00",
-        "end": "2026-07-06 07:42:00",
+        "start": "2026-07-06 09:42:00",
+        "end": "2026-07-06 09:48:00",
         "duration_minutes": 6,
         "duration_label": "6 分钟",
         "active": false,
@@ -1896,8 +1924,8 @@
           "cn": "ap18_ritual_timer_15",
           "en": "ap18_ritual_timer_15"
         },
-        "start": "2026-07-06 07:00:00",
-        "end": "2026-07-06 07:15:00",
+        "start": "2026-07-06 09:00:00",
+        "end": "2026-07-06 09:15:00",
         "duration_minutes": 15,
         "duration_label": "15 分钟",
         "active": true,
@@ -1910,8 +1938,8 @@
           "cn": "ap18_ritual_timer_15",
           "en": "ap18_ritual_timer_15"
         },
-        "start": "2026-07-06 07:15:00",
-        "end": "2026-07-06 07:30:00",
+        "start": "2026-07-06 09:15:00",
+        "end": "2026-07-06 09:30:00",
         "duration_minutes": 15,
         "duration_label": "15 分钟",
         "active": false,
@@ -1924,8 +1952,22 @@
           "cn": "ap18_ritual_timer_15",
           "en": "ap18_ritual_timer_15"
         },
-        "start": "2026-07-06 07:30:00",
-        "end": "2026-07-06 07:45:00",
+        "start": "2026-07-06 09:30:00",
+        "end": "2026-07-06 09:45:00",
+        "duration_minutes": 15,
+        "duration_label": "15 分钟",
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "ap18_ritual_timer_15",
+        "label": {
+          "tw": "ap18_ritual_timer_15",
+          "cn": "ap18_ritual_timer_15",
+          "en": "ap18_ritual_timer_15"
+        },
+        "start": "2026-07-06 09:45:00",
+        "end": "2026-07-06 10:00:00",
         "duration_minutes": 15,
         "duration_label": "15 分钟",
         "active": false,
@@ -2184,20 +2226,6 @@
         "upcoming": false
       },
       {
-        "name": "global_ann_perf1",
-        "label": {
-          "tw": "global_ann_perf1",
-          "cn": "global_ann_perf1",
-          "en": "global_ann_perf1"
-        },
-        "start": "2026-07-06 07:13:00",
-        "end": "2026-07-06 07:18:00",
-        "duration_minutes": 5,
-        "duration_label": "5 分钟",
-        "active": false,
-        "upcoming": true
-      },
-      {
         "name": "quest_ap21_fetch_01",
         "label": {
           "tw": "quest_ap21_fetch_01",
@@ -2400,8 +2428,8 @@
           "cn": "fetch_manta_fertilizer_01",
           "en": "fetch_manta_fertilizer_01"
         },
-        "start": "2026-07-06 07:04:00",
-        "end": "2026-07-06 07:06:00",
+        "start": "2026-07-06 09:12:00",
+        "end": "2026-07-06 09:14:00",
         "duration_minutes": 2,
         "duration_label": "2 分钟",
         "active": true,
@@ -2414,8 +2442,8 @@
           "cn": "fetch_manta_fertilizer_01",
           "en": "fetch_manta_fertilizer_01"
         },
-        "start": "2026-07-06 07:08:00",
-        "end": "2026-07-06 07:10:00",
+        "start": "2026-07-06 09:16:00",
+        "end": "2026-07-06 09:18:00",
         "duration_minutes": 2,
         "duration_label": "2 分钟",
         "active": false,
@@ -2428,8 +2456,8 @@
           "cn": "fetch_manta_fertilizer_01",
           "en": "fetch_manta_fertilizer_01"
         },
-        "start": "2026-07-06 07:12:00",
-        "end": "2026-07-06 07:14:00",
+        "start": "2026-07-06 09:20:00",
+        "end": "2026-07-06 09:22:00",
         "duration_minutes": 2,
         "duration_label": "2 分钟",
         "active": false,
@@ -2442,8 +2470,8 @@
           "cn": "fetch_manta_fertilizer_01",
           "en": "fetch_manta_fertilizer_01"
         },
-        "start": "2026-07-06 07:16:00",
-        "end": "2026-07-06 07:18:00",
+        "start": "2026-07-06 09:24:00",
+        "end": "2026-07-06 09:26:00",
         "duration_minutes": 2,
         "duration_label": "2 分钟",
         "active": false,
@@ -2456,8 +2484,8 @@
           "cn": "fetch_manta_fertilizer_01",
           "en": "fetch_manta_fertilizer_01"
         },
-        "start": "2026-07-06 07:20:00",
-        "end": "2026-07-06 07:22:00",
+        "start": "2026-07-06 09:28:00",
+        "end": "2026-07-06 09:30:00",
         "duration_minutes": 2,
         "duration_label": "2 分钟",
         "active": false,
@@ -2470,8 +2498,8 @@
           "cn": "fetch_manta_fertilizer_01",
           "en": "fetch_manta_fertilizer_01"
         },
-        "start": "2026-07-06 07:24:00",
-        "end": "2026-07-06 07:26:00",
+        "start": "2026-07-06 09:32:00",
+        "end": "2026-07-06 09:34:00",
         "duration_minutes": 2,
         "duration_label": "2 分钟",
         "active": false,
@@ -2484,8 +2512,8 @@
           "cn": "fetch_manta_fertilizer_01",
           "en": "fetch_manta_fertilizer_01"
         },
-        "start": "2026-07-06 07:28:00",
-        "end": "2026-07-06 07:30:00",
+        "start": "2026-07-06 09:36:00",
+        "end": "2026-07-06 09:38:00",
         "duration_minutes": 2,
         "duration_label": "2 分钟",
         "active": false,
@@ -2498,8 +2526,8 @@
           "cn": "fetch_manta_fertilizer_01",
           "en": "fetch_manta_fertilizer_01"
         },
-        "start": "2026-07-06 07:32:00",
-        "end": "2026-07-06 07:34:00",
+        "start": "2026-07-06 09:40:00",
+        "end": "2026-07-06 09:42:00",
         "duration_minutes": 2,
         "duration_label": "2 分钟",
         "active": false,
@@ -2512,8 +2540,8 @@
           "cn": "fetch_manta_fertilizer_01",
           "en": "fetch_manta_fertilizer_01"
         },
-        "start": "2026-07-06 07:36:00",
-        "end": "2026-07-06 07:38:00",
+        "start": "2026-07-06 09:44:00",
+        "end": "2026-07-06 09:46:00",
         "duration_minutes": 2,
         "duration_label": "2 分钟",
         "active": false,
@@ -2526,22 +2554,8 @@
           "cn": "wildlifepark_cycle_day",
           "en": "wildlifepark_cycle_day"
         },
-        "start": "2026-07-06 07:03:00",
-        "end": "2026-07-06 07:06:00",
-        "duration_minutes": 3,
-        "duration_label": "3 分钟",
-        "active": true,
-        "upcoming": false
-      },
-      {
-        "name": "wildlifepark_cycle_day",
-        "label": {
-          "tw": "wildlifepark_cycle_day",
-          "cn": "wildlifepark_cycle_day",
-          "en": "wildlifepark_cycle_day"
-        },
-        "start": "2026-07-06 07:15:00",
-        "end": "2026-07-06 07:18:00",
+        "start": "2026-07-06 09:15:00",
+        "end": "2026-07-06 09:18:00",
         "duration_minutes": 3,
         "duration_label": "3 分钟",
         "active": false,
@@ -2554,8 +2568,8 @@
           "cn": "wildlifepark_cycle_day",
           "en": "wildlifepark_cycle_day"
         },
-        "start": "2026-07-06 07:27:00",
-        "end": "2026-07-06 07:30:00",
+        "start": "2026-07-06 09:27:00",
+        "end": "2026-07-06 09:30:00",
         "duration_minutes": 3,
         "duration_label": "3 分钟",
         "active": false,
@@ -2568,8 +2582,8 @@
           "cn": "wildlifepark_cycle_day",
           "en": "wildlifepark_cycle_day"
         },
-        "start": "2026-07-06 07:39:00",
-        "end": "2026-07-06 07:42:00",
+        "start": "2026-07-06 09:39:00",
+        "end": "2026-07-06 09:42:00",
         "duration_minutes": 3,
         "duration_label": "3 分钟",
         "active": false,
@@ -2652,8 +2666,8 @@
           "cn": "aurora_queendom",
           "en": "aurora_queendom"
         },
-        "start": "2026-07-06 07:54:00",
-        "end": "2026-07-06 07:58:00",
+        "start": "2026-07-06 09:54:00",
+        "end": "2026-07-06 09:58:00",
         "duration_minutes": 4,
         "duration_label": "4 分钟",
         "active": false,
@@ -2736,8 +2750,8 @@
           "cn": "skyfest_fireworks_show_medpad",
           "en": "skyfest_fireworks_show_medpad"
         },
-        "start": "2026-07-06 07:21:00",
-        "end": "2026-07-06 07:37:00",
+        "start": "2026-07-06 09:21:00",
+        "end": "2026-07-06 09:37:00",
         "duration_minutes": 16,
         "duration_label": "16 分钟",
         "active": false,
@@ -2750,8 +2764,8 @@
           "cn": "skyfest_fireworks_show_medpad",
           "en": "skyfest_fireworks_show_medpad"
         },
-        "start": "2026-07-06 08:21:00",
-        "end": "2026-07-06 08:37:00",
+        "start": "2026-07-06 10:21:00",
+        "end": "2026-07-06 10:37:00",
         "duration_minutes": 16,
         "duration_label": "16 分钟",
         "active": false,
@@ -2778,8 +2792,8 @@
           "cn": "aurora_minigame_vote_rotation",
           "en": "aurora_minigame_vote_rotation"
         },
-        "start": "2026-07-06 07:04:00",
-        "end": "2026-07-06 07:06:00",
+        "start": "2026-07-06 09:12:00",
+        "end": "2026-07-06 09:14:00",
         "duration_minutes": 2,
         "duration_label": "2 分钟",
         "active": true,
@@ -2792,8 +2806,8 @@
           "cn": "aurora_minigame_vote_rotation",
           "en": "aurora_minigame_vote_rotation"
         },
-        "start": "2026-07-06 07:06:00",
-        "end": "2026-07-06 07:08:00",
+        "start": "2026-07-06 09:14:00",
+        "end": "2026-07-06 09:16:00",
         "duration_minutes": 2,
         "duration_label": "2 分钟",
         "active": false,
@@ -2806,8 +2820,8 @@
           "cn": "aurora_minigame_vote_rotation",
           "en": "aurora_minigame_vote_rotation"
         },
-        "start": "2026-07-06 07:08:00",
-        "end": "2026-07-06 07:10:00",
+        "start": "2026-07-06 09:16:00",
+        "end": "2026-07-06 09:18:00",
         "duration_minutes": 2,
         "duration_label": "2 分钟",
         "active": false,
@@ -2820,8 +2834,8 @@
           "cn": "aurora_minigame_vote_rotation",
           "en": "aurora_minigame_vote_rotation"
         },
-        "start": "2026-07-06 07:10:00",
-        "end": "2026-07-06 07:12:00",
+        "start": "2026-07-06 09:18:00",
+        "end": "2026-07-06 09:20:00",
         "duration_minutes": 2,
         "duration_label": "2 分钟",
         "active": false,
@@ -2834,8 +2848,8 @@
           "cn": "aurora_minigame_vote_rotation",
           "en": "aurora_minigame_vote_rotation"
         },
-        "start": "2026-07-06 07:12:00",
-        "end": "2026-07-06 07:14:00",
+        "start": "2026-07-06 09:20:00",
+        "end": "2026-07-06 09:22:00",
         "duration_minutes": 2,
         "duration_label": "2 分钟",
         "active": false,
@@ -2848,8 +2862,8 @@
           "cn": "aurora_minigame_vote_rotation",
           "en": "aurora_minigame_vote_rotation"
         },
-        "start": "2026-07-06 07:14:00",
-        "end": "2026-07-06 07:16:00",
+        "start": "2026-07-06 09:22:00",
+        "end": "2026-07-06 09:24:00",
         "duration_minutes": 2,
         "duration_label": "2 分钟",
         "active": false,
@@ -2862,8 +2876,8 @@
           "cn": "aurora_minigame_vote_rotation",
           "en": "aurora_minigame_vote_rotation"
         },
-        "start": "2026-07-06 07:16:00",
-        "end": "2026-07-06 07:18:00",
+        "start": "2026-07-06 09:24:00",
+        "end": "2026-07-06 09:26:00",
         "duration_minutes": 2,
         "duration_label": "2 分钟",
         "active": false,
@@ -2876,8 +2890,8 @@
           "cn": "aurora_minigame_vote_rotation",
           "en": "aurora_minigame_vote_rotation"
         },
-        "start": "2026-07-06 07:18:00",
-        "end": "2026-07-06 07:20:00",
+        "start": "2026-07-06 09:26:00",
+        "end": "2026-07-06 09:28:00",
         "duration_minutes": 2,
         "duration_label": "2 分钟",
         "active": false,
@@ -2890,8 +2904,8 @@
           "cn": "aurora_minigame_vote_rotation",
           "en": "aurora_minigame_vote_rotation"
         },
-        "start": "2026-07-06 07:20:00",
-        "end": "2026-07-06 07:22:00",
+        "start": "2026-07-06 09:28:00",
+        "end": "2026-07-06 09:30:00",
         "duration_minutes": 2,
         "duration_label": "2 分钟",
         "active": false,
@@ -2904,8 +2918,8 @@
           "cn": "aurora_minigame_vote_rotation",
           "en": "aurora_minigame_vote_rotation"
         },
-        "start": "2026-07-06 07:22:00",
-        "end": "2026-07-06 07:24:00",
+        "start": "2026-07-06 09:30:00",
+        "end": "2026-07-06 09:32:00",
         "duration_minutes": 2,
         "duration_label": "2 分钟",
         "active": false,
@@ -2918,8 +2932,8 @@
           "cn": "aurora_minigame_vote_rotation",
           "en": "aurora_minigame_vote_rotation"
         },
-        "start": "2026-07-06 07:24:00",
-        "end": "2026-07-06 07:26:00",
+        "start": "2026-07-06 09:32:00",
+        "end": "2026-07-06 09:34:00",
         "duration_minutes": 2,
         "duration_label": "2 分钟",
         "active": false,
@@ -2932,8 +2946,8 @@
           "cn": "aurora_minigame_vote_rotation",
           "en": "aurora_minigame_vote_rotation"
         },
-        "start": "2026-07-06 07:26:00",
-        "end": "2026-07-06 07:28:00",
+        "start": "2026-07-06 09:34:00",
+        "end": "2026-07-06 09:36:00",
         "duration_minutes": 2,
         "duration_label": "2 分钟",
         "active": false,
@@ -2946,8 +2960,8 @@
           "cn": "aurora_minigame_vote_rotation",
           "en": "aurora_minigame_vote_rotation"
         },
-        "start": "2026-07-06 07:28:00",
-        "end": "2026-07-06 07:30:00",
+        "start": "2026-07-06 09:36:00",
+        "end": "2026-07-06 09:38:00",
         "duration_minutes": 2,
         "duration_label": "2 分钟",
         "active": false,
@@ -2960,8 +2974,8 @@
           "cn": "aurora_minigame_vote_rotation",
           "en": "aurora_minigame_vote_rotation"
         },
-        "start": "2026-07-06 07:30:00",
-        "end": "2026-07-06 07:32:00",
+        "start": "2026-07-06 09:38:00",
+        "end": "2026-07-06 09:40:00",
         "duration_minutes": 2,
         "duration_label": "2 分钟",
         "active": false,
@@ -2974,8 +2988,8 @@
           "cn": "aurora_minigame_vote_rotation",
           "en": "aurora_minigame_vote_rotation"
         },
-        "start": "2026-07-06 07:32:00",
-        "end": "2026-07-06 07:34:00",
+        "start": "2026-07-06 09:40:00",
+        "end": "2026-07-06 09:42:00",
         "duration_minutes": 2,
         "duration_label": "2 分钟",
         "active": false,
@@ -2988,8 +3002,8 @@
           "cn": "aurora_minigame_vote_rotation",
           "en": "aurora_minigame_vote_rotation"
         },
-        "start": "2026-07-06 07:34:00",
-        "end": "2026-07-06 07:36:00",
+        "start": "2026-07-06 09:42:00",
+        "end": "2026-07-06 09:44:00",
         "duration_minutes": 2,
         "duration_label": "2 分钟",
         "active": false,
@@ -3030,8 +3044,8 @@
           "cn": "aurora_orbit",
           "en": "aurora_orbit"
         },
-        "start": "2026-07-06 07:50:00",
-        "end": "2026-07-06 07:53:00",
+        "start": "2026-07-06 09:50:00",
+        "end": "2026-07-06 09:53:00",
         "duration_minutes": 3,
         "duration_label": "3 分钟",
         "active": false,
@@ -3100,10 +3114,24 @@
           "cn": "mainstreet_cycle_overcast_day_B",
           "en": "mainstreet_cycle_overcast_day_B"
         },
-        "start": "2026-07-06 07:10:00",
-        "end": "2026-07-06 07:15:00",
+        "start": "2026-07-06 09:10:00",
+        "end": "2026-07-06 09:15:00",
         "duration_minutes": 5,
         "duration_label": "5 分钟",
+        "active": true,
+        "upcoming": false
+      },
+      {
+        "name": "aurora_eyesofachild_countdown",
+        "label": {
+          "tw": "aurora_eyesofachild_countdown",
+          "cn": "aurora_eyesofachild_countdown",
+          "en": "aurora_eyesofachild_countdown"
+        },
+        "start": "2026-07-06 09:45:00",
+        "end": "2026-07-06 09:46:00",
+        "duration_minutes": 1,
+        "duration_label": "1 分钟",
         "active": false,
         "upcoming": true
       },
@@ -3114,8 +3142,8 @@
           "cn": "aurora_eyesofachild_countdown",
           "en": "aurora_eyesofachild_countdown"
         },
-        "start": "2026-07-06 07:45:00",
-        "end": "2026-07-06 07:46:00",
+        "start": "2026-07-06 11:45:00",
+        "end": "2026-07-06 11:46:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -3156,8 +3184,8 @@
           "cn": "skyfest_fireworks_show_act2",
           "en": "skyfest_fireworks_show_act2"
         },
-        "start": "2026-07-06 07:25:00",
-        "end": "2026-07-06 07:28:00",
+        "start": "2026-07-06 09:25:00",
+        "end": "2026-07-06 09:28:00",
         "duration_minutes": 3,
         "duration_label": "3 分钟",
         "active": false,
@@ -3240,8 +3268,8 @@
           "cn": "visiting_vendor_ap22_miniquest_house",
           "en": "visiting_vendor_ap22_miniquest_house"
         },
-        "start": "2026-07-05 07:05:00",
-        "end": "2026-07-06 07:05:00",
+        "start": "2026-07-05 09:13:00",
+        "end": "2026-07-06 09:13:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": false,
@@ -3254,8 +3282,8 @@
           "cn": "visiting_vendor_ap22_miniquest_house",
           "en": "visiting_vendor_ap22_miniquest_house"
         },
-        "start": "2026-07-05 07:06:00",
-        "end": "2026-07-06 07:06:00",
+        "start": "2026-07-05 09:14:00",
+        "end": "2026-07-06 09:14:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -3268,8 +3296,8 @@
           "cn": "visiting_vendor_ap22_miniquest_house",
           "en": "visiting_vendor_ap22_miniquest_house"
         },
-        "start": "2026-07-05 07:07:00",
-        "end": "2026-07-06 07:07:00",
+        "start": "2026-07-05 09:15:00",
+        "end": "2026-07-06 09:15:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -3282,8 +3310,8 @@
           "cn": "visiting_vendor_ap22_miniquest_house",
           "en": "visiting_vendor_ap22_miniquest_house"
         },
-        "start": "2026-07-05 07:08:00",
-        "end": "2026-07-06 07:08:00",
+        "start": "2026-07-05 09:16:00",
+        "end": "2026-07-06 09:16:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -3296,8 +3324,8 @@
           "cn": "visiting_vendor_ap22_miniquest_house",
           "en": "visiting_vendor_ap22_miniquest_house"
         },
-        "start": "2026-07-05 07:09:00",
-        "end": "2026-07-06 07:09:00",
+        "start": "2026-07-05 09:17:00",
+        "end": "2026-07-06 09:17:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -3310,8 +3338,8 @@
           "cn": "visiting_vendor_ap22_miniquest_house",
           "en": "visiting_vendor_ap22_miniquest_house"
         },
-        "start": "2026-07-05 07:10:00",
-        "end": "2026-07-06 07:10:00",
+        "start": "2026-07-05 09:18:00",
+        "end": "2026-07-06 09:18:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -3324,8 +3352,8 @@
           "cn": "visiting_vendor_ap22_miniquest_house",
           "en": "visiting_vendor_ap22_miniquest_house"
         },
-        "start": "2026-07-05 07:11:00",
-        "end": "2026-07-06 07:11:00",
+        "start": "2026-07-05 09:19:00",
+        "end": "2026-07-06 09:19:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -3338,8 +3366,8 @@
           "cn": "visiting_vendor_ap22_miniquest_house",
           "en": "visiting_vendor_ap22_miniquest_house"
         },
-        "start": "2026-07-05 07:12:00",
-        "end": "2026-07-06 07:12:00",
+        "start": "2026-07-05 09:20:00",
+        "end": "2026-07-06 09:20:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -3352,8 +3380,8 @@
           "cn": "visiting_vendor_ap22_miniquest_house",
           "en": "visiting_vendor_ap22_miniquest_house"
         },
-        "start": "2026-07-05 07:13:00",
-        "end": "2026-07-06 07:13:00",
+        "start": "2026-07-05 09:21:00",
+        "end": "2026-07-06 09:21:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -3366,8 +3394,8 @@
           "cn": "visiting_vendor_ap22_miniquest_house",
           "en": "visiting_vendor_ap22_miniquest_house"
         },
-        "start": "2026-07-05 07:14:00",
-        "end": "2026-07-06 07:14:00",
+        "start": "2026-07-05 09:22:00",
+        "end": "2026-07-06 09:22:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -3380,8 +3408,8 @@
           "cn": "visiting_vendor_ap22_miniquest_house",
           "en": "visiting_vendor_ap22_miniquest_house"
         },
-        "start": "2026-07-05 07:15:00",
-        "end": "2026-07-06 07:15:00",
+        "start": "2026-07-05 09:23:00",
+        "end": "2026-07-06 09:23:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -3394,8 +3422,8 @@
           "cn": "visiting_vendor_ap22_miniquest_house",
           "en": "visiting_vendor_ap22_miniquest_house"
         },
-        "start": "2026-07-05 07:16:00",
-        "end": "2026-07-06 07:16:00",
+        "start": "2026-07-05 09:24:00",
+        "end": "2026-07-06 09:24:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -3408,8 +3436,8 @@
           "cn": "visiting_vendor_ap22_miniquest_house",
           "en": "visiting_vendor_ap22_miniquest_house"
         },
-        "start": "2026-07-05 07:17:00",
-        "end": "2026-07-06 07:17:00",
+        "start": "2026-07-05 09:25:00",
+        "end": "2026-07-06 09:25:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -3422,8 +3450,8 @@
           "cn": "visiting_vendor_ap22_miniquest_house",
           "en": "visiting_vendor_ap22_miniquest_house"
         },
-        "start": "2026-07-05 07:18:00",
-        "end": "2026-07-06 07:18:00",
+        "start": "2026-07-05 09:26:00",
+        "end": "2026-07-06 09:26:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -3436,8 +3464,8 @@
           "cn": "visiting_vendor_ap22_miniquest_house",
           "en": "visiting_vendor_ap22_miniquest_house"
         },
-        "start": "2026-07-05 07:19:00",
-        "end": "2026-07-06 07:19:00",
+        "start": "2026-07-05 09:27:00",
+        "end": "2026-07-06 09:27:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -3450,8 +3478,8 @@
           "cn": "visiting_vendor_ap22_miniquest_house",
           "en": "visiting_vendor_ap22_miniquest_house"
         },
-        "start": "2026-07-05 07:20:00",
-        "end": "2026-07-06 07:20:00",
+        "start": "2026-07-05 09:28:00",
+        "end": "2026-07-06 09:28:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -3506,8 +3534,8 @@
           "cn": "te_ep_1",
           "en": "te_ep_1"
         },
-        "start": "2026-07-06 07:00:00",
-        "end": "2026-07-06 07:15:00",
+        "start": "2026-07-06 09:00:00",
+        "end": "2026-07-06 09:15:00",
         "duration_minutes": 15,
         "duration_label": "15 分钟",
         "active": true,
@@ -3520,8 +3548,8 @@
           "cn": "te_ep_1",
           "en": "te_ep_1"
         },
-        "start": "2026-07-06 07:20:00",
-        "end": "2026-07-06 07:35:00",
+        "start": "2026-07-06 09:20:00",
+        "end": "2026-07-06 09:35:00",
         "duration_minutes": 15,
         "duration_label": "15 分钟",
         "active": false,
@@ -3534,8 +3562,22 @@
           "cn": "te_ep_1",
           "en": "te_ep_1"
         },
-        "start": "2026-07-06 07:40:00",
-        "end": "2026-07-06 07:55:00",
+        "start": "2026-07-06 09:40:00",
+        "end": "2026-07-06 09:55:00",
+        "duration_minutes": 15,
+        "duration_label": "15 分钟",
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "te_ep_1",
+        "label": {
+          "tw": "te_ep_1",
+          "cn": "te_ep_1",
+          "en": "te_ep_1"
+        },
+        "start": "2026-07-06 10:00:00",
+        "end": "2026-07-06 10:15:00",
         "duration_minutes": 15,
         "duration_label": "15 分钟",
         "active": false,
@@ -3864,6 +3906,20 @@
         "upcoming": false
       },
       {
+        "name": "global_ann_perf8",
+        "label": {
+          "tw": "global_ann_perf8",
+          "cn": "global_ann_perf8",
+          "en": "global_ann_perf8"
+        },
+        "start": "2026-07-06 09:30:00",
+        "end": "2026-07-06 09:35:00",
+        "duration_minutes": 5,
+        "duration_label": "5 分钟",
+        "active": false,
+        "upcoming": true
+      },
+      {
         "name": "collectible_handstand",
         "label": {
           "tw": "collectible_handstand",
@@ -4122,8 +4178,8 @@
           "cn": "season_21_deersummon",
           "en": "season_21_deersummon"
         },
-        "start": "2026-07-06 07:00:00",
-        "end": "2026-07-06 07:25:00",
+        "start": "2026-07-06 09:00:00",
+        "end": "2026-07-06 09:25:00",
         "duration_minutes": 25,
         "duration_label": "25 分钟",
         "active": true,
@@ -4136,8 +4192,8 @@
           "cn": "season_21_deersummon",
           "en": "season_21_deersummon"
         },
-        "start": "2026-07-06 07:30:00",
-        "end": "2026-07-06 07:55:00",
+        "start": "2026-07-06 09:30:00",
+        "end": "2026-07-06 09:55:00",
         "duration_minutes": 25,
         "duration_label": "25 分钟",
         "active": false,
@@ -4150,8 +4206,8 @@
           "cn": "season_21_deersummon",
           "en": "season_21_deersummon"
         },
-        "start": "2026-07-06 08:00:00",
-        "end": "2026-07-06 08:25:00",
+        "start": "2026-07-06 10:00:00",
+        "end": "2026-07-06 10:25:00",
         "duration_minutes": 25,
         "duration_label": "25 分钟",
         "active": false,
@@ -4220,22 +4276,8 @@
           "cn": "te_ep_4",
           "en": "te_ep_4"
         },
-        "start": "2026-07-06 06:55:00",
-        "end": "2026-07-06 07:10:00",
-        "duration_minutes": 15,
-        "duration_label": "15 分钟",
-        "active": true,
-        "upcoming": false
-      },
-      {
-        "name": "te_ep_4",
-        "label": {
-          "tw": "te_ep_4",
-          "cn": "te_ep_4",
-          "en": "te_ep_4"
-        },
-        "start": "2026-07-06 07:15:00",
-        "end": "2026-07-06 07:30:00",
+        "start": "2026-07-06 09:15:00",
+        "end": "2026-07-06 09:30:00",
         "duration_minutes": 15,
         "duration_label": "15 分钟",
         "active": false,
@@ -4248,8 +4290,8 @@
           "cn": "te_ep_4",
           "en": "te_ep_4"
         },
-        "start": "2026-07-06 07:35:00",
-        "end": "2026-07-06 07:50:00",
+        "start": "2026-07-06 09:35:00",
+        "end": "2026-07-06 09:50:00",
         "duration_minutes": 15,
         "duration_label": "15 分钟",
         "active": false,
@@ -4262,8 +4304,8 @@
           "cn": "te_ep_4",
           "en": "te_ep_4"
         },
-        "start": "2026-07-06 07:55:00",
-        "end": "2026-07-06 08:10:00",
+        "start": "2026-07-06 09:55:00",
+        "end": "2026-07-06 10:10:00",
         "duration_minutes": 15,
         "duration_label": "15 分钟",
         "active": false,
@@ -4346,8 +4388,8 @@
           "cn": "snake_coin",
           "en": "snake_coin"
         },
-        "start": "2026-07-06 07:04:00",
-        "end": "2026-07-06 07:05:00",
+        "start": "2026-07-06 09:12:00",
+        "end": "2026-07-06 09:13:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -4360,8 +4402,8 @@
           "cn": "snake_coin",
           "en": "snake_coin"
         },
-        "start": "2026-07-06 07:05:00",
-        "end": "2026-07-06 07:06:00",
+        "start": "2026-07-06 09:13:00",
+        "end": "2026-07-06 09:14:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": true,
@@ -4374,8 +4416,8 @@
           "cn": "snake_coin",
           "en": "snake_coin"
         },
-        "start": "2026-07-06 07:06:00",
-        "end": "2026-07-06 07:07:00",
+        "start": "2026-07-06 09:14:00",
+        "end": "2026-07-06 09:15:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -4388,8 +4430,8 @@
           "cn": "snake_coin",
           "en": "snake_coin"
         },
-        "start": "2026-07-06 07:07:00",
-        "end": "2026-07-06 07:08:00",
+        "start": "2026-07-06 09:15:00",
+        "end": "2026-07-06 09:16:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -4402,8 +4444,8 @@
           "cn": "snake_coin",
           "en": "snake_coin"
         },
-        "start": "2026-07-06 07:08:00",
-        "end": "2026-07-06 07:09:00",
+        "start": "2026-07-06 09:16:00",
+        "end": "2026-07-06 09:17:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -4416,8 +4458,8 @@
           "cn": "snake_coin",
           "en": "snake_coin"
         },
-        "start": "2026-07-06 07:09:00",
-        "end": "2026-07-06 07:10:00",
+        "start": "2026-07-06 09:17:00",
+        "end": "2026-07-06 09:18:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -4430,8 +4472,8 @@
           "cn": "snake_coin",
           "en": "snake_coin"
         },
-        "start": "2026-07-06 07:10:00",
-        "end": "2026-07-06 07:11:00",
+        "start": "2026-07-06 09:18:00",
+        "end": "2026-07-06 09:19:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -4444,8 +4486,8 @@
           "cn": "snake_coin",
           "en": "snake_coin"
         },
-        "start": "2026-07-06 07:11:00",
-        "end": "2026-07-06 07:12:00",
+        "start": "2026-07-06 09:19:00",
+        "end": "2026-07-06 09:20:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -4458,8 +4500,8 @@
           "cn": "snake_coin",
           "en": "snake_coin"
         },
-        "start": "2026-07-06 07:12:00",
-        "end": "2026-07-06 07:13:00",
+        "start": "2026-07-06 09:20:00",
+        "end": "2026-07-06 09:21:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -4472,8 +4514,8 @@
           "cn": "snake_coin",
           "en": "snake_coin"
         },
-        "start": "2026-07-06 07:13:00",
-        "end": "2026-07-06 07:14:00",
+        "start": "2026-07-06 09:21:00",
+        "end": "2026-07-06 09:22:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -4486,8 +4528,8 @@
           "cn": "snake_coin",
           "en": "snake_coin"
         },
-        "start": "2026-07-06 07:14:00",
-        "end": "2026-07-06 07:15:00",
+        "start": "2026-07-06 09:22:00",
+        "end": "2026-07-06 09:23:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -4500,8 +4542,8 @@
           "cn": "snake_coin",
           "en": "snake_coin"
         },
-        "start": "2026-07-06 07:15:00",
-        "end": "2026-07-06 07:16:00",
+        "start": "2026-07-06 09:23:00",
+        "end": "2026-07-06 09:24:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -4514,8 +4556,8 @@
           "cn": "snake_coin",
           "en": "snake_coin"
         },
-        "start": "2026-07-06 07:16:00",
-        "end": "2026-07-06 07:17:00",
+        "start": "2026-07-06 09:24:00",
+        "end": "2026-07-06 09:25:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -4528,8 +4570,8 @@
           "cn": "snake_coin",
           "en": "snake_coin"
         },
-        "start": "2026-07-06 07:17:00",
-        "end": "2026-07-06 07:18:00",
+        "start": "2026-07-06 09:25:00",
+        "end": "2026-07-06 09:26:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -4542,8 +4584,8 @@
           "cn": "snake_coin",
           "en": "snake_coin"
         },
-        "start": "2026-07-06 07:18:00",
-        "end": "2026-07-06 07:19:00",
+        "start": "2026-07-06 09:26:00",
+        "end": "2026-07-06 09:27:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -4556,8 +4598,8 @@
           "cn": "snake_coin",
           "en": "snake_coin"
         },
-        "start": "2026-07-06 07:19:00",
-        "end": "2026-07-06 07:20:00",
+        "start": "2026-07-06 09:27:00",
+        "end": "2026-07-06 09:28:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -4760,14 +4802,28 @@
         "upcoming": false
       },
       {
+        "name": "global_ann_perf9",
+        "label": {
+          "tw": "global_ann_perf9",
+          "cn": "global_ann_perf9",
+          "en": "global_ann_perf9"
+        },
+        "start": "2026-07-06 09:45:00",
+        "end": "2026-07-06 09:50:00",
+        "duration_minutes": 5,
+        "duration_label": "5 分钟",
+        "active": false,
+        "upcoming": true
+      },
+      {
         "name": "ap18_ritual_03",
         "label": {
           "tw": "ap18_ritual_03",
           "cn": "ap18_ritual_03",
           "en": "ap18_ritual_03"
         },
-        "start": "2026-07-06 07:15:00",
-        "end": "2026-07-06 07:16:00",
+        "start": "2026-07-06 09:15:00",
+        "end": "2026-07-06 09:16:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -4780,8 +4836,22 @@
           "cn": "ap18_ritual_03",
           "en": "ap18_ritual_03"
         },
-        "start": "2026-07-06 07:30:00",
-        "end": "2026-07-06 07:31:00",
+        "start": "2026-07-06 09:30:00",
+        "end": "2026-07-06 09:31:00",
+        "duration_minutes": 1,
+        "duration_label": "1 分钟",
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "ap18_ritual_03",
+        "label": {
+          "tw": "ap18_ritual_03",
+          "cn": "ap18_ritual_03",
+          "en": "ap18_ritual_03"
+        },
+        "start": "2026-07-06 09:45:00",
+        "end": "2026-07-06 09:46:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -4808,8 +4878,8 @@
           "cn": "feast_teatable_rotation",
           "en": "feast_teatable_rotation"
         },
-        "start": "2026-07-06 07:00:00",
-        "end": "2026-07-06 07:06:00",
+        "start": "2026-07-06 09:12:00",
+        "end": "2026-07-06 09:18:00",
         "duration_minutes": 6,
         "duration_label": "6 分钟",
         "active": true,
@@ -4822,8 +4892,8 @@
           "cn": "feast_teatable_rotation",
           "en": "feast_teatable_rotation"
         },
-        "start": "2026-07-06 07:06:00",
-        "end": "2026-07-06 07:12:00",
+        "start": "2026-07-06 09:18:00",
+        "end": "2026-07-06 09:24:00",
         "duration_minutes": 6,
         "duration_label": "6 分钟",
         "active": false,
@@ -4836,8 +4906,8 @@
           "cn": "feast_teatable_rotation",
           "en": "feast_teatable_rotation"
         },
-        "start": "2026-07-06 07:12:00",
-        "end": "2026-07-06 07:18:00",
+        "start": "2026-07-06 09:24:00",
+        "end": "2026-07-06 09:30:00",
         "duration_minutes": 6,
         "duration_label": "6 分钟",
         "active": false,
@@ -4850,8 +4920,8 @@
           "cn": "feast_teatable_rotation",
           "en": "feast_teatable_rotation"
         },
-        "start": "2026-07-06 07:18:00",
-        "end": "2026-07-06 07:24:00",
+        "start": "2026-07-06 09:30:00",
+        "end": "2026-07-06 09:36:00",
         "duration_minutes": 6,
         "duration_label": "6 分钟",
         "active": false,
@@ -4864,8 +4934,8 @@
           "cn": "feast_teatable_rotation",
           "en": "feast_teatable_rotation"
         },
-        "start": "2026-07-06 07:24:00",
-        "end": "2026-07-06 07:30:00",
+        "start": "2026-07-06 09:36:00",
+        "end": "2026-07-06 09:42:00",
         "duration_minutes": 6,
         "duration_label": "6 分钟",
         "active": false,
@@ -4878,22 +4948,8 @@
           "cn": "feast_teatable_rotation",
           "en": "feast_teatable_rotation"
         },
-        "start": "2026-07-06 07:30:00",
-        "end": "2026-07-06 07:36:00",
-        "duration_minutes": 6,
-        "duration_label": "6 分钟",
-        "active": false,
-        "upcoming": true
-      },
-      {
-        "name": "feast_teatable_rotation",
-        "label": {
-          "tw": "feast_teatable_rotation",
-          "cn": "feast_teatable_rotation",
-          "en": "feast_teatable_rotation"
-        },
-        "start": "2026-07-06 07:36:00",
-        "end": "2026-07-06 07:42:00",
+        "start": "2026-07-06 09:42:00",
+        "end": "2026-07-06 09:48:00",
         "duration_minutes": 6,
         "duration_label": "6 分钟",
         "active": false,
@@ -5074,8 +5130,8 @@
           "cn": "skyfest_fireworks_show_act3",
           "en": "skyfest_fireworks_show_act3"
         },
-        "start": "2026-07-06 07:28:00",
-        "end": "2026-07-06 07:29:00",
+        "start": "2026-07-06 09:28:00",
+        "end": "2026-07-06 09:29:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -5102,8 +5158,22 @@
           "cn": "ap18_ritual_03_audience_lobby",
           "en": "ap18_ritual_03_audience_lobby"
         },
-        "start": "2026-07-06 07:08:00",
-        "end": "2026-07-06 07:15:00",
+        "start": "2026-07-06 09:08:00",
+        "end": "2026-07-06 09:15:00",
+        "duration_minutes": 7,
+        "duration_label": "7 分钟",
+        "active": true,
+        "upcoming": false
+      },
+      {
+        "name": "ap18_ritual_03_audience_lobby",
+        "label": {
+          "tw": "ap18_ritual_03_audience_lobby",
+          "cn": "ap18_ritual_03_audience_lobby",
+          "en": "ap18_ritual_03_audience_lobby"
+        },
+        "start": "2026-07-06 09:23:00",
+        "end": "2026-07-06 09:30:00",
         "duration_minutes": 7,
         "duration_label": "7 分钟",
         "active": false,
@@ -5116,8 +5186,8 @@
           "cn": "ap18_ritual_03_audience_lobby",
           "en": "ap18_ritual_03_audience_lobby"
         },
-        "start": "2026-07-06 07:23:00",
-        "end": "2026-07-06 07:30:00",
+        "start": "2026-07-06 09:38:00",
+        "end": "2026-07-06 09:45:00",
         "duration_minutes": 7,
         "duration_label": "7 分钟",
         "active": false,
@@ -5130,22 +5200,8 @@
           "cn": "ap18_ritual_03_audience_lobby",
           "en": "ap18_ritual_03_audience_lobby"
         },
-        "start": "2026-07-06 07:38:00",
-        "end": "2026-07-06 07:45:00",
-        "duration_minutes": 7,
-        "duration_label": "7 分钟",
-        "active": false,
-        "upcoming": true
-      },
-      {
-        "name": "ap18_ritual_03_audience_lobby",
-        "label": {
-          "tw": "ap18_ritual_03_audience_lobby",
-          "cn": "ap18_ritual_03_audience_lobby",
-          "en": "ap18_ritual_03_audience_lobby"
-        },
-        "start": "2026-07-06 07:53:00",
-        "end": "2026-07-06 08:00:00",
+        "start": "2026-07-06 09:53:00",
+        "end": "2026-07-06 10:00:00",
         "duration_minutes": 7,
         "duration_label": "7 分钟",
         "active": false,
@@ -5298,8 +5354,22 @@
           "cn": "wildlifepark_cycle_morning",
           "en": "wildlifepark_cycle_morning"
         },
-        "start": "2026-07-06 07:12:00",
-        "end": "2026-07-06 07:14:00",
+        "start": "2026-07-06 09:12:00",
+        "end": "2026-07-06 09:14:00",
+        "duration_minutes": 2,
+        "duration_label": "2 分钟",
+        "active": true,
+        "upcoming": false
+      },
+      {
+        "name": "wildlifepark_cycle_morning",
+        "label": {
+          "tw": "wildlifepark_cycle_morning",
+          "cn": "wildlifepark_cycle_morning",
+          "en": "wildlifepark_cycle_morning"
+        },
+        "start": "2026-07-06 09:24:00",
+        "end": "2026-07-06 09:26:00",
         "duration_minutes": 2,
         "duration_label": "2 分钟",
         "active": false,
@@ -5312,22 +5382,8 @@
           "cn": "wildlifepark_cycle_morning",
           "en": "wildlifepark_cycle_morning"
         },
-        "start": "2026-07-06 07:24:00",
-        "end": "2026-07-06 07:26:00",
-        "duration_minutes": 2,
-        "duration_label": "2 分钟",
-        "active": false,
-        "upcoming": true
-      },
-      {
-        "name": "wildlifepark_cycle_morning",
-        "label": {
-          "tw": "wildlifepark_cycle_morning",
-          "cn": "wildlifepark_cycle_morning",
-          "en": "wildlifepark_cycle_morning"
-        },
-        "start": "2026-07-06 07:36:00",
-        "end": "2026-07-06 07:38:00",
+        "start": "2026-07-06 09:36:00",
+        "end": "2026-07-06 09:38:00",
         "duration_minutes": 2,
         "duration_label": "2 分钟",
         "active": false,
@@ -5368,8 +5424,8 @@
           "cn": "ap18_ritual_04",
           "en": "ap18_ritual_04"
         },
-        "start": "2026-07-06 07:15:00",
-        "end": "2026-07-06 07:16:00",
+        "start": "2026-07-06 09:15:00",
+        "end": "2026-07-06 09:16:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -5382,8 +5438,22 @@
           "cn": "ap18_ritual_04",
           "en": "ap18_ritual_04"
         },
-        "start": "2026-07-06 07:30:00",
-        "end": "2026-07-06 07:31:00",
+        "start": "2026-07-06 09:30:00",
+        "end": "2026-07-06 09:31:00",
+        "duration_minutes": 1,
+        "duration_label": "1 分钟",
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "ap18_ritual_04",
+        "label": {
+          "tw": "ap18_ritual_04",
+          "cn": "ap18_ritual_04",
+          "en": "ap18_ritual_04"
+        },
+        "start": "2026-07-06 09:45:00",
+        "end": "2026-07-06 09:46:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -5550,8 +5620,8 @@
           "cn": "radiant_darkstone_spawn",
           "en": "radiant_darkstone_spawn"
         },
-        "start": "2026-07-06 07:00:00",
-        "end": "2026-07-06 07:59:00",
+        "start": "2026-07-06 09:00:00",
+        "end": "2026-07-06 09:59:00",
         "duration_minutes": 59,
         "duration_label": "59 分钟",
         "active": true,
@@ -5606,8 +5676,22 @@
           "cn": "ap18_ritual_05_audience_lobby",
           "en": "ap18_ritual_05_audience_lobby"
         },
-        "start": "2026-07-06 07:08:00",
-        "end": "2026-07-06 07:15:00",
+        "start": "2026-07-06 09:08:00",
+        "end": "2026-07-06 09:15:00",
+        "duration_minutes": 7,
+        "duration_label": "7 分钟",
+        "active": true,
+        "upcoming": false
+      },
+      {
+        "name": "ap18_ritual_05_audience_lobby",
+        "label": {
+          "tw": "ap18_ritual_05_audience_lobby",
+          "cn": "ap18_ritual_05_audience_lobby",
+          "en": "ap18_ritual_05_audience_lobby"
+        },
+        "start": "2026-07-06 09:23:00",
+        "end": "2026-07-06 09:30:00",
         "duration_minutes": 7,
         "duration_label": "7 分钟",
         "active": false,
@@ -5620,8 +5704,8 @@
           "cn": "ap18_ritual_05_audience_lobby",
           "en": "ap18_ritual_05_audience_lobby"
         },
-        "start": "2026-07-06 07:23:00",
-        "end": "2026-07-06 07:30:00",
+        "start": "2026-07-06 09:38:00",
+        "end": "2026-07-06 09:45:00",
         "duration_minutes": 7,
         "duration_label": "7 分钟",
         "active": false,
@@ -5634,22 +5718,8 @@
           "cn": "ap18_ritual_05_audience_lobby",
           "en": "ap18_ritual_05_audience_lobby"
         },
-        "start": "2026-07-06 07:38:00",
-        "end": "2026-07-06 07:45:00",
-        "duration_minutes": 7,
-        "duration_label": "7 分钟",
-        "active": false,
-        "upcoming": true
-      },
-      {
-        "name": "ap18_ritual_05_audience_lobby",
-        "label": {
-          "tw": "ap18_ritual_05_audience_lobby",
-          "cn": "ap18_ritual_05_audience_lobby",
-          "en": "ap18_ritual_05_audience_lobby"
-        },
-        "start": "2026-07-06 07:53:00",
-        "end": "2026-07-06 08:00:00",
+        "start": "2026-07-06 09:53:00",
+        "end": "2026-07-06 10:00:00",
         "duration_minutes": 7,
         "duration_label": "7 分钟",
         "active": false,
@@ -5774,8 +5844,8 @@
           "cn": "wildlifepark_cycle_not_night_hint",
           "en": "wildlifepark_cycle_not_night_hint"
         },
-        "start": "2026-07-06 07:00:00",
-        "end": "2026-07-06 07:08:00",
+        "start": "2026-07-06 09:12:00",
+        "end": "2026-07-06 09:20:00",
         "duration_minutes": 8,
         "duration_label": "8 分钟",
         "active": true,
@@ -5788,8 +5858,8 @@
           "cn": "wildlifepark_cycle_not_night_hint",
           "en": "wildlifepark_cycle_not_night_hint"
         },
-        "start": "2026-07-06 07:12:00",
-        "end": "2026-07-06 07:20:00",
+        "start": "2026-07-06 09:24:00",
+        "end": "2026-07-06 09:32:00",
         "duration_minutes": 8,
         "duration_label": "8 分钟",
         "active": false,
@@ -5802,22 +5872,8 @@
           "cn": "wildlifepark_cycle_not_night_hint",
           "en": "wildlifepark_cycle_not_night_hint"
         },
-        "start": "2026-07-06 07:24:00",
-        "end": "2026-07-06 07:32:00",
-        "duration_minutes": 8,
-        "duration_label": "8 分钟",
-        "active": false,
-        "upcoming": true
-      },
-      {
-        "name": "wildlifepark_cycle_not_night_hint",
-        "label": {
-          "tw": "wildlifepark_cycle_not_night_hint",
-          "cn": "wildlifepark_cycle_not_night_hint",
-          "en": "wildlifepark_cycle_not_night_hint"
-        },
-        "start": "2026-07-06 07:36:00",
-        "end": "2026-07-06 07:44:00",
+        "start": "2026-07-06 09:36:00",
+        "end": "2026-07-06 09:44:00",
         "duration_minutes": 8,
         "duration_label": "8 分钟",
         "active": false,
@@ -5886,8 +5942,8 @@
           "cn": "visiting_vendor_ap22_miniquest_shop",
           "en": "visiting_vendor_ap22_miniquest_shop"
         },
-        "start": "2026-07-05 07:05:00",
-        "end": "2026-07-06 07:05:00",
+        "start": "2026-07-05 09:13:00",
+        "end": "2026-07-06 09:13:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": false,
@@ -5900,8 +5956,8 @@
           "cn": "visiting_vendor_ap22_miniquest_shop",
           "en": "visiting_vendor_ap22_miniquest_shop"
         },
-        "start": "2026-07-05 07:06:00",
-        "end": "2026-07-06 07:06:00",
+        "start": "2026-07-05 09:14:00",
+        "end": "2026-07-06 09:14:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -5914,8 +5970,8 @@
           "cn": "visiting_vendor_ap22_miniquest_shop",
           "en": "visiting_vendor_ap22_miniquest_shop"
         },
-        "start": "2026-07-05 07:07:00",
-        "end": "2026-07-06 07:07:00",
+        "start": "2026-07-05 09:15:00",
+        "end": "2026-07-06 09:15:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -5928,8 +5984,8 @@
           "cn": "visiting_vendor_ap22_miniquest_shop",
           "en": "visiting_vendor_ap22_miniquest_shop"
         },
-        "start": "2026-07-05 07:08:00",
-        "end": "2026-07-06 07:08:00",
+        "start": "2026-07-05 09:16:00",
+        "end": "2026-07-06 09:16:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -5942,8 +5998,8 @@
           "cn": "visiting_vendor_ap22_miniquest_shop",
           "en": "visiting_vendor_ap22_miniquest_shop"
         },
-        "start": "2026-07-05 07:09:00",
-        "end": "2026-07-06 07:09:00",
+        "start": "2026-07-05 09:17:00",
+        "end": "2026-07-06 09:17:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -5956,8 +6012,8 @@
           "cn": "visiting_vendor_ap22_miniquest_shop",
           "en": "visiting_vendor_ap22_miniquest_shop"
         },
-        "start": "2026-07-05 07:10:00",
-        "end": "2026-07-06 07:10:00",
+        "start": "2026-07-05 09:18:00",
+        "end": "2026-07-06 09:18:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -5970,8 +6026,8 @@
           "cn": "visiting_vendor_ap22_miniquest_shop",
           "en": "visiting_vendor_ap22_miniquest_shop"
         },
-        "start": "2026-07-05 07:11:00",
-        "end": "2026-07-06 07:11:00",
+        "start": "2026-07-05 09:19:00",
+        "end": "2026-07-06 09:19:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -5984,8 +6040,8 @@
           "cn": "visiting_vendor_ap22_miniquest_shop",
           "en": "visiting_vendor_ap22_miniquest_shop"
         },
-        "start": "2026-07-05 07:12:00",
-        "end": "2026-07-06 07:12:00",
+        "start": "2026-07-05 09:20:00",
+        "end": "2026-07-06 09:20:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -5998,8 +6054,8 @@
           "cn": "visiting_vendor_ap22_miniquest_shop",
           "en": "visiting_vendor_ap22_miniquest_shop"
         },
-        "start": "2026-07-05 07:13:00",
-        "end": "2026-07-06 07:13:00",
+        "start": "2026-07-05 09:21:00",
+        "end": "2026-07-06 09:21:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -6012,8 +6068,8 @@
           "cn": "visiting_vendor_ap22_miniquest_shop",
           "en": "visiting_vendor_ap22_miniquest_shop"
         },
-        "start": "2026-07-05 07:14:00",
-        "end": "2026-07-06 07:14:00",
+        "start": "2026-07-05 09:22:00",
+        "end": "2026-07-06 09:22:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -6026,8 +6082,8 @@
           "cn": "visiting_vendor_ap22_miniquest_shop",
           "en": "visiting_vendor_ap22_miniquest_shop"
         },
-        "start": "2026-07-05 07:15:00",
-        "end": "2026-07-06 07:15:00",
+        "start": "2026-07-05 09:23:00",
+        "end": "2026-07-06 09:23:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -6040,8 +6096,8 @@
           "cn": "visiting_vendor_ap22_miniquest_shop",
           "en": "visiting_vendor_ap22_miniquest_shop"
         },
-        "start": "2026-07-05 07:16:00",
-        "end": "2026-07-06 07:16:00",
+        "start": "2026-07-05 09:24:00",
+        "end": "2026-07-06 09:24:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -6054,8 +6110,8 @@
           "cn": "visiting_vendor_ap22_miniquest_shop",
           "en": "visiting_vendor_ap22_miniquest_shop"
         },
-        "start": "2026-07-05 07:17:00",
-        "end": "2026-07-06 07:17:00",
+        "start": "2026-07-05 09:25:00",
+        "end": "2026-07-06 09:25:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -6068,8 +6124,8 @@
           "cn": "visiting_vendor_ap22_miniquest_shop",
           "en": "visiting_vendor_ap22_miniquest_shop"
         },
-        "start": "2026-07-05 07:18:00",
-        "end": "2026-07-06 07:18:00",
+        "start": "2026-07-05 09:26:00",
+        "end": "2026-07-06 09:26:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -6082,8 +6138,8 @@
           "cn": "visiting_vendor_ap22_miniquest_shop",
           "en": "visiting_vendor_ap22_miniquest_shop"
         },
-        "start": "2026-07-05 07:19:00",
-        "end": "2026-07-06 07:19:00",
+        "start": "2026-07-05 09:27:00",
+        "end": "2026-07-06 09:27:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -6096,8 +6152,8 @@
           "cn": "visiting_vendor_ap22_miniquest_shop",
           "en": "visiting_vendor_ap22_miniquest_shop"
         },
-        "start": "2026-07-05 07:20:00",
-        "end": "2026-07-06 07:20:00",
+        "start": "2026-07-05 09:28:00",
+        "end": "2026-07-06 09:28:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -6132,20 +6188,6 @@
         "upcoming": false
       },
       {
-        "name": "mainstreet_cycle_morning_B",
-        "label": {
-          "tw": "mainstreet_cycle_morning_B",
-          "cn": "mainstreet_cycle_morning_B",
-          "en": "mainstreet_cycle_morning_B"
-        },
-        "start": "2026-07-06 07:00:00",
-        "end": "2026-07-06 07:10:00",
-        "duration_minutes": 10,
-        "duration_label": "10 分钟",
-        "active": true,
-        "upcoming": false
-      },
-      {
         "name": "spiritshopitem_ap06unlock_ap14_fetch_04",
         "label": {
           "tw": "spiritshopitem_ap06unlock_ap14_fetch_04",
@@ -6166,11 +6208,11 @@
           "cn": "te_ep_3",
           "en": "te_ep_3"
         },
-        "start": "2026-07-06 06:50:00",
-        "end": "2026-07-06 07:05:00",
+        "start": "2026-07-06 09:10:00",
+        "end": "2026-07-06 09:25:00",
         "duration_minutes": 15,
         "duration_label": "15 分钟",
-        "active": false,
+        "active": true,
         "upcoming": false
       },
       {
@@ -6180,8 +6222,8 @@
           "cn": "te_ep_3",
           "en": "te_ep_3"
         },
-        "start": "2026-07-06 07:10:00",
-        "end": "2026-07-06 07:25:00",
+        "start": "2026-07-06 09:30:00",
+        "end": "2026-07-06 09:45:00",
         "duration_minutes": 15,
         "duration_label": "15 分钟",
         "active": false,
@@ -6194,22 +6236,8 @@
           "cn": "te_ep_3",
           "en": "te_ep_3"
         },
-        "start": "2026-07-06 07:30:00",
-        "end": "2026-07-06 07:45:00",
-        "duration_minutes": 15,
-        "duration_label": "15 分钟",
-        "active": false,
-        "upcoming": true
-      },
-      {
-        "name": "te_ep_3",
-        "label": {
-          "tw": "te_ep_3",
-          "cn": "te_ep_3",
-          "en": "te_ep_3"
-        },
-        "start": "2026-07-06 07:50:00",
-        "end": "2026-07-06 08:05:00",
+        "start": "2026-07-06 09:50:00",
+        "end": "2026-07-06 10:05:00",
         "duration_minutes": 15,
         "duration_label": "15 分钟",
         "active": false,
@@ -6278,8 +6306,8 @@
           "cn": "wildlifepark_cycle_overcast_night",
           "en": "wildlifepark_cycle_overcast_night"
         },
-        "start": "2026-07-06 07:08:00",
-        "end": "2026-07-06 07:09:00",
+        "start": "2026-07-06 09:20:00",
+        "end": "2026-07-06 09:21:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -6292,8 +6320,8 @@
           "cn": "wildlifepark_cycle_overcast_night",
           "en": "wildlifepark_cycle_overcast_night"
         },
-        "start": "2026-07-06 07:20:00",
-        "end": "2026-07-06 07:21:00",
+        "start": "2026-07-06 09:32:00",
+        "end": "2026-07-06 09:33:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -6306,8 +6334,8 @@
           "cn": "wildlifepark_cycle_overcast_night",
           "en": "wildlifepark_cycle_overcast_night"
         },
-        "start": "2026-07-06 07:32:00",
-        "end": "2026-07-06 07:33:00",
+        "start": "2026-07-06 09:44:00",
+        "end": "2026-07-06 09:45:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -6376,8 +6404,8 @@
           "cn": "visiting_vendor_ap22_miniquest_social",
           "en": "visiting_vendor_ap22_miniquest_social"
         },
-        "start": "2026-07-05 07:05:00",
-        "end": "2026-07-06 07:05:00",
+        "start": "2026-07-05 09:13:00",
+        "end": "2026-07-06 09:13:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": false,
@@ -6390,8 +6418,8 @@
           "cn": "visiting_vendor_ap22_miniquest_social",
           "en": "visiting_vendor_ap22_miniquest_social"
         },
-        "start": "2026-07-05 07:06:00",
-        "end": "2026-07-06 07:06:00",
+        "start": "2026-07-05 09:14:00",
+        "end": "2026-07-06 09:14:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -6404,8 +6432,8 @@
           "cn": "visiting_vendor_ap22_miniquest_social",
           "en": "visiting_vendor_ap22_miniquest_social"
         },
-        "start": "2026-07-05 07:07:00",
-        "end": "2026-07-06 07:07:00",
+        "start": "2026-07-05 09:15:00",
+        "end": "2026-07-06 09:15:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -6418,8 +6446,8 @@
           "cn": "visiting_vendor_ap22_miniquest_social",
           "en": "visiting_vendor_ap22_miniquest_social"
         },
-        "start": "2026-07-05 07:08:00",
-        "end": "2026-07-06 07:08:00",
+        "start": "2026-07-05 09:16:00",
+        "end": "2026-07-06 09:16:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -6432,8 +6460,8 @@
           "cn": "visiting_vendor_ap22_miniquest_social",
           "en": "visiting_vendor_ap22_miniquest_social"
         },
-        "start": "2026-07-05 07:09:00",
-        "end": "2026-07-06 07:09:00",
+        "start": "2026-07-05 09:17:00",
+        "end": "2026-07-06 09:17:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -6446,8 +6474,8 @@
           "cn": "visiting_vendor_ap22_miniquest_social",
           "en": "visiting_vendor_ap22_miniquest_social"
         },
-        "start": "2026-07-05 07:10:00",
-        "end": "2026-07-06 07:10:00",
+        "start": "2026-07-05 09:18:00",
+        "end": "2026-07-06 09:18:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -6460,8 +6488,8 @@
           "cn": "visiting_vendor_ap22_miniquest_social",
           "en": "visiting_vendor_ap22_miniquest_social"
         },
-        "start": "2026-07-05 07:11:00",
-        "end": "2026-07-06 07:11:00",
+        "start": "2026-07-05 09:19:00",
+        "end": "2026-07-06 09:19:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -6474,8 +6502,8 @@
           "cn": "visiting_vendor_ap22_miniquest_social",
           "en": "visiting_vendor_ap22_miniquest_social"
         },
-        "start": "2026-07-05 07:12:00",
-        "end": "2026-07-06 07:12:00",
+        "start": "2026-07-05 09:20:00",
+        "end": "2026-07-06 09:20:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -6488,8 +6516,8 @@
           "cn": "visiting_vendor_ap22_miniquest_social",
           "en": "visiting_vendor_ap22_miniquest_social"
         },
-        "start": "2026-07-05 07:13:00",
-        "end": "2026-07-06 07:13:00",
+        "start": "2026-07-05 09:21:00",
+        "end": "2026-07-06 09:21:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -6502,8 +6530,8 @@
           "cn": "visiting_vendor_ap22_miniquest_social",
           "en": "visiting_vendor_ap22_miniquest_social"
         },
-        "start": "2026-07-05 07:14:00",
-        "end": "2026-07-06 07:14:00",
+        "start": "2026-07-05 09:22:00",
+        "end": "2026-07-06 09:22:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -6516,8 +6544,8 @@
           "cn": "visiting_vendor_ap22_miniquest_social",
           "en": "visiting_vendor_ap22_miniquest_social"
         },
-        "start": "2026-07-05 07:15:00",
-        "end": "2026-07-06 07:15:00",
+        "start": "2026-07-05 09:23:00",
+        "end": "2026-07-06 09:23:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -6530,8 +6558,8 @@
           "cn": "visiting_vendor_ap22_miniquest_social",
           "en": "visiting_vendor_ap22_miniquest_social"
         },
-        "start": "2026-07-05 07:16:00",
-        "end": "2026-07-06 07:16:00",
+        "start": "2026-07-05 09:24:00",
+        "end": "2026-07-06 09:24:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -6544,8 +6572,8 @@
           "cn": "visiting_vendor_ap22_miniquest_social",
           "en": "visiting_vendor_ap22_miniquest_social"
         },
-        "start": "2026-07-05 07:17:00",
-        "end": "2026-07-06 07:17:00",
+        "start": "2026-07-05 09:25:00",
+        "end": "2026-07-06 09:25:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -6558,8 +6586,8 @@
           "cn": "visiting_vendor_ap22_miniquest_social",
           "en": "visiting_vendor_ap22_miniquest_social"
         },
-        "start": "2026-07-05 07:18:00",
-        "end": "2026-07-06 07:18:00",
+        "start": "2026-07-05 09:26:00",
+        "end": "2026-07-06 09:26:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -6572,8 +6600,8 @@
           "cn": "visiting_vendor_ap22_miniquest_social",
           "en": "visiting_vendor_ap22_miniquest_social"
         },
-        "start": "2026-07-05 07:19:00",
-        "end": "2026-07-06 07:19:00",
+        "start": "2026-07-05 09:27:00",
+        "end": "2026-07-06 09:27:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -6586,8 +6614,8 @@
           "cn": "visiting_vendor_ap22_miniquest_social",
           "en": "visiting_vendor_ap22_miniquest_social"
         },
-        "start": "2026-07-05 07:20:00",
-        "end": "2026-07-06 07:20:00",
+        "start": "2026-07-05 09:28:00",
+        "end": "2026-07-06 09:28:00",
         "duration_minutes": 1440,
         "duration_label": "1440 分钟",
         "active": true,
@@ -6894,8 +6922,8 @@
           "cn": "wildlifepark_cycle_overcast_day",
           "en": "wildlifepark_cycle_overcast_day"
         },
-        "start": "2026-07-06 07:14:00",
-        "end": "2026-07-06 07:15:00",
+        "start": "2026-07-06 09:14:00",
+        "end": "2026-07-06 09:15:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -6908,8 +6936,8 @@
           "cn": "wildlifepark_cycle_overcast_day",
           "en": "wildlifepark_cycle_overcast_day"
         },
-        "start": "2026-07-06 07:26:00",
-        "end": "2026-07-06 07:27:00",
+        "start": "2026-07-06 09:26:00",
+        "end": "2026-07-06 09:27:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -6922,8 +6950,8 @@
           "cn": "wildlifepark_cycle_overcast_day",
           "en": "wildlifepark_cycle_overcast_day"
         },
-        "start": "2026-07-06 07:38:00",
-        "end": "2026-07-06 07:39:00",
+        "start": "2026-07-06 09:38:00",
+        "end": "2026-07-06 09:39:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -6950,8 +6978,8 @@
           "cn": "aurora_softinside_countdown",
           "en": "aurora_softinside_countdown"
         },
-        "start": "2026-07-06 07:25:00",
-        "end": "2026-07-06 07:26:00",
+        "start": "2026-07-06 09:25:00",
+        "end": "2026-07-06 09:26:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -6964,8 +6992,8 @@
           "cn": "aurora_softinside_countdown",
           "en": "aurora_softinside_countdown"
         },
-        "start": "2026-07-06 09:25:00",
-        "end": "2026-07-06 09:26:00",
+        "start": "2026-07-06 11:25:00",
+        "end": "2026-07-06 11:26:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -7006,8 +7034,8 @@
           "cn": "aurora_runaway_wrap",
           "en": "aurora_runaway_wrap"
         },
-        "start": "2026-07-06 07:23:00",
-        "end": "2026-07-06 07:25:00",
+        "start": "2026-07-06 09:23:00",
+        "end": "2026-07-06 09:25:00",
         "duration_minutes": 2,
         "duration_label": "2 分钟",
         "active": false,
@@ -7020,8 +7048,8 @@
           "cn": "aurora_runaway_wrap",
           "en": "aurora_runaway_wrap"
         },
-        "start": "2026-07-06 09:23:00",
-        "end": "2026-07-06 09:25:00",
+        "start": "2026-07-06 11:23:00",
+        "end": "2026-07-06 11:25:00",
         "duration_minutes": 2,
         "duration_label": "2 分钟",
         "active": false,
@@ -7174,8 +7202,8 @@
           "cn": "ap18_ritual_05",
           "en": "ap18_ritual_05"
         },
-        "start": "2026-07-06 07:15:00",
-        "end": "2026-07-06 07:16:00",
+        "start": "2026-07-06 09:15:00",
+        "end": "2026-07-06 09:16:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -7188,8 +7216,22 @@
           "cn": "ap18_ritual_05",
           "en": "ap18_ritual_05"
         },
-        "start": "2026-07-06 07:30:00",
-        "end": "2026-07-06 07:31:00",
+        "start": "2026-07-06 09:30:00",
+        "end": "2026-07-06 09:31:00",
+        "duration_minutes": 1,
+        "duration_label": "1 分钟",
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "ap18_ritual_05",
+        "label": {
+          "tw": "ap18_ritual_05",
+          "cn": "ap18_ritual_05",
+          "en": "ap18_ritual_05"
+        },
+        "start": "2026-07-06 09:45:00",
+        "end": "2026-07-06 09:46:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -7216,8 +7258,8 @@
           "cn": "aurora_soundbath_session",
           "en": "aurora_soundbath_session"
         },
-        "start": "2026-07-06 07:00:00",
-        "end": "2026-07-06 07:09:00",
+        "start": "2026-07-06 09:10:00",
+        "end": "2026-07-06 09:19:00",
         "duration_minutes": 9,
         "duration_label": "9 分钟",
         "active": true,
@@ -7230,8 +7272,8 @@
           "cn": "aurora_soundbath_session",
           "en": "aurora_soundbath_session"
         },
-        "start": "2026-07-06 07:10:00",
-        "end": "2026-07-06 07:19:00",
+        "start": "2026-07-06 09:20:00",
+        "end": "2026-07-06 09:29:00",
         "duration_minutes": 9,
         "duration_label": "9 分钟",
         "active": false,
@@ -7244,8 +7286,8 @@
           "cn": "aurora_soundbath_session",
           "en": "aurora_soundbath_session"
         },
-        "start": "2026-07-06 07:20:00",
-        "end": "2026-07-06 07:29:00",
+        "start": "2026-07-06 09:30:00",
+        "end": "2026-07-06 09:39:00",
         "duration_minutes": 9,
         "duration_label": "9 分钟",
         "active": false,
@@ -7258,8 +7300,8 @@
           "cn": "aurora_soundbath_session",
           "en": "aurora_soundbath_session"
         },
-        "start": "2026-07-06 07:30:00",
-        "end": "2026-07-06 07:39:00",
+        "start": "2026-07-06 09:40:00",
+        "end": "2026-07-06 09:49:00",
         "duration_minutes": 9,
         "duration_label": "9 分钟",
         "active": false,
@@ -7272,8 +7314,8 @@
           "cn": "aurora_soundbath_session",
           "en": "aurora_soundbath_session"
         },
-        "start": "2026-07-06 07:40:00",
-        "end": "2026-07-06 07:49:00",
+        "start": "2026-07-06 09:50:00",
+        "end": "2026-07-06 09:59:00",
         "duration_minutes": 9,
         "duration_label": "9 分钟",
         "active": false,
@@ -7524,8 +7566,8 @@
           "cn": "aurora_warrior",
           "en": "aurora_warrior"
         },
-        "start": "2026-07-06 07:34:00",
-        "end": "2026-07-06 07:38:00",
+        "start": "2026-07-06 09:34:00",
+        "end": "2026-07-06 09:38:00",
         "duration_minutes": 4,
         "duration_label": "4 分钟",
         "active": false,
@@ -7538,8 +7580,8 @@
           "cn": "aurora_warrior",
           "en": "aurora_warrior"
         },
-        "start": "2026-07-06 09:34:00",
-        "end": "2026-07-06 09:38:00",
+        "start": "2026-07-06 11:34:00",
+        "end": "2026-07-06 11:38:00",
         "duration_minutes": 4,
         "duration_label": "4 分钟",
         "active": false,
@@ -7580,8 +7622,8 @@
           "cn": "skyfest_parade",
           "en": "skyfest_parade"
         },
-        "start": "2026-07-06 07:00:00",
-        "end": "2026-07-06 07:20:00",
+        "start": "2026-07-06 09:00:00",
+        "end": "2026-07-06 09:20:00",
         "duration_minutes": 20,
         "duration_label": "20 分钟",
         "active": true,
@@ -7664,12 +7706,12 @@
           "cn": "aurora_exhaleinhale",
           "en": "aurora_exhaleinhale"
         },
-        "start": "2026-07-06 07:12:00",
-        "end": "2026-07-06 07:16:00",
+        "start": "2026-07-06 09:12:00",
+        "end": "2026-07-06 09:16:00",
         "duration_minutes": 4,
         "duration_label": "4 分钟",
-        "active": false,
-        "upcoming": true
+        "active": true,
+        "upcoming": false
       },
       {
         "name": "aurora_exhaleinhale",
@@ -7678,8 +7720,8 @@
           "cn": "aurora_exhaleinhale",
           "en": "aurora_exhaleinhale"
         },
-        "start": "2026-07-06 09:12:00",
-        "end": "2026-07-06 09:16:00",
+        "start": "2026-07-06 11:12:00",
+        "end": "2026-07-06 11:16:00",
         "duration_minutes": 4,
         "duration_label": "4 分钟",
         "active": false,
@@ -7700,42 +7742,14 @@
         "upcoming": false
       },
       {
-        "name": "global_newyear_firework_interval",
-        "label": {
-          "tw": "global_newyear_firework_interval",
-          "cn": "global_newyear_firework_interval",
-          "en": "global_newyear_firework_interval"
-        },
-        "start": "2026-07-06 07:00:00",
-        "end": "2026-07-06 07:05:00",
-        "duration_minutes": 5,
-        "duration_label": "5 分钟",
-        "active": false,
-        "upcoming": false
-      },
-      {
         "name": "aurora_concert_countdown",
         "label": {
           "tw": "aurora_concert_countdown",
           "cn": "aurora_concert_countdown",
           "en": "aurora_concert_countdown"
         },
-        "start": "2026-07-06 07:10:00",
-        "end": "2026-07-06 07:12:00",
-        "duration_minutes": 2,
-        "duration_label": "2 分钟",
-        "active": false,
-        "upcoming": true
-      },
-      {
-        "name": "aurora_concert_countdown",
-        "label": {
-          "tw": "aurora_concert_countdown",
-          "cn": "aurora_concert_countdown",
-          "en": "aurora_concert_countdown"
-        },
-        "start": "2026-07-06 09:10:00",
-        "end": "2026-07-06 09:12:00",
+        "start": "2026-07-06 11:10:00",
+        "end": "2026-07-06 11:12:00",
         "duration_minutes": 2,
         "duration_label": "2 分钟",
         "active": false,
@@ -7930,8 +7944,8 @@
           "cn": "aurora_warrior_countdown",
           "en": "aurora_warrior_countdown"
         },
-        "start": "2026-07-06 07:33:00",
-        "end": "2026-07-06 07:34:00",
+        "start": "2026-07-06 09:33:00",
+        "end": "2026-07-06 09:34:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -7944,8 +7958,8 @@
           "cn": "aurora_warrior_countdown",
           "en": "aurora_warrior_countdown"
         },
-        "start": "2026-07-06 09:33:00",
-        "end": "2026-07-06 09:34:00",
+        "start": "2026-07-06 11:33:00",
+        "end": "2026-07-06 11:34:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -8336,8 +8350,22 @@
           "cn": "elder_sanctuary_patrol",
           "en": "elder_sanctuary_patrol"
         },
-        "start": "2026-07-06 07:20:00",
-        "end": "2026-07-06 07:21:00",
+        "start": "2026-07-06 09:20:00",
+        "end": "2026-07-06 09:21:00",
+        "duration_minutes": 1,
+        "duration_label": "1 分钟",
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "elder_sanctuary_patrol",
+        "label": {
+          "tw": "elder_sanctuary_patrol",
+          "cn": "elder_sanctuary_patrol",
+          "en": "elder_sanctuary_patrol"
+        },
+        "start": "2026-07-06 09:40:00",
+        "end": "2026-07-06 09:41:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -8378,8 +8406,8 @@
           "cn": "social_rain_grandmatable",
           "en": "social_rain_grandmatable"
         },
-        "start": "2026-07-06 07:30:00",
-        "end": "2026-07-06 07:45:00",
+        "start": "2026-07-06 09:30:00",
+        "end": "2026-07-06 09:45:00",
         "duration_minutes": 15,
         "duration_label": "15 分钟",
         "active": false,
@@ -8420,8 +8448,22 @@
           "cn": "ap18_ritual_02_audience_lobby",
           "en": "ap18_ritual_02_audience_lobby"
         },
-        "start": "2026-07-06 07:08:00",
-        "end": "2026-07-06 07:15:00",
+        "start": "2026-07-06 09:08:00",
+        "end": "2026-07-06 09:15:00",
+        "duration_minutes": 7,
+        "duration_label": "7 分钟",
+        "active": true,
+        "upcoming": false
+      },
+      {
+        "name": "ap18_ritual_02_audience_lobby",
+        "label": {
+          "tw": "ap18_ritual_02_audience_lobby",
+          "cn": "ap18_ritual_02_audience_lobby",
+          "en": "ap18_ritual_02_audience_lobby"
+        },
+        "start": "2026-07-06 09:23:00",
+        "end": "2026-07-06 09:30:00",
         "duration_minutes": 7,
         "duration_label": "7 分钟",
         "active": false,
@@ -8434,8 +8476,8 @@
           "cn": "ap18_ritual_02_audience_lobby",
           "en": "ap18_ritual_02_audience_lobby"
         },
-        "start": "2026-07-06 07:23:00",
-        "end": "2026-07-06 07:30:00",
+        "start": "2026-07-06 09:38:00",
+        "end": "2026-07-06 09:45:00",
         "duration_minutes": 7,
         "duration_label": "7 分钟",
         "active": false,
@@ -8448,22 +8490,8 @@
           "cn": "ap18_ritual_02_audience_lobby",
           "en": "ap18_ritual_02_audience_lobby"
         },
-        "start": "2026-07-06 07:38:00",
-        "end": "2026-07-06 07:45:00",
-        "duration_minutes": 7,
-        "duration_label": "7 分钟",
-        "active": false,
-        "upcoming": true
-      },
-      {
-        "name": "ap18_ritual_02_audience_lobby",
-        "label": {
-          "tw": "ap18_ritual_02_audience_lobby",
-          "cn": "ap18_ritual_02_audience_lobby",
-          "en": "ap18_ritual_02_audience_lobby"
-        },
-        "start": "2026-07-06 07:53:00",
-        "end": "2026-07-06 08:00:00",
+        "start": "2026-07-06 09:53:00",
+        "end": "2026-07-06 10:00:00",
         "duration_minutes": 7,
         "duration_label": "7 分钟",
         "active": false,
@@ -8596,6 +8624,20 @@
         "upcoming": false
       },
       {
+        "name": "mainstreet_cycle_sunset_B",
+        "label": {
+          "tw": "mainstreet_cycle_sunset_B",
+          "cn": "mainstreet_cycle_sunset_B",
+          "en": "mainstreet_cycle_sunset_B"
+        },
+        "start": "2026-07-06 09:40:00",
+        "end": "2026-07-06 09:50:00",
+        "duration_minutes": 10,
+        "duration_label": "10 分钟",
+        "active": false,
+        "upcoming": true
+      },
+      {
         "name": "collectible_backflip",
         "label": {
           "tw": "collectible_backflip",
@@ -8686,8 +8728,8 @@
           "cn": "aurora_queendom_countdown",
           "en": "aurora_queendom_countdown"
         },
-        "start": "2026-07-06 07:53:00",
-        "end": "2026-07-06 07:54:00",
+        "start": "2026-07-06 09:53:00",
+        "end": "2026-07-06 09:54:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -8714,8 +8756,8 @@
           "cn": "skyfest_fireworks_show_act4",
           "en": "skyfest_fireworks_show_act4"
         },
-        "start": "2026-07-06 07:29:00",
-        "end": "2026-07-06 07:37:00",
+        "start": "2026-07-06 09:29:00",
+        "end": "2026-07-06 09:37:00",
         "duration_minutes": 8,
         "duration_label": "8 分钟",
         "active": false,
@@ -8742,8 +8784,8 @@
           "cn": "wildlifepark_cycle_sunset",
           "en": "wildlifepark_cycle_sunset"
         },
-        "start": "2026-07-06 07:06:00",
-        "end": "2026-07-06 07:08:00",
+        "start": "2026-07-06 09:18:00",
+        "end": "2026-07-06 09:20:00",
         "duration_minutes": 2,
         "duration_label": "2 分钟",
         "active": false,
@@ -8756,8 +8798,8 @@
           "cn": "wildlifepark_cycle_sunset",
           "en": "wildlifepark_cycle_sunset"
         },
-        "start": "2026-07-06 07:18:00",
-        "end": "2026-07-06 07:20:00",
+        "start": "2026-07-06 09:30:00",
+        "end": "2026-07-06 09:32:00",
         "duration_minutes": 2,
         "duration_label": "2 分钟",
         "active": false,
@@ -8770,8 +8812,8 @@
           "cn": "wildlifepark_cycle_sunset",
           "en": "wildlifepark_cycle_sunset"
         },
-        "start": "2026-07-06 07:30:00",
-        "end": "2026-07-06 07:32:00",
+        "start": "2026-07-06 09:42:00",
+        "end": "2026-07-06 09:44:00",
         "duration_minutes": 2,
         "duration_label": "2 分钟",
         "active": false,
@@ -8882,8 +8924,8 @@
           "cn": "hub_clocktower",
           "en": "hub_clocktower"
         },
-        "start": "2026-07-06 07:15:00",
-        "end": "2026-07-06 07:15:00",
+        "start": "2026-07-06 09:15:00",
+        "end": "2026-07-06 09:15:00",
         "duration_minutes": 0,
         "duration_label": "0 分钟",
         "active": false,
@@ -8896,8 +8938,22 @@
           "cn": "hub_clocktower",
           "en": "hub_clocktower"
         },
-        "start": "2026-07-06 07:30:00",
-        "end": "2026-07-06 07:30:00",
+        "start": "2026-07-06 09:30:00",
+        "end": "2026-07-06 09:30:00",
+        "duration_minutes": 0,
+        "duration_label": "0 分钟",
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "hub_clocktower",
+        "label": {
+          "tw": "hub_clocktower",
+          "cn": "hub_clocktower",
+          "en": "hub_clocktower"
+        },
+        "start": "2026-07-06 09:45:00",
+        "end": "2026-07-06 09:45:00",
         "duration_minutes": 0,
         "duration_label": "0 分钟",
         "active": false,
@@ -8980,12 +9036,12 @@
           "cn": "aurora_concert",
           "en": "aurora_concert"
         },
-        "start": "2026-07-06 07:10:00",
-        "end": "2026-07-06 07:58:00",
+        "start": "2026-07-06 09:10:00",
+        "end": "2026-07-06 09:58:00",
         "duration_minutes": 48,
         "duration_label": "48 分钟",
-        "active": false,
-        "upcoming": true
+        "active": true,
+        "upcoming": false
       },
       {
         "name": "aurora_concert",
@@ -8994,8 +9050,8 @@
           "cn": "aurora_concert",
           "en": "aurora_concert"
         },
-        "start": "2026-07-06 09:10:00",
-        "end": "2026-07-06 09:58:00",
+        "start": "2026-07-06 11:10:00",
+        "end": "2026-07-06 11:58:00",
         "duration_minutes": 48,
         "duration_label": "48 分钟",
         "active": false,
@@ -9142,20 +9198,6 @@
         "upcoming": false
       },
       {
-        "name": "anniversary_office_video_thankyou",
-        "label": {
-          "tw": "anniversary_office_video_thankyou",
-          "cn": "anniversary_office_video_thankyou",
-          "en": "anniversary_office_video_thankyou"
-        },
-        "start": "2026-07-06 07:00:00",
-        "end": "2026-07-06 07:10:00",
-        "duration_minutes": 10,
-        "duration_label": "10 分钟",
-        "active": true,
-        "upcoming": false
-      },
-      {
         "name": "global_pc_launch",
         "label": {
           "tw": "global_pc_launch",
@@ -9232,8 +9274,8 @@
           "cn": "feast_catch_crabbit",
           "en": "feast_catch_crabbit"
         },
-        "start": "2026-07-06 07:00:00",
-        "end": "2026-07-06 08:00:00",
+        "start": "2026-07-06 09:00:00",
+        "end": "2026-07-06 10:00:00",
         "duration_minutes": 60,
         "duration_label": "60 分钟",
         "active": true,
@@ -9246,8 +9288,8 @@
           "cn": "global_nature_geyser",
           "en": "global_nature_geyser"
         },
-        "start": "2026-07-06 07:00:00",
-        "end": "2026-07-06 07:15:00",
+        "start": "2026-07-06 09:00:00",
+        "end": "2026-07-06 09:15:00",
         "duration_minutes": 15,
         "duration_label": "15 分钟",
         "active": true,
@@ -9288,8 +9330,8 @@
           "cn": "wildlifepark_cycle_night",
           "en": "wildlifepark_cycle_night"
         },
-        "start": "2026-07-06 07:09:00",
-        "end": "2026-07-06 07:12:00",
+        "start": "2026-07-06 09:21:00",
+        "end": "2026-07-06 09:24:00",
         "duration_minutes": 3,
         "duration_label": "3 分钟",
         "active": false,
@@ -9302,8 +9344,8 @@
           "cn": "wildlifepark_cycle_night",
           "en": "wildlifepark_cycle_night"
         },
-        "start": "2026-07-06 07:21:00",
-        "end": "2026-07-06 07:24:00",
+        "start": "2026-07-06 09:33:00",
+        "end": "2026-07-06 09:36:00",
         "duration_minutes": 3,
         "duration_label": "3 分钟",
         "active": false,
@@ -9316,8 +9358,8 @@
           "cn": "wildlifepark_cycle_night",
           "en": "wildlifepark_cycle_night"
         },
-        "start": "2026-07-06 07:33:00",
-        "end": "2026-07-06 07:36:00",
+        "start": "2026-07-06 09:45:00",
+        "end": "2026-07-06 09:48:00",
         "duration_minutes": 3,
         "duration_label": "3 分钟",
         "active": false,
@@ -9400,8 +9442,8 @@
           "cn": "mainstreet_cycle_day_B",
           "en": "mainstreet_cycle_day_B"
         },
-        "start": "2026-07-06 07:15:00",
-        "end": "2026-07-06 07:40:00",
+        "start": "2026-07-06 09:15:00",
+        "end": "2026-07-06 09:40:00",
         "duration_minutes": 25,
         "duration_label": "25 分钟",
         "active": false,
@@ -9504,6 +9546,20 @@
         "duration_label": "长期",
         "active": true,
         "upcoming": false
+      },
+      {
+        "name": "global_ann_perf7",
+        "label": {
+          "tw": "global_ann_perf7",
+          "cn": "global_ann_perf7",
+          "en": "global_ann_perf7"
+        },
+        "start": "2026-07-06 09:15:00",
+        "end": "2026-07-06 09:20:00",
+        "duration_minutes": 5,
+        "duration_label": "5 分钟",
+        "active": false,
+        "upcoming": true
       },
       {
         "name": "quest_ap14_fetch_04",
@@ -9652,8 +9708,8 @@
           "cn": "aurora_runaway",
           "en": "aurora_runaway"
         },
-        "start": "2026-07-06 07:19:00",
-        "end": "2026-07-06 07:23:00",
+        "start": "2026-07-06 09:19:00",
+        "end": "2026-07-06 09:23:00",
         "duration_minutes": 4,
         "duration_label": "4 分钟",
         "active": false,
@@ -9666,8 +9722,8 @@
           "cn": "aurora_runaway",
           "en": "aurora_runaway"
         },
-        "start": "2026-07-06 09:19:00",
-        "end": "2026-07-06 09:23:00",
+        "start": "2026-07-06 11:19:00",
+        "end": "2026-07-06 11:23:00",
         "duration_minutes": 4,
         "duration_label": "4 分钟",
         "active": false,
@@ -9694,8 +9750,8 @@
           "cn": "ap18_ritual_02",
           "en": "ap18_ritual_02"
         },
-        "start": "2026-07-06 07:15:00",
-        "end": "2026-07-06 07:16:00",
+        "start": "2026-07-06 09:15:00",
+        "end": "2026-07-06 09:16:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -9708,8 +9764,22 @@
           "cn": "ap18_ritual_02",
           "en": "ap18_ritual_02"
         },
-        "start": "2026-07-06 07:30:00",
-        "end": "2026-07-06 07:31:00",
+        "start": "2026-07-06 09:30:00",
+        "end": "2026-07-06 09:31:00",
+        "duration_minutes": 1,
+        "duration_label": "1 分钟",
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "ap18_ritual_02",
+        "label": {
+          "tw": "ap18_ritual_02",
+          "cn": "ap18_ritual_02",
+          "en": "ap18_ritual_02"
+        },
+        "start": "2026-07-06 09:45:00",
+        "end": "2026-07-06 09:46:00",
         "duration_minutes": 1,
         "duration_label": "1 分钟",
         "active": false,
@@ -10240,8 +10310,8 @@
           "cn": "aurora_exhaleinhale_wrap",
           "en": "aurora_exhaleinhale_wrap"
         },
-        "start": "2026-07-06 07:16:00",
-        "end": "2026-07-06 07:18:00",
+        "start": "2026-07-06 09:16:00",
+        "end": "2026-07-06 09:18:00",
         "duration_minutes": 2,
         "duration_label": "2 分钟",
         "active": false,
@@ -10254,8 +10324,8 @@
           "cn": "aurora_exhaleinhale_wrap",
           "en": "aurora_exhaleinhale_wrap"
         },
-        "start": "2026-07-06 09:16:00",
-        "end": "2026-07-06 09:18:00",
+        "start": "2026-07-06 11:16:00",
+        "end": "2026-07-06 11:18:00",
         "duration_minutes": 2,
         "duration_label": "2 分钟",
         "active": false,
