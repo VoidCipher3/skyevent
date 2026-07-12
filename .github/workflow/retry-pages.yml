@@ -1,0 +1,23 @@
+name: Retry failed Pages deploy
+
+on:
+  workflow_run:
+    workflows:
+      - "Fetch Sky data & deploy"
+    types:
+      - completed
+
+jobs:
+  retry:
+    if: ${{ github.event.workflow_run.conclusion == 'failure' }}
+    runs-on: ubuntu-latest
+
+    permissions:
+      actions: write
+
+    steps:
+      - name: Retry workflow
+        run: |
+          gh workflow run "Fetch Sky data & deploy.yml"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
