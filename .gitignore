@@ -1,0 +1,4 @@
+*.txt
+/worker/*
+*.py
+example_event_names.json

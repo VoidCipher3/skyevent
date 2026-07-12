@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#101827">
+  <title>光遇 活動 / 影片 資料</title>
+  <link rel="icon" type="image/jpeg" href="../sky.jpg">
+  <script>window.APP_LANG = "tw";</script>
+  <link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+<main>
+  <nav class="lang-switch">
+    <a href="../tw/" class="current">繁體中文</a>
+    <a href="../cn/">简体中文</a>
+    <a href="../en/">English</a>
+  </nav>
+  <h1 id="pageTitle"></h1>
+  <div class="hint" id="hint"></div>
+
+  <section class="card">
+    <p id="fetchMeta" class="meta"></p>
+    <p id="msg"></p>
+    <div class="row refresh-row">
+      <input type="password" id="refreshPassword" class="field-grow" autocomplete="off">
+      <button type="button" id="refreshBtn" class="secondary"></button>
+    </div>
+    <p id="refreshStatus" class="meta"></p>
+  </section>
+
+  <section class="card">
+    <div class="row tabs tab-bar">
+      <button id="tabSchedule" class="active-tab" type="button"></button>
+      <button id="tabVideo" type="button"></button>
+      <button id="tabDiff" type="button"></button>
+    </div>
+    <div class="row toolbar">
+      <input id="filterQ" class="field-grow" autocomplete="off">
+      <select id="sortMode" class="sort-select">
+        <option value="status_alpha"></option>
+        <option value="status_time"></option>
+      </select>
+      <label class="meta chk-only-active"><input type="checkbox" id="onlyActive"> <span id="onlyActiveLabel"></span></label>
+    </div>
+    <div id="quickFiltersSchedule" class="row chip-row"></div>
+    <div id="quickFiltersVideo" class="row chip-row hidden"></div>
+    <p id="dataMeta" class="meta"></p>
+
+    <div id="panelSchedule">
+      <div class="table-wrap">
+        <table class="responsive-table">
+          <thead><tr><th id="schHead0"></th><th id="schHead1"></th><th id="schHead2"></th><th id="schHead3"></th><th id="schHead4"></th><th id="schHead5"></th></tr></thead>
+          <tbody id="scheduleBody"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <div id="panelVideo" class="hidden">
+      <div class="table-wrap">
+        <table class="responsive-table">
+          <thead><tr><th id="vidHead0"></th><th id="vidHead1"></th><th id="vidHead2"></th><th id="vidHead3"></th><th id="vidHead4"></th></tr></thead>
+          <tbody id="videoBody"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <div id="panelDiff" class="hidden">
+      <div id="diffMeta" class="meta" style="margin-bottom:12px"></div>
+      <div class="diff-grid">
+        <div class="diff-block"><h3 id="diffScheduleAddedH"></h3><ul id="diffScheduleAdded" class="diff-list"></ul></div>
+        <div class="diff-block"><h3 id="diffScheduleRemovedH"></h3><ul id="diffScheduleRemoved" class="diff-list"></ul></div>
+        <div class="diff-block"><h3 id="diffVideoAddedH"></h3><ul id="diffVideoAdded" class="diff-list"></ul></div>
+        <div class="diff-block"><h3 id="diffVideoRemovedH"></h3><ul id="diffVideoRemoved" class="diff-list"></ul></div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<div id="videoModal" class="video-modal hidden" aria-hidden="true">
+  <div class="video-modal-panel">
+    <div class="video-modal-head">
+      <h2 id="videoModalTitle">▶</h2>
+      <select id="videoLangSelect" class="video-lang-select hidden">
+        <option value="en">English</option>
+        <option value="zh">繁體中文</option>
+        <option value="ja">日本語</option>
+      </select>
+      <button type="button" id="videoModalClose" class="secondary"></button>
+    </div>
+    <video id="videoPlayer" controls playsinline></video>
+    <p id="videoModalHint" class="meta"></p>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/hls.js@1.5.15/dist/hls.min.js"></script>
+<script src="../assets/app.js"></script>
+</body>
+</html>

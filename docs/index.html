@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sky: CotL Data <src>image</src></title>
+<link rel="icon" type="image/x-icon" href="sky.jpg">
+<style>
+  body { margin:0; min-height:100vh; display:flex; align-items:center; justify-content:center;
+         background:#101827; color:#e5e7eb; font-family:system-ui,-apple-system,"PingFang SC",sans-serif; }
+  .box { text-align:center; }
+  a { display:inline-block; margin:8px; padding:12px 20px; border-radius:10px; background:#93c5fd;
+      color:#0f172a; font-weight:700; text-decoration:none; }
+</style>
+<script>
+  (function () {
+    var lang = (navigator.language || "en").toLowerCase();
+    var target = "en/";
+    if (lang.startsWith("zh-hant") || lang === "zh-tw" || lang === "zh-hk") target = "tw/";
+    else if (lang.startsWith("zh")) target = "cn/";
+    location.replace(target);
+  })();
+</script>
+</head>
+<body>
+  <div class="box">
+    <p>Redirecting… / 正在跳轉…</p>
+    <a href="tw/">繁體中文</a>
+    <a href="cn/">简体中文</a>
+    <a href="en/">English</a>
+  </div>
+</body>
+</html>
