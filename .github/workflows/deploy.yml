@@ -1,0 +1,63 @@
+name: Fetch Sky data & deploy
+
+on:
+  # 排程改交給 Cloudflare Worker 的 Cron Trigger（worker/wrangler.toml 的 [triggers]），
+  # 每 30 分鐘由 Worker 準時戳這裡的 workflow_dispatch，比 GitHub 自己的 schedule: cron 準時。
+  workflow_dispatch: {}       # 允許在 Actions 頁面手動點一下立即跑一次，Worker 也是透過這個觸發
+
+concurrency:
+  group: sky-data-sync
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install requests
+
+      # 唯一要執行的腳本；sky_client / converter / diff_state / translate 都只是被它 import 的模組。
+      # 產出寫進 docs/data/*.json，其中 diff_state.json 是差异比对要跨次執行保留的內部狀態。
+      - name: Fetch & build
+        working-directory: scripts
+        env:
+          B: ${{ secrets.SKY_B }}
+          B1: ${{ secrets.SKY_B1 }}
+          EVENT_NAMES_JSON: ${{ secrets.SKY_EVENT_NAMES_JSON }}
+          SERVER_NAME: global
+        run: python fetch_and_build.py
+
+      # 直接把整個 docs/（含這次剛產生的最新 json）推上 Cloudflare Pages。
+      # 這一步負責「網站看到的資料」，不依賴、也不等待下面的 git commit。
+      #
+      # 前置作業（一次性）：
+      #   1. Cloudflare Dashboard → Workers & Pages → 建立一個 Pages 專案（Direct Upload 類型即可，不用連 git）
+      #   2. 在這個 repo 的 Settings → Secrets 加上：
+      #      CLOUDFLARE_API_TOKEN（Pages:Edit 權限）
+      #      CLOUDFLARE_ACCOUNT_ID
+      #   3. 下面 projectName 換成你在步驟 1 建立的專案名稱
+      - name: Deploy docs/ to Cloudflare Pages
+        uses: cloudflare/pages-action@v1
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          projectName: skyevent
+          directory: docs
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit archive & diff-state only
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add archive docs/data/*.json
+          git diff --cached --quiet || git commit -m "chore: update archive & diff-state $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
