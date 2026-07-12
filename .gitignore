@@ -1,4 +1,8 @@
 *.txt
-/worker/*
+/worker/.wrangler
+/worker/README.md
 *.py
 example_event_names.json
+__pycache__/
+index_2026-07-06.js
+old_index.js
