@@ -38,6 +38,7 @@ jobs:
           SCRIPT_CONVERTER: ${{ secrets.SCRIPT_CONVERTER }}
           SCRIPT_DIFF: ${{ secrets.SCRIPT_DIFF }}
           SCRIPT_TRANSLATE: ${{ secrets.SCRIPT_TRANSLATE }}
+          SCRIPT_MAIN: ${{ secrets.SCRIPT_MAIN }}
 
       - name: Deploy Worker (site + API)
         uses: nick-fields/retry@v3
