@@ -3,7 +3,7 @@ on:
   workflow_dispatch: {}
 
 concurrency:
-  group: sky-data-sync
+  group: skyevent
   cancel-in-progress: false
 
 permissions:
@@ -29,12 +29,11 @@ jobs:
           timeout_minutes: 5
           max_attempts: 3
           retry_wait_seconds: 20
-          command: cd scripts && python main.py
+          command: "python main.py"
         env:
           B: ${{ secrets.B }}
           B1: ${{ secrets.B1 }}
           EVENT_NAMES_JSON: ${{ secrets.EVENT_NAMES_JSON }}
-          SERVER_NAME: global
           SCRIPT_CLIENT: ${{ secrets.SCRIPT_CLIENT }}
           SCRIPT_CONVERTER: ${{ secrets.SCRIPT_CONVERTER }}
           SCRIPT_DIFF: ${{ secrets.SCRIPT_DIFF }}
