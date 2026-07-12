@@ -3,10 +3,100 @@
   "diff": {
     "event_schedule": {
       "has_recorded_diff": true,
-      "recorded_at_fmt": "2026-07-12 21:46:47",
-      "previous_fetched_at_fmt": "2026-07-12 20:58:59",
+      "recorded_at_fmt": "2026-07-12 23:13:07",
+      "previous_fetched_at_fmt": "2026-07-12 21:46:47",
       "unchanged_since_last_change": false,
       "added": [
+        {
+          "name": "global_ann_perf1",
+          "label": {
+            "tw": "global_ann_perf1",
+            "cn": "global_ann_perf1",
+            "en": "global_ann_perf1"
+          },
+          "start": "2026-07-12 23:13:00",
+          "end": "2026-07-12 23:18:00",
+          "duration_label": 5
+        },
+        {
+          "name": "global_ann_perf2",
+          "label": {
+            "tw": "global_ann_perf2",
+            "cn": "global_ann_perf2",
+            "en": "global_ann_perf2"
+          },
+          "start": "2026-07-12 23:30:00",
+          "end": "2026-07-12 23:35:00",
+          "duration_label": 5
+        },
+        {
+          "name": "global_ann_perf3",
+          "label": {
+            "tw": "global_ann_perf3",
+            "cn": "global_ann_perf3",
+            "en": "global_ann_perf3"
+          },
+          "start": "2026-07-12 23:45:00",
+          "end": "2026-07-12 23:50:00",
+          "duration_label": 5
+        },
+        {
+          "name": "global_nature_geyser",
+          "label": {
+            "tw": "global_nature_geyser",
+            "cn": "global_nature_geyser",
+            "en": "global_nature_geyser"
+          },
+          "start": "2026-07-12 23:00:00",
+          "end": "2026-07-12 23:15:00",
+          "duration_label": 15
+        },
+        {
+          "name": "skyfest_fireworks_show_act2",
+          "label": {
+            "tw": "skyfest_fireworks_show_act2",
+            "cn": "skyfest_fireworks_show_act2",
+            "en": "skyfest_fireworks_show_act2"
+          },
+          "start": "2026-07-12 23:25:00",
+          "end": "2026-07-12 23:28:00",
+          "duration_label": 3
+        },
+        {
+          "name": "skyfest_fireworks_show_act3",
+          "label": {
+            "tw": "skyfest_fireworks_show_act3",
+            "cn": "skyfest_fireworks_show_act3",
+            "en": "skyfest_fireworks_show_act3"
+          },
+          "start": "2026-07-12 23:28:00",
+          "end": "2026-07-12 23:29:00",
+          "duration_label": 1
+        },
+        {
+          "name": "skyfest_fireworks_show_act4",
+          "label": {
+            "tw": "skyfest_fireworks_show_act4",
+            "cn": "skyfest_fireworks_show_act4",
+            "en": "skyfest_fireworks_show_act4"
+          },
+          "start": "2026-07-12 23:29:00",
+          "end": "2026-07-12 23:37:00",
+          "duration_label": 8
+        }
+      ],
+      "removed": [
+        {
+          "name": "anniversary_office_video_thankyou",
+          "label": {
+            "tw": "anniversary_office_video_thankyou",
+            "cn": "anniversary_office_video_thankyou",
+            "en": "anniversary_office_video_thankyou"
+          },
+          "start": "2026-07-12 22:00:00",
+          "end": "2026-07-12 22:10:00",
+          "duration_label": 10
+        },
         {
           "name": "aurora_minigame_1",
           "label": {
@@ -28,6 +118,17 @@
           "start": "2026-07-12 22:15:00",
           "end": "2026-07-12 22:27:00",
           "duration_label": 12
+        },
+        {
+          "name": "day_fairyring",
+          "label": {
+            "tw": "day_fairyring",
+            "cn": "day_fairyring",
+            "en": "day_fairyring"
+          },
+          "start": "2026-07-12 21:50:00",
+          "end": "2026-07-12 22:00:00",
+          "duration_label": 10
         },
         {
           "name": "global_ann_perf10",
@@ -52,15 +153,59 @@
           "duration_label": 5
         },
         {
-          "name": "mainstreet_cycle_sunset_B",
+          "name": "global_newyear_firework_interval",
           "label": {
-            "tw": "mainstreet_cycle_sunset_B",
-            "cn": "mainstreet_cycle_sunset_B",
-            "en": "mainstreet_cycle_sunset_B"
+            "tw": "global_newyear_firework_interval",
+            "cn": "global_newyear_firework_interval",
+            "en": "global_newyear_firework_interval"
           },
-          "start": "2026-07-12 21:40:00",
-          "end": "2026-07-12 21:50:00",
+          "start": "2026-07-12 22:00:00",
+          "end": "2026-07-12 22:05:00",
+          "duration_label": 5
+        },
+        {
+          "name": "mainstreet_cycle_morning_B",
+          "label": {
+            "tw": "mainstreet_cycle_morning_B",
+            "cn": "mainstreet_cycle_morning_B",
+            "en": "mainstreet_cycle_morning_B"
+          },
+          "start": "2026-07-12 22:00:00",
+          "end": "2026-07-12 22:10:00",
           "duration_label": 10
+        },
+        {
+          "name": "mainstreet_cycle_night_B",
+          "label": {
+            "tw": "mainstreet_cycle_night_B",
+            "cn": "mainstreet_cycle_night_B",
+            "en": "mainstreet_cycle_night_B"
+          },
+          "start": "2026-07-12 21:50:00",
+          "end": "2026-07-12 22:00:00",
+          "duration_label": 10
+        },
+        {
+          "name": "radiant_darkstone_despawn",
+          "label": {
+            "tw": "radiant_darkstone_despawn",
+            "cn": "radiant_darkstone_despawn",
+            "en": "radiant_darkstone_despawn"
+          },
+          "start": "2026-07-12 21:59:00",
+          "end": "2026-07-12 22:00:00",
+          "duration_label": 1
+        },
+        {
+          "name": "radiant_darkstone_despawn_warning",
+          "label": {
+            "tw": "radiant_darkstone_despawn_warning",
+            "cn": "radiant_darkstone_despawn_warning",
+            "en": "radiant_darkstone_despawn_warning"
+          },
+          "start": "2026-07-12 21:58:00",
+          "end": "2026-07-12 21:59:00",
+          "duration_label": 1
         },
         {
           "name": "social_nature2022turtle",
@@ -94,85 +239,17 @@
           "start": "2026-07-12 22:00:00",
           "end": "2026-07-12 22:10:00",
           "duration_label": 10
-        }
-      ],
-      "removed": [
-        {
-          "name": "aurora_minigame_4",
-          "label": {
-            "tw": "aurora_minigame_4",
-            "cn": "aurora_minigame_4",
-            "en": "aurora_minigame_4"
-          },
-          "start": "2026-07-12 20:45:00",
-          "end": "2026-07-12 20:57:00",
-          "duration_label": 12
         },
         {
-          "name": "global_ann_perf7",
+          "name": "sunset_colosseum_firework_interval",
           "label": {
-            "tw": "global_ann_perf7",
-            "cn": "global_ann_perf7",
-            "en": "global_ann_perf7"
+            "tw": "sunset_colosseum_firework_interval",
+            "cn": "sunset_colosseum_firework_interval",
+            "en": "sunset_colosseum_firework_interval"
           },
-          "start": "2026-07-12 21:15:00",
-          "end": "2026-07-12 21:20:00",
-          "duration_label": 5
-        },
-        {
-          "name": "global_ann_perf8",
-          "label": {
-            "tw": "global_ann_perf8",
-            "cn": "global_ann_perf8",
-            "en": "global_ann_perf8"
-          },
-          "start": "2026-07-12 21:30:00",
-          "end": "2026-07-12 21:35:00",
-          "duration_label": 5
-        },
-        {
-          "name": "global_nature_geyser",
-          "label": {
-            "tw": "global_nature_geyser",
-            "cn": "global_nature_geyser",
-            "en": "global_nature_geyser"
-          },
-          "start": "2026-07-12 21:00:00",
-          "end": "2026-07-12 21:15:00",
-          "duration_label": 15
-        },
-        {
-          "name": "skyfest_fireworks_show_act2",
-          "label": {
-            "tw": "skyfest_fireworks_show_act2",
-            "cn": "skyfest_fireworks_show_act2",
-            "en": "skyfest_fireworks_show_act2"
-          },
-          "start": "2026-07-12 21:25:00",
-          "end": "2026-07-12 21:28:00",
+          "start": "2026-07-12 22:00:00",
+          "end": "2026-07-12 22:03:00",
           "duration_label": 3
-        },
-        {
-          "name": "skyfest_fireworks_show_act3",
-          "label": {
-            "tw": "skyfest_fireworks_show_act3",
-            "cn": "skyfest_fireworks_show_act3",
-            "en": "skyfest_fireworks_show_act3"
-          },
-          "start": "2026-07-12 21:28:00",
-          "end": "2026-07-12 21:29:00",
-          "duration_label": 1
-        },
-        {
-          "name": "skyfest_fireworks_show_act4",
-          "label": {
-            "tw": "skyfest_fireworks_show_act4",
-            "cn": "skyfest_fireworks_show_act4",
-            "en": "skyfest_fireworks_show_act4"
-          },
-          "start": "2026-07-12 21:29:00",
-          "end": "2026-07-12 21:37:00",
-          "duration_label": 8
         }
       ]
     },
