@@ -1,11 +1,14 @@
 name: Fetch Sky data & deploy
 on:
   workflow_dispatch: {}
+
 concurrency:
   group: sky-data-sync
   cancel-in-progress: false
+
 permissions:
   contents: write
+  
 jobs:
   fetch-and-deploy:
     runs-on: ubuntu-latest
