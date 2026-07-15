@@ -2,10 +2,10 @@
   "ready": true,
   "snapshots": {
     "event_schedule": {
-      "fetched_at_fmt": "2026-07-16 04:01:04"
+      "fetched_at_fmt": "2026-07-16 04:31:01"
     },
     "video_defs": {
-      "fetched_at_fmt": "2026-07-16 04:01:04"
+      "fetched_at_fmt": "2026-07-16 04:31:01"
     }
   }
 }
