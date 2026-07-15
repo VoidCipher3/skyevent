@@ -3319,6 +3319,7 @@
   "2026-07-16": {
     "active_events": [
       "AP27CapeHealingSpa",
+      "anniversary_office_video_thankyou",
       "ap18_ritual_02",
       "ap18_ritual_02_audience_lobby",
       "ap18_ritual_03",
@@ -3347,6 +3348,7 @@
       "aurora_exhaleinhale_wrap",
       "aurora_eyesofachild",
       "aurora_eyesofachild_countdown",
+      "aurora_minigame_1",
       "aurora_minigame_vote_rotation",
       "aurora_orbit",
       "aurora_orbit_countdown",
@@ -3451,6 +3453,7 @@
       "global_mainstreet",
       "global_merchandise_live",
       "global_musicshop_sale",
+      "global_newyear_firework_interval",
       "global_office_shop",
       "global_pc_launch",
       "global_qixi_couple",
@@ -3465,6 +3468,7 @@
       "global_wing_none",
       "hub_clocktower",
       "mainstreet_cycle_day_B",
+      "mainstreet_cycle_morning_B",
       "mainstreet_cycle_night_B",
       "mainstreet_cycle_sunset_B",
       "musicshop_weekly_rotation_02",
@@ -3673,6 +3677,8 @@
       "quest_sunset_race",
       "quest_sunset_yeti_race",
       "quest_tgc_office_vince",
+      "radiant_darkstone_despawn",
+      "radiant_darkstone_despawn_warning",
       "radiant_darkstone_enable",
       "radiant_darkstone_spawn",
       "rain_darkstone_0",
@@ -3690,6 +3696,7 @@
       "skyfest_fireworks_show_act4",
       "skyfest_fireworks_show_medpad",
       "skyfest_oreo",
+      "skyfest_parade",
       "skyfest_soundbath",
       "snake_coin",
       "snake_random_rail",
@@ -3704,6 +3711,7 @@
       "social_rain_grandmatable",
       "social_skyway_speedtube",
       "social_sunset_labyrinth",
+      "social_turtle_despawn",
       "social_turtle_on",
       "social_wax_on",
       "spiritshopitem_ap06unlock_ap07_fetch_01",
@@ -3844,6 +3852,7 @@
       "spiritshopitem_ap06unlock_fetch_rain",
       "spiritshopitem_ap06unlock_fetch_sunset",
       "stormy_night",
+      "sunset_colosseum_firework_interval",
       "sunset_village_fishing",
       "sunset_village_spell_shop",
       "survey_anniversary_0_33_7",
@@ -3893,7 +3902,7 @@
       "wildlifepark_cycle_sunset",
       "wing_buff_conversion_period"
     ],
-    "total": 767,
-    "active_count": 542
+    "total": 782,
+    "active_count": 533
   }
 }

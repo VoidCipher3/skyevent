@@ -3,56 +3,10 @@
   "diff": {
     "event_schedule": {
       "has_recorded_diff": true,
-      "recorded_at_fmt": "2026-07-16 03:24:44",
-      "previous_fetched_at_fmt": "2026-07-16 03:09:29",
+      "recorded_at_fmt": "2026-07-16 03:31:02",
+      "previous_fetched_at_fmt": "2026-07-16 03:24:44",
       "unchanged_since_last_change": false,
       "added": [
-        {
-          "name": "day_fairyring",
-          "label": {
-            "tw": "day_fairyring",
-            "cn": "day_fairyring",
-            "en": "day_fairyring"
-          },
-          "start": "2026-07-16 03:50:00",
-          "end": "2026-07-16 04:00:00",
-          "duration_label": 10
-        },
-        {
-          "name": "global_ann_perf3",
-          "label": {
-            "tw": "global_ann_perf3",
-            "cn": "global_ann_perf3",
-            "en": "global_ann_perf3"
-          },
-          "start": "2026-07-16 03:45:00",
-          "end": "2026-07-16 03:50:00",
-          "duration_label": 5
-        },
-        {
-          "name": "mainstreet_cycle_night_B",
-          "label": {
-            "tw": "mainstreet_cycle_night_B",
-            "cn": "mainstreet_cycle_night_B",
-            "en": "mainstreet_cycle_night_B"
-          },
-          "start": "2026-07-16 03:50:00",
-          "end": "2026-07-16 04:00:00",
-          "duration_label": 10
-        },
-        {
-          "name": "social_nature2022turtle",
-          "label": {
-            "tw": "social_nature2022turtle",
-            "cn": "social_nature2022turtle",
-            "en": "social_nature2022turtle"
-          },
-          "start": "2026-07-16 03:50:00",
-          "end": "2026-07-16 04:00:00",
-          "duration_label": 10
-        }
-      ],
-      "removed": [
         {
           "name": "anniversary_office_video_thankyou",
           "label": {
@@ -60,31 +14,31 @@
             "cn": "anniversary_office_video_thankyou",
             "en": "anniversary_office_video_thankyou"
           },
-          "start": "2026-07-16 03:00:00",
-          "end": "2026-07-16 03:10:00",
+          "start": "2026-07-16 04:00:00",
+          "end": "2026-07-16 04:10:00",
           "duration_label": 10
         },
         {
-          "name": "global_ann_perf1",
+          "name": "aurora_minigame_1",
           "label": {
-            "tw": "global_ann_perf1",
-            "cn": "global_ann_perf1",
-            "en": "global_ann_perf1"
+            "tw": "aurora_minigame_1",
+            "cn": "aurora_minigame_1",
+            "en": "aurora_minigame_1"
           },
-          "start": "2026-07-16 03:13:00",
-          "end": "2026-07-16 03:18:00",
-          "duration_label": 5
+          "start": "2026-07-16 04:00:00",
+          "end": "2026-07-16 04:12:00",
+          "duration_label": 12
         },
         {
-          "name": "global_nature_geyser",
+          "name": "global_newyear_firework_interval",
           "label": {
-            "tw": "global_nature_geyser",
-            "cn": "global_nature_geyser",
-            "en": "global_nature_geyser"
+            "tw": "global_newyear_firework_interval",
+            "cn": "global_newyear_firework_interval",
+            "en": "global_newyear_firework_interval"
           },
-          "start": "2026-07-16 03:00:00",
-          "end": "2026-07-16 03:15:00",
-          "duration_label": 15
+          "start": "2026-07-16 04:00:00",
+          "end": "2026-07-16 04:05:00",
+          "duration_label": 5
         },
         {
           "name": "mainstreet_cycle_morning_B",
@@ -93,20 +47,31 @@
             "cn": "mainstreet_cycle_morning_B",
             "en": "mainstreet_cycle_morning_B"
           },
-          "start": "2026-07-16 03:00:00",
-          "end": "2026-07-16 03:10:00",
+          "start": "2026-07-16 04:00:00",
+          "end": "2026-07-16 04:10:00",
           "duration_label": 10
         },
         {
-          "name": "mainstreet_cycle_overcast_day_B",
+          "name": "radiant_darkstone_despawn",
           "label": {
-            "tw": "mainstreet_cycle_overcast_day_B",
-            "cn": "mainstreet_cycle_overcast_day_B",
-            "en": "mainstreet_cycle_overcast_day_B"
+            "tw": "radiant_darkstone_despawn",
+            "cn": "radiant_darkstone_despawn",
+            "en": "radiant_darkstone_despawn"
           },
-          "start": "2026-07-16 03:10:00",
-          "end": "2026-07-16 03:15:00",
-          "duration_label": 5
+          "start": "2026-07-16 03:59:00",
+          "end": "2026-07-16 04:00:00",
+          "duration_label": 1
+        },
+        {
+          "name": "radiant_darkstone_despawn_warning",
+          "label": {
+            "tw": "radiant_darkstone_despawn_warning",
+            "cn": "radiant_darkstone_despawn_warning",
+            "en": "radiant_darkstone_despawn_warning"
+          },
+          "start": "2026-07-16 03:58:00",
+          "end": "2026-07-16 03:59:00",
+          "duration_label": 1
         },
         {
           "name": "skyfest_parade",
@@ -115,11 +80,34 @@
             "cn": "skyfest_parade",
             "en": "skyfest_parade"
           },
-          "start": "2026-07-16 03:00:00",
-          "end": "2026-07-16 03:20:00",
+          "start": "2026-07-16 04:00:00",
+          "end": "2026-07-16 04:20:00",
           "duration_label": 20
+        },
+        {
+          "name": "social_turtle_despawn",
+          "label": {
+            "tw": "social_turtle_despawn",
+            "cn": "social_turtle_despawn",
+            "en": "social_turtle_despawn"
+          },
+          "start": "2026-07-16 04:00:00",
+          "end": "2026-07-16 04:10:00",
+          "duration_label": 10
+        },
+        {
+          "name": "sunset_colosseum_firework_interval",
+          "label": {
+            "tw": "sunset_colosseum_firework_interval",
+            "cn": "sunset_colosseum_firework_interval",
+            "en": "sunset_colosseum_firework_interval"
+          },
+          "start": "2026-07-16 04:00:00",
+          "end": "2026-07-16 04:03:00",
+          "duration_label": 3
         }
-      ]
+      ],
+      "removed": []
     },
     "video_defs": {
       "has_recorded_diff": true,
