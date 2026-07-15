@@ -2,12 +2,12 @@
   "ok": true,
   "server": "global",
   "meta": {
-    "fetched_at_fmt": "2026-07-14 12:00:54",
+    "fetched_at_fmt": "2026-07-16 00:35:36",
     "auto_refresh": true,
     "refresh_interval_hours": 0.5
   },
   "data": {
-    "total": 70,
+    "total": 78,
     "videos": [
       {
         "name": "295filler",
@@ -95,6 +95,94 @@
         "has_playback": true,
         "has_subtitle": false,
         "has_translations": false,
+        "cellular_data_warning": false
+      },
+      {
+        "name": "artb2_abyss_ashyui",
+        "duration": 110,
+        "duration_fmt": "1:50",
+        "playback_url": "https://video.cdn.thatgamecompany.com/encoded/artb2_abyss_ashyui/860a6262-e334-47ce-aedb-042e757ec0fe/ARTB2_NFC_Abyss_AshYui_VLS_110s_2605/ARTB2_NFC_Abyss_AshYui_VLS_110s_2605_tgc.m3u8",
+        "subtitle_url": "https://video.cdn.thatgamecompany.com/vtt/artb2_abyss_ashyui/3a1cc482-8524-475e-92c3-008ee8a7d66f/artb2_-nfc-abyss-ash-yui_vls_110s_2605.vtt",
+        "has_playback": true,
+        "has_subtitle": true,
+        "has_translations": true,
+        "cellular_data_warning": false
+      },
+      {
+        "name": "artb2_aurora_ashyui",
+        "duration": 128,
+        "duration_fmt": "2:08",
+        "playback_url": "https://video.cdn.thatgamecompany.com/encoded/artb2_aurora_ashyui/98ca9dd6-9594-462c-8b8c-c6c148c6779d/ARTB2_NFC_Aurora_AshYui_VLS_128s_2605/ARTB2_NFC_Aurora_AshYui_VLS_128s_2605_tgc.m3u8",
+        "subtitle_url": "https://video.cdn.thatgamecompany.com/vtt/artb2_aurora_ashyui/b9944f72-43fc-43a9-ba2e-078898d8750a/artb2_nfc_aurora_ashyui_vls_128s_260521.vtt",
+        "has_playback": true,
+        "has_subtitle": true,
+        "has_translations": true,
+        "cellular_data_warning": false
+      },
+      {
+        "name": "artb2_enchantment_ashyui",
+        "duration": 115,
+        "duration_fmt": "1:55",
+        "playback_url": "https://video.cdn.thatgamecompany.com/encoded/artb2_enchantment_ashyui/7e26d0d2-e786-400b-b95d-a01273e368ea/ARTB2_NFC_Enchantment_AshYui_VLS_115s_2605/ARTB2_NFC_Enchantment_AshYui_VLS_115s_2605_tgc.m3u8",
+        "subtitle_url": "https://video.cdn.thatgamecompany.com/vtt/artb2_enchantment_ashyui/b13b6b8e-1030-4f7d-aaf2-32f89833c160/artb2_nfc_enchantment_ashyui_vls_115s_2605.vtt",
+        "has_playback": true,
+        "has_subtitle": true,
+        "has_translations": true,
+        "cellular_data_warning": false
+      },
+      {
+        "name": "artb2_moments_ashyui",
+        "duration": 155,
+        "duration_fmt": "2:35",
+        "playback_url": "https://video.cdn.thatgamecompany.com/encoded/artb2_moments_ashyui/97278f9b-245b-44dc-9b57-0c0ad3ff77a7/ARTB2_NFC_Moments_AshYui_VLS_155s_2605/ARTB2_NFC_Moments_AshYui_VLS_155s_2605_tgc.m3u8",
+        "subtitle_url": "https://video.cdn.thatgamecompany.com/vtt/artb2_moments_ashyui/5eafdff0-ca1f-4b52-93ff-63fdf30250a5/ARTB2_-NFC-Moments-Ash_Yui_VLS_155s_260521.vtt",
+        "has_playback": true,
+        "has_subtitle": true,
+        "has_translations": true,
+        "cellular_data_warning": false
+      },
+      {
+        "name": "artb2_prophecy_ashyui",
+        "duration": 103,
+        "duration_fmt": "1:43",
+        "playback_url": "https://video.cdn.thatgamecompany.com/encoded/artb2_prophecy_ashyui/db7a3fc1-ffa9-4b61-a0e8-7e8ec7d65151/ARTB2_NFC_Prophecy_AshYui_VLS_103s_2605/ARTB2_NFC_Prophecy_AshYui_VLS_103s_2605_tgc.m3u8",
+        "subtitle_url": "https://video.cdn.thatgamecompany.com/vtt/artb2_prophecy_ashyui/7c24a36f-a654-4b5f-ab4a-352fa684b7be/ARTB2_-NFC-Prophecy-Ash_Yui_VLS_103s_2605.vtt",
+        "has_playback": true,
+        "has_subtitle": true,
+        "has_translations": true,
+        "cellular_data_warning": false
+      },
+      {
+        "name": "artb2_revival_ashyui",
+        "duration": 188,
+        "duration_fmt": "3:08",
+        "playback_url": "https://video.cdn.thatgamecompany.com/encoded/artb2_revival_ashyui/59b7f43d-ab45-43e1-b42b-d7201cd13e58/ARTB2_NFC_Revival_AshYui_VLS_188s_2605/ARTB2_NFC_Revival_AshYui_VLS_188s_2605_tgc.m3u8",
+        "subtitle_url": "https://video.cdn.thatgamecompany.com/vtt/artb2_revival_ashyui/01f1dc49-e854-4b2c-af64-5275f3442542/ARTB2_-NFC-Revival-Ash_Yui_VLS_188s_260521.vtt",
+        "has_playback": true,
+        "has_subtitle": true,
+        "has_translations": true,
+        "cellular_data_warning": false
+      },
+      {
+        "name": "artb2_sanctuary_ashyui",
+        "duration": 103,
+        "duration_fmt": "1:43",
+        "playback_url": "https://video.cdn.thatgamecompany.com/encoded/artb2_sanctuary_ashyui/b8e6eb7d-be2b-44f2-ae92-9f9834552014/ARTB2_NFC_Sanctuary_AshYui_VLS_103s_2605/ARTB2_NFC_Sanctuary_AshYui_VLS_103s_2605_tgc.m3u8",
+        "subtitle_url": "https://video.cdn.thatgamecompany.com/vtt/artb2_sanctuary_ashyui/a326723d-0744-41af-ac45-75b97950c66b/ARTB2_-NFC-Sanctuary-Ash_Yui_VLS_103s_260521.vtt",
+        "has_playback": true,
+        "has_subtitle": true,
+        "has_translations": true,
+        "cellular_data_warning": false
+      },
+      {
+        "name": "artb2_tlp_ashyui",
+        "duration": 119,
+        "duration_fmt": "1:59",
+        "playback_url": "https://video.cdn.thatgamecompany.com/encoded/artb2_tlp_ashyui/7e0e0388-e29c-4c99-9c55-079df53d761b/ARTB2_NFC_TLP_AshYui_VLS_119s_2605/ARTB2_NFC_TLP_AshYui_VLS_119s_2605_tgc.m3u8",
+        "subtitle_url": "https://video.cdn.thatgamecompany.com/vtt/artb2_tlp_ashyui/0a9db34a-76e7-4462-b21d-e11156206e1a/artb2_nfc_tlp_ashyui_vls_119s_2605.vtt",
+        "has_playback": true,
+        "has_subtitle": true,
+        "has_translations": true,
         "cellular_data_warning": false
       },
       {
