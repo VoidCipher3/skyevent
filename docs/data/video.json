@@ -2,12 +2,12 @@
   "ok": true,
   "server": "global",
   "meta": {
-    "fetched_at_fmt": "2026-07-17 05:31:05",
+    "fetched_at_fmt": "2026-07-17 06:01:06",
     "auto_refresh": true,
     "refresh_interval_hours": 0.5
   },
   "data": {
-    "total": 78,
+    "total": 80,
     "videos": [
       {
         "name": "295filler",
@@ -230,6 +230,17 @@
         "cellular_data_warning": false
       },
       {
+        "name": "awd26Locked*_show_p1_replay",
+        "duration": 1950,
+        "duration_fmt": "32:30",
+        "playback_url": "https://video.cdn.thatgamecompany.com/encoded/awd26Locked*_show_p1_replay/37ef04c2-9f42-43c8-a97e-57bbc76dc13d/SCA26_AwdCeremony-replay-P1_VLS_32m30_EN_2607/SCA26_AwdCeremony-replay-P1_VLS_32m30_EN_2607_tgc.m3u8",
+        "subtitle_url": "https://video.cdn.thatgamecompany.com/vtt/%20awd26Locked*_show_p1/a46c3dfe-bd58-4c59-88fc-e86351220eee/SCA26_Show_P1.vtt",
+        "has_playback": true,
+        "has_subtitle": true,
+        "has_translations": false,
+        "cellular_data_warning": false
+      },
+      {
         "name": "awd26Locked*_show_p2",
         "duration": 1650,
         "duration_fmt": "27:30",
@@ -238,6 +249,17 @@
         "has_playback": true,
         "has_subtitle": true,
         "has_translations": true,
+        "cellular_data_warning": false
+      },
+      {
+        "name": "awd26Locked*_show_p2_replay",
+        "duration": 1650,
+        "duration_fmt": "27:30",
+        "playback_url": "https://video.cdn.thatgamecompany.com/encoded/awd26Locked*_show_p2_replay/8af706f1-02e6-4e61-a915-ef5ced774fd0/SCA26_AwdCeremony-replay-P2_VLS_27m30_EN_2607/SCA26_AwdCeremony-replay-P2_VLS_27m30_EN_2607_tgc.m3u8",
+        "subtitle_url": "https://video.cdn.thatgamecompany.com/vtt/%20awd26Locked*_show_p2/4ae89f43-3388-4970-ac18-915c542fb291/SCA26_Show_P2.vtt",
+        "has_playback": true,
+        "has_subtitle": true,
+        "has_translations": false,
         "cellular_data_warning": false
       },
       {
