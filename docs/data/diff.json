@@ -3,10 +3,78 @@
   "diff": {
     "event_schedule": {
       "has_recorded_diff": true,
-      "recorded_at_fmt": "2026-07-18 04:31:06",
-      "previous_fetched_at_fmt": "2026-07-18 04:01:10",
+      "recorded_at_fmt": "2026-07-18 05:01:09",
+      "previous_fetched_at_fmt": "2026-07-18 04:31:06",
       "unchanged_since_last_change": false,
       "added": [
+        {
+          "name": "global_ann_perf7",
+          "label": {
+            "tw": "global_ann_perf7",
+            "cn": "global_ann_perf7",
+            "en": "global_ann_perf7"
+          },
+          "start": "2026-07-18 05:15:00",
+          "end": "2026-07-18 05:20:00",
+          "duration_label": 5
+        },
+        {
+          "name": "global_ann_perf8",
+          "label": {
+            "tw": "global_ann_perf8",
+            "cn": "global_ann_perf8",
+            "en": "global_ann_perf8"
+          },
+          "start": "2026-07-18 05:30:00",
+          "end": "2026-07-18 05:35:00",
+          "duration_label": 5
+        },
+        {
+          "name": "mainstreet_cycle_overcast_day_B",
+          "label": {
+            "tw": "mainstreet_cycle_overcast_day_B",
+            "cn": "mainstreet_cycle_overcast_day_B",
+            "en": "mainstreet_cycle_overcast_day_B"
+          },
+          "start": "2026-07-18 05:10:00",
+          "end": "2026-07-18 05:15:00",
+          "duration_label": 5
+        },
+        {
+          "name": "social_rain_grandmatable",
+          "label": {
+            "tw": "social_rain_grandmatable",
+            "cn": "social_rain_grandmatable",
+            "en": "social_rain_grandmatable"
+          },
+          "start": "2026-07-18 05:30:00",
+          "end": "2026-07-18 05:45:00",
+          "duration_label": 15
+        }
+      ],
+      "removed": [
+        {
+          "name": "aurora_minigame_2",
+          "label": {
+            "tw": "aurora_minigame_2",
+            "cn": "aurora_minigame_2",
+            "en": "aurora_minigame_2"
+          },
+          "start": "2026-07-18 04:15:00",
+          "end": "2026-07-18 04:27:00",
+          "duration_label": 12
+        },
+        {
+          "name": "aurora_minigame_3",
+          "label": {
+            "tw": "aurora_minigame_3",
+            "cn": "aurora_minigame_3",
+            "en": "aurora_minigame_3"
+          },
+          "start": "2026-07-18 04:30:00",
+          "end": "2026-07-18 04:42:00",
+          "duration_label": 12
+        },
         {
           "name": "aurora_minigame_4",
           "label": {
@@ -17,6 +85,17 @@
           "start": "2026-07-18 04:45:00",
           "end": "2026-07-18 04:57:00",
           "duration_label": 12
+        },
+        {
+          "name": "global_ann_perf5",
+          "label": {
+            "tw": "global_ann_perf5",
+            "cn": "global_ann_perf5",
+            "en": "global_ann_perf5"
+          },
+          "start": "2026-07-18 04:30:00",
+          "end": "2026-07-18 04:35:00",
+          "duration_label": 5
         },
         {
           "name": "global_ann_perf6",
@@ -30,17 +109,6 @@
           "duration_label": 5
         },
         {
-          "name": "global_nature_geyser",
-          "label": {
-            "tw": "global_nature_geyser",
-            "cn": "global_nature_geyser",
-            "en": "global_nature_geyser"
-          },
-          "start": "2026-07-18 05:00:00",
-          "end": "2026-07-18 05:15:00",
-          "duration_label": 15
-        },
-        {
           "name": "mainstreet_cycle_sunset_B",
           "label": {
             "tw": "mainstreet_cycle_sunset_B",
@@ -50,74 +118,17 @@
           "start": "2026-07-18 04:40:00",
           "end": "2026-07-18 04:50:00",
           "duration_label": 10
-        }
-      ],
-      "removed": [
-        {
-          "name": "aurora_minigame_1",
-          "label": {
-            "tw": "aurora_minigame_1",
-            "cn": "aurora_minigame_1",
-            "en": "aurora_minigame_1"
-          },
-          "start": "2026-07-18 04:00:00",
-          "end": "2026-07-18 04:12:00",
-          "duration_label": 12
         },
         {
-          "name": "global_ann_perf4",
+          "name": "stormy_intensity_5",
           "label": {
-            "tw": "global_ann_perf4",
-            "cn": "global_ann_perf4",
-            "en": "global_ann_perf4"
+            "tw": "stormy_intensity_5",
+            "cn": "stormy_intensity_5",
+            "en": "stormy_intensity_5"
           },
-          "start": "2026-07-18 04:15:00",
-          "end": "2026-07-18 04:20:00",
-          "duration_label": 5
-        },
-        {
-          "name": "mainstreet_cycle_overcast_day_B",
-          "label": {
-            "tw": "mainstreet_cycle_overcast_day_B",
-            "cn": "mainstreet_cycle_overcast_day_B",
-            "en": "mainstreet_cycle_overcast_day_B"
-          },
-          "start": "2026-07-18 04:10:00",
-          "end": "2026-07-18 04:15:00",
-          "duration_label": 5
-        },
-        {
-          "name": "social_nature2022turtle",
-          "label": {
-            "tw": "social_nature2022turtle",
-            "cn": "social_nature2022turtle",
-            "en": "social_nature2022turtle"
-          },
-          "start": "2026-07-18 03:50:00",
-          "end": "2026-07-18 04:00:00",
-          "duration_label": 10
-        },
-        {
-          "name": "social_sunsetskater",
-          "label": {
-            "tw": "social_sunsetskater",
-            "cn": "social_sunsetskater",
-            "en": "social_sunsetskater"
-          },
-          "start": "2026-07-18 04:00:00",
-          "end": "2026-07-18 04:15:00",
-          "duration_label": 15
-        },
-        {
-          "name": "social_turtle_despawn",
-          "label": {
-            "tw": "social_turtle_despawn",
-            "cn": "social_turtle_despawn",
-            "en": "social_turtle_despawn"
-          },
-          "start": "2026-07-18 04:00:00",
-          "end": "2026-07-18 04:10:00",
-          "duration_label": 10
+          "start": "2026-07-18 00:30:00",
+          "end": "2026-07-18 04:30:00",
+          "duration_label": 240
         }
       ]
     },
