@@ -3,10 +3,67 @@
   "diff": {
     "event_schedule": {
       "has_recorded_diff": true,
-      "recorded_at_fmt": "2026-07-20 12:00:17",
-      "previous_fetched_at_fmt": "2026-07-20 11:30:23",
+      "recorded_at_fmt": "2026-07-20 12:30:20",
+      "previous_fetched_at_fmt": "2026-07-20 12:00:17",
       "unchanged_since_last_change": false,
       "added": [
+        {
+          "name": "aurora_minigame_4",
+          "label": {
+            "tw": "aurora_minigame_4",
+            "cn": "aurora_minigame_4",
+            "en": "aurora_minigame_4"
+          },
+          "start": "2026-07-20 12:45:00",
+          "end": "2026-07-20 12:57:00",
+          "duration_label": 12
+        },
+        {
+          "name": "global_ann_perf6",
+          "label": {
+            "tw": "global_ann_perf6",
+            "cn": "global_ann_perf6",
+            "en": "global_ann_perf6"
+          },
+          "start": "2026-07-20 12:45:00",
+          "end": "2026-07-20 12:50:00",
+          "duration_label": 5
+        },
+        {
+          "name": "global_nature_geyser",
+          "label": {
+            "tw": "global_nature_geyser",
+            "cn": "global_nature_geyser",
+            "en": "global_nature_geyser"
+          },
+          "start": "2026-07-20 13:00:00",
+          "end": "2026-07-20 13:15:00",
+          "duration_label": 15
+        },
+        {
+          "name": "mainstreet_cycle_sunset_B",
+          "label": {
+            "tw": "mainstreet_cycle_sunset_B",
+            "cn": "mainstreet_cycle_sunset_B",
+            "en": "mainstreet_cycle_sunset_B"
+          },
+          "start": "2026-07-20 12:40:00",
+          "end": "2026-07-20 12:50:00",
+          "duration_label": 10
+        }
+      ],
+      "removed": [
+        {
+          "name": "aurora_minigame_1",
+          "label": {
+            "tw": "aurora_minigame_1",
+            "cn": "aurora_minigame_1",
+            "en": "aurora_minigame_1"
+          },
+          "start": "2026-07-20 12:00:00",
+          "end": "2026-07-20 12:12:00",
+          "duration_label": 12
+        },
         {
           "name": "aurora_minigame_2",
           "label": {
@@ -16,17 +73,6 @@
           },
           "start": "2026-07-20 12:15:00",
           "end": "2026-07-20 12:27:00",
-          "duration_label": 12
-        },
-        {
-          "name": "aurora_minigame_3",
-          "label": {
-            "tw": "aurora_minigame_3",
-            "cn": "aurora_minigame_3",
-            "en": "aurora_minigame_3"
-          },
-          "start": "2026-07-20 12:30:00",
-          "end": "2026-07-20 12:42:00",
           "duration_label": 12
         },
         {
@@ -41,17 +87,6 @@
           "duration_label": 5
         },
         {
-          "name": "global_ann_perf5",
-          "label": {
-            "tw": "global_ann_perf5",
-            "cn": "global_ann_perf5",
-            "en": "global_ann_perf5"
-          },
-          "start": "2026-07-20 12:30:00",
-          "end": "2026-07-20 12:35:00",
-          "duration_label": 5
-        },
-        {
           "name": "mainstreet_cycle_overcast_day_B",
           "label": {
             "tw": "mainstreet_cycle_overcast_day_B",
@@ -61,52 +96,50 @@
           "start": "2026-07-20 12:10:00",
           "end": "2026-07-20 12:15:00",
           "duration_label": 5
-        }
-      ],
-      "removed": [
-        {
-          "name": "global_ann_perf2",
-          "label": {
-            "tw": "global_ann_perf2",
-            "cn": "global_ann_perf2",
-            "en": "global_ann_perf2"
-          },
-          "start": "2026-07-20 11:30:00",
-          "end": "2026-07-20 11:35:00",
-          "duration_label": 5
         },
         {
-          "name": "global_ann_perf3",
+          "name": "skyfest_fireworks_show_act2",
           "label": {
-            "tw": "global_ann_perf3",
-            "cn": "global_ann_perf3",
-            "en": "global_ann_perf3"
+            "tw": "skyfest_fireworks_show_act2",
+            "cn": "skyfest_fireworks_show_act2",
+            "en": "skyfest_fireworks_show_act2"
           },
-          "start": "2026-07-20 11:45:00",
-          "end": "2026-07-20 11:50:00",
-          "duration_label": 5
+          "start": "2026-07-20 12:25:00",
+          "end": "2026-07-20 12:28:00",
+          "duration_label": 3
         },
         {
-          "name": "mainstreet_cycle_sunset_B",
+          "name": "social_nature2022turtle",
           "label": {
-            "tw": "mainstreet_cycle_sunset_B",
-            "cn": "mainstreet_cycle_sunset_B",
-            "en": "mainstreet_cycle_sunset_B"
+            "tw": "social_nature2022turtle",
+            "cn": "social_nature2022turtle",
+            "en": "social_nature2022turtle"
           },
-          "start": "2026-07-20 11:40:00",
-          "end": "2026-07-20 11:50:00",
+          "start": "2026-07-20 11:50:00",
+          "end": "2026-07-20 12:00:00",
           "duration_label": 10
         },
         {
-          "name": "social_rain_grandmatable",
+          "name": "social_sunsetskater",
           "label": {
-            "tw": "social_rain_grandmatable",
-            "cn": "social_rain_grandmatable",
-            "en": "social_rain_grandmatable"
+            "tw": "social_sunsetskater",
+            "cn": "social_sunsetskater",
+            "en": "social_sunsetskater"
           },
-          "start": "2026-07-20 11:30:00",
-          "end": "2026-07-20 11:45:00",
+          "start": "2026-07-20 12:00:00",
+          "end": "2026-07-20 12:15:00",
           "duration_label": 15
+        },
+        {
+          "name": "social_turtle_despawn",
+          "label": {
+            "tw": "social_turtle_despawn",
+            "cn": "social_turtle_despawn",
+            "en": "social_turtle_despawn"
+          },
+          "start": "2026-07-20 12:00:00",
+          "end": "2026-07-20 12:10:00",
+          "duration_label": 10
         }
       ]
     },
