@@ -3,10 +3,67 @@
   "diff": {
     "event_schedule": {
       "has_recorded_diff": true,
-      "recorded_at_fmt": "2026-07-20 08:00:29",
-      "previous_fetched_at_fmt": "2026-07-20 07:30:21",
+      "recorded_at_fmt": "2026-07-20 09:00:32",
+      "previous_fetched_at_fmt": "2026-07-20 08:00:29",
       "unchanged_since_last_change": false,
       "added": [
+        {
+          "name": "global_ann_perf7",
+          "label": {
+            "tw": "global_ann_perf7",
+            "cn": "global_ann_perf7",
+            "en": "global_ann_perf7"
+          },
+          "start": "2026-07-20 09:15:00",
+          "end": "2026-07-20 09:20:00",
+          "duration_label": 5
+        },
+        {
+          "name": "global_ann_perf8",
+          "label": {
+            "tw": "global_ann_perf8",
+            "cn": "global_ann_perf8",
+            "en": "global_ann_perf8"
+          },
+          "start": "2026-07-20 09:30:00",
+          "end": "2026-07-20 09:35:00",
+          "duration_label": 5
+        },
+        {
+          "name": "global_nature_geyser",
+          "label": {
+            "tw": "global_nature_geyser",
+            "cn": "global_nature_geyser",
+            "en": "global_nature_geyser"
+          },
+          "start": "2026-07-20 09:00:00",
+          "end": "2026-07-20 09:15:00",
+          "duration_label": 15
+        },
+        {
+          "name": "social_rain_grandmatable",
+          "label": {
+            "tw": "social_rain_grandmatable",
+            "cn": "social_rain_grandmatable",
+            "en": "social_rain_grandmatable"
+          },
+          "start": "2026-07-20 09:30:00",
+          "end": "2026-07-20 09:45:00",
+          "duration_label": 15
+        }
+      ],
+      "removed": [
+        {
+          "name": "aurora_minigame_1",
+          "label": {
+            "tw": "aurora_minigame_1",
+            "cn": "aurora_minigame_1",
+            "en": "aurora_minigame_1"
+          },
+          "start": "2026-07-20 08:00:00",
+          "end": "2026-07-20 08:12:00",
+          "duration_label": 12
+        },
         {
           "name": "aurora_minigame_2",
           "label": {
@@ -52,61 +109,70 @@
           "duration_label": 5
         },
         {
-          "name": "mainstreet_cycle_overcast_day_B",
+          "name": "radiant_darkstone_despawn_warning",
           "label": {
-            "tw": "mainstreet_cycle_overcast_day_B",
-            "cn": "mainstreet_cycle_overcast_day_B",
-            "en": "mainstreet_cycle_overcast_day_B"
+            "tw": "radiant_darkstone_despawn_warning",
+            "cn": "radiant_darkstone_despawn_warning",
+            "en": "radiant_darkstone_despawn_warning"
           },
-          "start": "2026-07-20 08:10:00",
-          "end": "2026-07-20 08:15:00",
-          "duration_label": 5
-        }
-      ],
-      "removed": [
-        {
-          "name": "global_ann_perf2",
-          "label": {
-            "tw": "global_ann_perf2",
-            "cn": "global_ann_perf2",
-            "en": "global_ann_perf2"
-          },
-          "start": "2026-07-20 07:30:00",
-          "end": "2026-07-20 07:35:00",
-          "duration_label": 5
+          "start": "2026-07-20 07:58:00",
+          "end": "2026-07-20 07:59:00",
+          "duration_label": 1
         },
         {
-          "name": "global_ann_perf3",
+          "name": "rain_rainbow",
           "label": {
-            "tw": "global_ann_perf3",
-            "cn": "global_ann_perf3",
-            "en": "global_ann_perf3"
+            "tw": "rain_rainbow",
+            "cn": "rain_rainbow",
+            "en": "rain_rainbow"
           },
-          "start": "2026-07-20 07:45:00",
-          "end": "2026-07-20 07:50:00",
-          "duration_label": 5
+          "start": "2026-07-20 08:00:00",
+          "end": "2026-07-20 08:30:00",
+          "duration_label": 30
         },
         {
-          "name": "mainstreet_cycle_sunset_B",
+          "name": "social_nature2022turtle",
           "label": {
-            "tw": "mainstreet_cycle_sunset_B",
-            "cn": "mainstreet_cycle_sunset_B",
-            "en": "mainstreet_cycle_sunset_B"
+            "tw": "social_nature2022turtle",
+            "cn": "social_nature2022turtle",
+            "en": "social_nature2022turtle"
           },
-          "start": "2026-07-20 07:40:00",
-          "end": "2026-07-20 07:50:00",
+          "start": "2026-07-20 07:50:00",
+          "end": "2026-07-20 08:00:00",
           "duration_label": 10
         },
         {
-          "name": "social_rain_grandmatable",
+          "name": "social_sunsetskater",
           "label": {
-            "tw": "social_rain_grandmatable",
-            "cn": "social_rain_grandmatable",
-            "en": "social_rain_grandmatable"
+            "tw": "social_sunsetskater",
+            "cn": "social_sunsetskater",
+            "en": "social_sunsetskater"
           },
-          "start": "2026-07-20 07:30:00",
-          "end": "2026-07-20 07:45:00",
+          "start": "2026-07-20 08:00:00",
+          "end": "2026-07-20 08:15:00",
           "duration_label": 15
+        },
+        {
+          "name": "social_turtle_despawn",
+          "label": {
+            "tw": "social_turtle_despawn",
+            "cn": "social_turtle_despawn",
+            "en": "social_turtle_despawn"
+          },
+          "start": "2026-07-20 08:00:00",
+          "end": "2026-07-20 08:10:00",
+          "duration_label": 10
+        },
+        {
+          "name": "stormy_intensity_3",
+          "label": {
+            "tw": "stormy_intensity_3",
+            "cn": "stormy_intensity_3",
+            "en": "stormy_intensity_3"
+          },
+          "start": "2026-07-20 04:40:00",
+          "end": "2026-07-20 08:40:00",
+          "duration_label": 240
         }
       ]
     },
