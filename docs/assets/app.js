@@ -40,7 +40,7 @@ const UI = {
     refreshPlaceholder: "輸入密碼立即刷新…", refreshButton: "立即刷新",
     refreshTriggering: "觸發中…", refreshSuccess: "已觸發，約 1 分鐘後重新整理頁面即可看到最新資料。",
     refreshWrongPassword: "密碼錯誤。", refreshTooSoon: (s) => `太頻繁了，請 ${s} 秒後再試。`,
-    refreshError: "觸發失敗，請稍後再試。", refreshNotConfigured: "尚未設定刷新服務。",longTerm: "長期"
+    refreshError: "觸發失敗，請稍後再試。", refreshNotConfigured: "尚未設定刷新服務。",longTerm: "長期", openSubtitleInNewTab:"在新分頁中開啟字幕"
   },
   cn: {
     title: "光遇 活动 / 影片 数据", hint: "数据每 30 分钟自动拉取一次，也可以在下方输入密码立即刷新。",
@@ -68,12 +68,12 @@ const UI = {
     unchangedVideo: "影片数据自上次变化后未再变动",
     modalClose: "关闭", cellularWarning: "此影片可能消耗较多流量。", playFail: "播放失败，请稍后重试。",
     fetchError: (n) => `${n} 读取失败`,
-    videoLangLabels: { en: "English", zh: "简体中文", zh_cn: "简体中文", ja: "日本語" },
+    videoLangLabels: { en: "English", zh: "繁体中文", zh_cn: "简体中文", ja: "日本語" },
     subtitleProxyFail: "官方服务器安全限制，无法加载内建字幕，请改用表格中的「字幕」按钮另开分页观看。",
     refreshPlaceholder: "输入密码立即刷新…", refreshButton: "立即刷新",
     refreshTriggering: "触发中…", refreshSuccess: "已触发，约 1 分钟后重新整理页面即可看到最新数据。",
     refreshWrongPassword: "密码错误。", refreshTooSoon: (s) => `太频繁了，请 ${s} 秒后再试。`,
-    refreshError: "触发失败，请稍后再试。", refreshNotConfigured: "尚未设定刷新服务。",longTerm: "长期"
+    refreshError: "触发失败，请稍后再试。", refreshNotConfigured: "尚未设定刷新服务。",longTerm: "长期", openSubtitleInNewTab:"在新分页中开启字幕"
   },
   en: {
     title: "Sky: CotL — Events & Videos", hint: "Data refreshes automatically every 30 minutes, or enter the password below to refresh immediately.",
@@ -106,7 +106,7 @@ const UI = {
     refreshPlaceholder: "Enter password to refresh now…", refreshButton: "Refresh now",
     refreshTriggering: "Triggering…", refreshSuccess: "Triggered — reload this page in about a minute to see the new data.",
     refreshWrongPassword: "Wrong password.", refreshTooSoon: (s) => `Too soon, try again in ${s}s.`,
-    refreshError: "Failed to trigger, please try again later.", refreshNotConfigured: "Refresh service not configured yet.",longTerm: "Long term"
+    refreshError: "Failed to trigger, please try again later.", refreshNotConfigured: "Refresh service not configured yet.",longTerm: "Long term", openSubtitleInNewTab:"open subtitle in a new tab"
   },
 };
 
@@ -353,18 +353,17 @@ function openPlayer(row) {
   currentVideoRow = row;
 
   const langSelect = $("videoLangSelect");
+  const langCode = getSubtitleLangCode();
   if (langSelect) {
     if (row.has_translations) {
       langSelect.classList.remove("hidden");
-      langSelect.value = LANG === "en" ? "en" : "zh";
+      langSelect.value = langCode;
     } else {
       langSelect.classList.add("hidden");
       langSelect.value = "en";
     }
-    playVideoWithLang(row, langSelect.value);
-  } else {
-    playVideoWithLang(row, "en");
   }
+  playVideoWithLang(row, langCode);
 }
 
 // 字幕檔名規則：官方在檔名前面加上 "[語言代碼] " 前綴來切換語言，
@@ -399,34 +398,25 @@ function buildSubtitleUrl(baseUrl, langCode) {
   return dir + encodeURIComponent(prefix + filename);
 }
 
-// 實際載入影片本體 + 依語言載入字幕（透過自架的 subtitle-proxy worker route）
-function playVideoWithLang(row, langCode) {
-  destroyPlayer();
-  $("videoModalTitle").textContent = row.name || T.play;
-  $("videoModal").classList.remove("hidden");
-  $("videoModal").setAttribute("aria-hidden", "false");
-  document.body.style.overflow = "hidden";
-  $("videoModalHint").textContent = row.cellular_data_warning ? T.cellularWarning : "";
-
+// 只處理字幕：openPlayer 首次開啟、videoLangSelect 切換語言，兩處都呼叫這個
+function loadSubtitleForLang(row, langCode) {
   const video = $("videoPlayer");
-  const finalVideoUrl = row.playback_url;
-
-  // 字幕網址規則：官方檔名前綴（見 buildSubtitleUrl），不保證每部影片都真的存在該語言字幕檔
-  let finalSubUrl = row.subtitle_url || row.subtitle_base;
-  if (finalSubUrl && row.has_translations) {
-    finalSubUrl = buildSubtitleUrl(finalSubUrl, langCode);
-  }
-
   const requestId = ++subtitleRequestId;
 
-  if (finalSubUrl) {
-    // 走自架 worker 的 /api/subtitle-proxy 路由，不再依賴 corsproxy.io 這種公開第三方代理，
-    // 這裡只做「盡量顯示」，失敗時會退回提示使用者改用另開分頁的字幕按鈕。
+  // 換語言前先把舊的 <track> 清掉，避免疊加（destroyPlayer 已不會經過這裡了）
+  Array.from(video.querySelectorAll("track")).forEach(t => t.remove());
+
+  $("videoModalHint").textContent = row.cellular_data_warning ? T.cellularWarning : "";
+
+  const subtitleBaseUrl = row.subtitle_url || row.subtitle_base;
+
+  if (subtitleBaseUrl && row.has_translations) {
+    const finalSubUrl = buildSubtitleUrl(subtitleBaseUrl, langCode);
     const proxyUrl = `${SUBTITLE_PROXY_ENDPOINT}?url=${encodeURIComponent(finalSubUrl)}`;
     fetch(proxyUrl)
       .then(r => { if (!r.ok) throw new Error("subtitle proxy failed"); return r.text(); })
       .then(vttText => {
-        if (requestId !== subtitleRequestId) return; // 使用者已切換語言或關閉視窗，這個結果過期了，不套用
+        if (requestId !== subtitleRequestId) return;
         const blob = new Blob([vttText], { type: "text/vtt" });
         const track = document.createElement("track");
         track.kind = "subtitles";
@@ -438,9 +428,26 @@ function playVideoWithLang(row, langCode) {
       })
       .catch(() => {
         if (requestId !== subtitleRequestId) return;
-        $("videoModalHint").textContent = T.subtitleProxyFail;
+        showSubtitleLinkFallback(subtitleBaseUrl, T.subtitleProxyFail);
       });
+  } else if (subtitleBaseUrl) {
+    showSubtitleLinkFallback(subtitleBaseUrl, T.subtitleNoTraslation);
   }
+}
+
+// 實際載入影片本體 + 依語言載入字幕（透過自架的 subtitle-proxy worker route）
+// 只處理影片本體 + 開 modal，字幕交給 loadSubtitleForLang
+function playVideoWithLang(row, langCode) {
+  destroyPlayer();
+  $("videoModalTitle").textContent = row.name || T.play;
+  $("videoModal").classList.remove("hidden");
+  $("videoModal").setAttribute("aria-hidden", "false");
+  document.body.style.overflow = "hidden";
+
+  const video = $("videoPlayer");
+  const finalVideoUrl = row.playback_url;
+
+  loadSubtitleForLang(row, langCode);
 
   if (!finalVideoUrl) return;
   if (video.canPlayType("application/vnd.apple.mpegurl")) {
@@ -454,6 +461,36 @@ function playVideoWithLang(row, langCode) {
     activeHls.on(Hls.Events.ERROR, (_, d) => { if (d?.fatal) $("videoModalHint").textContent = T.playFail; });
   } else {
     window.open(finalVideoUrl, "_blank", "noopener");
+  }
+}
+
+// hint 區塊插入一句提示 + 一個可點擊連結（直連官方 CDN，不經過自己的 proxy）
+function showSubtitleLinkFallback(finalSubUrl, hintText) {
+  const hintEl = $("videoModalHint");
+  if (hintEl.textContent) hintEl.textContent += " ";
+  const label = document.createElement("span");
+  label.textContent = hintText + " ";
+  const link = document.createElement("a");
+  link.href = finalSubUrl;
+  link.target = "_blank";
+  link.rel = "noopener";
+  link.textContent = T.openSubtitleInNewTab || "開啟字幕";
+  link.style.textDecoration = "underline";
+  hintEl.appendChild(label);
+  hintEl.appendChild(link);
+}
+
+function getSubtitleLangCode() {
+  switch (LANG) {
+    case "en":
+      return "en";
+    case "cn":
+      return "zh_cn";
+    case "ja":
+      return "ja";
+    case "tw":
+    default:
+      return "zh";
   }
 }
 
@@ -480,7 +517,17 @@ function renderVideos() {
   body.querySelectorAll("[data-play]").forEach(btn =>
     btn.onclick = () => openPlayer(rows[+btn.dataset.play]));
   body.querySelectorAll("[data-sub]").forEach(btn =>
-    btn.onclick = () => { const row = rows[+btn.dataset.sub]; const url = row?.subtitle_url || row?.subtitle_base; if (url) window.open(url, "_blank", "noopener"); });
+    btn.onclick = () => {
+      const row = rows[+btn.dataset.sub];
+      const baseUrl = row?.subtitle_url || row?.subtitle_base;
+      if (!baseUrl) return;
+      // 有多語言字幕才換成目前語言的前綴版本（例如 [en]）；
+      // 沒有多語言版本就直接開原始檔，不猜前綴避免 404
+      const finalUrl = row.has_translations
+        ? buildSubtitleUrl(baseUrl, getSubtitleLangCode())
+        : baseUrl;
+      window.open(finalUrl, "_blank", "noopener");
+    });
 
   let meta = T.videoMeta(rows.length, videoData.total || 0);
   if (videoMeta?.fetched_at_fmt) meta += ` · ${T.updatedAt(videoMeta.fetched_at_fmt)}`;
@@ -662,7 +709,7 @@ $("sortMode")?.addEventListener("change", () => renderTable());
 $("videoModalClose").onclick = closePlayer;
 $("videoModal").onclick = (e) => { if (e.target.id === "videoModal") closePlayer(); };
 $("videoLangSelect")?.addEventListener("change", (e) => {
-  if (currentVideoRow) playVideoWithLang(currentVideoRow, e.target.value);
+  if (currentVideoRow) loadSubtitleForLang(currentVideoRow, e.target.value);
 });
 $("refreshBtn")?.addEventListener("click", triggerRefresh);
 $("refreshPassword")?.addEventListener("keydown", (e) => { if (e.key === "Enter") triggerRefresh(); });

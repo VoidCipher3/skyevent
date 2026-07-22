@@ -115,7 +115,7 @@ td.countdown-cell { font-variant-numeric: tabular-nums; white-space: nowrap; col
   table.responsive-table td.action-cell { justify-content: flex-start; }
   table.responsive-table td.action-cell::before { flex: none; min-width: 52px; }
   .diff-grid { grid-template-columns: 1fr; }
-  .video-modal { align-items: flex-end; }
+  .video-modal { align-items: center; }
   .video-modal-panel { border-radius: 16px 16px 0 0; max-height: 92vh; padding-bottom: max(14px, env(safe-area-inset-bottom)); }
   #videoPlayer { max-height: 50vh; }
 }
