@@ -3,41 +3,54 @@
   "diff": {
     "event_schedule": {
       "has_recorded_diff": true,
-      "recorded_at_fmt": "2026-07-24 19:30:25",
-      "previous_fetched_at_fmt": "2026-07-24 18:30:29",
+      "recorded_at_fmt": "2026-07-24 20:00:33",
+      "previous_fetched_at_fmt": "2026-07-24 19:30:25",
       "unchanged_since_last_change": false,
       "added": [
         {
-          "name": "aurora_minigame_1",
+          "name": "aurora_minigame_2",
           "label": {
-            "tw": "aurora_minigame_1",
-            "cn": "aurora_minigame_1",
-            "en": "aurora_minigame_1"
+            "tw": "aurora_minigame_2",
+            "cn": "aurora_minigame_2",
+            "en": "aurora_minigame_2"
           },
-          "start": "2026-07-24 20:00:00",
-          "end": "2026-07-24 20:12:00",
+          "start": "2026-07-24 20:15:00",
+          "end": "2026-07-24 20:27:00",
           "duration_label": 12
         },
         {
-          "name": "rain_rainbow",
+          "name": "aurora_minigame_3",
           "label": {
-            "tw": "rain_rainbow",
-            "cn": "rain_rainbow",
-            "en": "rain_rainbow"
+            "tw": "aurora_minigame_3",
+            "cn": "aurora_minigame_3",
+            "en": "aurora_minigame_3"
           },
-          "start": "2026-07-24 20:00:00",
-          "end": "2026-07-24 20:30:00",
-          "duration_label": 30
+          "start": "2026-07-24 20:30:00",
+          "end": "2026-07-24 20:42:00",
+          "duration_label": 12
         },
         {
-          "name": "social_nature2022turtle",
+          "name": "mainstreet_cycle_overcast_day_B",
           "label": {
-            "tw": "social_nature2022turtle",
-            "cn": "social_nature2022turtle",
-            "en": "social_nature2022turtle"
+            "tw": "mainstreet_cycle_overcast_day_B",
+            "cn": "mainstreet_cycle_overcast_day_B",
+            "en": "mainstreet_cycle_overcast_day_B"
           },
-          "start": "2026-07-24 19:50:00",
-          "end": "2026-07-24 20:00:00",
+          "start": "2026-07-24 20:10:00",
+          "end": "2026-07-24 20:15:00",
+          "duration_label": 5
+        }
+      ],
+      "removed": [
+        {
+          "name": "mainstreet_cycle_sunset_B",
+          "label": {
+            "tw": "mainstreet_cycle_sunset_B",
+            "cn": "mainstreet_cycle_sunset_B",
+            "en": "mainstreet_cycle_sunset_B"
+          },
+          "start": "2026-07-24 19:40:00",
+          "end": "2026-07-24 19:50:00",
           "duration_label": 10
         },
         {
@@ -49,74 +62,6 @@
           },
           "start": "2026-07-24 19:30:00",
           "end": "2026-07-24 19:45:00",
-          "duration_label": 15
-        },
-        {
-          "name": "social_sunsetskater",
-          "label": {
-            "tw": "social_sunsetskater",
-            "cn": "social_sunsetskater",
-            "en": "social_sunsetskater"
-          },
-          "start": "2026-07-24 20:00:00",
-          "end": "2026-07-24 20:15:00",
-          "duration_label": 15
-        },
-        {
-          "name": "social_turtle_despawn",
-          "label": {
-            "tw": "social_turtle_despawn",
-            "cn": "social_turtle_despawn",
-            "en": "social_turtle_despawn"
-          },
-          "start": "2026-07-24 20:00:00",
-          "end": "2026-07-24 20:10:00",
-          "duration_label": 10
-        }
-      ],
-      "removed": [
-        {
-          "name": "aurora_minigame_2",
-          "label": {
-            "tw": "aurora_minigame_2",
-            "cn": "aurora_minigame_2",
-            "en": "aurora_minigame_2"
-          },
-          "start": "2026-07-24 18:15:00",
-          "end": "2026-07-24 18:27:00",
-          "duration_label": 12
-        },
-        {
-          "name": "aurora_minigame_3",
-          "label": {
-            "tw": "aurora_minigame_3",
-            "cn": "aurora_minigame_3",
-            "en": "aurora_minigame_3"
-          },
-          "start": "2026-07-24 18:30:00",
-          "end": "2026-07-24 18:42:00",
-          "duration_label": 12
-        },
-        {
-          "name": "aurora_minigame_4",
-          "label": {
-            "tw": "aurora_minigame_4",
-            "cn": "aurora_minigame_4",
-            "en": "aurora_minigame_4"
-          },
-          "start": "2026-07-24 18:45:00",
-          "end": "2026-07-24 18:57:00",
-          "duration_label": 12
-        },
-        {
-          "name": "global_nature_geyser",
-          "label": {
-            "tw": "global_nature_geyser",
-            "cn": "global_nature_geyser",
-            "en": "global_nature_geyser"
-          },
-          "start": "2026-07-24 19:00:00",
-          "end": "2026-07-24 19:15:00",
           "duration_label": 15
         }
       ]
