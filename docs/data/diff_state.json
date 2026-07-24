@@ -7,8 +7,8 @@
           "cn": "social_dusk_spitroastpassive",
           "en": "social_dusk_spitroastpassive"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 14:59:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 14:59:00",
         "duration_label": 1439
       },
       "collectible_bird": {
@@ -17,8 +17,8 @@
           "cn": "collectible_bird",
           "en": "collectible_bird"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "quest_ap27_fetch_02_part1": {
@@ -177,8 +177,8 @@
           "cn": "collectible_wave",
           "en": "collectible_wave"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "quest_ap31_fetch_02_painting_part7": {
@@ -207,8 +207,8 @@
           "cn": "visiting_vendor_questap06",
           "en": "visiting_vendor_questap06"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "quest_scavenger_spirit_beachday2": {
@@ -217,8 +217,8 @@
           "cn": "quest_scavenger_spirit_beachday2",
           "en": "quest_scavenger_spirit_beachday2"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "collectible_whale": {
@@ -227,8 +227,8 @@
           "cn": "collectible_whale",
           "en": "collectible_whale"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "spiritshopitem_ap06unlock_ap15_fetch_03": {
@@ -287,8 +287,8 @@
           "cn": "collectible_ghost",
           "en": "collectible_ghost"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "quest_ap31_fetch_04_painting": {
@@ -307,8 +307,8 @@
           "cn": "social_sunset_labyrinth",
           "en": "social_sunset_labyrinth"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 14:59:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 14:59:00",
         "duration_label": 1439
       },
       "tgcoffice_behavior_employees": {
@@ -337,8 +337,8 @@
           "cn": "visiting_vendor_questap22",
           "en": "visiting_vendor_questap22"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "ap29_fetch_05_cuteclap": {
@@ -397,8 +397,8 @@
           "cn": "collectible_lookaround",
           "en": "collectible_lookaround"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "collectible_point": {
@@ -407,8 +407,8 @@
           "cn": "collectible_point",
           "en": "collectible_point"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "aurora_exhaleinhale_countdown": {
@@ -427,8 +427,8 @@
           "cn": "social_rain_bonfirecamp",
           "en": "social_rain_bonfirecamp"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 14:59:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 14:59:00",
         "duration_label": 1439
       },
       "quest_ap31_fetch_03_painting_part1": {
@@ -457,8 +457,8 @@
           "cn": "collectible_raisetheroof",
           "en": "collectible_raisetheroof"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "spiritshopitem_ap06unlock_fetch_sunset": {
@@ -487,19 +487,9 @@
           "cn": "collectible_salute",
           "en": "collectible_salute"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
-      },
-      "global_ann_perf12": {
-        "label": {
-          "tw": "global_ann_perf12",
-          "cn": "global_ann_perf12",
-          "en": "global_ann_perf12"
-        },
-        "start": "2026-07-24 14:45:00",
-        "end": "2026-07-24 14:50:00",
-        "duration_label": 5
       },
       "te_ep_2": {
         "label": {
@@ -507,8 +497,8 @@
           "cn": "te_ep_2",
           "en": "te_ep_2"
         },
-        "start": "2026-07-24 14:25:00",
-        "end": "2026-07-24 14:40:00",
+        "start": "2026-07-24 15:05:00",
+        "end": "2026-07-24 15:20:00",
         "duration_label": 15
       },
       "quest_ap25_fetch_03": {
@@ -737,8 +727,8 @@
           "cn": "visiting_vendor_questap27",
           "en": "visiting_vendor_questap27"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "collectible_bow": {
@@ -747,8 +737,8 @@
           "cn": "collectible_bow",
           "en": "collectible_bow"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "quest_ap18_fetch_05": {
@@ -827,8 +817,8 @@
           "cn": "collectible_pout",
           "en": "collectible_pout"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "quest_ap20_fetch_09": {
@@ -937,8 +927,8 @@
           "cn": "gen_shop_weekly_reset",
           "en": "gen_shop_weekly_reset"
         },
-        "start": "2026-07-24 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-31 15:00:00",
+        "end": "2026-07-31 15:00:00",
         "duration_label": 0
       },
       "skyfest_fireworks_show": {
@@ -947,8 +937,8 @@
           "cn": "skyfest_fireworks_show",
           "en": "skyfest_fireworks_show"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-23 16:00:00",
+        "end": "2026-07-24 16:00:00",
         "duration_label": 1440
       },
       "quest_ap29_fetch_08": {
@@ -967,8 +957,8 @@
           "cn": "ap18_ritual_04_audience_lobby",
           "en": "ap18_ritual_04_audience_lobby"
         },
-        "start": "2026-07-24 14:38:00",
-        "end": "2026-07-24 14:45:00",
+        "start": "2026-07-24 15:08:00",
+        "end": "2026-07-24 15:15:00",
         "duration_label": 7
       },
       "spiritshopitem_ap06unlock_ap20_fetch_01": {
@@ -1037,8 +1027,8 @@
           "cn": "collectible_come",
           "en": "collectible_come"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "gen_shop_yearly_reset": {
@@ -1097,8 +1087,8 @@
           "cn": "snake_random_rail",
           "en": "snake_random_rail"
         },
-        "start": "2026-07-24 14:30:00",
-        "end": "2026-07-24 14:36:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-24 15:06:00",
         "duration_label": 6
       },
       "ap18_ritual_timer_15": {
@@ -1107,8 +1097,8 @@
           "cn": "ap18_ritual_timer_15",
           "en": "ap18_ritual_timer_15"
         },
-        "start": "2026-07-24 14:30:00",
-        "end": "2026-07-24 14:45:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-24 15:15:00",
         "duration_label": 15
       },
       "quest_ap22_miniShop_01": {
@@ -1167,8 +1157,8 @@
           "cn": "visiting_vendor_questap10",
           "en": "visiting_vendor_questap10"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "quest_ap31_fetch_01": {
@@ -1327,8 +1317,8 @@
           "cn": "visiting_vendor_questap25",
           "en": "visiting_vendor_questap25"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "collectible_rhythmicclap": {
@@ -1337,8 +1327,8 @@
           "cn": "collectible_rhythmicclap",
           "en": "collectible_rhythmicclap"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "weekly_prop_rotation_02": {
@@ -1397,8 +1387,8 @@
           "cn": "collectible_ohno",
           "en": "collectible_ohno"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "collectible_questap23_duo": {
@@ -1457,8 +1447,8 @@
           "cn": "fetch_manta_fertilizer_01",
           "en": "fetch_manta_fertilizer_01"
         },
-        "start": "2026-07-24 14:32:00",
-        "end": "2026-07-24 14:34:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-24 15:02:00",
         "duration_label": 2
       },
       "wildlifepark_cycle_day": {
@@ -1467,8 +1457,8 @@
           "cn": "wildlifepark_cycle_day",
           "en": "wildlifepark_cycle_day"
         },
-        "start": "2026-07-24 14:39:00",
-        "end": "2026-07-24 14:42:00",
+        "start": "2026-07-24 15:03:00",
+        "end": "2026-07-24 15:06:00",
         "duration_label": 3
       },
       "spiritshopitem_ap06unlock_ap18_fetch_03": {
@@ -1487,8 +1477,8 @@
           "cn": "collectible_proud",
           "en": "collectible_proud"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "global_flowflowerjourney_evergreen": {
@@ -1507,8 +1497,8 @@
           "cn": "social_skyway_speedtube",
           "en": "social_skyway_speedtube"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 14:59:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 14:59:00",
         "duration_label": 1439
       },
       "quest_ap18_fetch_01": {
@@ -1607,8 +1597,8 @@
           "cn": "skyfest_fireworks_show_medpad",
           "en": "skyfest_fireworks_show_medpad"
         },
-        "start": "2026-07-24 14:21:00",
-        "end": "2026-07-24 14:37:00",
+        "start": "2026-07-24 15:21:00",
+        "end": "2026-07-24 15:37:00",
         "duration_label": 16
       },
       "spiritshopitem_ap06unlock_ap12_fetch_05": {
@@ -1627,8 +1617,8 @@
           "cn": "aurora_minigame_vote_rotation",
           "en": "aurora_minigame_vote_rotation"
         },
-        "start": "2026-07-24 14:30:00",
-        "end": "2026-07-24 14:32:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-24 15:02:00",
         "duration_label": 2
       },
       "collectible_slowwalk": {
@@ -1647,8 +1637,8 @@
           "cn": "visiting_vendor_questap15",
           "en": "visiting_vendor_questap15"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "quest_competition_sliderace": {
@@ -1721,6 +1711,16 @@
         "end": null,
         "duration_label": 99999999
       },
+      "mainstreet_cycle_overcast_day_B": {
+        "label": {
+          "tw": "mainstreet_cycle_overcast_day_B",
+          "cn": "mainstreet_cycle_overcast_day_B",
+          "en": "mainstreet_cycle_overcast_day_B"
+        },
+        "start": "2026-07-24 15:10:00",
+        "end": "2026-07-24 15:15:00",
+        "duration_label": 5
+      },
       "aurora_eyesofachild_countdown": {
         "label": {
           "tw": "aurora_eyesofachild_countdown",
@@ -1757,8 +1757,8 @@
           "cn": "visiting_vendor_questap09",
           "en": "visiting_vendor_questap09"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "skyfest_fireworks_show_act2": {
@@ -1767,8 +1767,8 @@
           "cn": "skyfest_fireworks_show_act2",
           "en": "skyfest_fireworks_show_act2"
         },
-        "start": "2026-07-24 14:25:00",
-        "end": "2026-07-24 14:28:00",
+        "start": "2026-07-24 15:25:00",
+        "end": "2026-07-24 15:28:00",
         "duration_label": 3
       },
       "quest_ap28_fetch_02": {
@@ -1787,8 +1787,8 @@
           "cn": "collectible_guard",
           "en": "collectible_guard"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "visiting_vendor_questap13": {
@@ -1797,8 +1797,8 @@
           "cn": "visiting_vendor_questap13",
           "en": "visiting_vendor_questap13"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "quest_ap13_fetch_01": {
@@ -1827,8 +1827,8 @@
           "cn": "visiting_vendor_ap22_miniquest_house",
           "en": "visiting_vendor_ap22_miniquest_house"
         },
-        "start": "2026-07-23 14:31:00",
-        "end": "2026-07-24 14:31:00",
+        "start": "2026-07-23 15:01:00",
+        "end": "2026-07-24 15:01:00",
         "duration_label": 1440
       },
       "spiritshopitem_ap06unlock_ap16_fetch_04": {
@@ -1867,8 +1867,8 @@
           "cn": "te_ep_1",
           "en": "te_ep_1"
         },
-        "start": "2026-07-24 14:20:00",
-        "end": "2026-07-24 14:35:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-24 15:15:00",
         "duration_label": 15
       },
       "spiritshopitem_ap06unlock_ap07_fetch_05": {
@@ -1887,8 +1887,8 @@
           "cn": "ap31_anniversary_shop_migration",
           "en": "ap31_anniversary_shop_migration"
         },
-        "start": "2026-07-17 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-18 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 10080
       },
       "quest_ap29_fetch_02": {
@@ -1917,8 +1917,8 @@
           "cn": "collectible_beacon",
           "en": "collectible_beacon"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "quest_ap10_fetch_02": {
@@ -2047,8 +2047,8 @@
           "cn": "collectible_twirl",
           "en": "collectible_twirl"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "spiritshopitem_ap06unlock_ap10_fetch_02": {
@@ -2097,8 +2097,8 @@
           "cn": "collectible_handstand",
           "en": "collectible_handstand"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "quest_ap27_manatee_01": {
@@ -2157,8 +2157,8 @@
           "cn": "collectible_float",
           "en": "collectible_float"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "quest_ap30_fetch_01_challenge": {
@@ -2287,8 +2287,8 @@
           "cn": "season_21_deersummon",
           "en": "season_21_deersummon"
         },
-        "start": "2026-07-24 14:30:00",
-        "end": "2026-07-24 14:55:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-24 15:25:00",
         "duration_label": 25
       },
       "quest_ap21_fetch_05_part02": {
@@ -2337,8 +2337,8 @@
           "cn": "te_ep_4",
           "en": "te_ep_4"
         },
-        "start": "2026-07-24 14:35:00",
-        "end": "2026-07-24 14:50:00",
+        "start": "2026-07-24 14:55:00",
+        "end": "2026-07-24 15:10:00",
         "duration_label": 15
       },
       "visiting_vendor_questap21": {
@@ -2347,8 +2347,8 @@
           "cn": "visiting_vendor_questap21",
           "en": "visiting_vendor_questap21"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "ap29_fetch_06_cuteclap": {
@@ -2387,8 +2387,8 @@
           "cn": "visiting_vendor_questap23",
           "en": "visiting_vendor_questap23"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "quest_ap31_fetch_03": {
@@ -2407,8 +2407,8 @@
           "cn": "snake_coin",
           "en": "snake_coin"
         },
-        "start": "2026-07-24 14:30:00",
-        "end": "2026-07-24 14:31:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-24 15:01:00",
         "duration_label": 1
       },
       "quest_ap22_fetch_03": {
@@ -2437,8 +2437,8 @@
           "cn": "visiting_vendor_questap08",
           "en": "visiting_vendor_questap08"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "quest_ap27_fetch_05": {
@@ -2477,8 +2477,8 @@
           "cn": "collectible_nothanks",
           "en": "collectible_nothanks"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "spiritshopitem_ap06unlock_ap22_miniShop_01": {
@@ -2537,8 +2537,8 @@
           "cn": "ap18_ritual_03",
           "en": "ap18_ritual_03"
         },
-        "start": "2026-07-24 14:30:00",
-        "end": "2026-07-24 14:31:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-24 15:01:00",
         "duration_label": 1
       },
       "quest_ap18_fetch_04": {
@@ -2557,8 +2557,8 @@
           "cn": "feast_teatable_rotation",
           "en": "feast_teatable_rotation"
         },
-        "start": "2026-07-24 14:30:00",
-        "end": "2026-07-24 14:36:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-24 15:06:00",
         "duration_label": 6
       },
       "quest_ap22_miniShop_02": {
@@ -2587,8 +2587,8 @@
           "cn": "quest_scavenger_spirit_beachday1",
           "en": "quest_scavenger_spirit_beachday1"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "collectible_strong": {
@@ -2597,8 +2597,8 @@
           "cn": "collectible_strong",
           "en": "collectible_strong"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "quest_ap14_fetch_01": {
@@ -2657,8 +2657,8 @@
           "cn": "visiting_vendor_questap26",
           "en": "visiting_vendor_questap26"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "quest_ap29_fetch_04": {
@@ -2677,8 +2677,8 @@
           "cn": "skyfest_fireworks_show_act3",
           "en": "skyfest_fireworks_show_act3"
         },
-        "start": "2026-07-24 14:28:00",
-        "end": "2026-07-24 14:29:00",
+        "start": "2026-07-24 15:28:00",
+        "end": "2026-07-24 15:29:00",
         "duration_label": 1
       },
       "ap29_fetch_11_whisper": {
@@ -2697,8 +2697,8 @@
           "cn": "ap18_ritual_03_audience_lobby",
           "en": "ap18_ritual_03_audience_lobby"
         },
-        "start": "2026-07-24 14:38:00",
-        "end": "2026-07-24 14:45:00",
+        "start": "2026-07-24 15:08:00",
+        "end": "2026-07-24 15:15:00",
         "duration_label": 7
       },
       "spiritshopitem_ap06unlock_ap19_fetch_03": {
@@ -2787,8 +2787,8 @@
           "cn": "collectible_manta",
           "en": "collectible_manta"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "spiritshopitem_ap06unlock_ap14_fetch_03": {
@@ -2807,8 +2807,8 @@
           "cn": "wildlifepark_cycle_morning",
           "en": "wildlifepark_cycle_morning"
         },
-        "start": "2026-07-24 14:36:00",
-        "end": "2026-07-24 14:38:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-24 15:02:00",
         "duration_label": 2
       },
       "quest_ap18_fetch_02": {
@@ -2837,8 +2837,8 @@
           "cn": "ap18_ritual_04",
           "en": "ap18_ritual_04"
         },
-        "start": "2026-07-24 14:30:00",
-        "end": "2026-07-24 14:31:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-24 15:01:00",
         "duration_label": 1
       },
       "spiritshopitem_ap06unlock_ap09_fetch_03": {
@@ -2897,8 +2897,8 @@
           "cn": "collectible_brave",
           "en": "collectible_brave"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "spiritshopitem_ap06unlock_ap22_miniHouse_01": {
@@ -2967,8 +2967,8 @@
           "cn": "radiant_darkstone_spawn",
           "en": "radiant_darkstone_spawn"
         },
-        "start": "2026-07-24 14:00:00",
-        "end": "2026-07-24 14:59:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-24 15:59:00",
         "duration_label": 59
       },
       "quest_ap26_fetch_03": {
@@ -3007,8 +3007,8 @@
           "cn": "ap18_ritual_05_audience_lobby",
           "en": "ap18_ritual_05_audience_lobby"
         },
-        "start": "2026-07-24 14:38:00",
-        "end": "2026-07-24 14:45:00",
+        "start": "2026-07-24 15:08:00",
+        "end": "2026-07-24 15:15:00",
         "duration_label": 7
       },
       "spiritshopitem_ap06unlock_ap13_fetch_05": {
@@ -3067,8 +3067,8 @@
           "cn": "visiting_vendor_questap20",
           "en": "visiting_vendor_questap20"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "quest_ap19_fetch_01": {
@@ -3107,8 +3107,8 @@
           "cn": "wildlifepark_cycle_not_night_hint",
           "en": "wildlifepark_cycle_not_night_hint"
         },
-        "start": "2026-07-24 14:24:00",
-        "end": "2026-07-24 14:32:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-24 15:08:00",
         "duration_label": 8
       },
       "quest_cafe_serving": {
@@ -3127,8 +3127,8 @@
           "cn": "social_eelwatercreature",
           "en": "social_eelwatercreature"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 14:59:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 14:59:00",
         "duration_label": 1439
       },
       "rain_quest": {
@@ -3157,8 +3157,8 @@
           "cn": "collectible_laugh",
           "en": "collectible_laugh"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "visiting_vendor_ap22_miniquest_shop": {
@@ -3167,19 +3167,9 @@
           "cn": "visiting_vendor_ap22_miniquest_shop",
           "en": "visiting_vendor_ap22_miniquest_shop"
         },
-        "start": "2026-07-23 14:31:00",
-        "end": "2026-07-24 14:31:00",
+        "start": "2026-07-23 15:01:00",
+        "end": "2026-07-24 15:01:00",
         "duration_label": 1440
-      },
-      "global_ann_perf11": {
-        "label": {
-          "tw": "global_ann_perf11",
-          "cn": "global_ann_perf11",
-          "en": "global_ann_perf11"
-        },
-        "start": "2026-07-24 14:30:00",
-        "end": "2026-07-24 14:35:00",
-        "duration_label": 5
       },
       "collectible_scared": {
         "label": {
@@ -3187,8 +3177,8 @@
           "cn": "collectible_scared",
           "en": "collectible_scared"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "ap29_fetch_01_revolvingdance": {
@@ -3227,8 +3217,8 @@
           "cn": "te_ep_3",
           "en": "te_ep_3"
         },
-        "start": "2026-07-24 14:30:00",
-        "end": "2026-07-24 14:45:00",
+        "start": "2026-07-24 14:50:00",
+        "end": "2026-07-24 15:05:00",
         "duration_label": 15
       },
       "quest_ap28_fetch_07_bells": {
@@ -3267,8 +3257,8 @@
           "cn": "quest_sunset_flyrace",
           "en": "quest_sunset_flyrace"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "visiting_vendor_questap14": {
@@ -3277,8 +3267,8 @@
           "cn": "visiting_vendor_questap14",
           "en": "visiting_vendor_questap14"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "wildlifepark_cycle_overcast_night": {
@@ -3287,8 +3277,8 @@
           "cn": "wildlifepark_cycle_overcast_night",
           "en": "wildlifepark_cycle_overcast_night"
         },
-        "start": "2026-07-24 14:32:00",
-        "end": "2026-07-24 14:33:00",
+        "start": "2026-07-24 15:08:00",
+        "end": "2026-07-24 15:09:00",
         "duration_label": 1
       },
       "collectible_love": {
@@ -3297,8 +3287,8 @@
           "cn": "collectible_love",
           "en": "collectible_love"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "quest_ap17_fetch_01": {
@@ -3327,8 +3317,8 @@
           "cn": "visiting_vendor_questap31",
           "en": "visiting_vendor_questap31"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "visiting_vendor_ap22_miniquest_social": {
@@ -3337,8 +3327,8 @@
           "cn": "visiting_vendor_ap22_miniquest_social",
           "en": "visiting_vendor_ap22_miniquest_social"
         },
-        "start": "2026-07-23 14:31:00",
-        "end": "2026-07-24 14:31:00",
+        "start": "2026-07-23 15:01:00",
+        "end": "2026-07-24 15:01:00",
         "duration_label": 1440
       },
       "quest_ap26_fetch_02": {
@@ -3367,8 +3357,8 @@
           "cn": "collectible_pray",
           "en": "collectible_pray"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "spiritshopitem_ap06unlock_ap13_fetch_03": {
@@ -3427,8 +3417,8 @@
           "cn": "visiting_vendor_questap28",
           "en": "visiting_vendor_questap28"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "quest_ap30_fetch_04_challenge": {
@@ -3457,8 +3447,8 @@
           "cn": "global_daily_reset_time",
           "en": "global_daily_reset_time"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "visiting_vendor_questap29": {
@@ -3467,8 +3457,8 @@
           "cn": "visiting_vendor_questap29",
           "en": "visiting_vendor_questap29"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "quest_nature_vortex2": {
@@ -3517,8 +3507,8 @@
           "cn": "collectible_sorry",
           "en": "collectible_sorry"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "ap29_fetch_12_whisper": {
@@ -3537,8 +3527,8 @@
           "cn": "gen_shop_daily_reset",
           "en": "gen_shop_daily_reset"
         },
-        "start": "2026-07-24 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-25 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 0
       },
       "visiting_vendor_questap07": {
@@ -3547,8 +3537,8 @@
           "cn": "visiting_vendor_questap07",
           "en": "visiting_vendor_questap07"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "wildlifepark_cycle_overcast_day": {
@@ -3557,8 +3547,8 @@
           "cn": "wildlifepark_cycle_overcast_day",
           "en": "wildlifepark_cycle_overcast_day"
         },
-        "start": "2026-07-24 14:38:00",
-        "end": "2026-07-24 14:39:00",
+        "start": "2026-07-24 15:02:00",
+        "end": "2026-07-24 15:03:00",
         "duration_label": 1
       },
       "quest_ap26_fetch_04": {
@@ -3597,8 +3587,8 @@
           "cn": "collectible_force",
           "en": "collectible_force"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "collectible_thumbsup": {
@@ -3607,8 +3597,8 @@
           "cn": "collectible_thumbsup",
           "en": "collectible_thumbsup"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "aurora_runaway_wrap": {
@@ -3650,16 +3640,6 @@
         "start": "2023-10-23 15:00:00",
         "end": null,
         "duration_label": 99999999
-      },
-      "aurora_minigame_3": {
-        "label": {
-          "tw": "aurora_minigame_3",
-          "cn": "aurora_minigame_3",
-          "en": "aurora_minigame_3"
-        },
-        "start": "2026-07-24 14:30:00",
-        "end": "2026-07-24 14:42:00",
-        "duration_label": 12
       },
       "spiritshopitem_ap06unlock_ap27_fetch_02": {
         "label": {
@@ -3737,8 +3717,8 @@
           "cn": "ap18_ritual_05",
           "en": "ap18_ritual_05"
         },
-        "start": "2026-07-24 14:30:00",
-        "end": "2026-07-24 14:31:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-24 15:01:00",
         "duration_label": 1
       },
       "quest_ap17_fetch_03": {
@@ -3757,8 +3737,8 @@
           "cn": "aurora_soundbath_session",
           "en": "aurora_soundbath_session"
         },
-        "start": "2026-07-24 14:30:00",
-        "end": "2026-07-24 14:39:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-24 15:09:00",
         "duration_label": 9
       },
       "spiritshopitem_ap06unlock_ap18_fetch_05": {
@@ -3777,8 +3757,8 @@
           "cn": "collectible_lighthorn",
           "en": "collectible_lighthorn"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "spiritshopitem_ap06unlock_ap26_fetch_02": {
@@ -3837,8 +3817,8 @@
           "cn": "visiting_vendor_questap19",
           "en": "visiting_vendor_questap19"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "global_office_shop": {
@@ -3877,8 +3857,8 @@
           "cn": "visiting_vendor_questap16",
           "en": "visiting_vendor_questap16"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "global_feast_wonderland": {
@@ -4157,8 +4137,8 @@
           "cn": "collectible_cheer",
           "en": "collectible_cheer"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "ap29_fetch_03_revolvingdance": {
@@ -4177,8 +4157,8 @@
           "cn": "visiting_vendor_questap11",
           "en": "visiting_vendor_questap11"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "spiritshopitem_ap06unlock_ap24_fetch_11": {
@@ -4197,8 +4177,8 @@
           "cn": "projector_ember_p1",
           "en": "projector_ember_p1"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "quest_ap31_fetch_02": {
@@ -4227,8 +4207,8 @@
           "cn": "collectible_yawn",
           "en": "collectible_yawn"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "quest_ap20_fetch_05": {
@@ -4277,8 +4257,8 @@
           "cn": "quest_scavenger_spirit_rockcollection1",
           "en": "quest_scavenger_spirit_rockcollection1"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "weekly_prop_rotation_03": {
@@ -4421,16 +4401,6 @@
         "end": null,
         "duration_label": 99999999
       },
-      "aurora_minigame_4": {
-        "label": {
-          "tw": "aurora_minigame_4",
-          "cn": "aurora_minigame_4",
-          "en": "aurora_minigame_4"
-        },
-        "start": "2026-07-24 14:45:00",
-        "end": "2026-07-24 14:57:00",
-        "duration_label": 12
-      },
       "spiritshopitem_ap06unlock_ap12_fetch_02": {
         "label": {
           "tw": "spiritshopitem_ap06unlock_ap12_fetch_02",
@@ -4487,8 +4457,8 @@
           "cn": "elder_sanctuary_patrol",
           "en": "elder_sanctuary_patrol"
         },
-        "start": "2026-07-24 14:40:00",
-        "end": "2026-07-24 14:41:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-24 15:01:00",
         "duration_label": 1
       },
       "spiritshopitem_ap06unlock_ap20_fetch_06": {
@@ -4511,6 +4481,16 @@
         "end": null,
         "duration_label": 99999999
       },
+      "social_rain_grandmatable": {
+        "label": {
+          "tw": "social_rain_grandmatable",
+          "cn": "social_rain_grandmatable",
+          "en": "social_rain_grandmatable"
+        },
+        "start": "2026-07-24 15:30:00",
+        "end": "2026-07-24 15:45:00",
+        "duration_label": 15
+      },
       "spiritshopitem_ap06unlock_ap15_fetch_02": {
         "label": {
           "tw": "spiritshopitem_ap06unlock_ap15_fetch_02",
@@ -4527,8 +4507,8 @@
           "cn": "ap18_ritual_02_audience_lobby",
           "en": "ap18_ritual_02_audience_lobby"
         },
-        "start": "2026-07-24 14:38:00",
-        "end": "2026-07-24 14:45:00",
+        "start": "2026-07-24 15:08:00",
+        "end": "2026-07-24 15:15:00",
         "duration_label": 7
       },
       "global_summer": {
@@ -4627,8 +4607,8 @@
           "cn": "social_dusk_embersanctuary",
           "en": "social_dusk_embersanctuary"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 14:59:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 14:59:00",
         "duration_label": 1439
       },
       "spiritshopitem_ap06unlock_ap07_fetch_06": {
@@ -4641,24 +4621,14 @@
         "end": null,
         "duration_label": 99999999
       },
-      "mainstreet_cycle_sunset_B": {
-        "label": {
-          "tw": "mainstreet_cycle_sunset_B",
-          "cn": "mainstreet_cycle_sunset_B",
-          "en": "mainstreet_cycle_sunset_B"
-        },
-        "start": "2026-07-24 14:40:00",
-        "end": "2026-07-24 14:50:00",
-        "duration_label": 10
-      },
       "collectible_backflip": {
         "label": {
           "tw": "collectible_backflip",
           "cn": "collectible_backflip",
           "en": "collectible_backflip"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "quest_ap28_fetch_05": {
@@ -4737,8 +4707,8 @@
           "cn": "skyfest_fireworks_show_act4",
           "en": "skyfest_fireworks_show_act4"
         },
-        "start": "2026-07-24 14:29:00",
-        "end": "2026-07-24 14:37:00",
+        "start": "2026-07-24 15:29:00",
+        "end": "2026-07-24 15:37:00",
         "duration_label": 8
       },
       "quest_ap22_fetch_05": {
@@ -4757,8 +4727,8 @@
           "cn": "wildlifepark_cycle_sunset",
           "en": "wildlifepark_cycle_sunset"
         },
-        "start": "2026-07-24 14:30:00",
-        "end": "2026-07-24 14:32:00",
+        "start": "2026-07-24 15:06:00",
+        "end": "2026-07-24 15:08:00",
         "duration_label": 2
       },
       "spiritshopitem_ap06unlock_ap15_fetch_04": {
@@ -4807,8 +4777,8 @@
           "cn": "collectible_manatee",
           "en": "collectible_manatee"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "collectible_shy": {
@@ -4817,8 +4787,8 @@
           "cn": "collectible_shy",
           "en": "collectible_shy"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "quest_ap13_fetch_02": {
@@ -4837,8 +4807,8 @@
           "cn": "hub_clocktower",
           "en": "hub_clocktower"
         },
-        "start": "2026-07-24 14:45:00",
-        "end": "2026-07-24 14:45:00",
+        "start": "2026-07-24 15:15:00",
+        "end": "2026-07-24 15:15:00",
         "duration_label": 0
       },
       "spiritshopitem_ap06unlock_fetch_night": {
@@ -4887,8 +4857,8 @@
           "cn": "collectible_seek",
           "en": "collectible_seek"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "aurora_concert": {
@@ -5057,8 +5027,8 @@
           "cn": "collectible_armwave",
           "en": "collectible_armwave"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "quest_ap24_fetch_04": {
@@ -5070,16 +5040,6 @@
         "start": "2024-10-28 15:00:00",
         "end": null,
         "duration_label": 99999999
-      },
-      "aurora_minigame_2": {
-        "label": {
-          "tw": "aurora_minigame_2",
-          "cn": "aurora_minigame_2",
-          "en": "aurora_minigame_2"
-        },
-        "start": "2026-07-24 14:15:00",
-        "end": "2026-07-24 14:27:00",
-        "duration_label": 12
       },
       "quest_ap27_fetch_03": {
         "label": {
@@ -5097,8 +5057,8 @@
           "cn": "feast_catch_crabbit",
           "en": "feast_catch_crabbit"
         },
-        "start": "2026-07-24 14:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-24 16:00:00",
         "duration_label": 60
       },
       "global_nature_geyser": {
@@ -5147,8 +5107,8 @@
           "cn": "wildlifepark_cycle_night",
           "en": "wildlifepark_cycle_night"
         },
-        "start": "2026-07-24 14:33:00",
-        "end": "2026-07-24 14:36:00",
+        "start": "2026-07-24 15:09:00",
+        "end": "2026-07-24 15:12:00",
         "duration_label": 3
       },
       "social_prairie_cozycave": {
@@ -5157,8 +5117,8 @@
           "cn": "social_prairie_cozycave",
           "en": "social_prairie_cozycave"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 14:59:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 14:59:00",
         "duration_label": 1439
       },
       "nature_geyser_on": {
@@ -5177,8 +5137,8 @@
           "cn": "visiting_vendor_questap12",
           "en": "visiting_vendor_questap12"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "social_feed_prompt_inner_artist": {
@@ -5217,8 +5177,8 @@
           "cn": "mainstreet_cycle_day_B",
           "en": "mainstreet_cycle_day_B"
         },
-        "start": "2026-07-24 14:15:00",
-        "end": "2026-07-24 14:40:00",
+        "start": "2026-07-24 15:15:00",
+        "end": "2026-07-24 15:40:00",
         "duration_label": 25
       },
       "visiting_vendor_questap24": {
@@ -5227,8 +5187,8 @@
           "cn": "visiting_vendor_questap24",
           "en": "visiting_vendor_questap24"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "visiting_vendor_questap30": {
@@ -5237,8 +5197,8 @@
           "cn": "visiting_vendor_questap30",
           "en": "visiting_vendor_questap30"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "ap29_fetch_10_whisper": {
@@ -5317,8 +5277,8 @@
           "cn": "visiting_vendor_questap17",
           "en": "visiting_vendor_questap17"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "collectible_wipe": {
@@ -5327,8 +5287,8 @@
           "cn": "collectible_wipe",
           "en": "collectible_wipe"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "spiritshopitem_ap06unlock_ap19_fetch_05": {
@@ -5417,8 +5377,8 @@
           "cn": "ap18_ritual_02",
           "en": "ap18_ritual_02"
         },
-        "start": "2026-07-24 14:30:00",
-        "end": "2026-07-24 14:31:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-24 15:01:00",
         "duration_label": 1
       },
       "quest_ap09_fetch_04": {
@@ -5577,8 +5537,8 @@
           "cn": "visiting_vendor_questap18",
           "en": "visiting_vendor_questap18"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "spiritshopitem_ap06unlock_ap12_fetch_01": {
@@ -5627,8 +5587,8 @@
           "cn": "visiting_vendor_questap27manatee",
           "en": "visiting_vendor_questap27manatee"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "collectible_cold": {
@@ -5637,8 +5597,8 @@
           "cn": "collectible_cold",
           "en": "collectible_cold"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "quest_sunset_race": {
@@ -5647,8 +5607,8 @@
           "cn": "quest_sunset_race",
           "en": "quest_sunset_race"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "collectible_cape": {
@@ -5657,8 +5617,8 @@
           "cn": "collectible_cape",
           "en": "collectible_cape"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "spiritshopitem_ap06unlock_ap19_fetch_01": {
@@ -5777,8 +5737,8 @@
           "cn": "AP27CapeHealingSpa",
           "en": "AP27CapeHealingSpa"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 14:59:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 14:59:00",
         "duration_label": 1439
       },
       "quest_ap09_fetch_03": {
@@ -5807,8 +5767,8 @@
           "cn": "collectible_cry",
           "en": "collectible_cry"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "quest_competition_cloudcollect": {
@@ -5827,8 +5787,8 @@
           "cn": "collectible_butterfly",
           "en": "collectible_butterfly"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "aurora_exhaleinhale_wrap": {
@@ -5867,8 +5827,8 @@
           "cn": "collectible_die",
           "en": "collectible_die"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "survey_anniversary_0_33_7": {
@@ -5947,8 +5907,8 @@
           "cn": "collectible_sneaky",
           "en": "collectible_sneaky"
         },
-        "start": "2026-07-23 15:00:00",
-        "end": "2026-07-24 15:00:00",
+        "start": "2026-07-24 15:00:00",
+        "end": "2026-07-25 15:00:00",
         "duration_label": 1440
       },
       "quest_ap31_fetch_02_painting_part2": {
@@ -5962,11 +5922,57 @@
         "duration_label": 99999999
       }
     },
-    "fetched_at_fmt": "2026-07-24 14:30:25",
+    "fetched_at_fmt": "2026-07-24 15:00:29",
     "last_diff": {
-      "recorded_at_fmt": "2026-07-24 14:30:25",
-      "previous_fetched_at_fmt": "2026-07-24 14:01:00",
+      "recorded_at_fmt": "2026-07-24 15:00:29",
+      "previous_fetched_at_fmt": "2026-07-24 14:30:25",
       "added": [
+        {
+          "name": "mainstreet_cycle_overcast_day_B",
+          "label": {
+            "tw": "mainstreet_cycle_overcast_day_B",
+            "cn": "mainstreet_cycle_overcast_day_B",
+            "en": "mainstreet_cycle_overcast_day_B"
+          },
+          "start": "2026-07-24 15:10:00",
+          "end": "2026-07-24 15:15:00",
+          "duration_label": 5
+        },
+        {
+          "name": "social_rain_grandmatable",
+          "label": {
+            "tw": "social_rain_grandmatable",
+            "cn": "social_rain_grandmatable",
+            "en": "social_rain_grandmatable"
+          },
+          "start": "2026-07-24 15:30:00",
+          "end": "2026-07-24 15:45:00",
+          "duration_label": 15
+        }
+      ],
+      "removed": [
+        {
+          "name": "aurora_minigame_2",
+          "label": {
+            "tw": "aurora_minigame_2",
+            "cn": "aurora_minigame_2",
+            "en": "aurora_minigame_2"
+          },
+          "start": "2026-07-24 14:15:00",
+          "end": "2026-07-24 14:27:00",
+          "duration_label": 12
+        },
+        {
+          "name": "aurora_minigame_3",
+          "label": {
+            "tw": "aurora_minigame_3",
+            "cn": "aurora_minigame_3",
+            "en": "aurora_minigame_3"
+          },
+          "start": "2026-07-24 14:30:00",
+          "end": "2026-07-24 14:42:00",
+          "duration_label": 12
+        },
         {
           "name": "aurora_minigame_4",
           "label": {
@@ -5979,48 +5985,15 @@
           "duration_label": 12
         },
         {
-          "name": "day_boat",
+          "name": "global_ann_perf11",
           "label": {
-            "tw": "day_boat",
-            "cn": "day_boat",
-            "en": "day_boat"
+            "tw": "global_ann_perf11",
+            "cn": "global_ann_perf11",
+            "en": "global_ann_perf11"
           },
-          "start": "2026-07-24 15:00:00",
-          "end": "2026-07-25 15:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "dusk_darkstone_0",
-          "label": {
-            "tw": "dusk_darkstone_0",
-            "cn": "dusk_darkstone_0",
-            "en": "dusk_darkstone_0"
-          },
-          "start": "2026-07-24 15:00:00",
-          "end": "2026-07-25 15:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "event_dusk_tcandle_master",
-          "label": {
-            "tw": "event_dusk_tcandle_master",
-            "cn": "event_dusk_tcandle_master",
-            "en": "event_dusk_tcandle_master"
-          },
-          "start": "2026-07-24 15:00:00",
-          "end": "2026-07-25 15:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "event_dusk_tcandles2",
-          "label": {
-            "tw": "event_dusk_tcandles2",
-            "cn": "event_dusk_tcandles2",
-            "en": "event_dusk_tcandles2"
-          },
-          "start": "2026-07-24 15:00:00",
-          "end": "2026-07-25 15:00:00",
-          "duration_label": 1440
+          "start": "2026-07-24 14:30:00",
+          "end": "2026-07-24 14:35:00",
+          "duration_label": 5
         },
         {
           "name": "global_ann_perf12",
@@ -6034,17 +6007,6 @@
           "duration_label": 5
         },
         {
-          "name": "global_nature_geyser",
-          "label": {
-            "tw": "global_nature_geyser",
-            "cn": "global_nature_geyser",
-            "en": "global_nature_geyser"
-          },
-          "start": "2026-07-24 15:00:00",
-          "end": "2026-07-24 15:15:00",
-          "duration_label": 15
-        },
-        {
           "name": "mainstreet_cycle_sunset_B",
           "label": {
             "tw": "mainstreet_cycle_sunset_B",
@@ -6053,173 +6015,6 @@
           },
           "start": "2026-07-24 14:40:00",
           "end": "2026-07-24 14:50:00",
-          "duration_label": 10
-        },
-        {
-          "name": "musicshop_weekly_rotation_04",
-          "label": {
-            "tw": "musicshop_weekly_rotation_04",
-            "cn": "musicshop_weekly_rotation_04",
-            "en": "musicshop_weekly_rotation_04"
-          },
-          "start": "2026-07-24 15:00:00",
-          "end": "2026-07-31 15:00:00",
-          "duration_label": 10080
-        },
-        {
-          "name": "quest_tgc_office_don",
-          "label": {
-            "tw": "quest_tgc_office_don",
-            "cn": "quest_tgc_office_don",
-            "en": "quest_tgc_office_don"
-          },
-          "start": "2026-07-24 15:00:00",
-          "end": "2026-07-25 15:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "rain_darkstone_0",
-          "label": {
-            "tw": "rain_darkstone_0",
-            "cn": "rain_darkstone_0",
-            "en": "rain_darkstone_0"
-          },
-          "start": "2026-07-24 15:00:00",
-          "end": "2026-07-25 15:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "season_b_sunset_candles2",
-          "label": {
-            "tw": "season_b_sunset_candles2",
-            "cn": "season_b_sunset_candles2",
-            "en": "season_b_sunset_candles2"
-          },
-          "start": "2026-07-24 15:00:00",
-          "end": "2026-07-25 15:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "skyfest_ballgame",
-          "label": {
-            "tw": "skyfest_ballgame",
-            "cn": "skyfest_ballgame",
-            "en": "skyfest_ballgame"
-          },
-          "start": "2026-07-24 15:00:00",
-          "end": "2026-07-25 15:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "stormy_dusk",
-          "label": {
-            "tw": "stormy_dusk",
-            "cn": "stormy_dusk",
-            "en": "stormy_dusk"
-          },
-          "start": "2026-07-24 15:00:00",
-          "end": "2026-07-25 15:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "sunset_quest",
-          "label": {
-            "tw": "sunset_quest",
-            "cn": "sunset_quest",
-            "en": "sunset_quest"
-          },
-          "start": "2026-07-24 15:00:00",
-          "end": "2026-07-25 15:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "weekly_dye_rotation_01",
-          "label": {
-            "tw": "weekly_dye_rotation_01",
-            "cn": "weekly_dye_rotation_01",
-            "en": "weekly_dye_rotation_01"
-          },
-          "start": "2026-07-24 15:00:00",
-          "end": "2026-07-31 15:00:00",
-          "duration_label": 10080
-        },
-        {
-          "name": "weekly_prop_rotation_03",
-          "label": {
-            "tw": "weekly_prop_rotation_03",
-            "cn": "weekly_prop_rotation_03",
-            "en": "weekly_prop_rotation_03"
-          },
-          "start": "2026-07-24 15:00:00",
-          "end": "2026-07-31 15:00:00",
-          "duration_label": 10080
-        }
-      ],
-      "removed": [
-        {
-          "name": "anniversary_office_video_thankyou",
-          "label": {
-            "tw": "anniversary_office_video_thankyou",
-            "cn": "anniversary_office_video_thankyou",
-            "en": "anniversary_office_video_thankyou"
-          },
-          "start": "2026-07-24 14:00:00",
-          "end": "2026-07-24 14:10:00",
-          "duration_label": 10
-        },
-        {
-          "name": "aurora_minigame_1",
-          "label": {
-            "tw": "aurora_minigame_1",
-            "cn": "aurora_minigame_1",
-            "en": "aurora_minigame_1"
-          },
-          "start": "2026-07-24 14:00:00",
-          "end": "2026-07-24 14:12:00",
-          "duration_label": 12
-        },
-        {
-          "name": "global_ann_perf10",
-          "label": {
-            "tw": "global_ann_perf10",
-            "cn": "global_ann_perf10",
-            "en": "global_ann_perf10"
-          },
-          "start": "2026-07-24 14:15:00",
-          "end": "2026-07-24 14:20:00",
-          "duration_label": 5
-        },
-        {
-          "name": "mainstreet_cycle_overcast_day_B",
-          "label": {
-            "tw": "mainstreet_cycle_overcast_day_B",
-            "cn": "mainstreet_cycle_overcast_day_B",
-            "en": "mainstreet_cycle_overcast_day_B"
-          },
-          "start": "2026-07-24 14:10:00",
-          "end": "2026-07-24 14:15:00",
-          "duration_label": 5
-        },
-        {
-          "name": "social_nature2022turtle",
-          "label": {
-            "tw": "social_nature2022turtle",
-            "cn": "social_nature2022turtle",
-            "en": "social_nature2022turtle"
-          },
-          "start": "2026-07-24 13:50:00",
-          "end": "2026-07-24 14:00:00",
-          "duration_label": 10
-        },
-        {
-          "name": "social_turtle_despawn",
-          "label": {
-            "tw": "social_turtle_despawn",
-            "cn": "social_turtle_despawn",
-            "en": "social_turtle_despawn"
-          },
-          "start": "2026-07-24 14:00:00",
-          "end": "2026-07-24 14:10:00",
           "duration_label": 10
         }
       ]
@@ -6468,7 +6263,7 @@
         "duration_fmt": "31:10"
       }
     },
-    "fetched_at_fmt": "2026-07-24 14:30:25",
+    "fetched_at_fmt": "2026-07-24 15:00:29",
     "last_diff": {
       "recorded_at_fmt": "2026-07-17 06:01:06",
       "previous_fetched_at_fmt": "2026-07-17 05:31:05",
