@@ -31,6 +31,8 @@
       "aurora_eyesofachild",
       "aurora_eyesofachild_countdown",
       "aurora_minigame_1",
+      "aurora_minigame_2",
+      "aurora_minigame_3",
       "aurora_minigame_vote_rotation",
       "aurora_orbit",
       "aurora_orbit_countdown",
@@ -152,7 +154,7 @@
       "mainstreet_cycle_day_B",
       "mainstreet_cycle_morning_B",
       "mainstreet_cycle_night_B",
-      "mainstreet_cycle_sunset_B",
+      "mainstreet_cycle_overcast_day_B",
       "musicshop_weekly_rotation_05",
       "nature_geyser_on",
       "personality_quiz_evergreen",
@@ -391,7 +393,6 @@
       "social_nature2022turtle",
       "social_prairie_cozycave",
       "social_rain_bonfirecamp",
-      "social_rain_grandmatable",
       "social_skyway_speedtube",
       "social_sunset_labyrinth",
       "social_sunsetskater",
@@ -587,7 +588,7 @@
       "wildlifepark_cycle_sunset",
       "wing_buff_conversion_period"
     ],
-    "total": 785,
-    "active_count": 575
+    "total": 774,
+    "active_count": 577
   }
 }
