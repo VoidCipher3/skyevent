@@ -3571,6 +3571,7 @@
       "aurora_eyesofachild_countdown",
       "aurora_minigame_1",
       "aurora_minigame_2",
+      "aurora_minigame_3",
       "aurora_minigame_vote_rotation",
       "aurora_orbit",
       "aurora_orbit_countdown",
@@ -3913,6 +3914,8 @@
       "skyfest_fireworks_show",
       "skyfest_fireworks_show_act1",
       "skyfest_fireworks_show_act2",
+      "skyfest_fireworks_show_act3",
+      "skyfest_fireworks_show_act4",
       "skyfest_fireworks_show_medpad",
       "skyfest_gallerydawn",
       "skyfest_parade",
@@ -4120,7 +4123,7 @@
       "wildlifepark_cycle_sunset",
       "wing_buff_conversion_period"
     ],
-    "total": 762,
-    "active_count": 576
+    "total": 770,
+    "active_count": 567
   }
 }
