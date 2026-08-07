@@ -3,31 +3,55 @@
   "diff": {
     "event_schedule": {
       "has_recorded_diff": true,
-      "recorded_at_fmt": "2026-08-08 00:30:35",
-      "previous_fetched_at_fmt": "2026-08-08 00:00:37",
+      "recorded_at_fmt": "2026-08-08 01:00:40",
+      "previous_fetched_at_fmt": "2026-08-08 00:30:35",
       "unchanged_since_last_change": false,
       "added": [
         {
-          "name": "aurora_minigame_4",
+          "name": "mainstreet_cycle_overcast_day_B",
           "label": {
-            "tw": "aurora_minigame_4",
-            "cn": "aurora_minigame_4",
-            "en": "aurora_minigame_4"
+            "tw": "mainstreet_cycle_overcast_day_B",
+            "cn": "mainstreet_cycle_overcast_day_B",
+            "en": "mainstreet_cycle_overcast_day_B"
           },
-          "start": "2026-08-08 00:45:00",
-          "end": "2026-08-08 00:57:00",
+          "start": "2026-08-08 01:10:00",
+          "end": "2026-08-08 01:15:00",
+          "duration_label": 5
+        },
+        {
+          "name": "social_rain_grandmatable",
+          "label": {
+            "tw": "social_rain_grandmatable",
+            "cn": "social_rain_grandmatable",
+            "en": "social_rain_grandmatable"
+          },
+          "start": "2026-08-08 01:30:00",
+          "end": "2026-08-08 01:45:00",
+          "duration_label": 15
+        }
+      ],
+      "removed": [
+        {
+          "name": "aurora_minigame_2",
+          "label": {
+            "tw": "aurora_minigame_2",
+            "cn": "aurora_minigame_2",
+            "en": "aurora_minigame_2"
+          },
+          "start": "2026-08-08 00:15:00",
+          "end": "2026-08-08 00:27:00",
           "duration_label": 12
         },
         {
-          "name": "global_nature_geyser",
+          "name": "aurora_minigame_3",
           "label": {
-            "tw": "global_nature_geyser",
-            "cn": "global_nature_geyser",
-            "en": "global_nature_geyser"
+            "tw": "aurora_minigame_3",
+            "cn": "aurora_minigame_3",
+            "en": "aurora_minigame_3"
           },
-          "start": "2026-08-08 01:00:00",
-          "end": "2026-08-08 01:15:00",
-          "duration_label": 15
+          "start": "2026-08-08 00:30:00",
+          "end": "2026-08-08 00:42:00",
+          "duration_label": 12
         },
         {
           "name": "mainstreet_cycle_sunset_B",
@@ -38,63 +62,6 @@
           },
           "start": "2026-08-08 00:40:00",
           "end": "2026-08-08 00:50:00",
-          "duration_label": 10
-        }
-      ],
-      "removed": [
-        {
-          "name": "aurora_minigame_1",
-          "label": {
-            "tw": "aurora_minigame_1",
-            "cn": "aurora_minigame_1",
-            "en": "aurora_minigame_1"
-          },
-          "start": "2026-08-08 00:00:00",
-          "end": "2026-08-08 00:12:00",
-          "duration_label": 12
-        },
-        {
-          "name": "mainstreet_cycle_overcast_day_B",
-          "label": {
-            "tw": "mainstreet_cycle_overcast_day_B",
-            "cn": "mainstreet_cycle_overcast_day_B",
-            "en": "mainstreet_cycle_overcast_day_B"
-          },
-          "start": "2026-08-08 00:10:00",
-          "end": "2026-08-08 00:15:00",
-          "duration_label": 5
-        },
-        {
-          "name": "social_nature2022turtle",
-          "label": {
-            "tw": "social_nature2022turtle",
-            "cn": "social_nature2022turtle",
-            "en": "social_nature2022turtle"
-          },
-          "start": "2026-08-07 23:50:00",
-          "end": "2026-08-08 00:00:00",
-          "duration_label": 10
-        },
-        {
-          "name": "social_sunsetskater",
-          "label": {
-            "tw": "social_sunsetskater",
-            "cn": "social_sunsetskater",
-            "en": "social_sunsetskater"
-          },
-          "start": "2026-08-08 00:00:00",
-          "end": "2026-08-08 00:15:00",
-          "duration_label": 15
-        },
-        {
-          "name": "social_turtle_despawn",
-          "label": {
-            "tw": "social_turtle_despawn",
-            "cn": "social_turtle_despawn",
-            "en": "social_turtle_despawn"
-          },
-          "start": "2026-08-08 00:00:00",
-          "end": "2026-08-08 00:10:00",
           "duration_label": 10
         }
       ]
