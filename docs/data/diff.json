@@ -3,31 +3,66 @@
   "diff": {
     "event_schedule": {
       "has_recorded_diff": true,
-      "recorded_at_fmt": "2026-08-11 08:30:49",
-      "previous_fetched_at_fmt": "2026-08-11 08:00:50",
+      "recorded_at_fmt": "2026-08-11 09:00:54",
+      "previous_fetched_at_fmt": "2026-08-11 08:30:49",
       "unchanged_since_last_change": false,
       "added": [
         {
-          "name": "aurora_minigame_4",
+          "name": "mainstreet_cycle_overcast_day_B",
           "label": {
-            "tw": "aurora_minigame_4",
-            "cn": "aurora_minigame_4",
-            "en": "aurora_minigame_4"
+            "tw": "mainstreet_cycle_overcast_day_B",
+            "cn": "mainstreet_cycle_overcast_day_B",
+            "en": "mainstreet_cycle_overcast_day_B"
           },
-          "start": "2026-08-11 08:45:00",
-          "end": "2026-08-11 08:57:00",
-          "duration_label": 12
+          "start": "2026-08-11 09:10:00",
+          "end": "2026-08-11 09:15:00",
+          "duration_label": 5
         },
         {
-          "name": "global_nature_geyser",
+          "name": "skyfest_fireworks_show_act2",
           "label": {
-            "tw": "global_nature_geyser",
-            "cn": "global_nature_geyser",
-            "en": "global_nature_geyser"
+            "tw": "skyfest_fireworks_show_act2",
+            "cn": "skyfest_fireworks_show_act2",
+            "en": "skyfest_fireworks_show_act2"
           },
-          "start": "2026-08-11 09:00:00",
-          "end": "2026-08-11 09:15:00",
+          "start": "2026-08-11 09:25:00",
+          "end": "2026-08-11 09:28:00",
+          "duration_label": 3
+        },
+        {
+          "name": "skyfest_fireworks_show_act3",
+          "label": {
+            "tw": "skyfest_fireworks_show_act3",
+            "cn": "skyfest_fireworks_show_act3",
+            "en": "skyfest_fireworks_show_act3"
+          },
+          "start": "2026-08-11 09:28:00",
+          "end": "2026-08-11 09:29:00",
+          "duration_label": 1
+        },
+        {
+          "name": "social_rain_grandmatable",
+          "label": {
+            "tw": "social_rain_grandmatable",
+            "cn": "social_rain_grandmatable",
+            "en": "social_rain_grandmatable"
+          },
+          "start": "2026-08-11 09:30:00",
+          "end": "2026-08-11 09:45:00",
           "duration_label": 15
+        }
+      ],
+      "removed": [
+        {
+          "name": "aurora_minigame_3",
+          "label": {
+            "tw": "aurora_minigame_3",
+            "cn": "aurora_minigame_3",
+            "en": "aurora_minigame_3"
+          },
+          "start": "2026-08-11 08:30:00",
+          "end": "2026-08-11 08:42:00",
+          "duration_label": 12
         },
         {
           "name": "mainstreet_cycle_sunset_B",
@@ -38,107 +73,6 @@
           },
           "start": "2026-08-11 08:40:00",
           "end": "2026-08-11 08:50:00",
-          "duration_label": 10
-        },
-        {
-          "name": "radiant_darkstone_despawn_warning",
-          "label": {
-            "tw": "radiant_darkstone_despawn_warning",
-            "cn": "radiant_darkstone_despawn_warning",
-            "en": "radiant_darkstone_despawn_warning"
-          },
-          "start": "2026-08-11 08:58:00",
-          "end": "2026-08-11 08:59:00",
-          "duration_label": 1
-        }
-      ],
-      "removed": [
-        {
-          "name": "aurora_minigame_1",
-          "label": {
-            "tw": "aurora_minigame_1",
-            "cn": "aurora_minigame_1",
-            "en": "aurora_minigame_1"
-          },
-          "start": "2026-08-11 08:00:00",
-          "end": "2026-08-11 08:12:00",
-          "duration_label": 12
-        },
-        {
-          "name": "aurora_minigame_2",
-          "label": {
-            "tw": "aurora_minigame_2",
-            "cn": "aurora_minigame_2",
-            "en": "aurora_minigame_2"
-          },
-          "start": "2026-08-11 08:15:00",
-          "end": "2026-08-11 08:27:00",
-          "duration_label": 12
-        },
-        {
-          "name": "mainstreet_cycle_overcast_day_B",
-          "label": {
-            "tw": "mainstreet_cycle_overcast_day_B",
-            "cn": "mainstreet_cycle_overcast_day_B",
-            "en": "mainstreet_cycle_overcast_day_B"
-          },
-          "start": "2026-08-11 08:10:00",
-          "end": "2026-08-11 08:15:00",
-          "duration_label": 5
-        },
-        {
-          "name": "rain_rainbow",
-          "label": {
-            "tw": "rain_rainbow",
-            "cn": "rain_rainbow",
-            "en": "rain_rainbow"
-          },
-          "start": "2026-08-11 08:00:00",
-          "end": "2026-08-11 08:30:00",
-          "duration_label": 30
-        },
-        {
-          "name": "skyfest_fireworks_show_act2",
-          "label": {
-            "tw": "skyfest_fireworks_show_act2",
-            "cn": "skyfest_fireworks_show_act2",
-            "en": "skyfest_fireworks_show_act2"
-          },
-          "start": "2026-08-11 08:25:00",
-          "end": "2026-08-11 08:28:00",
-          "duration_label": 3
-        },
-        {
-          "name": "skyfest_fireworks_show_act3",
-          "label": {
-            "tw": "skyfest_fireworks_show_act3",
-            "cn": "skyfest_fireworks_show_act3",
-            "en": "skyfest_fireworks_show_act3"
-          },
-          "start": "2026-08-11 08:28:00",
-          "end": "2026-08-11 08:29:00",
-          "duration_label": 1
-        },
-        {
-          "name": "social_nature2022turtle",
-          "label": {
-            "tw": "social_nature2022turtle",
-            "cn": "social_nature2022turtle",
-            "en": "social_nature2022turtle"
-          },
-          "start": "2026-08-11 07:50:00",
-          "end": "2026-08-11 08:00:00",
-          "duration_label": 10
-        },
-        {
-          "name": "social_turtle_despawn",
-          "label": {
-            "tw": "social_turtle_despawn",
-            "cn": "social_turtle_despawn",
-            "en": "social_turtle_despawn"
-          },
-          "start": "2026-08-11 08:00:00",
-          "end": "2026-08-11 08:10:00",
           "duration_label": 10
         }
       ]
