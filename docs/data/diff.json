@@ -3,10 +3,78 @@
   "diff": {
     "event_schedule": {
       "has_recorded_diff": true,
-      "recorded_at_fmt": "2026-08-14 03:00:26",
-      "previous_fetched_at_fmt": "2026-08-14 02:30:36",
+      "recorded_at_fmt": "2026-08-14 03:30:21",
+      "previous_fetched_at_fmt": "2026-08-14 03:00:26",
       "unchanged_since_last_change": false,
       "added": [
+        {
+          "name": "aurora_minigame_1",
+          "label": {
+            "tw": "aurora_minigame_1",
+            "cn": "aurora_minigame_1",
+            "en": "aurora_minigame_1"
+          },
+          "start": "2026-08-14 04:00:00",
+          "end": "2026-08-14 04:12:00",
+          "duration_label": 12
+        },
+        {
+          "name": "mainstreet_cycle_sunset_B",
+          "label": {
+            "tw": "mainstreet_cycle_sunset_B",
+            "cn": "mainstreet_cycle_sunset_B",
+            "en": "mainstreet_cycle_sunset_B"
+          },
+          "start": "2026-08-14 03:40:00",
+          "end": "2026-08-14 03:50:00",
+          "duration_label": 10
+        },
+        {
+          "name": "social_nature2022turtle",
+          "label": {
+            "tw": "social_nature2022turtle",
+            "cn": "social_nature2022turtle",
+            "en": "social_nature2022turtle"
+          },
+          "start": "2026-08-14 03:50:00",
+          "end": "2026-08-14 04:00:00",
+          "duration_label": 10
+        },
+        {
+          "name": "social_turtle_despawn",
+          "label": {
+            "tw": "social_turtle_despawn",
+            "cn": "social_turtle_despawn",
+            "en": "social_turtle_despawn"
+          },
+          "start": "2026-08-14 04:00:00",
+          "end": "2026-08-14 04:10:00",
+          "duration_label": 10
+        }
+      ],
+      "removed": [
+        {
+          "name": "aurora_minigame_4",
+          "label": {
+            "tw": "aurora_minigame_4",
+            "cn": "aurora_minigame_4",
+            "en": "aurora_minigame_4"
+          },
+          "start": "2026-08-14 02:45:00",
+          "end": "2026-08-14 02:57:00",
+          "duration_label": 12
+        },
+        {
+          "name": "global_nature_geyser",
+          "label": {
+            "tw": "global_nature_geyser",
+            "cn": "global_nature_geyser",
+            "en": "global_nature_geyser"
+          },
+          "start": "2026-08-14 03:00:00",
+          "end": "2026-08-14 03:15:00",
+          "duration_label": 15
+        },
         {
           "name": "mainstreet_cycle_overcast_day_B",
           "label": {
@@ -17,63 +85,6 @@
           "start": "2026-08-14 03:10:00",
           "end": "2026-08-14 03:15:00",
           "duration_label": 5
-        },
-        {
-          "name": "skyfest_fireworks_show_act2",
-          "label": {
-            "tw": "skyfest_fireworks_show_act2",
-            "cn": "skyfest_fireworks_show_act2",
-            "en": "skyfest_fireworks_show_act2"
-          },
-          "start": "2026-08-14 03:25:00",
-          "end": "2026-08-14 03:28:00",
-          "duration_label": 3
-        },
-        {
-          "name": "social_rain_grandmatable",
-          "label": {
-            "tw": "social_rain_grandmatable",
-            "cn": "social_rain_grandmatable",
-            "en": "social_rain_grandmatable"
-          },
-          "start": "2026-08-14 03:30:00",
-          "end": "2026-08-14 03:45:00",
-          "duration_label": 15
-        }
-      ],
-      "removed": [
-        {
-          "name": "aurora_minigame_3",
-          "label": {
-            "tw": "aurora_minigame_3",
-            "cn": "aurora_minigame_3",
-            "en": "aurora_minigame_3"
-          },
-          "start": "2026-08-14 02:30:00",
-          "end": "2026-08-14 02:42:00",
-          "duration_label": 12
-        },
-        {
-          "name": "mainstreet_cycle_sunset_B",
-          "label": {
-            "tw": "mainstreet_cycle_sunset_B",
-            "cn": "mainstreet_cycle_sunset_B",
-            "en": "mainstreet_cycle_sunset_B"
-          },
-          "start": "2026-08-14 02:40:00",
-          "end": "2026-08-14 02:50:00",
-          "duration_label": 10
-        },
-        {
-          "name": "stormy_intensity_3",
-          "label": {
-            "tw": "stormy_intensity_3",
-            "cn": "stormy_intensity_3",
-            "en": "stormy_intensity_3"
-          },
-          "start": "2026-08-13 22:40:00",
-          "end": "2026-08-14 02:40:00",
-          "duration_label": 240
         }
       ]
     },
