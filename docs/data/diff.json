@@ -3,10 +3,67 @@
   "diff": {
     "event_schedule": {
       "has_recorded_diff": true,
-      "recorded_at_fmt": "2026-08-15 14:35:06",
-      "previous_fetched_at_fmt": "2026-08-15 13:47:43",
+      "recorded_at_fmt": "2026-08-15 17:21:52",
+      "previous_fetched_at_fmt": "2026-08-15 14:35:06",
       "unchanged_since_last_change": false,
       "added": [
+        {
+          "name": "skyfest_fireworks_show_act2",
+          "label": {
+            "tw": "skyfest_fireworks_show_act2",
+            "cn": "skyfest_fireworks_show_act2",
+            "en": "skyfest_fireworks_show_act2"
+          },
+          "start": "2026-08-15 17:25:00",
+          "end": "2026-08-15 17:28:00",
+          "duration_label": 3
+        },
+        {
+          "name": "skyfest_fireworks_show_act3",
+          "label": {
+            "tw": "skyfest_fireworks_show_act3",
+            "cn": "skyfest_fireworks_show_act3",
+            "en": "skyfest_fireworks_show_act3"
+          },
+          "start": "2026-08-15 17:28:00",
+          "end": "2026-08-15 17:29:00",
+          "duration_label": 1
+        },
+        {
+          "name": "social_nature2022turtle",
+          "label": {
+            "tw": "social_nature2022turtle",
+            "cn": "social_nature2022turtle",
+            "en": "social_nature2022turtle"
+          },
+          "start": "2026-08-15 17:50:00",
+          "end": "2026-08-15 18:00:00",
+          "duration_label": 10
+        },
+        {
+          "name": "social_rain_grandmatable",
+          "label": {
+            "tw": "social_rain_grandmatable",
+            "cn": "social_rain_grandmatable",
+            "en": "social_rain_grandmatable"
+          },
+          "start": "2026-08-15 17:30:00",
+          "end": "2026-08-15 17:45:00",
+          "duration_label": 15
+        },
+        {
+          "name": "stormy_intensity_4",
+          "label": {
+            "tw": "stormy_intensity_4",
+            "cn": "stormy_intensity_4",
+            "en": "stormy_intensity_4"
+          },
+          "start": "2026-08-15 17:20:00",
+          "end": "2026-08-15 21:20:00",
+          "duration_label": 240
+        }
+      ],
+      "removed": [
         {
           "name": "aurora_minigame_3",
           "label": {
@@ -30,36 +87,58 @@
           "duration_label": 12
         },
         {
-          "name": "dusk_darkstone_1",
+          "name": "day_boat",
           "label": {
-            "tw": "dusk_darkstone_1",
-            "cn": "dusk_darkstone_1",
-            "en": "dusk_darkstone_1"
+            "tw": "day_boat",
+            "cn": "day_boat",
+            "en": "day_boat"
           },
-          "start": "2026-08-15 15:00:00",
-          "end": "2026-08-16 15:00:00",
+          "start": "2026-08-14 15:00:00",
+          "end": "2026-08-15 15:00:00",
           "duration_label": 1440
         },
         {
-          "name": "event_prairie_tcandle_master",
+          "name": "dusk_darkstone_0",
           "label": {
-            "tw": "event_prairie_tcandle_master",
-            "cn": "event_prairie_tcandle_master",
-            "en": "event_prairie_tcandle_master"
+            "tw": "dusk_darkstone_0",
+            "cn": "dusk_darkstone_0",
+            "en": "dusk_darkstone_0"
           },
-          "start": "2026-08-15 15:00:00",
-          "end": "2026-08-16 15:00:00",
+          "start": "2026-08-14 15:00:00",
+          "end": "2026-08-15 15:00:00",
           "duration_label": 1440
         },
         {
-          "name": "event_prairie_tcandles3",
+          "name": "dusk_quest",
           "label": {
-            "tw": "event_prairie_tcandles3",
-            "cn": "event_prairie_tcandles3",
-            "en": "event_prairie_tcandles3"
+            "tw": "dusk_quest",
+            "cn": "dusk_quest",
+            "en": "dusk_quest"
           },
-          "start": "2026-08-15 15:00:00",
-          "end": "2026-08-16 15:00:00",
+          "start": "2026-08-14 15:00:00",
+          "end": "2026-08-15 15:00:00",
+          "duration_label": 1440
+        },
+        {
+          "name": "event_night_tcandle_master",
+          "label": {
+            "tw": "event_night_tcandle_master",
+            "cn": "event_night_tcandle_master",
+            "en": "event_night_tcandle_master"
+          },
+          "start": "2026-08-14 15:00:00",
+          "end": "2026-08-15 15:00:00",
+          "duration_label": 1440
+        },
+        {
+          "name": "event_night_tcandles1",
+          "label": {
+            "tw": "event_night_tcandles1",
+            "cn": "event_night_tcandles1",
+            "en": "event_night_tcandles1"
+          },
+          "start": "2026-08-14 15:00:00",
+          "end": "2026-08-15 15:00:00",
           "duration_label": 1440
         },
         {
@@ -74,149 +153,125 @@
           "duration_label": 15
         },
         {
-          "name": "night_quest",
+          "name": "global_newyear_firework_interval",
           "label": {
-            "tw": "night_quest",
-            "cn": "night_quest",
-            "en": "night_quest"
+            "tw": "global_newyear_firework_interval",
+            "cn": "global_newyear_firework_interval",
+            "en": "global_newyear_firework_interval"
           },
           "start": "2026-08-15 15:00:00",
-          "end": "2026-08-16 15:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "quest_tgc_office_vince",
-          "label": {
-            "tw": "quest_tgc_office_vince",
-            "cn": "quest_tgc_office_vince",
-            "en": "quest_tgc_office_vince"
-          },
-          "start": "2026-08-15 15:00:00",
-          "end": "2026-08-16 15:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "rain_darkstone_1",
-          "label": {
-            "tw": "rain_darkstone_1",
-            "cn": "rain_darkstone_1",
-            "en": "rain_darkstone_1"
-          },
-          "start": "2026-08-15 15:00:00",
-          "end": "2026-08-16 15:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "season_b_night_candles1",
-          "label": {
-            "tw": "season_b_night_candles1",
-            "cn": "season_b_night_candles1",
-            "en": "season_b_night_candles1"
-          },
-          "start": "2026-08-15 15:00:00",
-          "end": "2026-08-16 15:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "skyfest_fireworks_show_act4",
-          "label": {
-            "tw": "skyfest_fireworks_show_act4",
-            "cn": "skyfest_fireworks_show_act4",
-            "en": "skyfest_fireworks_show_act4"
-          },
-          "start": "2026-08-15 14:29:00",
-          "end": "2026-08-15 14:37:00",
-          "duration_label": 8
-        },
-        {
-          "name": "skyfest_oreo",
-          "label": {
-            "tw": "skyfest_oreo",
-            "cn": "skyfest_oreo",
-            "en": "skyfest_oreo"
-          },
-          "start": "2026-08-15 15:00:00",
-          "end": "2026-08-16 15:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "stormy_night",
-          "label": {
-            "tw": "stormy_night",
-            "cn": "stormy_night",
-            "en": "stormy_night"
-          },
-          "start": "2026-08-15 15:00:00",
-          "end": "2026-08-16 15:00:00",
-          "duration_label": 1440
-        }
-      ],
-      "removed": [
-        {
-          "name": "aurora_minigame_1",
-          "label": {
-            "tw": "aurora_minigame_1",
-            "cn": "aurora_minigame_1",
-            "en": "aurora_minigame_1"
-          },
-          "start": "2026-08-15 14:00:00",
-          "end": "2026-08-15 14:12:00",
-          "duration_label": 12
-        },
-        {
-          "name": "aurora_minigame_2",
-          "label": {
-            "tw": "aurora_minigame_2",
-            "cn": "aurora_minigame_2",
-            "en": "aurora_minigame_2"
-          },
-          "start": "2026-08-15 14:15:00",
-          "end": "2026-08-15 14:27:00",
-          "duration_label": 12
-        },
-        {
-          "name": "mainstreet_cycle_overcast_day_B",
-          "label": {
-            "tw": "mainstreet_cycle_overcast_day_B",
-            "cn": "mainstreet_cycle_overcast_day_B",
-            "en": "mainstreet_cycle_overcast_day_B"
-          },
-          "start": "2026-08-15 14:10:00",
-          "end": "2026-08-15 14:15:00",
+          "end": "2026-08-15 15:05:00",
           "duration_label": 5
         },
         {
-          "name": "social_nature2022turtle",
+          "name": "mainstreet_cycle_morning_B",
           "label": {
-            "tw": "social_nature2022turtle",
-            "cn": "social_nature2022turtle",
-            "en": "social_nature2022turtle"
+            "tw": "mainstreet_cycle_morning_B",
+            "cn": "mainstreet_cycle_morning_B",
+            "en": "mainstreet_cycle_morning_B"
           },
-          "start": "2026-08-15 13:50:00",
-          "end": "2026-08-15 14:00:00",
+          "start": "2026-08-15 15:00:00",
+          "end": "2026-08-15 15:10:00",
           "duration_label": 10
         },
         {
-          "name": "social_sunsetskater",
+          "name": "quest_tgc_office_travis",
           "label": {
-            "tw": "social_sunsetskater",
-            "cn": "social_sunsetskater",
-            "en": "social_sunsetskater"
+            "tw": "quest_tgc_office_travis",
+            "cn": "quest_tgc_office_travis",
+            "en": "quest_tgc_office_travis"
           },
-          "start": "2026-08-15 14:00:00",
-          "end": "2026-08-15 14:15:00",
-          "duration_label": 15
+          "start": "2026-08-14 15:00:00",
+          "end": "2026-08-15 15:00:00",
+          "duration_label": 1440
         },
         {
-          "name": "social_turtle_despawn",
+          "name": "radiant_darkstone_despawn",
           "label": {
-            "tw": "social_turtle_despawn",
-            "cn": "social_turtle_despawn",
-            "en": "social_turtle_despawn"
+            "tw": "radiant_darkstone_despawn",
+            "cn": "radiant_darkstone_despawn",
+            "en": "radiant_darkstone_despawn"
           },
-          "start": "2026-08-15 14:00:00",
-          "end": "2026-08-15 14:10:00",
-          "duration_label": 10
+          "start": "2026-08-15 14:59:00",
+          "end": "2026-08-15 15:00:00",
+          "duration_label": 1
+        },
+        {
+          "name": "radiant_darkstone_despawn_warning",
+          "label": {
+            "tw": "radiant_darkstone_despawn_warning",
+            "cn": "radiant_darkstone_despawn_warning",
+            "en": "radiant_darkstone_despawn_warning"
+          },
+          "start": "2026-08-15 14:58:00",
+          "end": "2026-08-15 14:59:00",
+          "duration_label": 1
+        },
+        {
+          "name": "rain_darkstone_0",
+          "label": {
+            "tw": "rain_darkstone_0",
+            "cn": "rain_darkstone_0",
+            "en": "rain_darkstone_0"
+          },
+          "start": "2026-08-14 15:00:00",
+          "end": "2026-08-15 15:00:00",
+          "duration_label": 1440
+        },
+        {
+          "name": "season_b_dusk_candles1",
+          "label": {
+            "tw": "season_b_dusk_candles1",
+            "cn": "season_b_dusk_candles1",
+            "en": "season_b_dusk_candles1"
+          },
+          "start": "2026-08-14 15:00:00",
+          "end": "2026-08-15 15:00:00",
+          "duration_label": 1440
+        },
+        {
+          "name": "skyfest_gallerydawn",
+          "label": {
+            "tw": "skyfest_gallerydawn",
+            "cn": "skyfest_gallerydawn",
+            "en": "skyfest_gallerydawn"
+          },
+          "start": "2026-08-14 15:00:00",
+          "end": "2026-08-15 15:00:00",
+          "duration_label": 1440
+        },
+        {
+          "name": "skyfest_parade",
+          "label": {
+            "tw": "skyfest_parade",
+            "cn": "skyfest_parade",
+            "en": "skyfest_parade"
+          },
+          "start": "2026-08-15 15:00:00",
+          "end": "2026-08-15 15:20:00",
+          "duration_label": 20
+        },
+        {
+          "name": "stormy_dusk",
+          "label": {
+            "tw": "stormy_dusk",
+            "cn": "stormy_dusk",
+            "en": "stormy_dusk"
+          },
+          "start": "2026-08-14 15:00:00",
+          "end": "2026-08-15 15:00:00",
+          "duration_label": 1440
+        },
+        {
+          "name": "sunset_colosseum_firework_interval",
+          "label": {
+            "tw": "sunset_colosseum_firework_interval",
+            "cn": "sunset_colosseum_firework_interval",
+            "en": "sunset_colosseum_firework_interval"
+          },
+          "start": "2026-08-15 15:00:00",
+          "end": "2026-08-15 15:03:00",
+          "duration_label": 3
         }
       ]
     },
