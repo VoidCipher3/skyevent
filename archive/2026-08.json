@@ -8282,6 +8282,9 @@
       "aurora_exhaleinhale_wrap",
       "aurora_eyesofachild",
       "aurora_eyesofachild_countdown",
+      "aurora_minigame_2",
+      "aurora_minigame_3",
+      "aurora_minigame_4",
       "aurora_minigame_vote_rotation",
       "aurora_orbit",
       "aurora_orbit_countdown",
@@ -8634,10 +8637,8 @@
       "social_eelwatercreature",
       "social_feed_prompt_clear_skies",
       "social_feed_prompt_grand_entrance",
-      "social_nature2022turtle",
       "social_prairie_cozycave",
       "social_rain_bonfirecamp",
-      "social_rain_grandmatable",
       "social_skyway_speedtube",
       "social_sunset_labyrinth",
       "social_turtle_on",
@@ -8779,7 +8780,6 @@
       "spiritshopitem_ap06unlock_fetch_night",
       "spiritshopitem_ap06unlock_fetch_rain",
       "spiritshopitem_ap06unlock_fetch_sunset",
-      "stormy_intensity_4",
       "stormy_night",
       "sunset_village_fishing",
       "sunset_village_spell_shop",
@@ -8830,7 +8830,7 @@
       "wildlifepark_cycle_sunset",
       "wing_buff_conversion_period"
     ],
-    "total": 770,
-    "active_count": 581
+    "total": 754,
+    "active_count": 568
   }
 }
