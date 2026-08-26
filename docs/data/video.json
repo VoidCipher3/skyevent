@@ -2,24 +2,13 @@
   "ok": true,
   "server": "global",
   "meta": {
-    "fetched_at_fmt": "2026-08-26 02:29:41",
+    "fetched_at_fmt": "2026-08-26 14:49:15",
     "auto_refresh": true,
     "refresh_interval_hours": 0.5
   },
   "data": {
-    "total": 80,
+    "total": 82,
     "videos": [
-      {
-        "name": "artbook_signing",
-        "duration": 47,
-        "duration_fmt": "0:47",
-        "playback_url": "https://video.cdn.thatgamecompany.com/encoded/skyfest24/ArtBookSigning_VLS_47s_EN_2406/ArtBookSigning_VLS_47s_EN_2406_tgc.m3u8",
-        "subtitle_url": "",
-        "has_playback": true,
-        "has_subtitle": false,
-        "has_translations": false,
-        "cellular_data_warning": false
-      },
       {
         "name": "295filler",
         "duration": 3600,
@@ -197,6 +186,17 @@
         "cellular_data_warning": false
       },
       {
+        "name": "artbook_signing",
+        "duration": 47,
+        "duration_fmt": "0:47",
+        "playback_url": "https://video.cdn.thatgamecompany.com/encoded/skyfest24/ArtBookSigning_VLS_47s_EN_2406/ArtBookSigning_VLS_47s_EN_2406_tgc.m3u8",
+        "subtitle_url": "",
+        "has_playback": true,
+        "has_subtitle": false,
+        "has_translations": false,
+        "cellular_data_warning": false
+      },
+      {
         "name": "aurora_concert_thank_you",
         "duration": 60,
         "duration_fmt": "1:00",
@@ -356,6 +356,17 @@
         "duration_fmt": "30:00",
         "playback_url": "https://video.cdn.thatgamecompany.com/encoded/awd26_sel_c/e62bf0f4-760c-464c-9c0f-3c8fe918e259/SCA26_AwdSel-C_VLS_30m_EN_260706/SCA26_AwdSel-C_VLS_30m_EN_260706_tgc.m3u8",
         "subtitle_url": "https://video.cdn.thatgamecompany.com/vtt/awd26_sel_c/18438a72-368d-42f4-ae77-97b92d22a965/SCA26_AwdSel-C.vtt",
+        "has_playback": true,
+        "has_subtitle": true,
+        "has_translations": true,
+        "cellular_data_warning": false
+      },
+      {
+        "name": "awd26_show_hilite",
+        "duration": 1800,
+        "duration_fmt": "30:00",
+        "playback_url": "https://video.cdn.thatgamecompany.com/encoded/awd26_show_hilite/b1f8a57e-f0d6-431f-9d76-86d2d8c8c456/SCA26_Highlights_VLS_30m_EN_2607/SCA26_Highlights_VLS_30m_EN_2607_tgc.m3u8",
+        "subtitle_url": "https://video.cdn.thatgamecompany.com/vtt/awd26_show_hilite/4f86c4a4-3b11-4bb6-a290-20ce8dfff427/SCA26_Highlights-ROUGH4_VLS_30m_2607.vtt",
         "has_playback": true,
         "has_subtitle": true,
         "has_translations": true,
@@ -674,6 +685,17 @@
         "duration": 492,
         "duration_fmt": "8:12",
         "playback_url": "https://video.cdn.thatgamecompany.com/encoded/skyfest24/gallery2/DOS5_HistoryOfSkyInGame_K_240502/DOS5_HistoryOfSkyInGame_K_240502_tgc.m3u8",
+        "subtitle_url": "",
+        "has_playback": true,
+        "has_subtitle": false,
+        "has_translations": false,
+        "cellular_data_warning": false
+      },
+      {
+        "name": "hoc_tcp_logo",
+        "duration": 900,
+        "duration_fmt": "15:00",
+        "playback_url": "https://video.cdn.thatgamecompany.com/encoded/hoc_tcp_logo/079b187c-206d-437b-b1b7-61ad0b634a44/HOC_TCP-logo_VLS_15m_2607/HOC_TCP-logo_VLS_15m_2607_tgc.m3u8",
         "subtitle_url": "",
         "has_playback": true,
         "has_subtitle": false,

@@ -3,137 +3,291 @@
   "diff": {
     "event_schedule": {
       "has_recorded_diff": true,
-      "recorded_at_fmt": "2026-08-26 02:29:41",
-      "previous_fetched_at_fmt": "2026-08-25 20:24:16",
+      "recorded_at_fmt": "2026-08-26 14:49:15",
+      "previous_fetched_at_fmt": "2026-08-26 02:29:41",
       "unchanged_since_last_change": false,
       "added": [
         {
-          "name": "global_nature_geyser",
+          "name": "creativehall_loop1",
           "label": {
-            "tw": "global_nature_geyser",
-            "cn": "global_nature_geyser",
-            "en": "global_nature_geyser"
+            "tw": "creativehall_loop1",
+            "cn": "creativehall_loop1",
+            "en": "creativehall_loop1"
           },
-          "start": "2026-08-26 03:00:00",
-          "end": "2026-08-26 03:15:00",
-          "duration_label": 15
+          "start": "2026-08-25 15:00:00",
+          "end": "2026-08-26 16:00:00",
+          "duration_label": 1500
         },
         {
-          "name": "global_newyear_firework_interval",
+          "name": "day_boat",
           "label": {
-            "tw": "global_newyear_firework_interval",
-            "cn": "global_newyear_firework_interval",
-            "en": "global_newyear_firework_interval"
+            "tw": "day_boat",
+            "cn": "day_boat",
+            "en": "day_boat"
           },
-          "start": "2026-08-26 03:00:00",
-          "end": "2026-08-26 03:05:00",
+          "start": "2026-08-26 15:00:00",
+          "end": "2026-08-27 15:00:00",
+          "duration_label": 1440
+        },
+        {
+          "name": "dusk_darkstone_0",
+          "label": {
+            "tw": "dusk_darkstone_0",
+            "cn": "dusk_darkstone_0",
+            "en": "dusk_darkstone_0"
+          },
+          "start": "2026-08-26 15:00:00",
+          "end": "2026-08-27 15:00:00",
+          "duration_label": 1440
+        },
+        {
+          "name": "event_rain_tcandle_master",
+          "label": {
+            "tw": "event_rain_tcandle_master",
+            "cn": "event_rain_tcandle_master",
+            "en": "event_rain_tcandle_master"
+          },
+          "start": "2026-08-26 15:00:00",
+          "end": "2026-08-27 15:00:00",
+          "duration_label": 1440
+        },
+        {
+          "name": "event_rain_tcandles3",
+          "label": {
+            "tw": "event_rain_tcandles3",
+            "cn": "event_rain_tcandles3",
+            "en": "event_rain_tcandles3"
+          },
+          "start": "2026-08-26 15:00:00",
+          "end": "2026-08-27 15:00:00",
+          "duration_label": 1440
+        },
+        {
+          "name": "global_camping",
+          "label": {
+            "tw": "global_camping",
+            "cn": "global_camping",
+            "en": "global_camping"
+          },
+          "start": "2026-08-28 15:00:00",
+          "end": "2026-09-11 15:00:00",
+          "duration_label": 20160
+        },
+        {
+          "name": "global_deer_shop",
+          "label": {
+            "tw": "global_deer_shop",
+            "cn": "global_deer_shop",
+            "en": "global_deer_shop"
+          },
+          "start": "2026-09-19 15:00:00",
+          "end": "2026-10-10 15:00:00",
+          "duration_label": 30240
+        },
+        {
+          "name": "global_merchandise_sleep",
+          "label": {
+            "tw": "global_merchandise_sleep",
+            "cn": "global_merchandise_sleep",
+            "en": "global_merchandise_sleep"
+          },
+          "start": "2026-09-08 09:00:00",
+          "end": "2026-09-11 09:00:00",
+          "duration_label": 4320
+        },
+        {
+          "name": "global_moonlight",
+          "label": {
+            "tw": "global_moonlight",
+            "cn": "global_moonlight",
+            "en": "global_moonlight"
+          },
+          "start": "2026-09-19 15:00:00",
+          "end": "2026-10-10 15:00:00",
+          "duration_label": 30240
+        },
+        {
+          "name": "global_moonlight_hugemoon_move",
+          "label": {
+            "tw": "global_moonlight_hugemoon_move",
+            "cn": "global_moonlight_hugemoon_move",
+            "en": "global_moonlight_hugemoon_move"
+          },
+          "start": "2026-09-19 15:00:00",
+          "end": "2026-10-10 15:00:00",
+          "duration_label": 30240
+        },
+        {
+          "name": "global_moonlight_mural_d1",
+          "label": {
+            "tw": "global_moonlight_mural_d1",
+            "cn": "global_moonlight_mural_d1",
+            "en": "global_moonlight_mural_d1"
+          },
+          "start": "2026-09-19 15:00:00",
+          "end": "2026-10-10 15:00:00",
+          "duration_label": 30240
+        },
+        {
+          "name": "global_moonlight_mural_d3",
+          "label": {
+            "tw": "global_moonlight_mural_d3",
+            "cn": "global_moonlight_mural_d3",
+            "en": "global_moonlight_mural_d3"
+          },
+          "start": "2026-09-21 15:00:00",
+          "end": "2026-10-10 15:00:00",
+          "duration_label": 27360
+        },
+        {
+          "name": "global_moonlight_mural_d5",
+          "label": {
+            "tw": "global_moonlight_mural_d5",
+            "cn": "global_moonlight_mural_d5",
+            "en": "global_moonlight_mural_d5"
+          },
+          "start": "2026-09-23 15:00:00",
+          "end": "2026-10-10 15:00:00",
+          "duration_label": 24480
+        },
+        {
+          "name": "mainstreet_cycle_overcast_day_B",
+          "label": {
+            "tw": "mainstreet_cycle_overcast_day_B",
+            "cn": "mainstreet_cycle_overcast_day_B",
+            "en": "mainstreet_cycle_overcast_day_B"
+          },
+          "start": "2026-08-26 15:10:00",
+          "end": "2026-08-26 15:15:00",
           "duration_label": 5
         },
         {
-          "name": "mainstreet_cycle_morning_B",
+          "name": "prairie_quest",
           "label": {
-            "tw": "mainstreet_cycle_morning_B",
-            "cn": "mainstreet_cycle_morning_B",
-            "en": "mainstreet_cycle_morning_B"
+            "tw": "prairie_quest",
+            "cn": "prairie_quest",
+            "en": "prairie_quest"
           },
-          "start": "2026-08-26 03:00:00",
-          "end": "2026-08-26 03:10:00",
-          "duration_label": 10
+          "start": "2026-08-26 15:00:00",
+          "end": "2026-08-27 15:00:00",
+          "duration_label": 1440
         },
         {
-          "name": "radiant_darkstone_despawn",
+          "name": "quest_tgc_office_yui",
           "label": {
-            "tw": "radiant_darkstone_despawn",
-            "cn": "radiant_darkstone_despawn",
-            "en": "radiant_darkstone_despawn"
+            "tw": "quest_tgc_office_yui",
+            "cn": "quest_tgc_office_yui",
+            "en": "quest_tgc_office_yui"
           },
-          "start": "2026-08-26 02:59:00",
-          "end": "2026-08-26 03:00:00",
-          "duration_label": 1
+          "start": "2026-08-26 15:00:00",
+          "end": "2026-08-27 15:00:00",
+          "duration_label": 1440
         },
         {
-          "name": "radiant_darkstone_despawn_warning",
+          "name": "rain_darkstone_0",
           "label": {
-            "tw": "radiant_darkstone_despawn_warning",
-            "cn": "radiant_darkstone_despawn_warning",
-            "en": "radiant_darkstone_despawn_warning"
+            "tw": "rain_darkstone_0",
+            "cn": "rain_darkstone_0",
+            "en": "rain_darkstone_0"
           },
-          "start": "2026-08-26 02:58:00",
-          "end": "2026-08-26 02:59:00",
-          "duration_label": 1
+          "start": "2026-08-26 15:00:00",
+          "end": "2026-08-27 15:00:00",
+          "duration_label": 1440
         },
         {
-          "name": "skyfest_parade",
+          "name": "season_31_end_shop",
           "label": {
-            "tw": "skyfest_parade",
-            "cn": "skyfest_parade",
-            "en": "skyfest_parade"
+            "tw": "season_31_end_shop",
+            "cn": "season_31_end_shop",
+            "en": "season_31_end_shop"
           },
-          "start": "2026-08-26 03:00:00",
-          "end": "2026-08-26 03:20:00",
-          "duration_label": 20
+          "start": "2026-08-26 15:00:00",
+          "end": null,
+          "duration_label": 99999999
         },
         {
-          "name": "sunset_colosseum_firework_interval",
+          "name": "season_b_prairie_candles2",
           "label": {
-            "tw": "sunset_colosseum_firework_interval",
-            "cn": "sunset_colosseum_firework_interval",
-            "en": "sunset_colosseum_firework_interval"
+            "tw": "season_b_prairie_candles2",
+            "cn": "season_b_prairie_candles2",
+            "en": "season_b_prairie_candles2"
           },
-          "start": "2026-08-26 03:00:00",
-          "end": "2026-08-26 03:03:00",
-          "duration_label": 3
+          "start": "2026-08-26 15:00:00",
+          "end": "2026-08-27 15:00:00",
+          "duration_label": 1440
+        },
+        {
+          "name": "skyfest_skibi",
+          "label": {
+            "tw": "skyfest_skibi",
+            "cn": "skyfest_skibi",
+            "en": "skyfest_skibi"
+          },
+          "start": "2026-08-26 15:00:00",
+          "end": "2026-08-27 15:00:00",
+          "duration_label": 1440
+        },
+        {
+          "name": "stormy_prairie",
+          "label": {
+            "tw": "stormy_prairie",
+            "cn": "stormy_prairie",
+            "en": "stormy_prairie"
+          },
+          "start": "2026-08-26 15:00:00",
+          "end": "2026-08-27 15:00:00",
+          "duration_label": 1440
         }
       ],
       "removed": [
         {
-          "name": "aurora_minigame_2",
+          "name": "aurora_minigame_3",
           "label": {
-            "tw": "aurora_minigame_2",
-            "cn": "aurora_minigame_2",
-            "en": "aurora_minigame_2"
+            "tw": "aurora_minigame_3",
+            "cn": "aurora_minigame_3",
+            "en": "aurora_minigame_3"
           },
-          "start": "2026-08-25 20:15:00",
-          "end": "2026-08-25 20:27:00",
+          "start": "2026-08-26 02:30:00",
+          "end": "2026-08-26 02:42:00",
           "duration_label": 12
         },
         {
-          "name": "rain_rainbow",
+          "name": "skyfest_fireworks_show_act3",
           "label": {
-            "tw": "rain_rainbow",
-            "cn": "rain_rainbow",
-            "en": "rain_rainbow"
+            "tw": "skyfest_fireworks_show_act3",
+            "cn": "skyfest_fireworks_show_act3",
+            "en": "skyfest_fireworks_show_act3"
           },
-          "start": "2026-08-25 20:00:00",
-          "end": "2026-08-25 20:30:00",
-          "duration_label": 30
+          "start": "2026-08-26 02:28:00",
+          "end": "2026-08-26 02:29:00",
+          "duration_label": 1
         },
         {
-          "name": "skyfest_fireworks_show_act2",
+          "name": "skyfest_fireworks_show_act4",
           "label": {
-            "tw": "skyfest_fireworks_show_act2",
-            "cn": "skyfest_fireworks_show_act2",
-            "en": "skyfest_fireworks_show_act2"
+            "tw": "skyfest_fireworks_show_act4",
+            "cn": "skyfest_fireworks_show_act4",
+            "en": "skyfest_fireworks_show_act4"
           },
-          "start": "2026-08-25 20:25:00",
-          "end": "2026-08-25 20:28:00",
-          "duration_label": 3
+          "start": "2026-08-26 02:29:00",
+          "end": "2026-08-26 02:37:00",
+          "duration_label": 8
         }
       ]
     },
     "video_defs": {
       "has_recorded_diff": true,
-      "recorded_at_fmt": "2026-07-17 06:01:06",
-      "previous_fetched_at_fmt": "2026-07-17 05:31:05",
-      "unchanged_since_last_change": true,
+      "recorded_at_fmt": "2026-08-26 14:49:15",
+      "previous_fetched_at_fmt": "2026-08-26 02:29:41",
+      "unchanged_since_last_change": false,
       "added": [
         {
-          "name": "awd26Locked*_show_p1_replay",
-          "duration_fmt": "32:30"
+          "name": "awd26_show_hilite",
+          "duration_fmt": "30:00"
         },
         {
-          "name": "awd26Locked*_show_p2_replay",
-          "duration_fmt": "27:30"
+          "name": "hoc_tcp_logo",
+          "duration_fmt": "15:00"
         }
       ],
       "removed": []
