@@ -3,10 +3,56 @@
   "diff": {
     "event_schedule": {
       "has_recorded_diff": true,
-      "recorded_at_fmt": "2026-09-13 18:01:08",
-      "previous_fetched_at_fmt": "2026-09-13 16:31:02",
+      "recorded_at_fmt": "2026-09-13 18:31:02",
+      "previous_fetched_at_fmt": "2026-09-13 18:01:08",
       "unchanged_since_last_change": false,
       "added": [
+        {
+          "name": "aurora_minigame_4",
+          "label": {
+            "tw": "aurora_minigame_4",
+            "cn": "aurora_minigame_4",
+            "en": "aurora_minigame_4"
+          },
+          "start": "2026-09-13 18:45:00",
+          "end": "2026-09-13 18:57:00",
+          "duration_label": 12
+        },
+        {
+          "name": "global_nature_geyser",
+          "label": {
+            "tw": "global_nature_geyser",
+            "cn": "global_nature_geyser",
+            "en": "global_nature_geyser"
+          },
+          "start": "2026-09-13 19:00:00",
+          "end": "2026-09-13 19:15:00",
+          "duration_label": 15
+        },
+        {
+          "name": "mainstreet_cycle_sunset_B",
+          "label": {
+            "tw": "mainstreet_cycle_sunset_B",
+            "cn": "mainstreet_cycle_sunset_B",
+            "en": "mainstreet_cycle_sunset_B"
+          },
+          "start": "2026-09-13 18:40:00",
+          "end": "2026-09-13 18:50:00",
+          "duration_label": 10
+        },
+        {
+          "name": "radiant_darkstone_despawn_warning",
+          "label": {
+            "tw": "radiant_darkstone_despawn_warning",
+            "cn": "radiant_darkstone_despawn_warning",
+            "en": "radiant_darkstone_despawn_warning"
+          },
+          "start": "2026-09-13 18:58:00",
+          "end": "2026-09-13 18:59:00",
+          "duration_label": 1
+        }
+      ],
+      "removed": [
         {
           "name": "aurora_minigame_1",
           "label": {
@@ -19,17 +65,6 @@
           "duration_label": 12
         },
         {
-          "name": "aurora_minigame_2",
-          "label": {
-            "tw": "aurora_minigame_2",
-            "cn": "aurora_minigame_2",
-            "en": "aurora_minigame_2"
-          },
-          "start": "2026-09-13 18:15:00",
-          "end": "2026-09-13 18:27:00",
-          "duration_label": 12
-        },
-        {
           "name": "mainstreet_cycle_overcast_day_B",
           "label": {
             "tw": "mainstreet_cycle_overcast_day_B",
@@ -39,28 +74,6 @@
           "start": "2026-09-13 18:10:00",
           "end": "2026-09-13 18:15:00",
           "duration_label": 5
-        },
-        {
-          "name": "skyfest_fireworks_show_act2",
-          "label": {
-            "tw": "skyfest_fireworks_show_act2",
-            "cn": "skyfest_fireworks_show_act2",
-            "en": "skyfest_fireworks_show_act2"
-          },
-          "start": "2026-09-13 18:25:00",
-          "end": "2026-09-13 18:28:00",
-          "duration_label": 3
-        },
-        {
-          "name": "skyfest_fireworks_show_act3",
-          "label": {
-            "tw": "skyfest_fireworks_show_act3",
-            "cn": "skyfest_fireworks_show_act3",
-            "en": "skyfest_fireworks_show_act3"
-          },
-          "start": "2026-09-13 18:28:00",
-          "end": "2026-09-13 18:29:00",
-          "duration_label": 1
         },
         {
           "name": "social_nature2022turtle",
@@ -94,52 +107,6 @@
           "start": "2026-09-13 18:00:00",
           "end": "2026-09-13 18:10:00",
           "duration_label": 10
-        }
-      ],
-      "removed": [
-        {
-          "name": "aurora_minigame_4",
-          "label": {
-            "tw": "aurora_minigame_4",
-            "cn": "aurora_minigame_4",
-            "en": "aurora_minigame_4"
-          },
-          "start": "2026-09-13 16:45:00",
-          "end": "2026-09-13 16:57:00",
-          "duration_label": 12
-        },
-        {
-          "name": "global_nature_geyser",
-          "label": {
-            "tw": "global_nature_geyser",
-            "cn": "global_nature_geyser",
-            "en": "global_nature_geyser"
-          },
-          "start": "2026-09-13 17:00:00",
-          "end": "2026-09-13 17:15:00",
-          "duration_label": 15
-        },
-        {
-          "name": "mainstreet_cycle_sunset_B",
-          "label": {
-            "tw": "mainstreet_cycle_sunset_B",
-            "cn": "mainstreet_cycle_sunset_B",
-            "en": "mainstreet_cycle_sunset_B"
-          },
-          "start": "2026-09-13 16:40:00",
-          "end": "2026-09-13 16:50:00",
-          "duration_label": 10
-        },
-        {
-          "name": "radiant_darkstone_despawn_warning",
-          "label": {
-            "tw": "radiant_darkstone_despawn_warning",
-            "cn": "radiant_darkstone_despawn_warning",
-            "en": "radiant_darkstone_despawn_warning"
-          },
-          "start": "2026-09-13 16:58:00",
-          "end": "2026-09-13 16:59:00",
-          "duration_label": 1
         }
       ]
     },
