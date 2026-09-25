@@ -11963,6 +11963,7 @@
       "ap29_fetch_10_whisper",
       "ap29_fetch_11_whisper",
       "ap29_fetch_12_whisper",
+      "audience_eden_run",
       "aurora_concert",
       "aurora_concert_countdown",
       "aurora_exhaleinhale",
@@ -11970,8 +11971,6 @@
       "aurora_exhaleinhale_wrap",
       "aurora_eyesofachild",
       "aurora_eyesofachild_countdown",
-      "aurora_minigame_3",
-      "aurora_minigame_4",
       "aurora_minigame_vote_rotation",
       "aurora_orbit",
       "aurora_orbit_countdown",
@@ -12099,7 +12098,7 @@
       "mainstreet_cycle_day_B",
       "mainstreet_cycle_morning_B",
       "mainstreet_cycle_night_B",
-      "mainstreet_cycle_sunset_B",
+      "mainstreet_cycle_overcast_day_B",
       "musicshop_weekly_rotation_05",
       "nature_geyser_on",
       "personality_quiz_evergreen",
@@ -12322,6 +12321,7 @@
       "season_b_prairie_candles1",
       "skyfest_fireworks_show",
       "skyfest_fireworks_show_act1",
+      "skyfest_fireworks_show_act2",
       "skyfest_fireworks_show_act3",
       "skyfest_fireworks_show_act4",
       "skyfest_fireworks_show_medpad",
@@ -12337,6 +12337,7 @@
       "social_feed_prompt_my_masterpiece",
       "social_prairie_cozycave",
       "social_rain_bonfirecamp",
+      "social_rain_grandmatable",
       "social_skyway_speedtube",
       "social_sunset_labyrinth",
       "social_turtle_on",
@@ -12531,7 +12532,7 @@
       "wildlifepark_cycle_sunset",
       "wing_buff_conversion_period"
     ],
-    "total": 776,
-    "active_count": 586
+    "total": 788,
+    "active_count": 577
   }
 }
