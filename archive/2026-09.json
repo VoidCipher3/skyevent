@@ -14354,8 +14354,6 @@
       "aurora_exhaleinhale_wrap",
       "aurora_eyesofachild",
       "aurora_eyesofachild_countdown",
-      "aurora_minigame_3",
-      "aurora_minigame_4",
       "aurora_minigame_vote_rotation",
       "aurora_orbit",
       "aurora_orbit_countdown",
@@ -14482,7 +14480,7 @@
       "mainstreet_cycle_day_B",
       "mainstreet_cycle_morning_B",
       "mainstreet_cycle_night_B",
-      "mainstreet_cycle_sunset_B",
+      "mainstreet_cycle_overcast_day_B",
       "musicshop_weekly_rotation_05",
       "nature_geyser_on",
       "night_quest",
@@ -14721,6 +14719,7 @@
       "social_feed_prompt_my_masterpiece",
       "social_prairie_cozycave",
       "social_rain_bonfirecamp",
+      "social_rain_grandmatable",
       "social_skyway_speedtube",
       "social_sunset_labyrinth",
       "social_turtle_on",
@@ -14863,7 +14862,6 @@
       "spiritshopitem_ap06unlock_fetch_rain",
       "spiritshopitem_ap06unlock_fetch_sunset",
       "stormy_dusk",
-      "stormy_intensity_5",
       "sunset_colosseum_firework_interval",
       "sunset_village_fishing",
       "sunset_village_spell_shop",
@@ -14914,7 +14912,7 @@
       "wildlifepark_cycle_sunset",
       "wing_buff_conversion_period"
     ],
-    "total": 773,
-    "active_count": 572
+    "total": 783,
+    "active_count": 573
   }
 }
