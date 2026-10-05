@@ -3,10 +3,34 @@
   "diff": {
     "event_schedule": {
       "has_recorded_diff": true,
-      "recorded_at_fmt": "2026-10-06 03:00:40",
-      "previous_fetched_at_fmt": "2026-10-06 02:32:05",
+      "recorded_at_fmt": "2026-10-06 04:32:19",
+      "previous_fetched_at_fmt": "2026-10-06 03:00:40",
       "unchanged_since_last_change": false,
       "added": [
+        {
+          "name": "aurora_minigame_3",
+          "label": {
+            "tw": "aurora_minigame_3",
+            "cn": "aurora_minigame_3",
+            "en": "aurora_minigame_3"
+          },
+          "start": "2026-10-06 04:30:00",
+          "end": "2026-10-06 04:42:00",
+          "duration_label": 12
+        },
+        {
+          "name": "mainstreet_cycle_sunset_B",
+          "label": {
+            "tw": "mainstreet_cycle_sunset_B",
+            "cn": "mainstreet_cycle_sunset_B",
+            "en": "mainstreet_cycle_sunset_B"
+          },
+          "start": "2026-10-06 04:40:00",
+          "end": "2026-10-06 04:50:00",
+          "duration_label": 10
+        }
+      ],
+      "removed": [
         {
           "name": "mainstreet_cycle_overcast_day_B",
           "label": {
@@ -50,30 +74,17 @@
           "start": "2026-10-06 03:30:00",
           "end": "2026-10-06 03:45:00",
           "duration_label": 15
-        }
-      ],
-      "removed": [
-        {
-          "name": "aurora_minigame_3",
-          "label": {
-            "tw": "aurora_minigame_3",
-            "cn": "aurora_minigame_3",
-            "en": "aurora_minigame_3"
-          },
-          "start": "2026-10-06 02:30:00",
-          "end": "2026-10-06 02:42:00",
-          "duration_label": 12
         },
         {
-          "name": "mainstreet_cycle_sunset_B",
+          "name": "stormy_intensity_5",
           "label": {
-            "tw": "mainstreet_cycle_sunset_B",
-            "cn": "mainstreet_cycle_sunset_B",
-            "en": "mainstreet_cycle_sunset_B"
+            "tw": "stormy_intensity_5",
+            "cn": "stormy_intensity_5",
+            "en": "stormy_intensity_5"
           },
-          "start": "2026-10-06 02:40:00",
-          "end": "2026-10-06 02:50:00",
-          "duration_label": 10
+          "start": "2026-10-06 00:30:00",
+          "end": "2026-10-06 04:30:00",
+          "duration_label": 240
         }
       ]
     },
