@@ -3,21 +3,67 @@
   "diff": {
     "event_schedule": {
       "has_recorded_diff": true,
-      "recorded_at_fmt": "2026-10-10 15:30:51",
-      "previous_fetched_at_fmt": "2026-10-10 15:00:51",
+      "recorded_at_fmt": "2026-10-10 16:00:50",
+      "previous_fetched_at_fmt": "2026-10-10 15:30:51",
       "unchanged_since_last_change": false,
       "added": [
         {
-          "name": "aurora_minigame_1",
+          "name": "aurora_minigame_2",
           "label": {
-            "tw": "aurora_minigame_1",
-            "cn": "aurora_minigame_1",
-            "en": "aurora_minigame_1"
+            "tw": "aurora_minigame_2",
+            "cn": "aurora_minigame_2",
+            "en": "aurora_minigame_2"
           },
-          "start": "2026-10-10 16:00:00",
-          "end": "2026-10-10 16:12:00",
+          "start": "2026-10-10 16:15:00",
+          "end": "2026-10-10 16:27:00",
           "duration_label": 12
         },
+        {
+          "name": "aurora_minigame_3",
+          "label": {
+            "tw": "aurora_minigame_3",
+            "cn": "aurora_minigame_3",
+            "en": "aurora_minigame_3"
+          },
+          "start": "2026-10-10 16:30:00",
+          "end": "2026-10-10 16:42:00",
+          "duration_label": 12
+        },
+        {
+          "name": "mainstreet_cycle_overcast_day_B",
+          "label": {
+            "tw": "mainstreet_cycle_overcast_day_B",
+            "cn": "mainstreet_cycle_overcast_day_B",
+            "en": "mainstreet_cycle_overcast_day_B"
+          },
+          "start": "2026-10-10 16:10:00",
+          "end": "2026-10-10 16:15:00",
+          "duration_label": 5
+        },
+        {
+          "name": "skyfest_fireworks_show_act2",
+          "label": {
+            "tw": "skyfest_fireworks_show_act2",
+            "cn": "skyfest_fireworks_show_act2",
+            "en": "skyfest_fireworks_show_act2"
+          },
+          "start": "2026-10-10 16:25:00",
+          "end": "2026-10-10 16:28:00",
+          "duration_label": 3
+        },
+        {
+          "name": "skyfest_fireworks_show_act3",
+          "label": {
+            "tw": "skyfest_fireworks_show_act3",
+            "cn": "skyfest_fireworks_show_act3",
+            "en": "skyfest_fireworks_show_act3"
+          },
+          "start": "2026-10-10 16:28:00",
+          "end": "2026-10-10 16:29:00",
+          "duration_label": 1
+        }
+      ],
+      "removed": [
         {
           "name": "mainstreet_cycle_sunset_B",
           "label": {
@@ -30,281 +76,26 @@
           "duration_label": 10
         },
         {
-          "name": "social_nature2022turtle",
+          "name": "radiant_darkstone_despawn_warning",
           "label": {
-            "tw": "social_nature2022turtle",
-            "cn": "social_nature2022turtle",
-            "en": "social_nature2022turtle"
+            "tw": "radiant_darkstone_despawn_warning",
+            "cn": "radiant_darkstone_despawn_warning",
+            "en": "radiant_darkstone_despawn_warning"
           },
-          "start": "2026-10-10 15:50:00",
-          "end": "2026-10-10 16:00:00",
-          "duration_label": 10
-        },
-        {
-          "name": "social_sunsetskater",
-          "label": {
-            "tw": "social_sunsetskater",
-            "cn": "social_sunsetskater",
-            "en": "social_sunsetskater"
-          },
-          "start": "2026-10-10 16:00:00",
-          "end": "2026-10-10 16:15:00",
-          "duration_label": 15
-        },
-        {
-          "name": "social_turtle_despawn",
-          "label": {
-            "tw": "social_turtle_despawn",
-            "cn": "social_turtle_despawn",
-            "en": "social_turtle_despawn"
-          },
-          "start": "2026-10-10 16:00:00",
-          "end": "2026-10-10 16:10:00",
-          "duration_label": 10
-        }
-      ],
-      "removed": [
-        {
-          "name": "day_boat",
-          "label": {
-            "tw": "day_boat",
-            "cn": "day_boat",
-            "en": "day_boat"
-          },
-          "start": "2026-10-09 15:00:00",
-          "end": "2026-10-10 15:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "dusk_darkstone_0",
-          "label": {
-            "tw": "dusk_darkstone_0",
-            "cn": "dusk_darkstone_0",
-            "en": "dusk_darkstone_0"
-          },
-          "start": "2026-10-09 15:00:00",
-          "end": "2026-10-10 15:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "event_prairie_tcandle_master",
-          "label": {
-            "tw": "event_prairie_tcandle_master",
-            "cn": "event_prairie_tcandle_master",
-            "en": "event_prairie_tcandle_master"
-          },
-          "start": "2026-10-09 15:00:00",
-          "end": "2026-10-10 15:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "event_prairie_tcandles2",
-          "label": {
-            "tw": "event_prairie_tcandles2",
-            "cn": "event_prairie_tcandles2",
-            "en": "event_prairie_tcandles2"
-          },
-          "start": "2026-10-09 15:00:00",
-          "end": "2026-10-10 15:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "global_deer_shop",
-          "label": {
-            "tw": "global_deer_shop",
-            "cn": "global_deer_shop",
-            "en": "global_deer_shop"
-          },
-          "start": "2026-09-19 15:00:00",
-          "end": "2026-10-10 15:00:00",
-          "duration_label": 30240
-        },
-        {
-          "name": "global_moonlight",
-          "label": {
-            "tw": "global_moonlight",
-            "cn": "global_moonlight",
-            "en": "global_moonlight"
-          },
-          "start": "2026-09-19 15:00:00",
-          "end": "2026-10-10 15:00:00",
-          "duration_label": 30240
-        },
-        {
-          "name": "global_moonlight_free_message",
-          "label": {
-            "tw": "global_moonlight_free_message",
-            "cn": "global_moonlight_free_message",
-            "en": "global_moonlight_free_message"
-          },
-          "start": "2026-09-19 15:00:00",
-          "end": "2026-10-10 15:00:00",
-          "duration_label": 30240
-        },
-        {
-          "name": "global_moonlight_hugemoon_move",
-          "label": {
-            "tw": "global_moonlight_hugemoon_move",
-            "cn": "global_moonlight_hugemoon_move",
-            "en": "global_moonlight_hugemoon_move"
-          },
-          "start": "2026-09-19 15:00:00",
-          "end": "2026-10-10 15:00:00",
-          "duration_label": 30240
-        },
-        {
-          "name": "global_moonlight_mooncake",
-          "label": {
-            "tw": "global_moonlight_mooncake",
-            "cn": "global_moonlight_mooncake",
-            "en": "global_moonlight_mooncake"
-          },
-          "start": "2026-09-19 15:00:00",
-          "end": "2026-10-10 15:00:00",
-          "duration_label": 30240
-        },
-        {
-          "name": "global_moonlight_mural_d1",
-          "label": {
-            "tw": "global_moonlight_mural_d1",
-            "cn": "global_moonlight_mural_d1",
-            "en": "global_moonlight_mural_d1"
-          },
-          "start": "2026-09-19 15:00:00",
-          "end": "2026-10-10 15:00:00",
-          "duration_label": 30240
-        },
-        {
-          "name": "global_moonlight_mural_d3",
-          "label": {
-            "tw": "global_moonlight_mural_d3",
-            "cn": "global_moonlight_mural_d3",
-            "en": "global_moonlight_mural_d3"
-          },
-          "start": "2026-09-21 15:00:00",
-          "end": "2026-10-10 15:00:00",
-          "duration_label": 27360
-        },
-        {
-          "name": "global_moonlight_mural_d5",
-          "label": {
-            "tw": "global_moonlight_mural_d5",
-            "cn": "global_moonlight_mural_d5",
-            "en": "global_moonlight_mural_d5"
-          },
-          "start": "2026-09-23 15:00:00",
-          "end": "2026-10-10 15:00:00",
-          "duration_label": 24480
-        },
-        {
-          "name": "global_moonlight_riddle",
-          "label": {
-            "tw": "global_moonlight_riddle",
-            "cn": "global_moonlight_riddle",
-            "en": "global_moonlight_riddle"
-          },
-          "start": "2026-09-19 15:00:00",
-          "end": "2026-10-10 15:00:00",
-          "duration_label": 30240
-        },
-        {
-          "name": "global_nature_geyser",
-          "label": {
-            "tw": "global_nature_geyser",
-            "cn": "global_nature_geyser",
-            "en": "global_nature_geyser"
-          },
-          "start": "2026-10-10 15:00:00",
-          "end": "2026-10-10 15:15:00",
-          "duration_label": 15
-        },
-        {
-          "name": "mainstreet_cycle_overcast_day_B",
-          "label": {
-            "tw": "mainstreet_cycle_overcast_day_B",
-            "cn": "mainstreet_cycle_overcast_day_B",
-            "en": "mainstreet_cycle_overcast_day_B"
-          },
-          "start": "2026-10-10 15:10:00",
-          "end": "2026-10-10 15:15:00",
-          "duration_label": 5
-        },
-        {
-          "name": "night_quest",
-          "label": {
-            "tw": "night_quest",
-            "cn": "night_quest",
-            "en": "night_quest"
-          },
-          "start": "2026-10-09 15:00:00",
-          "end": "2026-10-10 15:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "quest_tgc_office_jenova",
-          "label": {
-            "tw": "quest_tgc_office_jenova",
-            "cn": "quest_tgc_office_jenova",
-            "en": "quest_tgc_office_jenova"
-          },
-          "start": "2026-10-09 15:00:00",
-          "end": "2026-10-10 15:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "rain_darkstone_0",
-          "label": {
-            "tw": "rain_darkstone_0",
-            "cn": "rain_darkstone_0",
-            "en": "rain_darkstone_0"
-          },
-          "start": "2026-10-09 15:00:00",
-          "end": "2026-10-10 15:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "skyfest_fireworks_show_act2",
-          "label": {
-            "tw": "skyfest_fireworks_show_act2",
-            "cn": "skyfest_fireworks_show_act2",
-            "en": "skyfest_fireworks_show_act2"
-          },
-          "start": "2026-10-10 15:25:00",
-          "end": "2026-10-10 15:28:00",
-          "duration_label": 3
-        },
-        {
-          "name": "skyfest_fireworks_show_act3",
-          "label": {
-            "tw": "skyfest_fireworks_show_act3",
-            "cn": "skyfest_fireworks_show_act3",
-            "en": "skyfest_fireworks_show_act3"
-          },
-          "start": "2026-10-10 15:28:00",
-          "end": "2026-10-10 15:29:00",
+          "start": "2026-10-10 15:58:00",
+          "end": "2026-10-10 15:59:00",
           "duration_label": 1
         },
         {
-          "name": "skyfest_galleryrainforest",
+          "name": "social_rain_grandmatable",
           "label": {
-            "tw": "skyfest_galleryrainforest",
-            "cn": "skyfest_galleryrainforest",
-            "en": "skyfest_galleryrainforest"
+            "tw": "social_rain_grandmatable",
+            "cn": "social_rain_grandmatable",
+            "en": "social_rain_grandmatable"
           },
-          "start": "2026-10-09 15:00:00",
-          "end": "2026-10-10 15:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "stormy_dusk",
-          "label": {
-            "tw": "stormy_dusk",
-            "cn": "stormy_dusk",
-            "en": "stormy_dusk"
-          },
-          "start": "2026-10-09 15:00:00",
-          "end": "2026-10-10 15:00:00",
-          "duration_label": 1440
+          "start": "2026-10-10 15:30:00",
+          "end": "2026-10-10 15:45:00",
+          "duration_label": 15
         }
       ]
     },
