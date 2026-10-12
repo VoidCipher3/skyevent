@@ -3,30 +3,76 @@
   "diff": {
     "event_schedule": {
       "has_recorded_diff": true,
-      "recorded_at_fmt": "2026-10-12 21:30:58",
-      "previous_fetched_at_fmt": "2026-10-12 20:30:58",
+      "recorded_at_fmt": "2026-10-12 22:01:04",
+      "previous_fetched_at_fmt": "2026-10-12 21:30:58",
       "unchanged_since_last_change": false,
       "added": [
         {
-          "name": "aurora_minigame_1",
+          "name": "aurora_minigame_2",
           "label": {
-            "tw": "aurora_minigame_1",
-            "cn": "aurora_minigame_1",
-            "en": "aurora_minigame_1"
+            "tw": "aurora_minigame_2",
+            "cn": "aurora_minigame_2",
+            "en": "aurora_minigame_2"
           },
-          "start": "2026-10-12 22:00:00",
-          "end": "2026-10-12 22:12:00",
+          "start": "2026-10-12 22:15:00",
+          "end": "2026-10-12 22:27:00",
           "duration_label": 12
         },
         {
-          "name": "social_nature2022turtle",
+          "name": "aurora_minigame_3",
           "label": {
-            "tw": "social_nature2022turtle",
-            "cn": "social_nature2022turtle",
-            "en": "social_nature2022turtle"
+            "tw": "aurora_minigame_3",
+            "cn": "aurora_minigame_3",
+            "en": "aurora_minigame_3"
           },
-          "start": "2026-10-12 21:50:00",
-          "end": "2026-10-12 22:00:00",
+          "start": "2026-10-12 22:30:00",
+          "end": "2026-10-12 22:42:00",
+          "duration_label": 12
+        },
+        {
+          "name": "mainstreet_cycle_overcast_day_B",
+          "label": {
+            "tw": "mainstreet_cycle_overcast_day_B",
+            "cn": "mainstreet_cycle_overcast_day_B",
+            "en": "mainstreet_cycle_overcast_day_B"
+          },
+          "start": "2026-10-12 22:10:00",
+          "end": "2026-10-12 22:15:00",
+          "duration_label": 5
+        },
+        {
+          "name": "skyfest_fireworks_show_act2",
+          "label": {
+            "tw": "skyfest_fireworks_show_act2",
+            "cn": "skyfest_fireworks_show_act2",
+            "en": "skyfest_fireworks_show_act2"
+          },
+          "start": "2026-10-12 22:25:00",
+          "end": "2026-10-12 22:28:00",
+          "duration_label": 3
+        },
+        {
+          "name": "skyfest_fireworks_show_act3",
+          "label": {
+            "tw": "skyfest_fireworks_show_act3",
+            "cn": "skyfest_fireworks_show_act3",
+            "en": "skyfest_fireworks_show_act3"
+          },
+          "start": "2026-10-12 22:28:00",
+          "end": "2026-10-12 22:29:00",
+          "duration_label": 1
+        }
+      ],
+      "removed": [
+        {
+          "name": "mainstreet_cycle_sunset_B",
+          "label": {
+            "tw": "mainstreet_cycle_sunset_B",
+            "cn": "mainstreet_cycle_sunset_B",
+            "en": "mainstreet_cycle_sunset_B"
+          },
+          "start": "2026-10-12 21:40:00",
+          "end": "2026-10-12 21:50:00",
           "duration_label": 10
         },
         {
@@ -39,107 +85,6 @@
           "start": "2026-10-12 21:30:00",
           "end": "2026-10-12 21:45:00",
           "duration_label": 15
-        },
-        {
-          "name": "social_turtle_despawn",
-          "label": {
-            "tw": "social_turtle_despawn",
-            "cn": "social_turtle_despawn",
-            "en": "social_turtle_despawn"
-          },
-          "start": "2026-10-12 22:00:00",
-          "end": "2026-10-12 22:10:00",
-          "duration_label": 10
-        }
-      ],
-      "removed": [
-        {
-          "name": "aurora_minigame_2",
-          "label": {
-            "tw": "aurora_minigame_2",
-            "cn": "aurora_minigame_2",
-            "en": "aurora_minigame_2"
-          },
-          "start": "2026-10-12 20:15:00",
-          "end": "2026-10-12 20:27:00",
-          "duration_label": 12
-        },
-        {
-          "name": "aurora_minigame_3",
-          "label": {
-            "tw": "aurora_minigame_3",
-            "cn": "aurora_minigame_3",
-            "en": "aurora_minigame_3"
-          },
-          "start": "2026-10-12 20:30:00",
-          "end": "2026-10-12 20:42:00",
-          "duration_label": 12
-        },
-        {
-          "name": "aurora_minigame_4",
-          "label": {
-            "tw": "aurora_minigame_4",
-            "cn": "aurora_minigame_4",
-            "en": "aurora_minigame_4"
-          },
-          "start": "2026-10-12 20:45:00",
-          "end": "2026-10-12 20:57:00",
-          "duration_label": 12
-        },
-        {
-          "name": "global_nature_geyser",
-          "label": {
-            "tw": "global_nature_geyser",
-            "cn": "global_nature_geyser",
-            "en": "global_nature_geyser"
-          },
-          "start": "2026-10-12 21:00:00",
-          "end": "2026-10-12 21:15:00",
-          "duration_label": 15
-        },
-        {
-          "name": "rain_rainbow",
-          "label": {
-            "tw": "rain_rainbow",
-            "cn": "rain_rainbow",
-            "en": "rain_rainbow"
-          },
-          "start": "2026-10-12 20:00:00",
-          "end": "2026-10-12 20:30:00",
-          "duration_label": 30
-        },
-        {
-          "name": "skyfest_fireworks_show_act2",
-          "label": {
-            "tw": "skyfest_fireworks_show_act2",
-            "cn": "skyfest_fireworks_show_act2",
-            "en": "skyfest_fireworks_show_act2"
-          },
-          "start": "2026-10-12 20:25:00",
-          "end": "2026-10-12 20:28:00",
-          "duration_label": 3
-        },
-        {
-          "name": "skyfest_fireworks_show_act3",
-          "label": {
-            "tw": "skyfest_fireworks_show_act3",
-            "cn": "skyfest_fireworks_show_act3",
-            "en": "skyfest_fireworks_show_act3"
-          },
-          "start": "2026-10-12 20:28:00",
-          "end": "2026-10-12 20:29:00",
-          "duration_label": 1
-        },
-        {
-          "name": "stormy_intensity_1",
-          "label": {
-            "tw": "stormy_intensity_1",
-            "cn": "stormy_intensity_1",
-            "en": "stormy_intensity_1"
-          },
-          "start": "2026-10-12 16:50:00",
-          "end": "2026-10-12 20:50:00",
-          "duration_label": 240
         }
       ]
     },
