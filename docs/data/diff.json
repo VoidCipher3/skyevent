@@ -3,352 +3,20 @@
   "diff": {
     "event_schedule": {
       "has_recorded_diff": true,
-      "recorded_at_fmt": "2026-10-14 04:39:06",
-      "previous_fetched_at_fmt": "2026-10-14 04:30:42",
+      "recorded_at_fmt": "2026-10-14 05:00:41",
+      "previous_fetched_at_fmt": "2026-10-14 04:39:06",
       "unchanged_since_last_change": false,
       "added": [
         {
-          "name": "collectible_armwrestle",
+          "name": "mainstreet_cycle_overcast_day_B",
           "label": {
-            "tw": "collectible_armwrestle",
-            "cn": "collectible_armwrestle",
-            "en": "collectible_armwrestle"
+            "tw": "mainstreet_cycle_overcast_day_B",
+            "cn": "mainstreet_cycle_overcast_day_B",
+            "en": "mainstreet_cycle_overcast_day_B"
           },
-          "start": "2026-10-16 15:00:00",
-          "end": "2027-01-01 16:00:00",
-          "duration_label": 110940
-        },
-        {
-          "name": "collectible_hesitate",
-          "label": {
-            "tw": "collectible_hesitate",
-            "cn": "collectible_hesitate",
-            "en": "collectible_hesitate"
-          },
-          "start": "2026-10-16 15:00:00",
-          "end": "2027-01-01 16:00:00",
-          "duration_label": 110940
-        },
-        {
-          "name": "collectible_showoff",
-          "label": {
-            "tw": "collectible_showoff",
-            "cn": "collectible_showoff",
-            "en": "collectible_showoff"
-          },
-          "start": "2026-10-16 15:00:00",
-          "end": "2027-01-01 16:00:00",
-          "duration_label": 110940
-        },
-        {
-          "name": "collectible_wallow",
-          "label": {
-            "tw": "collectible_wallow",
-            "cn": "collectible_wallow",
-            "en": "collectible_wallow"
-          },
-          "start": "2026-10-16 15:00:00",
-          "end": "2027-01-01 16:00:00",
-          "duration_label": 110940
-        },
-        {
-          "name": "event_prairie_tcandle_master",
-          "label": {
-            "tw": "event_prairie_tcandle_master",
-            "cn": "event_prairie_tcandle_master",
-            "en": "event_prairie_tcandle_master"
-          },
-          "start": "2026-10-13 15:00:00",
-          "end": "2026-10-14 15:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "event_prairie_tcandles3",
-          "label": {
-            "tw": "event_prairie_tcandles3",
-            "cn": "event_prairie_tcandles3",
-            "en": "event_prairie_tcandles3"
-          },
-          "start": "2026-10-13 15:00:00",
-          "end": "2026-10-14 15:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "global_halloween",
-          "label": {
-            "tw": "global_halloween",
-            "cn": "global_halloween",
-            "en": "global_halloween"
-          },
-          "start": "2026-10-23 15:00:00",
-          "end": "2026-11-13 16:00:00",
-          "duration_label": 30300
-        },
-        {
-          "name": "global_merchandise_sleep",
-          "label": {
-            "tw": "global_merchandise_sleep",
-            "cn": "global_merchandise_sleep",
-            "en": "global_merchandise_sleep"
-          },
-          "start": "2026-10-27 09:00:00",
-          "end": "2026-10-30 09:00:00",
-          "duration_label": 4320
-        },
-        {
-          "name": "halloween_bossfight_audience_game",
-          "label": {
-            "tw": "halloween_bossfight_audience_game",
-            "cn": "halloween_bossfight_audience_game",
-            "en": "halloween_bossfight_audience_game"
-          },
-          "start": "2026-10-14 04:40:00",
-          "end": "2026-10-14 04:49:00",
-          "duration_label": 9
-        },
-        {
-          "name": "halloween_bossfight_audience_timer",
-          "label": {
-            "tw": "halloween_bossfight_audience_timer",
-            "cn": "halloween_bossfight_audience_timer",
-            "en": "halloween_bossfight_audience_timer"
-          },
-          "start": "2026-10-14 04:40:00",
-          "end": "2026-10-14 04:40:00",
-          "duration_label": 0
-        },
-        {
-          "name": "quest_ap32_fetch_01",
-          "label": {
-            "tw": "quest_ap32_fetch_01",
-            "cn": "quest_ap32_fetch_01",
-            "en": "quest_ap32_fetch_01"
-          },
-          "start": "2026-10-16 15:00:00",
-          "end": null,
-          "duration_label": 99999999
-        },
-        {
-          "name": "quest_ap32_fetch_01_sea",
-          "label": {
-            "tw": "quest_ap32_fetch_01_sea",
-            "cn": "quest_ap32_fetch_01_sea",
-            "en": "quest_ap32_fetch_01_sea"
-          },
-          "start": "2026-10-16 15:00:00",
-          "end": null,
-          "duration_label": 99999999
-        },
-        {
-          "name": "quest_ap32_fetch_02",
-          "label": {
-            "tw": "quest_ap32_fetch_02",
-            "cn": "quest_ap32_fetch_02",
-            "en": "quest_ap32_fetch_02"
-          },
-          "start": "2026-10-16 15:00:00",
-          "end": null,
-          "duration_label": 99999999
-        },
-        {
-          "name": "quest_ap32_fetch_02_sea",
-          "label": {
-            "tw": "quest_ap32_fetch_02_sea",
-            "cn": "quest_ap32_fetch_02_sea",
-            "en": "quest_ap32_fetch_02_sea"
-          },
-          "start": "2026-10-16 15:00:00",
-          "end": null,
-          "duration_label": 99999999
-        },
-        {
-          "name": "quest_ap32_fetch_03",
-          "label": {
-            "tw": "quest_ap32_fetch_03",
-            "cn": "quest_ap32_fetch_03",
-            "en": "quest_ap32_fetch_03"
-          },
-          "start": "2026-10-16 15:00:00",
-          "end": null,
-          "duration_label": 99999999
-        },
-        {
-          "name": "quest_ap32_fetch_03_sea",
-          "label": {
-            "tw": "quest_ap32_fetch_03_sea",
-            "cn": "quest_ap32_fetch_03_sea",
-            "en": "quest_ap32_fetch_03_sea"
-          },
-          "start": "2026-10-16 15:00:00",
-          "end": null,
-          "duration_label": 99999999
-        },
-        {
-          "name": "quest_ap32_fetch_03_sea_part1",
-          "label": {
-            "tw": "quest_ap32_fetch_03_sea_part1",
-            "cn": "quest_ap32_fetch_03_sea_part1",
-            "en": "quest_ap32_fetch_03_sea_part1"
-          },
-          "start": "2026-10-16 15:00:00",
-          "end": null,
-          "duration_label": 99999999
-        },
-        {
-          "name": "quest_ap32_fetch_03_sea_part2",
-          "label": {
-            "tw": "quest_ap32_fetch_03_sea_part2",
-            "cn": "quest_ap32_fetch_03_sea_part2",
-            "en": "quest_ap32_fetch_03_sea_part2"
-          },
-          "start": "2026-10-16 15:00:00",
-          "end": null,
-          "duration_label": 99999999
-        },
-        {
-          "name": "quest_ap32_fetch_03_sea_part3",
-          "label": {
-            "tw": "quest_ap32_fetch_03_sea_part3",
-            "cn": "quest_ap32_fetch_03_sea_part3",
-            "en": "quest_ap32_fetch_03_sea_part3"
-          },
-          "start": "2026-10-16 15:00:00",
-          "end": null,
-          "duration_label": 99999999
-        },
-        {
-          "name": "quest_ap32_fetch_04",
-          "label": {
-            "tw": "quest_ap32_fetch_04",
-            "cn": "quest_ap32_fetch_04",
-            "en": "quest_ap32_fetch_04"
-          },
-          "start": "2026-11-27 16:00:00",
-          "end": null,
-          "duration_label": 99999999
-        },
-        {
-          "name": "quest_ap32_fetch_04_sea",
-          "label": {
-            "tw": "quest_ap32_fetch_04_sea",
-            "cn": "quest_ap32_fetch_04_sea",
-            "en": "quest_ap32_fetch_04_sea"
-          },
-          "start": "2026-11-27 16:00:00",
-          "end": null,
-          "duration_label": 99999999
-        },
-        {
-          "name": "quest_ap32_fetch_05",
-          "label": {
-            "tw": "quest_ap32_fetch_05",
-            "cn": "quest_ap32_fetch_05",
-            "en": "quest_ap32_fetch_05"
-          },
-          "start": "2026-11-27 16:00:00",
-          "end": null,
-          "duration_label": 99999999
-        },
-        {
-          "name": "quest_ap32_fetch_05_sea",
-          "label": {
-            "tw": "quest_ap32_fetch_05_sea",
-            "cn": "quest_ap32_fetch_05_sea",
-            "en": "quest_ap32_fetch_05_sea"
-          },
-          "start": "2026-11-27 16:00:00",
-          "end": null,
-          "duration_label": 99999999
-        },
-        {
-          "name": "quest_ap32_fetch_06",
-          "label": {
-            "tw": "quest_ap32_fetch_06",
-            "cn": "quest_ap32_fetch_06",
-            "en": "quest_ap32_fetch_06"
-          },
-          "start": "2026-11-27 16:00:00",
-          "end": null,
-          "duration_label": 99999999
-        },
-        {
-          "name": "quest_ap32_fetch_06_sea",
-          "label": {
-            "tw": "quest_ap32_fetch_06_sea",
-            "cn": "quest_ap32_fetch_06_sea",
-            "en": "quest_ap32_fetch_06_sea"
-          },
-          "start": "2026-11-27 16:00:00",
-          "end": null,
-          "duration_label": 99999999
-        },
-        {
-          "name": "season_32",
-          "label": {
-            "tw": "season_32",
-            "cn": "season_32",
-            "en": "season_32"
-          },
-          "start": "2026-10-16 15:00:00",
-          "end": "2027-01-01 16:00:00",
-          "duration_label": 110940
-        },
-        {
-          "name": "visiting_vendor_questap32",
-          "label": {
-            "tw": "visiting_vendor_questap32",
-            "cn": "visiting_vendor_questap32",
-            "en": "visiting_vendor_questap32"
-          },
-          "start": "2026-10-13 15:00:00",
-          "end": "2026-10-14 15:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "weekly_dye_rotation_03",
-          "label": {
-            "tw": "weekly_dye_rotation_03",
-            "cn": "weekly_dye_rotation_03",
-            "en": "weekly_dye_rotation_03"
-          },
-          "start": "2026-10-09 15:00:00",
-          "end": "2026-10-16 16:00:00",
-          "duration_label": 10140
-        }
-      ],
-      "removed": [
-        {
-          "name": "aurora_minigame_2",
-          "label": {
-            "tw": "aurora_minigame_2",
-            "cn": "aurora_minigame_2",
-            "en": "aurora_minigame_2"
-          },
-          "start": "2026-10-14 04:15:00",
-          "end": "2026-10-14 04:27:00",
-          "duration_label": 12
-        },
-        {
-          "name": "event_night_tcandle_master",
-          "label": {
-            "tw": "event_night_tcandle_master",
-            "cn": "event_night_tcandle_master",
-            "en": "event_night_tcandle_master"
-          },
-          "start": "2026-10-13 15:00:00",
-          "end": "2026-10-14 15:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "event_night_tcandles1",
-          "label": {
-            "tw": "event_night_tcandles1",
-            "cn": "event_night_tcandles1",
-            "en": "event_night_tcandles1"
-          },
-          "start": "2026-10-13 15:00:00",
-          "end": "2026-10-14 15:00:00",
-          "duration_label": 1440
+          "start": "2026-10-14 05:10:00",
+          "end": "2026-10-14 05:15:00",
+          "duration_label": 5
         },
         {
           "name": "skyfest_fireworks_show_act2",
@@ -357,8 +25,8 @@
             "cn": "skyfest_fireworks_show_act2",
             "en": "skyfest_fireworks_show_act2"
           },
-          "start": "2026-10-14 04:25:00",
-          "end": "2026-10-14 04:28:00",
+          "start": "2026-10-14 05:25:00",
+          "end": "2026-10-14 05:28:00",
           "duration_label": 3
         },
         {
@@ -368,9 +36,55 @@
             "cn": "skyfest_fireworks_show_act3",
             "en": "skyfest_fireworks_show_act3"
           },
-          "start": "2026-10-14 04:28:00",
-          "end": "2026-10-14 04:29:00",
+          "start": "2026-10-14 05:28:00",
+          "end": "2026-10-14 05:29:00",
           "duration_label": 1
+        },
+        {
+          "name": "social_rain_grandmatable",
+          "label": {
+            "tw": "social_rain_grandmatable",
+            "cn": "social_rain_grandmatable",
+            "en": "social_rain_grandmatable"
+          },
+          "start": "2026-10-14 05:30:00",
+          "end": "2026-10-14 05:45:00",
+          "duration_label": 15
+        }
+      ],
+      "removed": [
+        {
+          "name": "aurora_minigame_3",
+          "label": {
+            "tw": "aurora_minigame_3",
+            "cn": "aurora_minigame_3",
+            "en": "aurora_minigame_3"
+          },
+          "start": "2026-10-14 04:30:00",
+          "end": "2026-10-14 04:42:00",
+          "duration_label": 12
+        },
+        {
+          "name": "aurora_minigame_4",
+          "label": {
+            "tw": "aurora_minigame_4",
+            "cn": "aurora_minigame_4",
+            "en": "aurora_minigame_4"
+          },
+          "start": "2026-10-14 04:45:00",
+          "end": "2026-10-14 04:57:00",
+          "duration_label": 12
+        },
+        {
+          "name": "mainstreet_cycle_sunset_B",
+          "label": {
+            "tw": "mainstreet_cycle_sunset_B",
+            "cn": "mainstreet_cycle_sunset_B",
+            "en": "mainstreet_cycle_sunset_B"
+          },
+          "start": "2026-10-14 04:40:00",
+          "end": "2026-10-14 04:50:00",
+          "duration_label": 10
         }
       ]
     },
@@ -378,7 +92,7 @@
       "has_recorded_diff": true,
       "recorded_at_fmt": "2026-10-14 04:39:06",
       "previous_fetched_at_fmt": "2026-10-14 04:30:42",
-      "unchanged_since_last_change": false,
+      "unchanged_since_last_change": true,
       "added": [
         {
           "name": "mischief_mayhem",
