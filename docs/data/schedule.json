@@ -2,16 +2,16 @@
   "ok": true,
   "server": "global",
   "meta": {
-    "fetched_at_fmt": "2026-10-14 04:30:42",
+    "fetched_at_fmt": "2026-10-14 04:39:06",
     "auto_refresh": true,
     "refresh_interval_hours": 0.5
   },
   "data": {
-    "server_time_fmt": "2026-10-14 04:30:42",
-    "valid_until_fmt": "2026-10-14 05:00:42",
+    "server_time_fmt": "2026-10-14 04:39:06",
+    "valid_until_fmt": "2026-10-14 05:09:06",
     "base_time_fmt": "2020-04-20 15:00:00",
-    "total": 756,
-    "active_count": 559,
+    "total": 779,
+    "active_count": 555,
     "events": [
       {
         "name": "social_dusk_spitroastpassive",
@@ -166,20 +166,6 @@
         "duration_label": 5,
         "active": false,
         "upcoming": true
-      },
-      {
-        "name": "event_night_tcandles1",
-        "label": {
-          "tw": "event_night_tcandles1",
-          "cn": "event_night_tcandles1",
-          "en": "event_night_tcandles1"
-        },
-        "start": "2026-10-13 15:00:00",
-        "end": "2026-10-14 15:00:00",
-        "duration_minutes": 1440,
-        "duration_label": 1440,
-        "active": true,
-        "upcoming": false
       },
       {
         "name": "spiritshopitem_ap06unlock_ap22_miniShop_02",
@@ -812,6 +798,20 @@
         "upcoming": true
       },
       {
+        "name": "te_ep_2",
+        "label": {
+          "tw": "te_ep_2",
+          "cn": "te_ep_2",
+          "en": "te_ep_2"
+        },
+        "start": "2026-10-14 05:25:00",
+        "end": "2026-10-14 05:40:00",
+        "duration_minutes": 15,
+        "duration_label": 15,
+        "active": false,
+        "upcoming": true
+      },
+      {
         "name": "quest_ap25_fetch_03",
         "label": {
           "tw": "quest_ap25_fetch_03",
@@ -824,6 +824,20 @@
         "duration_label": 99999999,
         "active": true,
         "upcoming": false
+      },
+      {
+        "name": "quest_ap32_fetch_06_sea",
+        "label": {
+          "tw": "quest_ap32_fetch_06_sea",
+          "cn": "quest_ap32_fetch_06_sea",
+          "en": "quest_ap32_fetch_06_sea"
+        },
+        "start": "2026-11-27 16:00:00",
+        "end": null,
+        "duration_minutes": 99999999,
+        "duration_label": 99999999,
+        "active": false,
+        "upcoming": true
       },
       {
         "name": "aurora_runaway_countdown",
@@ -966,6 +980,62 @@
         "upcoming": false
       },
       {
+        "name": "halloween_bossfight_audience_timer",
+        "label": {
+          "tw": "halloween_bossfight_audience_timer",
+          "cn": "halloween_bossfight_audience_timer",
+          "en": "halloween_bossfight_audience_timer"
+        },
+        "start": "2026-10-14 04:40:00",
+        "end": "2026-10-14 04:40:00",
+        "duration_minutes": 0,
+        "duration_label": 0,
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "halloween_bossfight_audience_timer",
+        "label": {
+          "tw": "halloween_bossfight_audience_timer",
+          "cn": "halloween_bossfight_audience_timer",
+          "en": "halloween_bossfight_audience_timer"
+        },
+        "start": "2026-10-14 04:50:00",
+        "end": "2026-10-14 04:50:00",
+        "duration_minutes": 0,
+        "duration_label": 0,
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "halloween_bossfight_audience_timer",
+        "label": {
+          "tw": "halloween_bossfight_audience_timer",
+          "cn": "halloween_bossfight_audience_timer",
+          "en": "halloween_bossfight_audience_timer"
+        },
+        "start": "2026-10-14 05:00:00",
+        "end": "2026-10-14 05:00:00",
+        "duration_minutes": 0,
+        "duration_label": 0,
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "halloween_bossfight_audience_timer",
+        "label": {
+          "tw": "halloween_bossfight_audience_timer",
+          "cn": "halloween_bossfight_audience_timer",
+          "en": "halloween_bossfight_audience_timer"
+        },
+        "start": "2026-10-14 05:10:00",
+        "end": "2026-10-14 05:10:00",
+        "duration_minutes": 0,
+        "duration_label": 0,
+        "active": false,
+        "upcoming": true
+      },
+      {
         "name": "quest_ap30_fetch_01",
         "label": {
           "tw": "quest_ap30_fetch_01",
@@ -1088,6 +1158,20 @@
         "end": null,
         "duration_minutes": 99999999,
         "duration_label": 99999999,
+        "active": true,
+        "upcoming": false
+      },
+      {
+        "name": "visiting_vendor_questap32",
+        "label": {
+          "tw": "visiting_vendor_questap32",
+          "cn": "visiting_vendor_questap32",
+          "en": "visiting_vendor_questap32"
+        },
+        "start": "2026-10-13 15:00:00",
+        "end": "2026-10-14 15:00:00",
+        "duration_minutes": 1440,
+        "duration_label": 1440,
         "active": true,
         "upcoming": false
       },
@@ -1300,6 +1384,20 @@
         "duration_label": 4,
         "active": false,
         "upcoming": true
+      },
+      {
+        "name": "event_prairie_tcandle_master",
+        "label": {
+          "tw": "event_prairie_tcandle_master",
+          "cn": "event_prairie_tcandle_master",
+          "en": "event_prairie_tcandle_master"
+        },
+        "start": "2026-10-13 15:00:00",
+        "end": "2026-10-14 15:00:00",
+        "duration_minutes": 1440,
+        "duration_label": 1440,
+        "active": true,
+        "upcoming": false
       },
       {
         "name": "quest_ap22_miniSocial_03",
@@ -1616,26 +1714,12 @@
           "cn": "ap18_ritual_04_audience_lobby",
           "en": "ap18_ritual_04_audience_lobby"
         },
-        "start": "2026-10-14 04:23:00",
-        "end": "2026-10-14 04:30:00",
-        "duration_minutes": 7,
-        "duration_label": 7,
-        "active": false,
-        "upcoming": false
-      },
-      {
-        "name": "ap18_ritual_04_audience_lobby",
-        "label": {
-          "tw": "ap18_ritual_04_audience_lobby",
-          "cn": "ap18_ritual_04_audience_lobby",
-          "en": "ap18_ritual_04_audience_lobby"
-        },
         "start": "2026-10-14 04:38:00",
         "end": "2026-10-14 04:45:00",
         "duration_minutes": 7,
         "duration_label": 7,
-        "active": false,
-        "upcoming": true
+        "active": true,
+        "upcoming": false
       },
       {
         "name": "ap18_ritual_04_audience_lobby",
@@ -1660,6 +1744,20 @@
         },
         "start": "2026-10-14 05:08:00",
         "end": "2026-10-14 05:15:00",
+        "duration_minutes": 7,
+        "duration_label": 7,
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "ap18_ritual_04_audience_lobby",
+        "label": {
+          "tw": "ap18_ritual_04_audience_lobby",
+          "cn": "ap18_ritual_04_audience_lobby",
+          "en": "ap18_ritual_04_audience_lobby"
+        },
+        "start": "2026-10-14 05:23:00",
+        "end": "2026-10-14 05:30:00",
         "duration_minutes": 7,
         "duration_label": 7,
         "active": false,
@@ -1840,25 +1938,11 @@
           "cn": "snake_random_rail",
           "en": "snake_random_rail"
         },
-        "start": "2026-10-14 04:24:00",
-        "end": "2026-10-14 04:30:00",
-        "duration_minutes": 6,
-        "duration_label": 6,
-        "active": false,
-        "upcoming": false
-      },
-      {
-        "name": "snake_random_rail",
-        "label": {
-          "tw": "snake_random_rail",
-          "cn": "snake_random_rail",
-          "en": "snake_random_rail"
-        },
         "start": "2026-10-14 04:30:00",
         "end": "2026-10-14 04:36:00",
         "duration_minutes": 6,
         "duration_label": 6,
-        "active": true,
+        "active": false,
         "upcoming": false
       },
       {
@@ -1872,8 +1956,8 @@
         "end": "2026-10-14 04:42:00",
         "duration_minutes": 6,
         "duration_label": 6,
-        "active": false,
-        "upcoming": true
+        "active": true,
+        "upcoming": false
       },
       {
         "name": "snake_random_rail",
@@ -1932,18 +2016,18 @@
         "upcoming": true
       },
       {
-        "name": "ap18_ritual_timer_15",
+        "name": "snake_random_rail",
         "label": {
-          "tw": "ap18_ritual_timer_15",
-          "cn": "ap18_ritual_timer_15",
-          "en": "ap18_ritual_timer_15"
+          "tw": "snake_random_rail",
+          "cn": "snake_random_rail",
+          "en": "snake_random_rail"
         },
-        "start": "2026-10-14 04:15:00",
-        "end": "2026-10-14 04:30:00",
-        "duration_minutes": 15,
-        "duration_label": 15,
+        "start": "2026-10-14 05:06:00",
+        "end": "2026-10-14 05:12:00",
+        "duration_minutes": 6,
+        "duration_label": 6,
         "active": false,
-        "upcoming": false
+        "upcoming": true
       },
       {
         "name": "ap18_ritual_timer_15",
@@ -2002,6 +2086,20 @@
         "upcoming": false
       },
       {
+        "name": "season_32",
+        "label": {
+          "tw": "season_32",
+          "cn": "season_32",
+          "en": "season_32"
+        },
+        "start": "2026-10-16 15:00:00",
+        "end": "2027-01-01 16:00:00",
+        "duration_minutes": 110940,
+        "duration_label": 110940,
+        "active": false,
+        "upcoming": true
+      },
+      {
         "name": "quest_ap16_fetch_02",
         "label": {
           "tw": "quest_ap16_fetch_02",
@@ -2049,20 +2147,6 @@
           "tw": "visiting_vendor_questap10",
           "cn": "visiting_vendor_questap10",
           "en": "visiting_vendor_questap10"
-        },
-        "start": "2026-10-13 15:00:00",
-        "end": "2026-10-14 15:00:00",
-        "duration_minutes": 1440,
-        "duration_label": 1440,
-        "active": true,
-        "upcoming": false
-      },
-      {
-        "name": "event_night_tcandle_master",
-        "label": {
-          "tw": "event_night_tcandle_master",
-          "cn": "event_night_tcandle_master",
-          "en": "event_night_tcandle_master"
         },
         "start": "2026-10-13 15:00:00",
         "end": "2026-10-14 15:00:00",
@@ -2442,40 +2526,12 @@
           "cn": "fetch_manta_fertilizer_01",
           "en": "fetch_manta_fertilizer_01"
         },
-        "start": "2026-10-14 04:28:00",
-        "end": "2026-10-14 04:30:00",
-        "duration_minutes": 2,
-        "duration_label": 2,
-        "active": false,
-        "upcoming": false
-      },
-      {
-        "name": "fetch_manta_fertilizer_01",
-        "label": {
-          "tw": "fetch_manta_fertilizer_01",
-          "cn": "fetch_manta_fertilizer_01",
-          "en": "fetch_manta_fertilizer_01"
-        },
-        "start": "2026-10-14 04:32:00",
-        "end": "2026-10-14 04:34:00",
-        "duration_minutes": 2,
-        "duration_label": 2,
-        "active": false,
-        "upcoming": true
-      },
-      {
-        "name": "fetch_manta_fertilizer_01",
-        "label": {
-          "tw": "fetch_manta_fertilizer_01",
-          "cn": "fetch_manta_fertilizer_01",
-          "en": "fetch_manta_fertilizer_01"
-        },
         "start": "2026-10-14 04:36:00",
         "end": "2026-10-14 04:38:00",
         "duration_minutes": 2,
         "duration_label": 2,
         "active": false,
-        "upcoming": true
+        "upcoming": false
       },
       {
         "name": "fetch_manta_fertilizer_01",
@@ -2562,18 +2618,32 @@
         "upcoming": true
       },
       {
-        "name": "wildlifepark_cycle_day",
+        "name": "fetch_manta_fertilizer_01",
         "label": {
-          "tw": "wildlifepark_cycle_day",
-          "cn": "wildlifepark_cycle_day",
-          "en": "wildlifepark_cycle_day"
+          "tw": "fetch_manta_fertilizer_01",
+          "cn": "fetch_manta_fertilizer_01",
+          "en": "fetch_manta_fertilizer_01"
         },
-        "start": "2026-10-14 04:27:00",
-        "end": "2026-10-14 04:30:00",
-        "duration_minutes": 3,
-        "duration_label": 3,
+        "start": "2026-10-14 05:04:00",
+        "end": "2026-10-14 05:06:00",
+        "duration_minutes": 2,
+        "duration_label": 2,
         "active": false,
-        "upcoming": false
+        "upcoming": true
+      },
+      {
+        "name": "fetch_manta_fertilizer_01",
+        "label": {
+          "tw": "fetch_manta_fertilizer_01",
+          "cn": "fetch_manta_fertilizer_01",
+          "en": "fetch_manta_fertilizer_01"
+        },
+        "start": "2026-10-14 05:08:00",
+        "end": "2026-10-14 05:10:00",
+        "duration_minutes": 2,
+        "duration_label": 2,
+        "active": false,
+        "upcoming": true
       },
       {
         "name": "wildlifepark_cycle_day",
@@ -2586,8 +2656,8 @@
         "end": "2026-10-14 04:42:00",
         "duration_minutes": 3,
         "duration_label": 3,
-        "active": false,
-        "upcoming": true
+        "active": true,
+        "upcoming": false
       },
       {
         "name": "wildlifepark_cycle_day",
@@ -2598,6 +2668,20 @@
         },
         "start": "2026-10-14 04:51:00",
         "end": "2026-10-14 04:54:00",
+        "duration_minutes": 3,
+        "duration_label": 3,
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "wildlifepark_cycle_day",
+        "label": {
+          "tw": "wildlifepark_cycle_day",
+          "cn": "wildlifepark_cycle_day",
+          "en": "wildlifepark_cycle_day"
+        },
+        "start": "2026-10-14 05:03:00",
+        "end": "2026-10-14 05:06:00",
         "duration_minutes": 3,
         "duration_label": 3,
         "active": false,
@@ -2782,7 +2866,7 @@
         "end": "2026-10-14 04:37:00",
         "duration_minutes": 16,
         "duration_label": 16,
-        "active": true,
+        "active": false,
         "upcoming": false
       },
       {
@@ -2820,68 +2904,12 @@
           "cn": "aurora_minigame_vote_rotation",
           "en": "aurora_minigame_vote_rotation"
         },
-        "start": "2026-10-14 04:26:00",
-        "end": "2026-10-14 04:28:00",
-        "duration_minutes": 2,
-        "duration_label": 2,
-        "active": false,
-        "upcoming": false
-      },
-      {
-        "name": "aurora_minigame_vote_rotation",
-        "label": {
-          "tw": "aurora_minigame_vote_rotation",
-          "cn": "aurora_minigame_vote_rotation",
-          "en": "aurora_minigame_vote_rotation"
-        },
-        "start": "2026-10-14 04:28:00",
-        "end": "2026-10-14 04:30:00",
-        "duration_minutes": 2,
-        "duration_label": 2,
-        "active": false,
-        "upcoming": false
-      },
-      {
-        "name": "aurora_minigame_vote_rotation",
-        "label": {
-          "tw": "aurora_minigame_vote_rotation",
-          "cn": "aurora_minigame_vote_rotation",
-          "en": "aurora_minigame_vote_rotation"
-        },
-        "start": "2026-10-14 04:30:00",
-        "end": "2026-10-14 04:32:00",
-        "duration_minutes": 2,
-        "duration_label": 2,
-        "active": true,
-        "upcoming": false
-      },
-      {
-        "name": "aurora_minigame_vote_rotation",
-        "label": {
-          "tw": "aurora_minigame_vote_rotation",
-          "cn": "aurora_minigame_vote_rotation",
-          "en": "aurora_minigame_vote_rotation"
-        },
-        "start": "2026-10-14 04:32:00",
-        "end": "2026-10-14 04:34:00",
-        "duration_minutes": 2,
-        "duration_label": 2,
-        "active": false,
-        "upcoming": true
-      },
-      {
-        "name": "aurora_minigame_vote_rotation",
-        "label": {
-          "tw": "aurora_minigame_vote_rotation",
-          "cn": "aurora_minigame_vote_rotation",
-          "en": "aurora_minigame_vote_rotation"
-        },
         "start": "2026-10-14 04:34:00",
         "end": "2026-10-14 04:36:00",
         "duration_minutes": 2,
         "duration_label": 2,
         "active": false,
-        "upcoming": true
+        "upcoming": false
       },
       {
         "name": "aurora_minigame_vote_rotation",
@@ -2895,7 +2923,7 @@
         "duration_minutes": 2,
         "duration_label": 2,
         "active": false,
-        "upcoming": true
+        "upcoming": false
       },
       {
         "name": "aurora_minigame_vote_rotation",
@@ -2908,8 +2936,8 @@
         "end": "2026-10-14 04:40:00",
         "duration_minutes": 2,
         "duration_label": 2,
-        "active": false,
-        "upcoming": true
+        "active": true,
+        "upcoming": false
       },
       {
         "name": "aurora_minigame_vote_rotation",
@@ -3032,6 +3060,62 @@
         },
         "start": "2026-10-14 04:56:00",
         "end": "2026-10-14 04:58:00",
+        "duration_minutes": 2,
+        "duration_label": 2,
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "aurora_minigame_vote_rotation",
+        "label": {
+          "tw": "aurora_minigame_vote_rotation",
+          "cn": "aurora_minigame_vote_rotation",
+          "en": "aurora_minigame_vote_rotation"
+        },
+        "start": "2026-10-14 04:58:00",
+        "end": "2026-10-14 05:00:00",
+        "duration_minutes": 2,
+        "duration_label": 2,
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "aurora_minigame_vote_rotation",
+        "label": {
+          "tw": "aurora_minigame_vote_rotation",
+          "cn": "aurora_minigame_vote_rotation",
+          "en": "aurora_minigame_vote_rotation"
+        },
+        "start": "2026-10-14 05:00:00",
+        "end": "2026-10-14 05:02:00",
+        "duration_minutes": 2,
+        "duration_label": 2,
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "aurora_minigame_vote_rotation",
+        "label": {
+          "tw": "aurora_minigame_vote_rotation",
+          "cn": "aurora_minigame_vote_rotation",
+          "en": "aurora_minigame_vote_rotation"
+        },
+        "start": "2026-10-14 05:02:00",
+        "end": "2026-10-14 05:04:00",
+        "duration_minutes": 2,
+        "duration_label": 2,
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "aurora_minigame_vote_rotation",
+        "label": {
+          "tw": "aurora_minigame_vote_rotation",
+          "cn": "aurora_minigame_vote_rotation",
+          "en": "aurora_minigame_vote_rotation"
+        },
+        "start": "2026-10-14 05:04:00",
+        "end": "2026-10-14 05:06:00",
         "duration_minutes": 2,
         "duration_label": 2,
         "active": false,
@@ -3192,20 +3276,6 @@
         "upcoming": false
       },
       {
-        "name": "skyfest_fireworks_show_act2",
-        "label": {
-          "tw": "skyfest_fireworks_show_act2",
-          "cn": "skyfest_fireworks_show_act2",
-          "en": "skyfest_fireworks_show_act2"
-        },
-        "start": "2026-10-14 04:25:00",
-        "end": "2026-10-14 04:28:00",
-        "duration_minutes": 3,
-        "duration_label": 3,
-        "active": false,
-        "upcoming": false
-      },
-      {
         "name": "quest_ap28_fetch_02",
         "label": {
           "tw": "quest_ap28_fetch_02",
@@ -3218,6 +3288,104 @@
         "duration_label": 99999999,
         "active": true,
         "upcoming": false
+      },
+      {
+        "name": "halloween_bossfight_audience_game",
+        "label": {
+          "tw": "halloween_bossfight_audience_game",
+          "cn": "halloween_bossfight_audience_game",
+          "en": "halloween_bossfight_audience_game"
+        },
+        "start": "2026-10-14 04:30:00",
+        "end": "2026-10-14 04:39:00",
+        "duration_minutes": 9,
+        "duration_label": 9,
+        "active": false,
+        "upcoming": false
+      },
+      {
+        "name": "halloween_bossfight_audience_game",
+        "label": {
+          "tw": "halloween_bossfight_audience_game",
+          "cn": "halloween_bossfight_audience_game",
+          "en": "halloween_bossfight_audience_game"
+        },
+        "start": "2026-10-14 04:40:00",
+        "end": "2026-10-14 04:49:00",
+        "duration_minutes": 9,
+        "duration_label": 9,
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "halloween_bossfight_audience_game",
+        "label": {
+          "tw": "halloween_bossfight_audience_game",
+          "cn": "halloween_bossfight_audience_game",
+          "en": "halloween_bossfight_audience_game"
+        },
+        "start": "2026-10-14 04:50:00",
+        "end": "2026-10-14 04:59:00",
+        "duration_minutes": 9,
+        "duration_label": 9,
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "halloween_bossfight_audience_game",
+        "label": {
+          "tw": "halloween_bossfight_audience_game",
+          "cn": "halloween_bossfight_audience_game",
+          "en": "halloween_bossfight_audience_game"
+        },
+        "start": "2026-10-14 05:00:00",
+        "end": "2026-10-14 05:09:00",
+        "duration_minutes": 9,
+        "duration_label": 9,
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "halloween_bossfight_audience_game",
+        "label": {
+          "tw": "halloween_bossfight_audience_game",
+          "cn": "halloween_bossfight_audience_game",
+          "en": "halloween_bossfight_audience_game"
+        },
+        "start": "2026-10-14 05:10:00",
+        "end": "2026-10-14 05:19:00",
+        "duration_minutes": 9,
+        "duration_label": 9,
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "collectible_hesitate",
+        "label": {
+          "tw": "collectible_hesitate",
+          "cn": "collectible_hesitate",
+          "en": "collectible_hesitate"
+        },
+        "start": "2026-10-16 15:00:00",
+        "end": "2027-01-01 16:00:00",
+        "duration_minutes": 110940,
+        "duration_label": 110940,
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "quest_ap32_fetch_03_sea_part3",
+        "label": {
+          "tw": "quest_ap32_fetch_03_sea_part3",
+          "cn": "quest_ap32_fetch_03_sea_part3",
+          "en": "quest_ap32_fetch_03_sea_part3"
+        },
+        "start": "2026-10-16 15:00:00",
+        "end": null,
+        "duration_minutes": 99999999,
+        "duration_label": 99999999,
+        "active": false,
+        "upcoming": true
       },
       {
         "name": "collectible_guard",
@@ -3282,123 +3450,11 @@
           "cn": "visiting_vendor_ap22_miniquest_house",
           "en": "visiting_vendor_ap22_miniquest_house"
         },
-        "start": "2026-10-13 04:27:00",
-        "end": "2026-10-14 04:27:00",
-        "duration_minutes": 1440,
-        "duration_label": 1440,
-        "active": false,
-        "upcoming": false
-      },
-      {
-        "name": "visiting_vendor_ap22_miniquest_house",
-        "label": {
-          "tw": "visiting_vendor_ap22_miniquest_house",
-          "cn": "visiting_vendor_ap22_miniquest_house",
-          "en": "visiting_vendor_ap22_miniquest_house"
-        },
-        "start": "2026-10-13 04:28:00",
-        "end": "2026-10-14 04:28:00",
-        "duration_minutes": 1440,
-        "duration_label": 1440,
-        "active": false,
-        "upcoming": false
-      },
-      {
-        "name": "visiting_vendor_ap22_miniquest_house",
-        "label": {
-          "tw": "visiting_vendor_ap22_miniquest_house",
-          "cn": "visiting_vendor_ap22_miniquest_house",
-          "en": "visiting_vendor_ap22_miniquest_house"
-        },
-        "start": "2026-10-13 04:29:00",
-        "end": "2026-10-14 04:29:00",
-        "duration_minutes": 1440,
-        "duration_label": 1440,
-        "active": false,
-        "upcoming": false
-      },
-      {
-        "name": "visiting_vendor_ap22_miniquest_house",
-        "label": {
-          "tw": "visiting_vendor_ap22_miniquest_house",
-          "cn": "visiting_vendor_ap22_miniquest_house",
-          "en": "visiting_vendor_ap22_miniquest_house"
-        },
-        "start": "2026-10-13 04:30:00",
-        "end": "2026-10-14 04:30:00",
-        "duration_minutes": 1440,
-        "duration_label": 1440,
-        "active": false,
-        "upcoming": false
-      },
-      {
-        "name": "visiting_vendor_ap22_miniquest_house",
-        "label": {
-          "tw": "visiting_vendor_ap22_miniquest_house",
-          "cn": "visiting_vendor_ap22_miniquest_house",
-          "en": "visiting_vendor_ap22_miniquest_house"
-        },
-        "start": "2026-10-13 04:31:00",
-        "end": "2026-10-14 04:31:00",
-        "duration_minutes": 1440,
-        "duration_label": 1440,
-        "active": true,
-        "upcoming": false
-      },
-      {
-        "name": "visiting_vendor_ap22_miniquest_house",
-        "label": {
-          "tw": "visiting_vendor_ap22_miniquest_house",
-          "cn": "visiting_vendor_ap22_miniquest_house",
-          "en": "visiting_vendor_ap22_miniquest_house"
-        },
-        "start": "2026-10-13 04:32:00",
-        "end": "2026-10-14 04:32:00",
-        "duration_minutes": 1440,
-        "duration_label": 1440,
-        "active": true,
-        "upcoming": false
-      },
-      {
-        "name": "visiting_vendor_ap22_miniquest_house",
-        "label": {
-          "tw": "visiting_vendor_ap22_miniquest_house",
-          "cn": "visiting_vendor_ap22_miniquest_house",
-          "en": "visiting_vendor_ap22_miniquest_house"
-        },
-        "start": "2026-10-13 04:33:00",
-        "end": "2026-10-14 04:33:00",
-        "duration_minutes": 1440,
-        "duration_label": 1440,
-        "active": true,
-        "upcoming": false
-      },
-      {
-        "name": "visiting_vendor_ap22_miniquest_house",
-        "label": {
-          "tw": "visiting_vendor_ap22_miniquest_house",
-          "cn": "visiting_vendor_ap22_miniquest_house",
-          "en": "visiting_vendor_ap22_miniquest_house"
-        },
-        "start": "2026-10-13 04:34:00",
-        "end": "2026-10-14 04:34:00",
-        "duration_minutes": 1440,
-        "duration_label": 1440,
-        "active": true,
-        "upcoming": false
-      },
-      {
-        "name": "visiting_vendor_ap22_miniquest_house",
-        "label": {
-          "tw": "visiting_vendor_ap22_miniquest_house",
-          "cn": "visiting_vendor_ap22_miniquest_house",
-          "en": "visiting_vendor_ap22_miniquest_house"
-        },
         "start": "2026-10-13 04:35:00",
         "end": "2026-10-14 04:35:00",
         "duration_minutes": 1440,
         "duration_label": 1440,
-        "active": true,
+        "active": false,
         "upcoming": false
       },
       {
@@ -3412,7 +3468,7 @@
         "end": "2026-10-14 04:36:00",
         "duration_minutes": 1440,
         "duration_label": 1440,
-        "active": true,
+        "active": false,
         "upcoming": false
       },
       {
@@ -3426,7 +3482,7 @@
         "end": "2026-10-14 04:37:00",
         "duration_minutes": 1440,
         "duration_label": 1440,
-        "active": true,
+        "active": false,
         "upcoming": false
       },
       {
@@ -3440,7 +3496,7 @@
         "end": "2026-10-14 04:38:00",
         "duration_minutes": 1440,
         "duration_label": 1440,
-        "active": true,
+        "active": false,
         "upcoming": false
       },
       {
@@ -3454,7 +3510,7 @@
         "end": "2026-10-14 04:39:00",
         "duration_minutes": 1440,
         "duration_label": 1440,
-        "active": true,
+        "active": false,
         "upcoming": false
       },
       {
@@ -3494,6 +3550,118 @@
         },
         "start": "2026-10-13 04:42:00",
         "end": "2026-10-14 04:42:00",
+        "duration_minutes": 1440,
+        "duration_label": 1440,
+        "active": true,
+        "upcoming": false
+      },
+      {
+        "name": "visiting_vendor_ap22_miniquest_house",
+        "label": {
+          "tw": "visiting_vendor_ap22_miniquest_house",
+          "cn": "visiting_vendor_ap22_miniquest_house",
+          "en": "visiting_vendor_ap22_miniquest_house"
+        },
+        "start": "2026-10-13 04:43:00",
+        "end": "2026-10-14 04:43:00",
+        "duration_minutes": 1440,
+        "duration_label": 1440,
+        "active": true,
+        "upcoming": false
+      },
+      {
+        "name": "visiting_vendor_ap22_miniquest_house",
+        "label": {
+          "tw": "visiting_vendor_ap22_miniquest_house",
+          "cn": "visiting_vendor_ap22_miniquest_house",
+          "en": "visiting_vendor_ap22_miniquest_house"
+        },
+        "start": "2026-10-13 04:44:00",
+        "end": "2026-10-14 04:44:00",
+        "duration_minutes": 1440,
+        "duration_label": 1440,
+        "active": true,
+        "upcoming": false
+      },
+      {
+        "name": "visiting_vendor_ap22_miniquest_house",
+        "label": {
+          "tw": "visiting_vendor_ap22_miniquest_house",
+          "cn": "visiting_vendor_ap22_miniquest_house",
+          "en": "visiting_vendor_ap22_miniquest_house"
+        },
+        "start": "2026-10-13 04:45:00",
+        "end": "2026-10-14 04:45:00",
+        "duration_minutes": 1440,
+        "duration_label": 1440,
+        "active": true,
+        "upcoming": false
+      },
+      {
+        "name": "visiting_vendor_ap22_miniquest_house",
+        "label": {
+          "tw": "visiting_vendor_ap22_miniquest_house",
+          "cn": "visiting_vendor_ap22_miniquest_house",
+          "en": "visiting_vendor_ap22_miniquest_house"
+        },
+        "start": "2026-10-13 04:46:00",
+        "end": "2026-10-14 04:46:00",
+        "duration_minutes": 1440,
+        "duration_label": 1440,
+        "active": true,
+        "upcoming": false
+      },
+      {
+        "name": "visiting_vendor_ap22_miniquest_house",
+        "label": {
+          "tw": "visiting_vendor_ap22_miniquest_house",
+          "cn": "visiting_vendor_ap22_miniquest_house",
+          "en": "visiting_vendor_ap22_miniquest_house"
+        },
+        "start": "2026-10-13 04:47:00",
+        "end": "2026-10-14 04:47:00",
+        "duration_minutes": 1440,
+        "duration_label": 1440,
+        "active": true,
+        "upcoming": false
+      },
+      {
+        "name": "visiting_vendor_ap22_miniquest_house",
+        "label": {
+          "tw": "visiting_vendor_ap22_miniquest_house",
+          "cn": "visiting_vendor_ap22_miniquest_house",
+          "en": "visiting_vendor_ap22_miniquest_house"
+        },
+        "start": "2026-10-13 04:48:00",
+        "end": "2026-10-14 04:48:00",
+        "duration_minutes": 1440,
+        "duration_label": 1440,
+        "active": true,
+        "upcoming": false
+      },
+      {
+        "name": "visiting_vendor_ap22_miniquest_house",
+        "label": {
+          "tw": "visiting_vendor_ap22_miniquest_house",
+          "cn": "visiting_vendor_ap22_miniquest_house",
+          "en": "visiting_vendor_ap22_miniquest_house"
+        },
+        "start": "2026-10-13 04:49:00",
+        "end": "2026-10-14 04:49:00",
+        "duration_minutes": 1440,
+        "duration_label": 1440,
+        "active": true,
+        "upcoming": false
+      },
+      {
+        "name": "visiting_vendor_ap22_miniquest_house",
+        "label": {
+          "tw": "visiting_vendor_ap22_miniquest_house",
+          "cn": "visiting_vendor_ap22_miniquest_house",
+          "en": "visiting_vendor_ap22_miniquest_house"
+        },
+        "start": "2026-10-13 04:50:00",
+        "end": "2026-10-14 04:50:00",
         "duration_minutes": 1440,
         "duration_label": 1440,
         "active": true,
@@ -3552,7 +3720,7 @@
         "end": "2026-10-14 04:35:00",
         "duration_minutes": 15,
         "duration_label": 15,
-        "active": true,
+        "active": false,
         "upcoming": false
       },
       {
@@ -3780,6 +3948,34 @@
         "upcoming": false
       },
       {
+        "name": "collectible_showoff",
+        "label": {
+          "tw": "collectible_showoff",
+          "cn": "collectible_showoff",
+          "en": "collectible_showoff"
+        },
+        "start": "2026-10-16 15:00:00",
+        "end": "2027-01-01 16:00:00",
+        "duration_minutes": 110940,
+        "duration_label": 110940,
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "quest_ap32_fetch_03_sea_part2",
+        "label": {
+          "tw": "quest_ap32_fetch_03_sea_part2",
+          "cn": "quest_ap32_fetch_03_sea_part2",
+          "en": "quest_ap32_fetch_03_sea_part2"
+        },
+        "start": "2026-10-16 15:00:00",
+        "end": null,
+        "duration_minutes": 99999999,
+        "duration_label": 99999999,
+        "active": false,
+        "upcoming": true
+      },
+      {
         "name": "quest_ap28_fetch_09",
         "label": {
           "tw": "quest_ap28_fetch_09",
@@ -3890,6 +4086,20 @@
         "duration_label": 99999999,
         "active": true,
         "upcoming": false
+      },
+      {
+        "name": "global_merchandise_sleep",
+        "label": {
+          "tw": "global_merchandise_sleep",
+          "cn": "global_merchandise_sleep",
+          "en": "global_merchandise_sleep"
+        },
+        "start": "2026-10-27 09:00:00",
+        "end": "2026-10-30 09:00:00",
+        "duration_minutes": 4320,
+        "duration_label": 4320,
+        "active": false,
+        "upcoming": true
       },
       {
         "name": "collectible_handstand",
@@ -4200,6 +4410,20 @@
         "upcoming": true
       },
       {
+        "name": "quest_ap32_fetch_05",
+        "label": {
+          "tw": "quest_ap32_fetch_05",
+          "cn": "quest_ap32_fetch_05",
+          "en": "quest_ap32_fetch_05"
+        },
+        "start": "2026-11-27 16:00:00",
+        "end": null,
+        "duration_minutes": 99999999,
+        "duration_label": 99999999,
+        "active": false,
+        "upcoming": true
+      },
+      {
         "name": "dusk_quest",
         "label": {
           "tw": "dusk_quest",
@@ -4262,26 +4486,12 @@
           "cn": "te_ep_4",
           "en": "te_ep_4"
         },
-        "start": "2026-10-14 04:15:00",
-        "end": "2026-10-14 04:30:00",
-        "duration_minutes": 15,
-        "duration_label": 15,
-        "active": false,
-        "upcoming": false
-      },
-      {
-        "name": "te_ep_4",
-        "label": {
-          "tw": "te_ep_4",
-          "cn": "te_ep_4",
-          "en": "te_ep_4"
-        },
         "start": "2026-10-14 04:35:00",
         "end": "2026-10-14 04:50:00",
         "duration_minutes": 15,
         "duration_label": 15,
-        "active": false,
-        "upcoming": true
+        "active": true,
+        "upcoming": false
       },
       {
         "name": "te_ep_4",
@@ -4402,124 +4612,12 @@
           "cn": "snake_coin",
           "en": "snake_coin"
         },
-        "start": "2026-10-14 04:26:00",
-        "end": "2026-10-14 04:27:00",
-        "duration_minutes": 1,
-        "duration_label": 1,
-        "active": false,
-        "upcoming": false
-      },
-      {
-        "name": "snake_coin",
-        "label": {
-          "tw": "snake_coin",
-          "cn": "snake_coin",
-          "en": "snake_coin"
-        },
-        "start": "2026-10-14 04:27:00",
-        "end": "2026-10-14 04:28:00",
-        "duration_minutes": 1,
-        "duration_label": 1,
-        "active": false,
-        "upcoming": false
-      },
-      {
-        "name": "snake_coin",
-        "label": {
-          "tw": "snake_coin",
-          "cn": "snake_coin",
-          "en": "snake_coin"
-        },
-        "start": "2026-10-14 04:28:00",
-        "end": "2026-10-14 04:29:00",
-        "duration_minutes": 1,
-        "duration_label": 1,
-        "active": false,
-        "upcoming": false
-      },
-      {
-        "name": "snake_coin",
-        "label": {
-          "tw": "snake_coin",
-          "cn": "snake_coin",
-          "en": "snake_coin"
-        },
-        "start": "2026-10-14 04:29:00",
-        "end": "2026-10-14 04:30:00",
-        "duration_minutes": 1,
-        "duration_label": 1,
-        "active": false,
-        "upcoming": false
-      },
-      {
-        "name": "snake_coin",
-        "label": {
-          "tw": "snake_coin",
-          "cn": "snake_coin",
-          "en": "snake_coin"
-        },
-        "start": "2026-10-14 04:30:00",
-        "end": "2026-10-14 04:31:00",
-        "duration_minutes": 1,
-        "duration_label": 1,
-        "active": true,
-        "upcoming": false
-      },
-      {
-        "name": "snake_coin",
-        "label": {
-          "tw": "snake_coin",
-          "cn": "snake_coin",
-          "en": "snake_coin"
-        },
-        "start": "2026-10-14 04:31:00",
-        "end": "2026-10-14 04:32:00",
-        "duration_minutes": 1,
-        "duration_label": 1,
-        "active": false,
-        "upcoming": true
-      },
-      {
-        "name": "snake_coin",
-        "label": {
-          "tw": "snake_coin",
-          "cn": "snake_coin",
-          "en": "snake_coin"
-        },
-        "start": "2026-10-14 04:32:00",
-        "end": "2026-10-14 04:33:00",
-        "duration_minutes": 1,
-        "duration_label": 1,
-        "active": false,
-        "upcoming": true
-      },
-      {
-        "name": "snake_coin",
-        "label": {
-          "tw": "snake_coin",
-          "cn": "snake_coin",
-          "en": "snake_coin"
-        },
-        "start": "2026-10-14 04:33:00",
-        "end": "2026-10-14 04:34:00",
-        "duration_minutes": 1,
-        "duration_label": 1,
-        "active": false,
-        "upcoming": true
-      },
-      {
-        "name": "snake_coin",
-        "label": {
-          "tw": "snake_coin",
-          "cn": "snake_coin",
-          "en": "snake_coin"
-        },
         "start": "2026-10-14 04:34:00",
         "end": "2026-10-14 04:35:00",
         "duration_minutes": 1,
         "duration_label": 1,
         "active": false,
-        "upcoming": true
+        "upcoming": false
       },
       {
         "name": "snake_coin",
@@ -4533,7 +4631,7 @@
         "duration_minutes": 1,
         "duration_label": 1,
         "active": false,
-        "upcoming": true
+        "upcoming": false
       },
       {
         "name": "snake_coin",
@@ -4547,7 +4645,7 @@
         "duration_minutes": 1,
         "duration_label": 1,
         "active": false,
-        "upcoming": true
+        "upcoming": false
       },
       {
         "name": "snake_coin",
@@ -4561,7 +4659,7 @@
         "duration_minutes": 1,
         "duration_label": 1,
         "active": false,
-        "upcoming": true
+        "upcoming": false
       },
       {
         "name": "snake_coin",
@@ -4575,7 +4673,7 @@
         "duration_minutes": 1,
         "duration_label": 1,
         "active": false,
-        "upcoming": true
+        "upcoming": false
       },
       {
         "name": "snake_coin",
@@ -4588,8 +4686,8 @@
         "end": "2026-10-14 04:40:00",
         "duration_minutes": 1,
         "duration_label": 1,
-        "active": false,
-        "upcoming": true
+        "active": true,
+        "upcoming": false
       },
       {
         "name": "snake_coin",
@@ -4614,6 +4712,118 @@
         },
         "start": "2026-10-14 04:41:00",
         "end": "2026-10-14 04:42:00",
+        "duration_minutes": 1,
+        "duration_label": 1,
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "snake_coin",
+        "label": {
+          "tw": "snake_coin",
+          "cn": "snake_coin",
+          "en": "snake_coin"
+        },
+        "start": "2026-10-14 04:42:00",
+        "end": "2026-10-14 04:43:00",
+        "duration_minutes": 1,
+        "duration_label": 1,
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "snake_coin",
+        "label": {
+          "tw": "snake_coin",
+          "cn": "snake_coin",
+          "en": "snake_coin"
+        },
+        "start": "2026-10-14 04:43:00",
+        "end": "2026-10-14 04:44:00",
+        "duration_minutes": 1,
+        "duration_label": 1,
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "snake_coin",
+        "label": {
+          "tw": "snake_coin",
+          "cn": "snake_coin",
+          "en": "snake_coin"
+        },
+        "start": "2026-10-14 04:44:00",
+        "end": "2026-10-14 04:45:00",
+        "duration_minutes": 1,
+        "duration_label": 1,
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "snake_coin",
+        "label": {
+          "tw": "snake_coin",
+          "cn": "snake_coin",
+          "en": "snake_coin"
+        },
+        "start": "2026-10-14 04:45:00",
+        "end": "2026-10-14 04:46:00",
+        "duration_minutes": 1,
+        "duration_label": 1,
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "snake_coin",
+        "label": {
+          "tw": "snake_coin",
+          "cn": "snake_coin",
+          "en": "snake_coin"
+        },
+        "start": "2026-10-14 04:46:00",
+        "end": "2026-10-14 04:47:00",
+        "duration_minutes": 1,
+        "duration_label": 1,
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "snake_coin",
+        "label": {
+          "tw": "snake_coin",
+          "cn": "snake_coin",
+          "en": "snake_coin"
+        },
+        "start": "2026-10-14 04:47:00",
+        "end": "2026-10-14 04:48:00",
+        "duration_minutes": 1,
+        "duration_label": 1,
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "snake_coin",
+        "label": {
+          "tw": "snake_coin",
+          "cn": "snake_coin",
+          "en": "snake_coin"
+        },
+        "start": "2026-10-14 04:48:00",
+        "end": "2026-10-14 04:49:00",
+        "duration_minutes": 1,
+        "duration_label": 1,
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "snake_coin",
+        "label": {
+          "tw": "snake_coin",
+          "cn": "snake_coin",
+          "en": "snake_coin"
+        },
+        "start": "2026-10-14 04:49:00",
+        "end": "2026-10-14 04:50:00",
         "duration_minutes": 1,
         "duration_label": 1,
         "active": false,
@@ -4808,20 +5018,6 @@
           "cn": "ap18_ritual_03",
           "en": "ap18_ritual_03"
         },
-        "start": "2026-10-14 04:30:00",
-        "end": "2026-10-14 04:31:00",
-        "duration_minutes": 1,
-        "duration_label": 1,
-        "active": true,
-        "upcoming": false
-      },
-      {
-        "name": "ap18_ritual_03",
-        "label": {
-          "tw": "ap18_ritual_03",
-          "cn": "ap18_ritual_03",
-          "en": "ap18_ritual_03"
-        },
         "start": "2026-10-14 04:45:00",
         "end": "2026-10-14 04:46:00",
         "duration_minutes": 1,
@@ -4864,25 +5060,11 @@
           "cn": "feast_teatable_rotation",
           "en": "feast_teatable_rotation"
         },
-        "start": "2026-10-14 04:24:00",
-        "end": "2026-10-14 04:30:00",
-        "duration_minutes": 6,
-        "duration_label": 6,
-        "active": false,
-        "upcoming": false
-      },
-      {
-        "name": "feast_teatable_rotation",
-        "label": {
-          "tw": "feast_teatable_rotation",
-          "cn": "feast_teatable_rotation",
-          "en": "feast_teatable_rotation"
-        },
         "start": "2026-10-14 04:30:00",
         "end": "2026-10-14 04:36:00",
         "duration_minutes": 6,
         "duration_label": 6,
-        "active": true,
+        "active": false,
         "upcoming": false
       },
       {
@@ -4896,8 +5078,8 @@
         "end": "2026-10-14 04:42:00",
         "duration_minutes": 6,
         "duration_label": 6,
-        "active": false,
-        "upcoming": true
+        "active": true,
+        "upcoming": false
       },
       {
         "name": "feast_teatable_rotation",
@@ -4950,6 +5132,20 @@
         },
         "start": "2026-10-14 05:00:00",
         "end": "2026-10-14 05:06:00",
+        "duration_minutes": 6,
+        "duration_label": 6,
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "feast_teatable_rotation",
+        "label": {
+          "tw": "feast_teatable_rotation",
+          "cn": "feast_teatable_rotation",
+          "en": "feast_teatable_rotation"
+        },
+        "start": "2026-10-14 05:06:00",
+        "end": "2026-10-14 05:12:00",
         "duration_minutes": 6,
         "duration_label": 6,
         "active": false,
@@ -5110,20 +5306,6 @@
         "upcoming": false
       },
       {
-        "name": "skyfest_fireworks_show_act3",
-        "label": {
-          "tw": "skyfest_fireworks_show_act3",
-          "cn": "skyfest_fireworks_show_act3",
-          "en": "skyfest_fireworks_show_act3"
-        },
-        "start": "2026-10-14 04:28:00",
-        "end": "2026-10-14 04:29:00",
-        "duration_minutes": 1,
-        "duration_label": 1,
-        "active": false,
-        "upcoming": false
-      },
-      {
         "name": "ap29_fetch_11_whisper",
         "label": {
           "tw": "ap29_fetch_11_whisper",
@@ -5144,26 +5326,12 @@
           "cn": "ap18_ritual_03_audience_lobby",
           "en": "ap18_ritual_03_audience_lobby"
         },
-        "start": "2026-10-14 04:23:00",
-        "end": "2026-10-14 04:30:00",
-        "duration_minutes": 7,
-        "duration_label": 7,
-        "active": false,
-        "upcoming": false
-      },
-      {
-        "name": "ap18_ritual_03_audience_lobby",
-        "label": {
-          "tw": "ap18_ritual_03_audience_lobby",
-          "cn": "ap18_ritual_03_audience_lobby",
-          "en": "ap18_ritual_03_audience_lobby"
-        },
         "start": "2026-10-14 04:38:00",
         "end": "2026-10-14 04:45:00",
         "duration_minutes": 7,
         "duration_label": 7,
-        "active": false,
-        "upcoming": true
+        "active": true,
+        "upcoming": false
       },
       {
         "name": "ap18_ritual_03_audience_lobby",
@@ -5188,6 +5356,20 @@
         },
         "start": "2026-10-14 05:08:00",
         "end": "2026-10-14 05:15:00",
+        "duration_minutes": 7,
+        "duration_label": 7,
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "ap18_ritual_03_audience_lobby",
+        "label": {
+          "tw": "ap18_ritual_03_audience_lobby",
+          "cn": "ap18_ritual_03_audience_lobby",
+          "en": "ap18_ritual_03_audience_lobby"
+        },
+        "start": "2026-10-14 05:23:00",
+        "end": "2026-10-14 05:30:00",
         "duration_minutes": 7,
         "duration_label": 7,
         "active": false,
@@ -5359,7 +5541,7 @@
         "duration_minutes": 2,
         "duration_label": 2,
         "active": false,
-        "upcoming": true
+        "upcoming": false
       },
       {
         "name": "wildlifepark_cycle_morning",
@@ -5414,20 +5596,6 @@
         "end": null,
         "duration_minutes": 99999999,
         "duration_label": 99999999,
-        "active": true,
-        "upcoming": false
-      },
-      {
-        "name": "ap18_ritual_04",
-        "label": {
-          "tw": "ap18_ritual_04",
-          "cn": "ap18_ritual_04",
-          "en": "ap18_ritual_04"
-        },
-        "start": "2026-10-14 04:30:00",
-        "end": "2026-10-14 04:31:00",
-        "duration_minutes": 1,
-        "duration_label": 1,
         "active": true,
         "upcoming": false
       },
@@ -5704,26 +5872,12 @@
           "cn": "ap18_ritual_05_audience_lobby",
           "en": "ap18_ritual_05_audience_lobby"
         },
-        "start": "2026-10-14 04:23:00",
-        "end": "2026-10-14 04:30:00",
-        "duration_minutes": 7,
-        "duration_label": 7,
-        "active": false,
-        "upcoming": false
-      },
-      {
-        "name": "ap18_ritual_05_audience_lobby",
-        "label": {
-          "tw": "ap18_ritual_05_audience_lobby",
-          "cn": "ap18_ritual_05_audience_lobby",
-          "en": "ap18_ritual_05_audience_lobby"
-        },
         "start": "2026-10-14 04:38:00",
         "end": "2026-10-14 04:45:00",
         "duration_minutes": 7,
         "duration_label": 7,
-        "active": false,
-        "upcoming": true
+        "active": true,
+        "upcoming": false
       },
       {
         "name": "ap18_ritual_05_audience_lobby",
@@ -5750,6 +5904,34 @@
         "end": "2026-10-14 05:15:00",
         "duration_minutes": 7,
         "duration_label": 7,
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "ap18_ritual_05_audience_lobby",
+        "label": {
+          "tw": "ap18_ritual_05_audience_lobby",
+          "cn": "ap18_ritual_05_audience_lobby",
+          "en": "ap18_ritual_05_audience_lobby"
+        },
+        "start": "2026-10-14 05:23:00",
+        "end": "2026-10-14 05:30:00",
+        "duration_minutes": 7,
+        "duration_label": 7,
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "quest_ap32_fetch_04",
+        "label": {
+          "tw": "quest_ap32_fetch_04",
+          "cn": "quest_ap32_fetch_04",
+          "en": "quest_ap32_fetch_04"
+        },
+        "start": "2026-11-27 16:00:00",
+        "end": null,
+        "duration_minutes": 99999999,
+        "duration_label": 99999999,
         "active": false,
         "upcoming": true
       },
@@ -5872,26 +6054,12 @@
           "cn": "wildlifepark_cycle_not_night_hint",
           "en": "wildlifepark_cycle_not_night_hint"
         },
-        "start": "2026-10-14 04:24:00",
-        "end": "2026-10-14 04:32:00",
-        "duration_minutes": 8,
-        "duration_label": 8,
-        "active": true,
-        "upcoming": false
-      },
-      {
-        "name": "wildlifepark_cycle_not_night_hint",
-        "label": {
-          "tw": "wildlifepark_cycle_not_night_hint",
-          "cn": "wildlifepark_cycle_not_night_hint",
-          "en": "wildlifepark_cycle_not_night_hint"
-        },
         "start": "2026-10-14 04:36:00",
         "end": "2026-10-14 04:44:00",
         "duration_minutes": 8,
         "duration_label": 8,
-        "active": false,
-        "upcoming": true
+        "active": true,
+        "upcoming": false
       },
       {
         "name": "wildlifepark_cycle_not_night_hint",
@@ -5998,123 +6166,11 @@
           "cn": "visiting_vendor_ap22_miniquest_shop",
           "en": "visiting_vendor_ap22_miniquest_shop"
         },
-        "start": "2026-10-13 04:27:00",
-        "end": "2026-10-14 04:27:00",
-        "duration_minutes": 1440,
-        "duration_label": 1440,
-        "active": false,
-        "upcoming": false
-      },
-      {
-        "name": "visiting_vendor_ap22_miniquest_shop",
-        "label": {
-          "tw": "visiting_vendor_ap22_miniquest_shop",
-          "cn": "visiting_vendor_ap22_miniquest_shop",
-          "en": "visiting_vendor_ap22_miniquest_shop"
-        },
-        "start": "2026-10-13 04:28:00",
-        "end": "2026-10-14 04:28:00",
-        "duration_minutes": 1440,
-        "duration_label": 1440,
-        "active": false,
-        "upcoming": false
-      },
-      {
-        "name": "visiting_vendor_ap22_miniquest_shop",
-        "label": {
-          "tw": "visiting_vendor_ap22_miniquest_shop",
-          "cn": "visiting_vendor_ap22_miniquest_shop",
-          "en": "visiting_vendor_ap22_miniquest_shop"
-        },
-        "start": "2026-10-13 04:29:00",
-        "end": "2026-10-14 04:29:00",
-        "duration_minutes": 1440,
-        "duration_label": 1440,
-        "active": false,
-        "upcoming": false
-      },
-      {
-        "name": "visiting_vendor_ap22_miniquest_shop",
-        "label": {
-          "tw": "visiting_vendor_ap22_miniquest_shop",
-          "cn": "visiting_vendor_ap22_miniquest_shop",
-          "en": "visiting_vendor_ap22_miniquest_shop"
-        },
-        "start": "2026-10-13 04:30:00",
-        "end": "2026-10-14 04:30:00",
-        "duration_minutes": 1440,
-        "duration_label": 1440,
-        "active": false,
-        "upcoming": false
-      },
-      {
-        "name": "visiting_vendor_ap22_miniquest_shop",
-        "label": {
-          "tw": "visiting_vendor_ap22_miniquest_shop",
-          "cn": "visiting_vendor_ap22_miniquest_shop",
-          "en": "visiting_vendor_ap22_miniquest_shop"
-        },
-        "start": "2026-10-13 04:31:00",
-        "end": "2026-10-14 04:31:00",
-        "duration_minutes": 1440,
-        "duration_label": 1440,
-        "active": true,
-        "upcoming": false
-      },
-      {
-        "name": "visiting_vendor_ap22_miniquest_shop",
-        "label": {
-          "tw": "visiting_vendor_ap22_miniquest_shop",
-          "cn": "visiting_vendor_ap22_miniquest_shop",
-          "en": "visiting_vendor_ap22_miniquest_shop"
-        },
-        "start": "2026-10-13 04:32:00",
-        "end": "2026-10-14 04:32:00",
-        "duration_minutes": 1440,
-        "duration_label": 1440,
-        "active": true,
-        "upcoming": false
-      },
-      {
-        "name": "visiting_vendor_ap22_miniquest_shop",
-        "label": {
-          "tw": "visiting_vendor_ap22_miniquest_shop",
-          "cn": "visiting_vendor_ap22_miniquest_shop",
-          "en": "visiting_vendor_ap22_miniquest_shop"
-        },
-        "start": "2026-10-13 04:33:00",
-        "end": "2026-10-14 04:33:00",
-        "duration_minutes": 1440,
-        "duration_label": 1440,
-        "active": true,
-        "upcoming": false
-      },
-      {
-        "name": "visiting_vendor_ap22_miniquest_shop",
-        "label": {
-          "tw": "visiting_vendor_ap22_miniquest_shop",
-          "cn": "visiting_vendor_ap22_miniquest_shop",
-          "en": "visiting_vendor_ap22_miniquest_shop"
-        },
-        "start": "2026-10-13 04:34:00",
-        "end": "2026-10-14 04:34:00",
-        "duration_minutes": 1440,
-        "duration_label": 1440,
-        "active": true,
-        "upcoming": false
-      },
-      {
-        "name": "visiting_vendor_ap22_miniquest_shop",
-        "label": {
-          "tw": "visiting_vendor_ap22_miniquest_shop",
-          "cn": "visiting_vendor_ap22_miniquest_shop",
-          "en": "visiting_vendor_ap22_miniquest_shop"
-        },
         "start": "2026-10-13 04:35:00",
         "end": "2026-10-14 04:35:00",
         "duration_minutes": 1440,
         "duration_label": 1440,
-        "active": true,
+        "active": false,
         "upcoming": false
       },
       {
@@ -6128,7 +6184,7 @@
         "end": "2026-10-14 04:36:00",
         "duration_minutes": 1440,
         "duration_label": 1440,
-        "active": true,
+        "active": false,
         "upcoming": false
       },
       {
@@ -6142,7 +6198,7 @@
         "end": "2026-10-14 04:37:00",
         "duration_minutes": 1440,
         "duration_label": 1440,
-        "active": true,
+        "active": false,
         "upcoming": false
       },
       {
@@ -6156,7 +6212,7 @@
         "end": "2026-10-14 04:38:00",
         "duration_minutes": 1440,
         "duration_label": 1440,
-        "active": true,
+        "active": false,
         "upcoming": false
       },
       {
@@ -6170,7 +6226,7 @@
         "end": "2026-10-14 04:39:00",
         "duration_minutes": 1440,
         "duration_label": 1440,
-        "active": true,
+        "active": false,
         "upcoming": false
       },
       {
@@ -6214,6 +6270,132 @@
         "duration_label": 1440,
         "active": true,
         "upcoming": false
+      },
+      {
+        "name": "visiting_vendor_ap22_miniquest_shop",
+        "label": {
+          "tw": "visiting_vendor_ap22_miniquest_shop",
+          "cn": "visiting_vendor_ap22_miniquest_shop",
+          "en": "visiting_vendor_ap22_miniquest_shop"
+        },
+        "start": "2026-10-13 04:43:00",
+        "end": "2026-10-14 04:43:00",
+        "duration_minutes": 1440,
+        "duration_label": 1440,
+        "active": true,
+        "upcoming": false
+      },
+      {
+        "name": "visiting_vendor_ap22_miniquest_shop",
+        "label": {
+          "tw": "visiting_vendor_ap22_miniquest_shop",
+          "cn": "visiting_vendor_ap22_miniquest_shop",
+          "en": "visiting_vendor_ap22_miniquest_shop"
+        },
+        "start": "2026-10-13 04:44:00",
+        "end": "2026-10-14 04:44:00",
+        "duration_minutes": 1440,
+        "duration_label": 1440,
+        "active": true,
+        "upcoming": false
+      },
+      {
+        "name": "visiting_vendor_ap22_miniquest_shop",
+        "label": {
+          "tw": "visiting_vendor_ap22_miniquest_shop",
+          "cn": "visiting_vendor_ap22_miniquest_shop",
+          "en": "visiting_vendor_ap22_miniquest_shop"
+        },
+        "start": "2026-10-13 04:45:00",
+        "end": "2026-10-14 04:45:00",
+        "duration_minutes": 1440,
+        "duration_label": 1440,
+        "active": true,
+        "upcoming": false
+      },
+      {
+        "name": "visiting_vendor_ap22_miniquest_shop",
+        "label": {
+          "tw": "visiting_vendor_ap22_miniquest_shop",
+          "cn": "visiting_vendor_ap22_miniquest_shop",
+          "en": "visiting_vendor_ap22_miniquest_shop"
+        },
+        "start": "2026-10-13 04:46:00",
+        "end": "2026-10-14 04:46:00",
+        "duration_minutes": 1440,
+        "duration_label": 1440,
+        "active": true,
+        "upcoming": false
+      },
+      {
+        "name": "visiting_vendor_ap22_miniquest_shop",
+        "label": {
+          "tw": "visiting_vendor_ap22_miniquest_shop",
+          "cn": "visiting_vendor_ap22_miniquest_shop",
+          "en": "visiting_vendor_ap22_miniquest_shop"
+        },
+        "start": "2026-10-13 04:47:00",
+        "end": "2026-10-14 04:47:00",
+        "duration_minutes": 1440,
+        "duration_label": 1440,
+        "active": true,
+        "upcoming": false
+      },
+      {
+        "name": "visiting_vendor_ap22_miniquest_shop",
+        "label": {
+          "tw": "visiting_vendor_ap22_miniquest_shop",
+          "cn": "visiting_vendor_ap22_miniquest_shop",
+          "en": "visiting_vendor_ap22_miniquest_shop"
+        },
+        "start": "2026-10-13 04:48:00",
+        "end": "2026-10-14 04:48:00",
+        "duration_minutes": 1440,
+        "duration_label": 1440,
+        "active": true,
+        "upcoming": false
+      },
+      {
+        "name": "visiting_vendor_ap22_miniquest_shop",
+        "label": {
+          "tw": "visiting_vendor_ap22_miniquest_shop",
+          "cn": "visiting_vendor_ap22_miniquest_shop",
+          "en": "visiting_vendor_ap22_miniquest_shop"
+        },
+        "start": "2026-10-13 04:49:00",
+        "end": "2026-10-14 04:49:00",
+        "duration_minutes": 1440,
+        "duration_label": 1440,
+        "active": true,
+        "upcoming": false
+      },
+      {
+        "name": "visiting_vendor_ap22_miniquest_shop",
+        "label": {
+          "tw": "visiting_vendor_ap22_miniquest_shop",
+          "cn": "visiting_vendor_ap22_miniquest_shop",
+          "en": "visiting_vendor_ap22_miniquest_shop"
+        },
+        "start": "2026-10-13 04:50:00",
+        "end": "2026-10-14 04:50:00",
+        "duration_minutes": 1440,
+        "duration_label": 1440,
+        "active": true,
+        "upcoming": false
+      },
+      {
+        "name": "quest_ap32_fetch_02",
+        "label": {
+          "tw": "quest_ap32_fetch_02",
+          "cn": "quest_ap32_fetch_02",
+          "en": "quest_ap32_fetch_02"
+        },
+        "start": "2026-10-16 15:00:00",
+        "end": null,
+        "duration_minutes": 99999999,
+        "duration_label": 99999999,
+        "active": false,
+        "upcoming": true
       },
       {
         "name": "collectible_scared",
@@ -6390,20 +6572,6 @@
           "cn": "wildlifepark_cycle_overcast_night",
           "en": "wildlifepark_cycle_overcast_night"
         },
-        "start": "2026-10-14 04:32:00",
-        "end": "2026-10-14 04:33:00",
-        "duration_minutes": 1,
-        "duration_label": 1,
-        "active": false,
-        "upcoming": true
-      },
-      {
-        "name": "wildlifepark_cycle_overcast_night",
-        "label": {
-          "tw": "wildlifepark_cycle_overcast_night",
-          "cn": "wildlifepark_cycle_overcast_night",
-          "en": "wildlifepark_cycle_overcast_night"
-        },
         "start": "2026-10-14 04:44:00",
         "end": "2026-10-14 04:45:00",
         "duration_minutes": 1,
@@ -6420,6 +6588,20 @@
         },
         "start": "2026-10-14 04:56:00",
         "end": "2026-10-14 04:57:00",
+        "duration_minutes": 1,
+        "duration_label": 1,
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "wildlifepark_cycle_overcast_night",
+        "label": {
+          "tw": "wildlifepark_cycle_overcast_night",
+          "cn": "wildlifepark_cycle_overcast_night",
+          "en": "wildlifepark_cycle_overcast_night"
+        },
+        "start": "2026-10-14 05:08:00",
+        "end": "2026-10-14 05:09:00",
         "duration_minutes": 1,
         "duration_label": 1,
         "active": false,
@@ -6488,123 +6670,11 @@
           "cn": "visiting_vendor_ap22_miniquest_social",
           "en": "visiting_vendor_ap22_miniquest_social"
         },
-        "start": "2026-10-13 04:27:00",
-        "end": "2026-10-14 04:27:00",
-        "duration_minutes": 1440,
-        "duration_label": 1440,
-        "active": false,
-        "upcoming": false
-      },
-      {
-        "name": "visiting_vendor_ap22_miniquest_social",
-        "label": {
-          "tw": "visiting_vendor_ap22_miniquest_social",
-          "cn": "visiting_vendor_ap22_miniquest_social",
-          "en": "visiting_vendor_ap22_miniquest_social"
-        },
-        "start": "2026-10-13 04:28:00",
-        "end": "2026-10-14 04:28:00",
-        "duration_minutes": 1440,
-        "duration_label": 1440,
-        "active": false,
-        "upcoming": false
-      },
-      {
-        "name": "visiting_vendor_ap22_miniquest_social",
-        "label": {
-          "tw": "visiting_vendor_ap22_miniquest_social",
-          "cn": "visiting_vendor_ap22_miniquest_social",
-          "en": "visiting_vendor_ap22_miniquest_social"
-        },
-        "start": "2026-10-13 04:29:00",
-        "end": "2026-10-14 04:29:00",
-        "duration_minutes": 1440,
-        "duration_label": 1440,
-        "active": false,
-        "upcoming": false
-      },
-      {
-        "name": "visiting_vendor_ap22_miniquest_social",
-        "label": {
-          "tw": "visiting_vendor_ap22_miniquest_social",
-          "cn": "visiting_vendor_ap22_miniquest_social",
-          "en": "visiting_vendor_ap22_miniquest_social"
-        },
-        "start": "2026-10-13 04:30:00",
-        "end": "2026-10-14 04:30:00",
-        "duration_minutes": 1440,
-        "duration_label": 1440,
-        "active": false,
-        "upcoming": false
-      },
-      {
-        "name": "visiting_vendor_ap22_miniquest_social",
-        "label": {
-          "tw": "visiting_vendor_ap22_miniquest_social",
-          "cn": "visiting_vendor_ap22_miniquest_social",
-          "en": "visiting_vendor_ap22_miniquest_social"
-        },
-        "start": "2026-10-13 04:31:00",
-        "end": "2026-10-14 04:31:00",
-        "duration_minutes": 1440,
-        "duration_label": 1440,
-        "active": true,
-        "upcoming": false
-      },
-      {
-        "name": "visiting_vendor_ap22_miniquest_social",
-        "label": {
-          "tw": "visiting_vendor_ap22_miniquest_social",
-          "cn": "visiting_vendor_ap22_miniquest_social",
-          "en": "visiting_vendor_ap22_miniquest_social"
-        },
-        "start": "2026-10-13 04:32:00",
-        "end": "2026-10-14 04:32:00",
-        "duration_minutes": 1440,
-        "duration_label": 1440,
-        "active": true,
-        "upcoming": false
-      },
-      {
-        "name": "visiting_vendor_ap22_miniquest_social",
-        "label": {
-          "tw": "visiting_vendor_ap22_miniquest_social",
-          "cn": "visiting_vendor_ap22_miniquest_social",
-          "en": "visiting_vendor_ap22_miniquest_social"
-        },
-        "start": "2026-10-13 04:33:00",
-        "end": "2026-10-14 04:33:00",
-        "duration_minutes": 1440,
-        "duration_label": 1440,
-        "active": true,
-        "upcoming": false
-      },
-      {
-        "name": "visiting_vendor_ap22_miniquest_social",
-        "label": {
-          "tw": "visiting_vendor_ap22_miniquest_social",
-          "cn": "visiting_vendor_ap22_miniquest_social",
-          "en": "visiting_vendor_ap22_miniquest_social"
-        },
-        "start": "2026-10-13 04:34:00",
-        "end": "2026-10-14 04:34:00",
-        "duration_minutes": 1440,
-        "duration_label": 1440,
-        "active": true,
-        "upcoming": false
-      },
-      {
-        "name": "visiting_vendor_ap22_miniquest_social",
-        "label": {
-          "tw": "visiting_vendor_ap22_miniquest_social",
-          "cn": "visiting_vendor_ap22_miniquest_social",
-          "en": "visiting_vendor_ap22_miniquest_social"
-        },
         "start": "2026-10-13 04:35:00",
         "end": "2026-10-14 04:35:00",
         "duration_minutes": 1440,
         "duration_label": 1440,
-        "active": true,
+        "active": false,
         "upcoming": false
       },
       {
@@ -6618,7 +6688,7 @@
         "end": "2026-10-14 04:36:00",
         "duration_minutes": 1440,
         "duration_label": 1440,
-        "active": true,
+        "active": false,
         "upcoming": false
       },
       {
@@ -6632,7 +6702,7 @@
         "end": "2026-10-14 04:37:00",
         "duration_minutes": 1440,
         "duration_label": 1440,
-        "active": true,
+        "active": false,
         "upcoming": false
       },
       {
@@ -6646,7 +6716,7 @@
         "end": "2026-10-14 04:38:00",
         "duration_minutes": 1440,
         "duration_label": 1440,
-        "active": true,
+        "active": false,
         "upcoming": false
       },
       {
@@ -6660,7 +6730,7 @@
         "end": "2026-10-14 04:39:00",
         "duration_minutes": 1440,
         "duration_label": 1440,
-        "active": true,
+        "active": false,
         "upcoming": false
       },
       {
@@ -6700,6 +6770,118 @@
         },
         "start": "2026-10-13 04:42:00",
         "end": "2026-10-14 04:42:00",
+        "duration_minutes": 1440,
+        "duration_label": 1440,
+        "active": true,
+        "upcoming": false
+      },
+      {
+        "name": "visiting_vendor_ap22_miniquest_social",
+        "label": {
+          "tw": "visiting_vendor_ap22_miniquest_social",
+          "cn": "visiting_vendor_ap22_miniquest_social",
+          "en": "visiting_vendor_ap22_miniquest_social"
+        },
+        "start": "2026-10-13 04:43:00",
+        "end": "2026-10-14 04:43:00",
+        "duration_minutes": 1440,
+        "duration_label": 1440,
+        "active": true,
+        "upcoming": false
+      },
+      {
+        "name": "visiting_vendor_ap22_miniquest_social",
+        "label": {
+          "tw": "visiting_vendor_ap22_miniquest_social",
+          "cn": "visiting_vendor_ap22_miniquest_social",
+          "en": "visiting_vendor_ap22_miniquest_social"
+        },
+        "start": "2026-10-13 04:44:00",
+        "end": "2026-10-14 04:44:00",
+        "duration_minutes": 1440,
+        "duration_label": 1440,
+        "active": true,
+        "upcoming": false
+      },
+      {
+        "name": "visiting_vendor_ap22_miniquest_social",
+        "label": {
+          "tw": "visiting_vendor_ap22_miniquest_social",
+          "cn": "visiting_vendor_ap22_miniquest_social",
+          "en": "visiting_vendor_ap22_miniquest_social"
+        },
+        "start": "2026-10-13 04:45:00",
+        "end": "2026-10-14 04:45:00",
+        "duration_minutes": 1440,
+        "duration_label": 1440,
+        "active": true,
+        "upcoming": false
+      },
+      {
+        "name": "visiting_vendor_ap22_miniquest_social",
+        "label": {
+          "tw": "visiting_vendor_ap22_miniquest_social",
+          "cn": "visiting_vendor_ap22_miniquest_social",
+          "en": "visiting_vendor_ap22_miniquest_social"
+        },
+        "start": "2026-10-13 04:46:00",
+        "end": "2026-10-14 04:46:00",
+        "duration_minutes": 1440,
+        "duration_label": 1440,
+        "active": true,
+        "upcoming": false
+      },
+      {
+        "name": "visiting_vendor_ap22_miniquest_social",
+        "label": {
+          "tw": "visiting_vendor_ap22_miniquest_social",
+          "cn": "visiting_vendor_ap22_miniquest_social",
+          "en": "visiting_vendor_ap22_miniquest_social"
+        },
+        "start": "2026-10-13 04:47:00",
+        "end": "2026-10-14 04:47:00",
+        "duration_minutes": 1440,
+        "duration_label": 1440,
+        "active": true,
+        "upcoming": false
+      },
+      {
+        "name": "visiting_vendor_ap22_miniquest_social",
+        "label": {
+          "tw": "visiting_vendor_ap22_miniquest_social",
+          "cn": "visiting_vendor_ap22_miniquest_social",
+          "en": "visiting_vendor_ap22_miniquest_social"
+        },
+        "start": "2026-10-13 04:48:00",
+        "end": "2026-10-14 04:48:00",
+        "duration_minutes": 1440,
+        "duration_label": 1440,
+        "active": true,
+        "upcoming": false
+      },
+      {
+        "name": "visiting_vendor_ap22_miniquest_social",
+        "label": {
+          "tw": "visiting_vendor_ap22_miniquest_social",
+          "cn": "visiting_vendor_ap22_miniquest_social",
+          "en": "visiting_vendor_ap22_miniquest_social"
+        },
+        "start": "2026-10-13 04:49:00",
+        "end": "2026-10-14 04:49:00",
+        "duration_minutes": 1440,
+        "duration_label": 1440,
+        "active": true,
+        "upcoming": false
+      },
+      {
+        "name": "visiting_vendor_ap22_miniquest_social",
+        "label": {
+          "tw": "visiting_vendor_ap22_miniquest_social",
+          "cn": "visiting_vendor_ap22_miniquest_social",
+          "en": "visiting_vendor_ap22_miniquest_social"
+        },
+        "start": "2026-10-13 04:50:00",
+        "end": "2026-10-14 04:50:00",
         "duration_minutes": 1440,
         "duration_label": 1440,
         "active": true,
@@ -6760,6 +6942,20 @@
         "duration_label": 99999999,
         "active": true,
         "upcoming": false
+      },
+      {
+        "name": "quest_ap32_fetch_01_sea",
+        "label": {
+          "tw": "quest_ap32_fetch_01_sea",
+          "cn": "quest_ap32_fetch_01_sea",
+          "en": "quest_ap32_fetch_01_sea"
+        },
+        "start": "2026-10-16 15:00:00",
+        "end": null,
+        "duration_minutes": 99999999,
+        "duration_label": 99999999,
+        "active": false,
+        "upcoming": true
       },
       {
         "name": "quest_ap17_fetch_07",
@@ -6870,6 +7066,20 @@
         "end": "2026-10-15 15:00:00",
         "duration_minutes": 1440,
         "duration_label": 1440,
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "quest_ap32_fetch_04_sea",
+        "label": {
+          "tw": "quest_ap32_fetch_04_sea",
+          "cn": "quest_ap32_fetch_04_sea",
+          "en": "quest_ap32_fetch_04_sea"
+        },
+        "start": "2026-11-27 16:00:00",
+        "end": null,
+        "duration_minutes": 99999999,
+        "duration_label": 99999999,
         "active": false,
         "upcoming": true
       },
@@ -7028,17 +7238,17 @@
         "upcoming": false
       },
       {
-        "name": "wildlifepark_cycle_overcast_day",
+        "name": "event_prairie_tcandles3",
         "label": {
-          "tw": "wildlifepark_cycle_overcast_day",
-          "cn": "wildlifepark_cycle_overcast_day",
-          "en": "wildlifepark_cycle_overcast_day"
+          "tw": "event_prairie_tcandles3",
+          "cn": "event_prairie_tcandles3",
+          "en": "event_prairie_tcandles3"
         },
-        "start": "2026-10-14 04:26:00",
-        "end": "2026-10-14 04:27:00",
-        "duration_minutes": 1,
-        "duration_label": 1,
-        "active": false,
+        "start": "2026-10-13 15:00:00",
+        "end": "2026-10-14 15:00:00",
+        "duration_minutes": 1440,
+        "duration_label": 1440,
+        "active": true,
         "upcoming": false
       },
       {
@@ -7053,7 +7263,7 @@
         "duration_minutes": 1,
         "duration_label": 1,
         "active": false,
-        "upcoming": true
+        "upcoming": false
       },
       {
         "name": "wildlifepark_cycle_overcast_day",
@@ -7064,6 +7274,20 @@
         },
         "start": "2026-10-14 04:50:00",
         "end": "2026-10-14 04:51:00",
+        "duration_minutes": 1,
+        "duration_label": 1,
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "wildlifepark_cycle_overcast_day",
+        "label": {
+          "tw": "wildlifepark_cycle_overcast_day",
+          "cn": "wildlifepark_cycle_overcast_day",
+          "en": "wildlifepark_cycle_overcast_day"
+        },
+        "start": "2026-10-14 05:02:00",
+        "end": "2026-10-14 05:03:00",
         "duration_minutes": 1,
         "duration_label": 1,
         "active": false,
@@ -7126,6 +7350,20 @@
         "upcoming": false
       },
       {
+        "name": "quest_ap32_fetch_02_sea",
+        "label": {
+          "tw": "quest_ap32_fetch_02_sea",
+          "cn": "quest_ap32_fetch_02_sea",
+          "en": "quest_ap32_fetch_02_sea"
+        },
+        "start": "2026-10-16 15:00:00",
+        "end": null,
+        "duration_minutes": 99999999,
+        "duration_label": 99999999,
+        "active": false,
+        "upcoming": true
+      },
+      {
         "name": "aurora_runaway_wrap",
         "label": {
           "tw": "aurora_runaway_wrap",
@@ -7166,6 +7404,20 @@
         "duration_label": 99999999,
         "active": true,
         "upcoming": false
+      },
+      {
+        "name": "quest_ap32_fetch_03_sea_part1",
+        "label": {
+          "tw": "quest_ap32_fetch_03_sea_part1",
+          "cn": "quest_ap32_fetch_03_sea_part1",
+          "en": "quest_ap32_fetch_03_sea_part1"
+        },
+        "start": "2026-10-16 15:00:00",
+        "end": null,
+        "duration_minutes": 99999999,
+        "duration_label": 99999999,
+        "active": false,
+        "upcoming": true
       },
       {
         "name": "aurora_minigame_3",
@@ -7286,20 +7538,6 @@
           "cn": "ap18_ritual_05",
           "en": "ap18_ritual_05"
         },
-        "start": "2026-10-14 04:30:00",
-        "end": "2026-10-14 04:31:00",
-        "duration_minutes": 1,
-        "duration_label": 1,
-        "active": true,
-        "upcoming": false
-      },
-      {
-        "name": "ap18_ritual_05",
-        "label": {
-          "tw": "ap18_ritual_05",
-          "cn": "ap18_ritual_05",
-          "en": "ap18_ritual_05"
-        },
         "start": "2026-10-14 04:45:00",
         "end": "2026-10-14 04:46:00",
         "duration_minutes": 1,
@@ -7356,25 +7594,11 @@
           "cn": "aurora_soundbath_session",
           "en": "aurora_soundbath_session"
         },
-        "start": "2026-10-14 04:20:00",
-        "end": "2026-10-14 04:29:00",
-        "duration_minutes": 9,
-        "duration_label": 9,
-        "active": false,
-        "upcoming": false
-      },
-      {
-        "name": "aurora_soundbath_session",
-        "label": {
-          "tw": "aurora_soundbath_session",
-          "cn": "aurora_soundbath_session",
-          "en": "aurora_soundbath_session"
-        },
         "start": "2026-10-14 04:30:00",
         "end": "2026-10-14 04:39:00",
         "duration_minutes": 9,
         "duration_label": 9,
-        "active": true,
+        "active": false,
         "upcoming": false
       },
       {
@@ -7696,6 +7920,20 @@
         "end": null,
         "duration_minutes": 99999999,
         "duration_label": 99999999,
+        "active": true,
+        "upcoming": false
+      },
+      {
+        "name": "weekly_dye_rotation_03",
+        "label": {
+          "tw": "weekly_dye_rotation_03",
+          "cn": "weekly_dye_rotation_03",
+          "en": "weekly_dye_rotation_03"
+        },
+        "start": "2026-10-09 15:00:00",
+        "end": "2026-10-16 16:00:00",
+        "duration_minutes": 10140,
+        "duration_label": 10140,
         "active": true,
         "upcoming": false
       },
@@ -8518,26 +8756,12 @@
           "cn": "ap18_ritual_02_audience_lobby",
           "en": "ap18_ritual_02_audience_lobby"
         },
-        "start": "2026-10-14 04:23:00",
-        "end": "2026-10-14 04:30:00",
-        "duration_minutes": 7,
-        "duration_label": 7,
-        "active": false,
-        "upcoming": false
-      },
-      {
-        "name": "ap18_ritual_02_audience_lobby",
-        "label": {
-          "tw": "ap18_ritual_02_audience_lobby",
-          "cn": "ap18_ritual_02_audience_lobby",
-          "en": "ap18_ritual_02_audience_lobby"
-        },
         "start": "2026-10-14 04:38:00",
         "end": "2026-10-14 04:45:00",
         "duration_minutes": 7,
         "duration_label": 7,
-        "active": false,
-        "upcoming": true
+        "active": true,
+        "upcoming": false
       },
       {
         "name": "ap18_ritual_02_audience_lobby",
@@ -8562,6 +8786,20 @@
         },
         "start": "2026-10-14 05:08:00",
         "end": "2026-10-14 05:15:00",
+        "duration_minutes": 7,
+        "duration_label": 7,
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "ap18_ritual_02_audience_lobby",
+        "label": {
+          "tw": "ap18_ritual_02_audience_lobby",
+          "cn": "ap18_ritual_02_audience_lobby",
+          "en": "ap18_ritual_02_audience_lobby"
+        },
+        "start": "2026-10-14 05:23:00",
+        "end": "2026-10-14 05:30:00",
         "duration_minutes": 7,
         "duration_label": 7,
         "active": false,
@@ -8636,6 +8874,20 @@
         "duration_label": 99999999,
         "active": true,
         "upcoming": false
+      },
+      {
+        "name": "quest_ap32_fetch_01",
+        "label": {
+          "tw": "quest_ap32_fetch_01",
+          "cn": "quest_ap32_fetch_01",
+          "en": "quest_ap32_fetch_01"
+        },
+        "start": "2026-10-16 15:00:00",
+        "end": null,
+        "duration_minutes": 99999999,
+        "duration_label": 99999999,
+        "active": false,
+        "upcoming": true
       },
       {
         "name": "sunset_colosseum_firework_interval",
@@ -8830,7 +9082,7 @@
         "end": "2026-10-14 04:37:00",
         "duration_minutes": 8,
         "duration_label": 8,
-        "active": true,
+        "active": false,
         "upcoming": false
       },
       {
@@ -8844,20 +9096,6 @@
         "end": null,
         "duration_minutes": 99999999,
         "duration_label": 99999999,
-        "active": true,
-        "upcoming": false
-      },
-      {
-        "name": "wildlifepark_cycle_sunset",
-        "label": {
-          "tw": "wildlifepark_cycle_sunset",
-          "cn": "wildlifepark_cycle_sunset",
-          "en": "wildlifepark_cycle_sunset"
-        },
-        "start": "2026-10-14 04:30:00",
-        "end": "2026-10-14 04:32:00",
-        "duration_minutes": 2,
-        "duration_label": 2,
         "active": true,
         "upcoming": false
       },
@@ -8884,6 +9122,20 @@
         },
         "start": "2026-10-14 04:54:00",
         "end": "2026-10-14 04:56:00",
+        "duration_minutes": 2,
+        "duration_label": 2,
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "wildlifepark_cycle_sunset",
+        "label": {
+          "tw": "wildlifepark_cycle_sunset",
+          "cn": "wildlifepark_cycle_sunset",
+          "en": "wildlifepark_cycle_sunset"
+        },
+        "start": "2026-10-14 05:06:00",
+        "end": "2026-10-14 05:08:00",
         "duration_minutes": 2,
         "duration_label": 2,
         "active": false,
@@ -8985,20 +9237,6 @@
         "duration_minutes": 99999999,
         "duration_label": 99999999,
         "active": true,
-        "upcoming": false
-      },
-      {
-        "name": "hub_clocktower",
-        "label": {
-          "tw": "hub_clocktower",
-          "cn": "hub_clocktower",
-          "en": "hub_clocktower"
-        },
-        "start": "2026-10-14 04:30:00",
-        "end": "2026-10-14 04:30:00",
-        "duration_minutes": 0,
-        "duration_label": 0,
-        "active": false,
         "upcoming": false
       },
       {
@@ -9168,6 +9406,20 @@
         "duration_label": 99999999,
         "active": true,
         "upcoming": false
+      },
+      {
+        "name": "global_halloween",
+        "label": {
+          "tw": "global_halloween",
+          "cn": "global_halloween",
+          "en": "global_halloween"
+        },
+        "start": "2026-10-23 15:00:00",
+        "end": "2026-11-13 16:00:00",
+        "duration_minutes": 30300,
+        "duration_label": 30300,
+        "active": false,
+        "upcoming": true
       },
       {
         "name": "quest_ap10_fetch_01",
@@ -9366,20 +9618,6 @@
         "upcoming": false
       },
       {
-        "name": "aurora_minigame_2",
-        "label": {
-          "tw": "aurora_minigame_2",
-          "cn": "aurora_minigame_2",
-          "en": "aurora_minigame_2"
-        },
-        "start": "2026-10-14 04:15:00",
-        "end": "2026-10-14 04:27:00",
-        "duration_minutes": 12,
-        "duration_label": 12,
-        "active": false,
-        "upcoming": false
-      },
-      {
         "name": "quest_ap27_fetch_03",
         "label": {
           "tw": "quest_ap27_fetch_03",
@@ -9475,7 +9713,7 @@
         "duration_minutes": 3,
         "duration_label": 3,
         "active": false,
-        "upcoming": true
+        "upcoming": false
       },
       {
         "name": "wildlifepark_cycle_night",
@@ -9500,6 +9738,20 @@
         },
         "start": "2026-10-14 04:57:00",
         "end": "2026-10-14 05:00:00",
+        "duration_minutes": 3,
+        "duration_label": 3,
+        "active": false,
+        "upcoming": true
+      },
+      {
+        "name": "wildlifepark_cycle_night",
+        "label": {
+          "tw": "wildlifepark_cycle_night",
+          "cn": "wildlifepark_cycle_night",
+          "en": "wildlifepark_cycle_night"
+        },
+        "start": "2026-10-14 05:09:00",
+        "end": "2026-10-14 05:12:00",
         "duration_minutes": 3,
         "duration_label": 3,
         "active": false,
@@ -9672,6 +9924,20 @@
         "duration_label": 99999999,
         "active": true,
         "upcoming": false
+      },
+      {
+        "name": "quest_ap32_fetch_03_sea",
+        "label": {
+          "tw": "quest_ap32_fetch_03_sea",
+          "cn": "quest_ap32_fetch_03_sea",
+          "en": "quest_ap32_fetch_03_sea"
+        },
+        "start": "2026-10-16 15:00:00",
+        "end": null,
+        "duration_minutes": 99999999,
+        "duration_label": 99999999,
+        "active": false,
+        "upcoming": true
       },
       {
         "name": "quest_ap13_fetch_05",
@@ -9852,20 +10118,6 @@
         "end": null,
         "duration_minutes": 99999999,
         "duration_label": 99999999,
-        "active": true,
-        "upcoming": false
-      },
-      {
-        "name": "ap18_ritual_02",
-        "label": {
-          "tw": "ap18_ritual_02",
-          "cn": "ap18_ritual_02",
-          "en": "ap18_ritual_02"
-        },
-        "start": "2026-10-14 04:30:00",
-        "end": "2026-10-14 04:31:00",
-        "duration_minutes": 1,
-        "duration_label": 1,
         "active": true,
         "upcoming": false
       },
@@ -10108,6 +10360,20 @@
         "upcoming": false
       },
       {
+        "name": "quest_ap32_fetch_05_sea",
+        "label": {
+          "tw": "quest_ap32_fetch_05_sea",
+          "cn": "quest_ap32_fetch_05_sea",
+          "en": "quest_ap32_fetch_05_sea"
+        },
+        "start": "2026-11-27 16:00:00",
+        "end": null,
+        "duration_minutes": 99999999,
+        "duration_label": 99999999,
+        "active": false,
+        "upcoming": true
+      },
+      {
         "name": "spiritshopitem_ap06unlock_ap12_fetch_01",
         "label": {
           "tw": "spiritshopitem_ap06unlock_ap12_fetch_01",
@@ -10288,6 +10554,20 @@
         "duration_label": 99999999,
         "active": true,
         "upcoming": false
+      },
+      {
+        "name": "quest_ap32_fetch_03",
+        "label": {
+          "tw": "quest_ap32_fetch_03",
+          "cn": "quest_ap32_fetch_03",
+          "en": "quest_ap32_fetch_03"
+        },
+        "start": "2026-10-16 15:00:00",
+        "end": null,
+        "duration_minutes": 99999999,
+        "duration_label": 99999999,
+        "active": false,
+        "upcoming": true
       },
       {
         "name": "stormy_sunset",
@@ -10486,6 +10766,20 @@
         "upcoming": false
       },
       {
+        "name": "collectible_armwrestle",
+        "label": {
+          "tw": "collectible_armwrestle",
+          "cn": "collectible_armwrestle",
+          "en": "collectible_armwrestle"
+        },
+        "start": "2026-10-16 15:00:00",
+        "end": "2027-01-01 16:00:00",
+        "duration_minutes": 110940,
+        "duration_label": 110940,
+        "active": false,
+        "upcoming": true
+      },
+      {
         "name": "quest_ap25_fetch_04",
         "label": {
           "tw": "quest_ap25_fetch_04",
@@ -10514,6 +10808,20 @@
         "upcoming": false
       },
       {
+        "name": "quest_ap32_fetch_06",
+        "label": {
+          "tw": "quest_ap32_fetch_06",
+          "cn": "quest_ap32_fetch_06",
+          "en": "quest_ap32_fetch_06"
+        },
+        "start": "2026-11-27 16:00:00",
+        "end": null,
+        "duration_minutes": 99999999,
+        "duration_label": 99999999,
+        "active": false,
+        "upcoming": true
+      },
+      {
         "name": "quest_ap31_fetch_02_painting_part5",
         "label": {
           "tw": "quest_ap31_fetch_02_painting_part5",
@@ -10526,6 +10834,20 @@
         "duration_label": 99999999,
         "active": true,
         "upcoming": false
+      },
+      {
+        "name": "collectible_wallow",
+        "label": {
+          "tw": "collectible_wallow",
+          "cn": "collectible_wallow",
+          "en": "collectible_wallow"
+        },
+        "start": "2026-10-16 15:00:00",
+        "end": "2027-01-01 16:00:00",
+        "duration_minutes": 110940,
+        "duration_label": 110940,
+        "active": false,
+        "upcoming": true
       },
       {
         "name": "quest_ap22_miniHouse_02",
