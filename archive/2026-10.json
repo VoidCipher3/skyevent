@@ -13772,7 +13772,6 @@
       "collectible_wipe",
       "collectible_yawn",
       "creativehall_loop1",
-      "day_fairyring",
       "dusk_darkstone_1",
       "dusk_embersanctuary_on",
       "elder_sanctuary_patrol",
@@ -13826,7 +13825,6 @@
       "hub_clocktower",
       "mainstreet_cycle_day_B",
       "mainstreet_cycle_morning_B",
-      "mainstreet_cycle_night_B",
       "mainstreet_cycle_overcast_day_B",
       "musicshop_weekly_rotation_04",
       "nature_geyser_on",
@@ -14050,8 +14048,6 @@
       "quest_sunset_race",
       "quest_sunset_yeti_race",
       "quest_tgc_office_don",
-      "radiant_darkstone_despawn",
-      "radiant_darkstone_despawn_warning",
       "radiant_darkstone_enable",
       "radiant_darkstone_spawn",
       "rain_darkstone_1",
@@ -14079,7 +14075,6 @@
       "social_eelwatercreature",
       "social_feed_prompt_express_yourself",
       "social_feed_prompt_feeling_crabby",
-      "social_nature2022turtle",
       "social_prairie_cozycave",
       "social_rain_bonfirecamp",
       "social_skyway_speedtube",
@@ -14277,7 +14272,7 @@
       "wildlifepark_cycle_sunset",
       "wing_buff_conversion_period"
     ],
-    "total": 804,
-    "active_count": 581
+    "total": 784,
+    "active_count": 583
   }
 }
