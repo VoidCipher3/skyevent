@@ -3,23 +3,21 @@
   "diff": {
     "event_schedule": {
       "has_recorded_diff": true,
-      "recorded_at_fmt": "2026-10-25 15:16:30",
-      "previous_fetched_at_fmt": "2026-10-25 15:01:12",
+      "recorded_at_fmt": "2026-10-25 15:30:54",
+      "previous_fetched_at_fmt": "2026-10-25 15:16:30",
       "unchanged_since_last_change": false,
       "added": [
         {
-          "name": "mainstreet_cycle_sunset_B",
+          "name": "aurora_minigame_1",
           "label": {
-            "tw": "mainstreet_cycle_sunset_B",
-            "cn": "mainstreet_cycle_sunset_B",
-            "en": "mainstreet_cycle_sunset_B"
+            "tw": "aurora_minigame_1",
+            "cn": "aurora_minigame_1",
+            "en": "aurora_minigame_1"
           },
-          "start": "2026-10-25 15:40:00",
-          "end": "2026-10-25 15:50:00",
-          "duration_label": 10
-        }
-      ],
-      "removed": [
+          "start": "2026-10-25 16:00:00",
+          "end": "2026-10-25 16:12:00",
+          "duration_label": 12
+        },
         {
           "name": "day_fairyring",
           "label": {
@@ -27,31 +25,9 @@
             "cn": "day_fairyring",
             "en": "day_fairyring"
           },
-          "start": "2026-10-25 14:50:00",
-          "end": "2026-10-25 15:00:00",
+          "start": "2026-10-25 15:50:00",
+          "end": "2026-10-25 16:00:00",
           "duration_label": 10
-        },
-        {
-          "name": "event_rain_tcandle_master",
-          "label": {
-            "tw": "event_rain_tcandle_master",
-            "cn": "event_rain_tcandle_master",
-            "en": "event_rain_tcandle_master"
-          },
-          "start": "2026-10-24 15:00:00",
-          "end": "2026-10-25 15:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "event_rain_tcandles2",
-          "label": {
-            "tw": "event_rain_tcandles2",
-            "cn": "event_rain_tcandles2",
-            "en": "event_rain_tcandles2"
-          },
-          "start": "2026-10-24 15:00:00",
-          "end": "2026-10-25 15:00:00",
-          "duration_label": 1440
         },
         {
           "name": "global_newyear_firework_interval",
@@ -60,20 +36,9 @@
             "cn": "global_newyear_firework_interval",
             "en": "global_newyear_firework_interval"
           },
-          "start": "2026-10-25 15:00:00",
-          "end": "2026-10-25 15:05:00",
+          "start": "2026-10-25 16:00:00",
+          "end": "2026-10-25 16:05:00",
           "duration_label": 5
-        },
-        {
-          "name": "halloween_day_bossfight",
-          "label": {
-            "tw": "halloween_day_bossfight",
-            "cn": "halloween_day_bossfight",
-            "en": "halloween_day_bossfight"
-          },
-          "start": "2026-10-24 15:00:00",
-          "end": "2026-10-25 15:00:00",
-          "duration_label": 1440
         },
         {
           "name": "mainstreet_cycle_morning_B",
@@ -82,8 +47,8 @@
             "cn": "mainstreet_cycle_morning_B",
             "en": "mainstreet_cycle_morning_B"
           },
-          "start": "2026-10-25 15:00:00",
-          "end": "2026-10-25 15:10:00",
+          "start": "2026-10-25 16:00:00",
+          "end": "2026-10-25 16:10:00",
           "duration_label": 10
         },
         {
@@ -93,31 +58,9 @@
             "cn": "mainstreet_cycle_night_B",
             "en": "mainstreet_cycle_night_B"
           },
-          "start": "2026-10-25 14:50:00",
-          "end": "2026-10-25 15:00:00",
+          "start": "2026-10-25 15:50:00",
+          "end": "2026-10-25 16:00:00",
           "duration_label": 10
-        },
-        {
-          "name": "night_quest",
-          "label": {
-            "tw": "night_quest",
-            "cn": "night_quest",
-            "en": "night_quest"
-          },
-          "start": "2026-10-24 15:00:00",
-          "end": "2026-10-25 15:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "quest_tgc_office_don",
-          "label": {
-            "tw": "quest_tgc_office_don",
-            "cn": "quest_tgc_office_don",
-            "en": "quest_tgc_office_don"
-          },
-          "start": "2026-10-24 15:00:00",
-          "end": "2026-10-25 15:00:00",
-          "duration_label": 1440
         },
         {
           "name": "radiant_darkstone_despawn",
@@ -126,8 +69,8 @@
             "cn": "radiant_darkstone_despawn",
             "en": "radiant_darkstone_despawn"
           },
-          "start": "2026-10-25 14:59:00",
-          "end": "2026-10-25 15:00:00",
+          "start": "2026-10-25 15:59:00",
+          "end": "2026-10-25 16:00:00",
           "duration_label": 1
         },
         {
@@ -137,53 +80,42 @@
             "cn": "radiant_darkstone_despawn_warning",
             "en": "radiant_darkstone_despawn_warning"
           },
-          "start": "2026-10-25 14:58:00",
-          "end": "2026-10-25 14:59:00",
+          "start": "2026-10-25 15:58:00",
+          "end": "2026-10-25 15:59:00",
           "duration_label": 1
         },
         {
-          "name": "rain_darkstone_1",
+          "name": "social_nature2022turtle",
           "label": {
-            "tw": "rain_darkstone_1",
-            "cn": "rain_darkstone_1",
-            "en": "rain_darkstone_1"
+            "tw": "social_nature2022turtle",
+            "cn": "social_nature2022turtle",
+            "en": "social_nature2022turtle"
           },
-          "start": "2026-10-24 15:00:00",
-          "end": "2026-10-25 15:00:00",
-          "duration_label": 1440
+          "start": "2026-10-25 15:50:00",
+          "end": "2026-10-25 16:00:00",
+          "duration_label": 10
         },
         {
-          "name": "season_a_night_candles1",
+          "name": "social_sunsetskater",
           "label": {
-            "tw": "season_a_night_candles1",
-            "cn": "season_a_night_candles1",
-            "en": "season_a_night_candles1"
+            "tw": "social_sunsetskater",
+            "cn": "social_sunsetskater",
+            "en": "social_sunsetskater"
           },
-          "start": "2026-10-24 15:00:00",
-          "end": "2026-10-25 15:00:00",
-          "duration_label": 1440
+          "start": "2026-10-25 16:00:00",
+          "end": "2026-10-25 16:15:00",
+          "duration_label": 15
         },
         {
-          "name": "skyfest_ballgame",
+          "name": "social_turtle_despawn",
           "label": {
-            "tw": "skyfest_ballgame",
-            "cn": "skyfest_ballgame",
-            "en": "skyfest_ballgame"
+            "tw": "social_turtle_despawn",
+            "cn": "social_turtle_despawn",
+            "en": "social_turtle_despawn"
           },
-          "start": "2026-10-24 15:00:00",
-          "end": "2026-10-25 15:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "stormy_dusk",
-          "label": {
-            "tw": "stormy_dusk",
-            "cn": "stormy_dusk",
-            "en": "stormy_dusk"
-          },
-          "start": "2026-10-24 15:00:00",
-          "end": "2026-10-25 15:00:00",
-          "duration_label": 1440
+          "start": "2026-10-25 16:00:00",
+          "end": "2026-10-25 16:10:00",
+          "duration_label": 10
         },
         {
           "name": "sunset_colosseum_firework_interval",
@@ -192,9 +124,33 @@
             "cn": "sunset_colosseum_firework_interval",
             "en": "sunset_colosseum_firework_interval"
           },
-          "start": "2026-10-25 15:00:00",
-          "end": "2026-10-25 15:03:00",
+          "start": "2026-10-25 16:00:00",
+          "end": "2026-10-25 16:03:00",
           "duration_label": 3
+        }
+      ],
+      "removed": [
+        {
+          "name": "global_nature_geyser",
+          "label": {
+            "tw": "global_nature_geyser",
+            "cn": "global_nature_geyser",
+            "en": "global_nature_geyser"
+          },
+          "start": "2026-10-25 15:00:00",
+          "end": "2026-10-25 15:15:00",
+          "duration_label": 15
+        },
+        {
+          "name": "mainstreet_cycle_overcast_day_B",
+          "label": {
+            "tw": "mainstreet_cycle_overcast_day_B",
+            "cn": "mainstreet_cycle_overcast_day_B",
+            "en": "mainstreet_cycle_overcast_day_B"
+          },
+          "start": "2026-10-25 15:10:00",
+          "end": "2026-10-25 15:15:00",
+          "duration_label": 5
         }
       ]
     },
