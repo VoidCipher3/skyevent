@@ -3,20 +3,121 @@
   "diff": {
     "event_schedule": {
       "has_recorded_diff": true,
-      "recorded_at_fmt": "2026-10-26 15:02:54",
-      "previous_fetched_at_fmt": "2026-10-26 14:30:58",
+      "recorded_at_fmt": "2026-10-26 16:01:01",
+      "previous_fetched_at_fmt": "2026-10-26 15:02:54",
       "unchanged_since_last_change": false,
       "added": [
         {
-          "name": "mainstreet_cycle_overcast_day_B",
+          "name": "aurora_minigame_1",
           "label": {
-            "tw": "mainstreet_cycle_overcast_day_B",
-            "cn": "mainstreet_cycle_overcast_day_B",
-            "en": "mainstreet_cycle_overcast_day_B"
+            "tw": "aurora_minigame_1",
+            "cn": "aurora_minigame_1",
+            "en": "aurora_minigame_1"
           },
-          "start": "2026-10-26 15:10:00",
+          "start": "2026-10-26 16:00:00",
+          "end": "2026-10-26 16:12:00",
+          "duration_label": 12
+        },
+        {
+          "name": "aurora_minigame_2",
+          "label": {
+            "tw": "aurora_minigame_2",
+            "cn": "aurora_minigame_2",
+            "en": "aurora_minigame_2"
+          },
+          "start": "2026-10-26 16:15:00",
+          "end": "2026-10-26 16:27:00",
+          "duration_label": 12
+        },
+        {
+          "name": "aurora_minigame_3",
+          "label": {
+            "tw": "aurora_minigame_3",
+            "cn": "aurora_minigame_3",
+            "en": "aurora_minigame_3"
+          },
+          "start": "2026-10-26 16:30:00",
+          "end": "2026-10-26 16:42:00",
+          "duration_label": 12
+        },
+        {
+          "name": "day_fairyring",
+          "label": {
+            "tw": "day_fairyring",
+            "cn": "day_fairyring",
+            "en": "day_fairyring"
+          },
+          "start": "2026-10-26 15:50:00",
+          "end": "2026-10-26 16:00:00",
+          "duration_label": 10
+        },
+        {
+          "name": "mainstreet_cycle_night_B",
+          "label": {
+            "tw": "mainstreet_cycle_night_B",
+            "cn": "mainstreet_cycle_night_B",
+            "en": "mainstreet_cycle_night_B"
+          },
+          "start": "2026-10-26 15:50:00",
+          "end": "2026-10-26 16:00:00",
+          "duration_label": 10
+        },
+        {
+          "name": "radiant_darkstone_despawn",
+          "label": {
+            "tw": "radiant_darkstone_despawn",
+            "cn": "radiant_darkstone_despawn",
+            "en": "radiant_darkstone_despawn"
+          },
+          "start": "2026-10-26 15:59:00",
+          "end": "2026-10-26 16:00:00",
+          "duration_label": 1
+        },
+        {
+          "name": "radiant_darkstone_despawn_warning",
+          "label": {
+            "tw": "radiant_darkstone_despawn_warning",
+            "cn": "radiant_darkstone_despawn_warning",
+            "en": "radiant_darkstone_despawn_warning"
+          },
+          "start": "2026-10-26 15:58:00",
+          "end": "2026-10-26 15:59:00",
+          "duration_label": 1
+        },
+        {
+          "name": "social_nature2022turtle",
+          "label": {
+            "tw": "social_nature2022turtle",
+            "cn": "social_nature2022turtle",
+            "en": "social_nature2022turtle"
+          },
+          "start": "2026-10-26 15:50:00",
+          "end": "2026-10-26 16:00:00",
+          "duration_label": 10
+        },
+        {
+          "name": "social_turtle_despawn",
+          "label": {
+            "tw": "social_turtle_despawn",
+            "cn": "social_turtle_despawn",
+            "en": "social_turtle_despawn"
+          },
+          "start": "2026-10-26 16:00:00",
+          "end": "2026-10-26 16:10:00",
+          "duration_label": 10
+        }
+      ],
+      "removed": [
+        {
+          "name": "global_nature_geyser",
+          "label": {
+            "tw": "global_nature_geyser",
+            "cn": "global_nature_geyser",
+            "en": "global_nature_geyser"
+          },
+          "start": "2026-10-26 15:00:00",
           "end": "2026-10-26 15:15:00",
-          "duration_label": 5
+          "duration_label": 15
         },
         {
           "name": "social_rain_grandmatable",
@@ -28,228 +129,6 @@
           "start": "2026-10-26 15:30:00",
           "end": "2026-10-26 15:45:00",
           "duration_label": 15
-        }
-      ],
-      "removed": [
-        {
-          "name": "aurora_minigame_2",
-          "label": {
-            "tw": "aurora_minigame_2",
-            "cn": "aurora_minigame_2",
-            "en": "aurora_minigame_2"
-          },
-          "start": "2026-10-26 14:15:00",
-          "end": "2026-10-26 14:27:00",
-          "duration_label": 12
-        },
-        {
-          "name": "aurora_minigame_3",
-          "label": {
-            "tw": "aurora_minigame_3",
-            "cn": "aurora_minigame_3",
-            "en": "aurora_minigame_3"
-          },
-          "start": "2026-10-26 14:30:00",
-          "end": "2026-10-26 14:42:00",
-          "duration_label": 12
-        },
-        {
-          "name": "aurora_minigame_4",
-          "label": {
-            "tw": "aurora_minigame_4",
-            "cn": "aurora_minigame_4",
-            "en": "aurora_minigame_4"
-          },
-          "start": "2026-10-26 14:45:00",
-          "end": "2026-10-26 14:57:00",
-          "duration_label": 12
-        },
-        {
-          "name": "day_fairyring",
-          "label": {
-            "tw": "day_fairyring",
-            "cn": "day_fairyring",
-            "en": "day_fairyring"
-          },
-          "start": "2026-10-26 14:50:00",
-          "end": "2026-10-26 15:00:00",
-          "duration_label": 10
-        },
-        {
-          "name": "dusk_darkstone_1",
-          "label": {
-            "tw": "dusk_darkstone_1",
-            "cn": "dusk_darkstone_1",
-            "en": "dusk_darkstone_1"
-          },
-          "start": "2026-10-25 15:00:00",
-          "end": "2026-10-26 15:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "event_sunset_tcandle_master",
-          "label": {
-            "tw": "event_sunset_tcandle_master",
-            "cn": "event_sunset_tcandle_master",
-            "en": "event_sunset_tcandle_master"
-          },
-          "start": "2026-10-25 15:00:00",
-          "end": "2026-10-26 15:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "event_sunset_tcandles1",
-          "label": {
-            "tw": "event_sunset_tcandles1",
-            "cn": "event_sunset_tcandles1",
-            "en": "event_sunset_tcandles1"
-          },
-          "start": "2026-10-25 15:00:00",
-          "end": "2026-10-26 15:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "halloween_day_zombie",
-          "label": {
-            "tw": "halloween_day_zombie",
-            "cn": "halloween_day_zombie",
-            "en": "halloween_day_zombie"
-          },
-          "start": "2026-10-25 15:00:00",
-          "end": "2026-10-26 15:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "mainstreet_cycle_night_B",
-          "label": {
-            "tw": "mainstreet_cycle_night_B",
-            "cn": "mainstreet_cycle_night_B",
-            "en": "mainstreet_cycle_night_B"
-          },
-          "start": "2026-10-26 14:50:00",
-          "end": "2026-10-26 15:00:00",
-          "duration_label": 10
-        },
-        {
-          "name": "mainstreet_cycle_sunset_B",
-          "label": {
-            "tw": "mainstreet_cycle_sunset_B",
-            "cn": "mainstreet_cycle_sunset_B",
-            "en": "mainstreet_cycle_sunset_B"
-          },
-          "start": "2026-10-26 14:40:00",
-          "end": "2026-10-26 14:50:00",
-          "duration_label": 10
-        },
-        {
-          "name": "prairie_quest",
-          "label": {
-            "tw": "prairie_quest",
-            "cn": "prairie_quest",
-            "en": "prairie_quest"
-          },
-          "start": "2026-10-25 15:00:00",
-          "end": "2026-10-26 15:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "quest_tgc_office_jenova",
-          "label": {
-            "tw": "quest_tgc_office_jenova",
-            "cn": "quest_tgc_office_jenova",
-            "en": "quest_tgc_office_jenova"
-          },
-          "start": "2026-10-25 15:00:00",
-          "end": "2026-10-26 15:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "radiant_darkstone_despawn",
-          "label": {
-            "tw": "radiant_darkstone_despawn",
-            "cn": "radiant_darkstone_despawn",
-            "en": "radiant_darkstone_despawn"
-          },
-          "start": "2026-10-26 14:59:00",
-          "end": "2026-10-26 15:00:00",
-          "duration_label": 1
-        },
-        {
-          "name": "radiant_darkstone_despawn_warning",
-          "label": {
-            "tw": "radiant_darkstone_despawn_warning",
-            "cn": "radiant_darkstone_despawn_warning",
-            "en": "radiant_darkstone_despawn_warning"
-          },
-          "start": "2026-10-26 14:58:00",
-          "end": "2026-10-26 14:59:00",
-          "duration_label": 1
-        },
-        {
-          "name": "season_a_prairie_candles2",
-          "label": {
-            "tw": "season_a_prairie_candles2",
-            "cn": "season_a_prairie_candles2",
-            "en": "season_a_prairie_candles2"
-          },
-          "start": "2026-10-25 15:00:00",
-          "end": "2026-10-26 15:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "skyfest_galleryrainforest",
-          "label": {
-            "tw": "skyfest_galleryrainforest",
-            "cn": "skyfest_galleryrainforest",
-            "en": "skyfest_galleryrainforest"
-          },
-          "start": "2026-10-25 15:00:00",
-          "end": "2026-10-26 15:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "social_feed_prompt_feeling_crabby",
-          "label": {
-            "tw": "social_feed_prompt_feeling_crabby",
-            "cn": "social_feed_prompt_feeling_crabby",
-            "en": "social_feed_prompt_feeling_crabby"
-          },
-          "start": "2026-10-19 15:00:00",
-          "end": "2026-10-26 15:00:00",
-          "duration_label": 10080
-        },
-        {
-          "name": "stormy_intensity_3",
-          "label": {
-            "tw": "stormy_intensity_3",
-            "cn": "stormy_intensity_3",
-            "en": "stormy_intensity_3"
-          },
-          "start": "2026-10-26 10:40:00",
-          "end": "2026-10-26 14:40:00",
-          "duration_label": 240
-        },
-        {
-          "name": "stormy_night",
-          "label": {
-            "tw": "stormy_night",
-            "cn": "stormy_night",
-            "en": "stormy_night"
-          },
-          "start": "2026-10-25 15:00:00",
-          "end": "2026-10-26 15:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "visiting_vendor_scare",
-          "label": {
-            "tw": "visiting_vendor_scare",
-            "cn": "visiting_vendor_scare",
-            "en": "visiting_vendor_scare"
-          },
-          "start": "2026-10-22 15:00:00",
-          "end": "2026-10-26 15:00:00",
-          "duration_label": 5760
         }
       ]
     },
