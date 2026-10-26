@@ -15028,7 +15028,6 @@
       "global_merchandise_sleep",
       "global_musicshop_sale",
       "global_nature_geyser",
-      "global_newyear_firework_interval",
       "global_office_open",
       "global_office_shop",
       "global_pc_launch",
@@ -15054,6 +15053,7 @@
       "mainstreet_cycle_day_B",
       "mainstreet_cycle_morning_B",
       "mainstreet_cycle_overcast_day_B",
+      "mainstreet_cycle_sunset_B",
       "musicshop_weekly_rotation_04",
       "nature_geyser_on",
       "personality_quiz_evergreen",
@@ -15448,7 +15448,6 @@
       "spiritshopitem_ap06unlock_fetch_rain",
       "spiritshopitem_ap06unlock_fetch_sunset",
       "stormy_prairie",
-      "sunset_colosseum_firework_interval",
       "sunset_village_fishing",
       "sunset_village_spell_shop",
       "te_ep_1",
@@ -15498,7 +15497,7 @@
       "wildlifepark_cycle_sunset",
       "wing_buff_conversion_period"
     ],
-    "total": 794,
-    "active_count": 587
+    "total": 803,
+    "active_count": 588
   }
 }
