@@ -15538,7 +15538,6 @@
       "aurora_exhaleinhale_wrap",
       "aurora_eyesofachild",
       "aurora_eyesofachild_countdown",
-      "aurora_minigame_2",
       "aurora_minigame_3",
       "aurora_minigame_4",
       "aurora_minigame_vote_rotation",
@@ -15669,6 +15668,7 @@
       "mainstreet_cycle_day_B",
       "mainstreet_cycle_morning_B",
       "mainstreet_cycle_night_B",
+      "mainstreet_cycle_overcast_day_B",
       "mainstreet_cycle_sunset_B",
       "musicshop_weekly_rotation_04",
       "nature_geyser_on",
@@ -15896,7 +15896,6 @@
       "radiant_darkstone_enable",
       "radiant_darkstone_spawn",
       "rain_darkstone_1",
-      "rain_rainbow",
       "season_06_ever_started",
       "season_21_deersummon",
       "season_27_ch4_shop",
@@ -15907,8 +15906,6 @@
       "season_a_sunset_candles2",
       "skyfest_fireworks_show",
       "skyfest_fireworks_show_act1",
-      "skyfest_fireworks_show_act2",
-      "skyfest_fireworks_show_act3",
       "skyfest_fireworks_show_act4",
       "skyfest_fireworks_show_medpad",
       "skyfest_parade",
@@ -16117,7 +16114,7 @@
       "wildlifepark_cycle_sunset",
       "wing_buff_conversion_period"
     ],
-    "total": 801,
-    "active_count": 586
+    "total": 791,
+    "active_count": 595
   }
 }
