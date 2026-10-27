@@ -3,55 +3,31 @@
   "diff": {
     "event_schedule": {
       "has_recorded_diff": true,
-      "recorded_at_fmt": "2026-10-27 20:18:10",
-      "previous_fetched_at_fmt": "2026-10-27 20:08:19",
+      "recorded_at_fmt": "2026-10-27 20:30:54",
+      "previous_fetched_at_fmt": "2026-10-27 20:18:10",
       "unchanged_since_last_change": false,
       "added": [
         {
-          "name": "aurora_minigame_4",
+          "name": "global_nature_geyser",
           "label": {
-            "tw": "aurora_minigame_4",
-            "cn": "aurora_minigame_4",
-            "en": "aurora_minigame_4"
+            "tw": "global_nature_geyser",
+            "cn": "global_nature_geyser",
+            "en": "global_nature_geyser"
           },
-          "start": "2026-10-27 20:45:00",
-          "end": "2026-10-27 20:57:00",
-          "duration_label": 12
+          "start": "2026-10-27 21:00:00",
+          "end": "2026-10-27 21:15:00",
+          "duration_label": 15
         },
         {
-          "name": "day_fairyring",
+          "name": "global_newyear_firework_interval",
           "label": {
-            "tw": "day_fairyring",
-            "cn": "day_fairyring",
-            "en": "day_fairyring"
+            "tw": "global_newyear_firework_interval",
+            "cn": "global_newyear_firework_interval",
+            "en": "global_newyear_firework_interval"
           },
-          "start": "2026-10-27 20:50:00",
-          "end": "2026-10-27 21:00:00",
-          "duration_label": 10
-        },
-        {
-          "name": "mainstreet_cycle_night_B",
-          "label": {
-            "tw": "mainstreet_cycle_night_B",
-            "cn": "mainstreet_cycle_night_B",
-            "en": "mainstreet_cycle_night_B"
-          },
-          "start": "2026-10-27 20:50:00",
-          "end": "2026-10-27 21:00:00",
-          "duration_label": 10
-        }
-      ],
-      "removed": [
-        {
-          "name": "aurora_minigame_1",
-          "label": {
-            "tw": "aurora_minigame_1",
-            "cn": "aurora_minigame_1",
-            "en": "aurora_minigame_1"
-          },
-          "start": "2026-10-27 20:00:00",
-          "end": "2026-10-27 20:12:00",
-          "duration_label": 12
+          "start": "2026-10-27 21:00:00",
+          "end": "2026-10-27 21:05:00",
+          "duration_label": 5
         },
         {
           "name": "mainstreet_cycle_morning_B",
@@ -60,33 +36,45 @@
             "cn": "mainstreet_cycle_morning_B",
             "en": "mainstreet_cycle_morning_B"
           },
-          "start": "2026-10-27 20:00:00",
-          "end": "2026-10-27 20:10:00",
+          "start": "2026-10-27 21:00:00",
+          "end": "2026-10-27 21:10:00",
           "duration_label": 10
         },
         {
-          "name": "mainstreet_cycle_overcast_day_B",
+          "name": "radiant_darkstone_despawn",
           "label": {
-            "tw": "mainstreet_cycle_overcast_day_B",
-            "cn": "mainstreet_cycle_overcast_day_B",
-            "en": "mainstreet_cycle_overcast_day_B"
+            "tw": "radiant_darkstone_despawn",
+            "cn": "radiant_darkstone_despawn",
+            "en": "radiant_darkstone_despawn"
           },
-          "start": "2026-10-27 20:10:00",
-          "end": "2026-10-27 20:15:00",
-          "duration_label": 5
+          "start": "2026-10-27 20:59:00",
+          "end": "2026-10-27 21:00:00",
+          "duration_label": 1
         },
         {
-          "name": "social_turtle_despawn",
+          "name": "radiant_darkstone_despawn_warning",
           "label": {
-            "tw": "social_turtle_despawn",
-            "cn": "social_turtle_despawn",
-            "en": "social_turtle_despawn"
+            "tw": "radiant_darkstone_despawn_warning",
+            "cn": "radiant_darkstone_despawn_warning",
+            "en": "radiant_darkstone_despawn_warning"
           },
-          "start": "2026-10-27 20:00:00",
-          "end": "2026-10-27 20:10:00",
-          "duration_label": 10
+          "start": "2026-10-27 20:58:00",
+          "end": "2026-10-27 20:59:00",
+          "duration_label": 1
+        },
+        {
+          "name": "sunset_colosseum_firework_interval",
+          "label": {
+            "tw": "sunset_colosseum_firework_interval",
+            "cn": "sunset_colosseum_firework_interval",
+            "en": "sunset_colosseum_firework_interval"
+          },
+          "start": "2026-10-27 21:00:00",
+          "end": "2026-10-27 21:03:00",
+          "duration_label": 3
         }
-      ]
+      ],
+      "removed": []
     },
     "video_defs": {
       "has_recorded_diff": true,
