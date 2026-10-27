@@ -3,78 +3,68 @@
   "diff": {
     "event_schedule": {
       "has_recorded_diff": true,
-      "recorded_at_fmt": "2026-10-27 20:30:54",
-      "previous_fetched_at_fmt": "2026-10-27 20:18:10",
+      "recorded_at_fmt": "2026-10-27 20:36:33",
+      "previous_fetched_at_fmt": "2026-10-27 20:30:54",
       "unchanged_since_last_change": false,
       "added": [
         {
-          "name": "global_nature_geyser",
+          "name": "mainstreet_cycle_overcast_day_B",
           "label": {
-            "tw": "global_nature_geyser",
-            "cn": "global_nature_geyser",
-            "en": "global_nature_geyser"
+            "tw": "mainstreet_cycle_overcast_day_B",
+            "cn": "mainstreet_cycle_overcast_day_B",
+            "en": "mainstreet_cycle_overcast_day_B"
           },
-          "start": "2026-10-27 21:00:00",
+          "start": "2026-10-27 21:10:00",
           "end": "2026-10-27 21:15:00",
-          "duration_label": 15
-        },
-        {
-          "name": "global_newyear_firework_interval",
-          "label": {
-            "tw": "global_newyear_firework_interval",
-            "cn": "global_newyear_firework_interval",
-            "en": "global_newyear_firework_interval"
-          },
-          "start": "2026-10-27 21:00:00",
-          "end": "2026-10-27 21:05:00",
           "duration_label": 5
-        },
-        {
-          "name": "mainstreet_cycle_morning_B",
-          "label": {
-            "tw": "mainstreet_cycle_morning_B",
-            "cn": "mainstreet_cycle_morning_B",
-            "en": "mainstreet_cycle_morning_B"
-          },
-          "start": "2026-10-27 21:00:00",
-          "end": "2026-10-27 21:10:00",
-          "duration_label": 10
-        },
-        {
-          "name": "radiant_darkstone_despawn",
-          "label": {
-            "tw": "radiant_darkstone_despawn",
-            "cn": "radiant_darkstone_despawn",
-            "en": "radiant_darkstone_despawn"
-          },
-          "start": "2026-10-27 20:59:00",
-          "end": "2026-10-27 21:00:00",
-          "duration_label": 1
-        },
-        {
-          "name": "radiant_darkstone_despawn_warning",
-          "label": {
-            "tw": "radiant_darkstone_despawn_warning",
-            "cn": "radiant_darkstone_despawn_warning",
-            "en": "radiant_darkstone_despawn_warning"
-          },
-          "start": "2026-10-27 20:58:00",
-          "end": "2026-10-27 20:59:00",
-          "duration_label": 1
-        },
-        {
-          "name": "sunset_colosseum_firework_interval",
-          "label": {
-            "tw": "sunset_colosseum_firework_interval",
-            "cn": "sunset_colosseum_firework_interval",
-            "en": "sunset_colosseum_firework_interval"
-          },
-          "start": "2026-10-27 21:00:00",
-          "end": "2026-10-27 21:03:00",
-          "duration_label": 3
         }
       ],
-      "removed": []
+      "removed": [
+        {
+          "name": "aurora_minigame_2",
+          "label": {
+            "tw": "aurora_minigame_2",
+            "cn": "aurora_minigame_2",
+            "en": "aurora_minigame_2"
+          },
+          "start": "2026-10-27 20:15:00",
+          "end": "2026-10-27 20:27:00",
+          "duration_label": 12
+        },
+        {
+          "name": "rain_rainbow",
+          "label": {
+            "tw": "rain_rainbow",
+            "cn": "rain_rainbow",
+            "en": "rain_rainbow"
+          },
+          "start": "2026-10-27 20:00:00",
+          "end": "2026-10-27 20:30:00",
+          "duration_label": 30
+        },
+        {
+          "name": "skyfest_fireworks_show_act2",
+          "label": {
+            "tw": "skyfest_fireworks_show_act2",
+            "cn": "skyfest_fireworks_show_act2",
+            "en": "skyfest_fireworks_show_act2"
+          },
+          "start": "2026-10-27 20:25:00",
+          "end": "2026-10-27 20:28:00",
+          "duration_label": 3
+        },
+        {
+          "name": "skyfest_fireworks_show_act3",
+          "label": {
+            "tw": "skyfest_fireworks_show_act3",
+            "cn": "skyfest_fireworks_show_act3",
+            "en": "skyfest_fireworks_show_act3"
+          },
+          "start": "2026-10-27 20:28:00",
+          "end": "2026-10-27 20:29:00",
+          "duration_label": 1
+        }
+      ]
     },
     "video_defs": {
       "has_recorded_diff": true,
