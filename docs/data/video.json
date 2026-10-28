@@ -2,7 +2,7 @@
   "ok": true,
   "server": "global",
   "meta": {
-    "fetched_at_fmt": "2026-10-29 04:00:55",
+    "fetched_at_fmt": "2026-10-29 04:30:55",
     "auto_refresh": true,
     "refresh_interval_hours": 0.5
   },
@@ -772,10 +772,10 @@
         "name": "mischief_mayhem",
         "duration": 1200,
         "duration_fmt": "20:00",
-        "playback_url": "https://video.cdn.thatgamecompany.com/encoded/mischief_mayhem/d6e00fb5-f523-41fb-818d-6e7802f57b6c/DOMI_MiMayhem-placeholder-V2_VLS_20m_EN_2608/DOMI_MiMayhem-placeholder-V2_VLS_20m_EN_2608_tgc.m3u8",
-        "subtitle_url": "",
+        "playback_url": "https://video.cdn.thatgamecompany.com/encoded/mischief_mayhem/0c767f34-ffd2-4eb1-9161-e49b65eed5ca/DOMI_MiMayhem_VLS_20m_EN_2610/DOMI_MiMayhem_VLS_20m_EN_2610_tgc.m3u8",
+        "subtitle_url": "https://video.cdn.thatgamecompany.com/vtt/mischief_mayhem/4647e462-ebd5-4522-b77b-43d8084362d6/DOMI_MiMayhem-placeholder-V3_VLS_20m_EN_2609.mp4.vtt",
         "has_playback": true,
-        "has_subtitle": false,
+        "has_subtitle": true,
         "has_translations": false,
         "cellular_data_warning": false
       },
