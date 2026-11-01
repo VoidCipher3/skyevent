@@ -647,8 +647,8 @@
           "cn": "halloween_bossfight_audience_timer",
           "en": "halloween_bossfight_audience_timer"
         },
-        "start": "2026-11-01 18:00:00",
-        "end": "2026-11-01 18:00:00",
+        "start": "2026-11-01 18:10:00",
+        "end": "2026-11-01 18:10:00",
         "duration_label": 0
       },
       "quest_ap30_fetch_01": {
@@ -967,8 +967,8 @@
           "cn": "skyfest_fireworks_show",
           "en": "skyfest_fireworks_show"
         },
-        "start": "2026-10-31 18:00:00",
-        "end": "2026-11-01 18:00:00",
+        "start": "2026-10-31 19:00:00",
+        "end": "2026-11-01 19:00:00",
         "duration_label": 1440
       },
       "quest_ap29_fetch_08": {
@@ -1451,6 +1451,16 @@
         "end": "2026-11-01 18:02:00",
         "duration_label": 2
       },
+      "wildlifepark_cycle_day": {
+        "label": {
+          "tw": "wildlifepark_cycle_day",
+          "cn": "wildlifepark_cycle_day",
+          "en": "wildlifepark_cycle_day"
+        },
+        "start": "2026-11-01 18:03:00",
+        "end": "2026-11-01 18:06:00",
+        "duration_label": 3
+      },
       "spiritshopitem_ap06unlock_ap18_fetch_03": {
         "label": {
           "tw": "spiritshopitem_ap06unlock_ap18_fetch_03",
@@ -1681,6 +1691,16 @@
         "end": null,
         "duration_label": 99999999
       },
+      "mainstreet_cycle_overcast_day_B": {
+        "label": {
+          "tw": "mainstreet_cycle_overcast_day_B",
+          "cn": "mainstreet_cycle_overcast_day_B",
+          "en": "mainstreet_cycle_overcast_day_B"
+        },
+        "start": "2026-11-01 18:10:00",
+        "end": "2026-11-01 18:15:00",
+        "duration_label": 5
+      },
       "aurora_eyesofachild_countdown": {
         "label": {
           "tw": "aurora_eyesofachild_countdown",
@@ -1710,6 +1730,16 @@
         "start": "2026-11-01 15:00:00",
         "end": "2026-11-02 15:00:00",
         "duration_label": 1440
+      },
+      "skyfest_fireworks_show_act2": {
+        "label": {
+          "tw": "skyfest_fireworks_show_act2",
+          "cn": "skyfest_fireworks_show_act2",
+          "en": "skyfest_fireworks_show_act2"
+        },
+        "start": "2026-11-01 18:25:00",
+        "end": "2026-11-01 18:28:00",
+        "duration_label": 3
       },
       "quest_ap28_fetch_02": {
         "label": {
@@ -2691,6 +2721,16 @@
         "end": null,
         "duration_label": 99999999
       },
+      "skyfest_fireworks_show_act3": {
+        "label": {
+          "tw": "skyfest_fireworks_show_act3",
+          "cn": "skyfest_fireworks_show_act3",
+          "en": "skyfest_fireworks_show_act3"
+        },
+        "start": "2026-11-01 18:28:00",
+        "end": "2026-11-01 18:29:00",
+        "duration_label": 1
+      },
       "ap29_fetch_11_whisper": {
         "label": {
           "tw": "ap29_fetch_11_whisper",
@@ -3321,6 +3361,16 @@
         "end": "2026-11-10 15:00:00",
         "duration_label": 20160
       },
+      "wildlifepark_cycle_overcast_night": {
+        "label": {
+          "tw": "wildlifepark_cycle_overcast_night",
+          "cn": "wildlifepark_cycle_overcast_night",
+          "en": "wildlifepark_cycle_overcast_night"
+        },
+        "start": "2026-11-01 18:08:00",
+        "end": "2026-11-01 18:09:00",
+        "duration_label": 1
+      },
       "collectible_love": {
         "label": {
           "tw": "collectible_love",
@@ -3600,6 +3650,16 @@
         "start": "2026-11-01 15:00:00",
         "end": "2026-11-02 15:00:00",
         "duration_label": 1440
+      },
+      "wildlifepark_cycle_overcast_day": {
+        "label": {
+          "tw": "wildlifepark_cycle_overcast_day",
+          "cn": "wildlifepark_cycle_overcast_day",
+          "en": "wildlifepark_cycle_overcast_day"
+        },
+        "start": "2026-11-01 18:02:00",
+        "end": "2026-11-01 18:03:00",
+        "duration_label": 1
       },
       "quest_ap26_fetch_04": {
         "label": {
@@ -4491,6 +4551,16 @@
         "end": null,
         "duration_label": 99999999
       },
+      "social_rain_grandmatable": {
+        "label": {
+          "tw": "social_rain_grandmatable",
+          "cn": "social_rain_grandmatable",
+          "en": "social_rain_grandmatable"
+        },
+        "start": "2026-11-01 18:30:00",
+        "end": "2026-11-01 18:45:00",
+        "duration_label": 15
+      },
       "basecamp_rain": {
         "label": {
           "tw": "basecamp_rain",
@@ -4731,6 +4801,16 @@
         "end": null,
         "duration_label": 99999999
       },
+      "skyfest_fireworks_show_act4": {
+        "label": {
+          "tw": "skyfest_fireworks_show_act4",
+          "cn": "skyfest_fireworks_show_act4",
+          "en": "skyfest_fireworks_show_act4"
+        },
+        "start": "2026-11-01 18:29:00",
+        "end": "2026-11-01 18:37:00",
+        "duration_label": 8
+      },
       "quest_ap22_fetch_05": {
         "label": {
           "tw": "quest_ap22_fetch_05",
@@ -4740,6 +4820,16 @@
         "start": "2024-06-10 15:00:00",
         "end": null,
         "duration_label": 99999999
+      },
+      "wildlifepark_cycle_sunset": {
+        "label": {
+          "tw": "wildlifepark_cycle_sunset",
+          "cn": "wildlifepark_cycle_sunset",
+          "en": "wildlifepark_cycle_sunset"
+        },
+        "start": "2026-11-01 18:06:00",
+        "end": "2026-11-01 18:08:00",
+        "duration_label": 2
       },
       "spiritshopitem_ap06unlock_ap15_fetch_04": {
         "label": {
@@ -4807,8 +4897,8 @@
           "cn": "hub_clocktower",
           "en": "hub_clocktower"
         },
-        "start": "2026-11-01 18:00:00",
-        "end": "2026-11-01 18:00:00",
+        "start": "2026-11-01 18:15:00",
+        "end": "2026-11-01 18:15:00",
         "duration_label": 0
       },
       "spiritshopitem_ap06unlock_fetch_night": {
@@ -5081,6 +5171,16 @@
         "end": null,
         "duration_label": 99999999
       },
+      "wildlifepark_cycle_night": {
+        "label": {
+          "tw": "wildlifepark_cycle_night",
+          "cn": "wildlifepark_cycle_night",
+          "en": "wildlifepark_cycle_night"
+        },
+        "start": "2026-11-01 18:09:00",
+        "end": "2026-11-01 18:12:00",
+        "duration_label": 3
+      },
       "social_prairie_cozycave": {
         "label": {
           "tw": "social_prairie_cozycave",
@@ -5130,6 +5230,16 @@
         "start": "2025-10-20 15:00:00",
         "end": null,
         "duration_label": 99999999
+      },
+      "mainstreet_cycle_day_B": {
+        "label": {
+          "tw": "mainstreet_cycle_day_B",
+          "cn": "mainstreet_cycle_day_B",
+          "en": "mainstreet_cycle_day_B"
+        },
+        "start": "2026-11-01 18:15:00",
+        "end": "2026-11-01 18:40:00",
+        "duration_label": 25
       },
       "visiting_vendor_questap24": {
         "label": {
@@ -5902,199 +6012,87 @@
         "duration_label": 99999999
       }
     },
-    "fetched_at_fmt": "2026-11-01 17:31:01",
+    "fetched_at_fmt": "2026-11-01 18:00:55",
     "last_diff": {
-      "recorded_at_fmt": "2026-11-01 17:31:01",
-      "previous_fetched_at_fmt": "2026-11-01 17:00:55",
+      "recorded_at_fmt": "2026-11-01 18:00:55",
+      "previous_fetched_at_fmt": "2026-11-01 17:31:01",
       "added": [
         {
-          "name": "ap18_ritual_02",
+          "name": "mainstreet_cycle_day_B",
           "label": {
-            "tw": "ap18_ritual_02",
-            "cn": "ap18_ritual_02",
-            "en": "ap18_ritual_02"
+            "tw": "mainstreet_cycle_day_B",
+            "cn": "mainstreet_cycle_day_B",
+            "en": "mainstreet_cycle_day_B"
           },
-          "start": "2026-11-01 18:00:00",
-          "end": "2026-11-01 18:01:00",
-          "duration_label": 1
+          "start": "2026-11-01 18:15:00",
+          "end": "2026-11-01 18:40:00",
+          "duration_label": 25
         },
         {
-          "name": "ap18_ritual_03",
+          "name": "mainstreet_cycle_overcast_day_B",
           "label": {
-            "tw": "ap18_ritual_03",
-            "cn": "ap18_ritual_03",
-            "en": "ap18_ritual_03"
+            "tw": "mainstreet_cycle_overcast_day_B",
+            "cn": "mainstreet_cycle_overcast_day_B",
+            "en": "mainstreet_cycle_overcast_day_B"
           },
-          "start": "2026-11-01 18:00:00",
-          "end": "2026-11-01 18:01:00",
-          "duration_label": 1
-        },
-        {
-          "name": "ap18_ritual_04",
-          "label": {
-            "tw": "ap18_ritual_04",
-            "cn": "ap18_ritual_04",
-            "en": "ap18_ritual_04"
-          },
-          "start": "2026-11-01 18:00:00",
-          "end": "2026-11-01 18:01:00",
-          "duration_label": 1
-        },
-        {
-          "name": "ap18_ritual_05",
-          "label": {
-            "tw": "ap18_ritual_05",
-            "cn": "ap18_ritual_05",
-            "en": "ap18_ritual_05"
-          },
-          "start": "2026-11-01 18:00:00",
-          "end": "2026-11-01 18:01:00",
-          "duration_label": 1
-        },
-        {
-          "name": "elder_sanctuary_patrol",
-          "label": {
-            "tw": "elder_sanctuary_patrol",
-            "cn": "elder_sanctuary_patrol",
-            "en": "elder_sanctuary_patrol"
-          },
-          "start": "2026-11-01 18:00:00",
-          "end": "2026-11-01 18:01:00",
-          "duration_label": 1
-        },
-        {
-          "name": "global_nature_geyser",
-          "label": {
-            "tw": "global_nature_geyser",
-            "cn": "global_nature_geyser",
-            "en": "global_nature_geyser"
-          },
-          "start": "2026-11-01 18:00:00",
+          "start": "2026-11-01 18:10:00",
           "end": "2026-11-01 18:15:00",
-          "duration_label": 15
-        },
-        {
-          "name": "global_newyear_firework_interval",
-          "label": {
-            "tw": "global_newyear_firework_interval",
-            "cn": "global_newyear_firework_interval",
-            "en": "global_newyear_firework_interval"
-          },
-          "start": "2026-11-01 18:00:00",
-          "end": "2026-11-01 18:05:00",
           "duration_label": 5
         },
         {
-          "name": "hub_clocktower",
+          "name": "skyfest_fireworks_show_act2",
           "label": {
-            "tw": "hub_clocktower",
-            "cn": "hub_clocktower",
-            "en": "hub_clocktower"
+            "tw": "skyfest_fireworks_show_act2",
+            "cn": "skyfest_fireworks_show_act2",
+            "en": "skyfest_fireworks_show_act2"
           },
-          "start": "2026-11-01 18:00:00",
-          "end": "2026-11-01 18:00:00",
-          "duration_label": 0
-        },
-        {
-          "name": "mainstreet_cycle_morning_B",
-          "label": {
-            "tw": "mainstreet_cycle_morning_B",
-            "cn": "mainstreet_cycle_morning_B",
-            "en": "mainstreet_cycle_morning_B"
-          },
-          "start": "2026-11-01 18:00:00",
-          "end": "2026-11-01 18:10:00",
-          "duration_label": 10
-        },
-        {
-          "name": "skyfest_parade",
-          "label": {
-            "tw": "skyfest_parade",
-            "cn": "skyfest_parade",
-            "en": "skyfest_parade"
-          },
-          "start": "2026-11-01 18:00:00",
-          "end": "2026-11-01 18:20:00",
-          "duration_label": 20
-        },
-        {
-          "name": "sunset_colosseum_firework_interval",
-          "label": {
-            "tw": "sunset_colosseum_firework_interval",
-            "cn": "sunset_colosseum_firework_interval",
-            "en": "sunset_colosseum_firework_interval"
-          },
-          "start": "2026-11-01 18:00:00",
-          "end": "2026-11-01 18:03:00",
+          "start": "2026-11-01 18:25:00",
+          "end": "2026-11-01 18:28:00",
           "duration_label": 3
         },
         {
-          "name": "wildlifepark_cycle_morning",
+          "name": "skyfest_fireworks_show_act3",
           "label": {
-            "tw": "wildlifepark_cycle_morning",
-            "cn": "wildlifepark_cycle_morning",
-            "en": "wildlifepark_cycle_morning"
+            "tw": "skyfest_fireworks_show_act3",
+            "cn": "skyfest_fireworks_show_act3",
+            "en": "skyfest_fireworks_show_act3"
           },
-          "start": "2026-11-01 18:00:00",
-          "end": "2026-11-01 18:02:00",
-          "duration_label": 2
+          "start": "2026-11-01 18:28:00",
+          "end": "2026-11-01 18:29:00",
+          "duration_label": 1
         },
         {
-          "name": "wildlifepark_cycle_not_night_hint",
+          "name": "skyfest_fireworks_show_act4",
           "label": {
-            "tw": "wildlifepark_cycle_not_night_hint",
-            "cn": "wildlifepark_cycle_not_night_hint",
-            "en": "wildlifepark_cycle_not_night_hint"
+            "tw": "skyfest_fireworks_show_act4",
+            "cn": "skyfest_fireworks_show_act4",
+            "en": "skyfest_fireworks_show_act4"
           },
-          "start": "2026-11-01 18:00:00",
-          "end": "2026-11-01 18:08:00",
+          "start": "2026-11-01 18:29:00",
+          "end": "2026-11-01 18:37:00",
           "duration_label": 8
-        }
-      ],
-      "removed": [
-        {
-          "name": "day_fairyring",
-          "label": {
-            "tw": "day_fairyring",
-            "cn": "day_fairyring",
-            "en": "day_fairyring"
-          },
-          "start": "2026-11-01 16:50:00",
-          "end": "2026-11-01 17:00:00",
-          "duration_label": 10
         },
         {
-          "name": "mainstreet_cycle_night_B",
+          "name": "social_rain_grandmatable",
           "label": {
-            "tw": "mainstreet_cycle_night_B",
-            "cn": "mainstreet_cycle_night_B",
-            "en": "mainstreet_cycle_night_B"
+            "tw": "social_rain_grandmatable",
+            "cn": "social_rain_grandmatable",
+            "en": "social_rain_grandmatable"
           },
-          "start": "2026-11-01 16:50:00",
-          "end": "2026-11-01 17:00:00",
-          "duration_label": 10
+          "start": "2026-11-01 18:30:00",
+          "end": "2026-11-01 18:45:00",
+          "duration_label": 15
         },
         {
-          "name": "radiant_darkstone_despawn",
+          "name": "wildlifepark_cycle_day",
           "label": {
-            "tw": "radiant_darkstone_despawn",
-            "cn": "radiant_darkstone_despawn",
-            "en": "radiant_darkstone_despawn"
+            "tw": "wildlifepark_cycle_day",
+            "cn": "wildlifepark_cycle_day",
+            "en": "wildlifepark_cycle_day"
           },
-          "start": "2026-11-01 16:59:00",
-          "end": "2026-11-01 17:00:00",
-          "duration_label": 1
-        },
-        {
-          "name": "radiant_darkstone_despawn_warning",
-          "label": {
-            "tw": "radiant_darkstone_despawn_warning",
-            "cn": "radiant_darkstone_despawn_warning",
-            "en": "radiant_darkstone_despawn_warning"
-          },
-          "start": "2026-11-01 16:58:00",
-          "end": "2026-11-01 16:59:00",
-          "duration_label": 1
+          "start": "2026-11-01 18:03:00",
+          "end": "2026-11-01 18:06:00",
+          "duration_label": 3
         },
         {
           "name": "wildlifepark_cycle_night",
@@ -6103,11 +6101,45 @@
             "cn": "wildlifepark_cycle_night",
             "en": "wildlifepark_cycle_night"
           },
-          "start": "2026-11-01 16:57:00",
-          "end": "2026-11-01 17:00:00",
+          "start": "2026-11-01 18:09:00",
+          "end": "2026-11-01 18:12:00",
           "duration_label": 3
+        },
+        {
+          "name": "wildlifepark_cycle_overcast_day",
+          "label": {
+            "tw": "wildlifepark_cycle_overcast_day",
+            "cn": "wildlifepark_cycle_overcast_day",
+            "en": "wildlifepark_cycle_overcast_day"
+          },
+          "start": "2026-11-01 18:02:00",
+          "end": "2026-11-01 18:03:00",
+          "duration_label": 1
+        },
+        {
+          "name": "wildlifepark_cycle_overcast_night",
+          "label": {
+            "tw": "wildlifepark_cycle_overcast_night",
+            "cn": "wildlifepark_cycle_overcast_night",
+            "en": "wildlifepark_cycle_overcast_night"
+          },
+          "start": "2026-11-01 18:08:00",
+          "end": "2026-11-01 18:09:00",
+          "duration_label": 1
+        },
+        {
+          "name": "wildlifepark_cycle_sunset",
+          "label": {
+            "tw": "wildlifepark_cycle_sunset",
+            "cn": "wildlifepark_cycle_sunset",
+            "en": "wildlifepark_cycle_sunset"
+          },
+          "start": "2026-11-01 18:06:00",
+          "end": "2026-11-01 18:08:00",
+          "duration_label": 2
         }
-      ]
+      ],
+      "removed": []
     }
   },
   "video_defs": {
@@ -6362,7 +6394,7 @@
         "duration_fmt": "31:10"
       }
     },
-    "fetched_at_fmt": "2026-11-01 17:31:01",
+    "fetched_at_fmt": "2026-11-01 18:00:55",
     "last_diff": {
       "recorded_at_fmt": "2026-10-14 04:39:06",
       "previous_fetched_at_fmt": "2026-10-14 04:30:42",
