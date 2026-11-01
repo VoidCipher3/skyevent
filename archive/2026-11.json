@@ -26,7 +26,6 @@
       "aurora_exhaleinhale_wrap",
       "aurora_eyesofachild",
       "aurora_eyesofachild_countdown",
-      "aurora_minigame_4",
       "aurora_minigame_vote_rotation",
       "aurora_orbit",
       "aurora_orbit_countdown",
@@ -582,14 +581,10 @@
       "visiting_vendor_questap32",
       "weekly_dye_rotation_03",
       "weekly_prop_rotation_04",
-      "wildlifepark_cycle_day",
       "wildlifepark_cycle_night",
-      "wildlifepark_cycle_not_night_hint",
-      "wildlifepark_cycle_overcast_night",
-      "wildlifepark_cycle_sunset",
       "wing_buff_conversion_period"
     ],
-    "total": 688,
-    "active_count": 594
+    "total": 669,
+    "active_count": 570
   }
 }
