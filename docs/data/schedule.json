@@ -2,16 +2,16 @@
   "ok": true,
   "server": "global",
   "meta": {
-    "fetched_at_fmt": "2026-11-01 16:00:16",
+    "fetched_at_fmt": "2026-11-01 16:00:53",
     "auto_refresh": true,
     "refresh_interval_hours": 0.5
   },
   "data": {
-    "server_time_fmt": "2026-11-01 16:00:16",
-    "valid_until_fmt": "2026-11-01 16:30:16",
+    "server_time_fmt": "2026-11-01 16:00:53",
+    "valid_until_fmt": "2026-11-01 16:30:53",
     "base_time_fmt": "2020-04-20 15:00:00",
-    "total": 808,
-    "active_count": 596,
+    "total": 807,
+    "active_count": 593,
     "events": [
       {
         "name": "social_dusk_spitroastpassive",
@@ -2688,20 +2688,6 @@
         "upcoming": true
       },
       {
-        "name": "fetch_manta_fertilizer_01",
-        "label": {
-          "tw": "fetch_manta_fertilizer_01",
-          "cn": "fetch_manta_fertilizer_01",
-          "en": "fetch_manta_fertilizer_01"
-        },
-        "start": "2026-11-01 16:32:00",
-        "end": "2026-11-01 16:34:00",
-        "duration_minutes": 2,
-        "duration_label": 2,
-        "active": false,
-        "upcoming": true
-      },
-      {
         "name": "wildlifepark_cycle_day",
         "label": {
           "tw": "wildlifepark_cycle_day",
@@ -3562,6 +3548,20 @@
           "cn": "visiting_vendor_ap22_miniquest_house",
           "en": "visiting_vendor_ap22_miniquest_house"
         },
+        "start": "2026-10-31 15:57:00",
+        "end": "2026-11-01 15:57:00",
+        "duration_minutes": 1440,
+        "duration_label": 1440,
+        "active": false,
+        "upcoming": false
+      },
+      {
+        "name": "visiting_vendor_ap22_miniquest_house",
+        "label": {
+          "tw": "visiting_vendor_ap22_miniquest_house",
+          "cn": "visiting_vendor_ap22_miniquest_house",
+          "en": "visiting_vendor_ap22_miniquest_house"
+        },
         "start": "2026-10-31 15:58:00",
         "end": "2026-11-01 15:58:00",
         "duration_minutes": 1440,
@@ -3760,20 +3760,6 @@
         },
         "start": "2026-10-31 16:12:00",
         "end": "2026-11-01 16:12:00",
-        "duration_minutes": 1440,
-        "duration_label": 1440,
-        "active": true,
-        "upcoming": false
-      },
-      {
-        "name": "visiting_vendor_ap22_miniquest_house",
-        "label": {
-          "tw": "visiting_vendor_ap22_miniquest_house",
-          "cn": "visiting_vendor_ap22_miniquest_house",
-          "en": "visiting_vendor_ap22_miniquest_house"
-        },
-        "start": "2026-10-31 16:13:00",
-        "end": "2026-11-01 16:13:00",
         "duration_minutes": 1440,
         "duration_label": 1440,
         "active": true,
@@ -4766,6 +4752,20 @@
           "cn": "snake_coin",
           "en": "snake_coin"
         },
+        "start": "2026-11-01 15:56:00",
+        "end": "2026-11-01 15:57:00",
+        "duration_minutes": 1,
+        "duration_label": 1,
+        "active": false,
+        "upcoming": false
+      },
+      {
+        "name": "snake_coin",
+        "label": {
+          "tw": "snake_coin",
+          "cn": "snake_coin",
+          "en": "snake_coin"
+        },
         "start": "2026-11-01 15:57:00",
         "end": "2026-11-01 15:58:00",
         "duration_minutes": 1,
@@ -4964,20 +4964,6 @@
         },
         "start": "2026-11-01 16:11:00",
         "end": "2026-11-01 16:12:00",
-        "duration_minutes": 1,
-        "duration_label": 1,
-        "active": false,
-        "upcoming": true
-      },
-      {
-        "name": "snake_coin",
-        "label": {
-          "tw": "snake_coin",
-          "cn": "snake_coin",
-          "en": "snake_coin"
-        },
-        "start": "2026-11-01 16:12:00",
-        "end": "2026-11-01 16:13:00",
         "duration_minutes": 1,
         "duration_label": 1,
         "active": false,
@@ -6418,6 +6404,20 @@
           "cn": "visiting_vendor_ap22_miniquest_shop",
           "en": "visiting_vendor_ap22_miniquest_shop"
         },
+        "start": "2026-10-31 15:57:00",
+        "end": "2026-11-01 15:57:00",
+        "duration_minutes": 1440,
+        "duration_label": 1440,
+        "active": false,
+        "upcoming": false
+      },
+      {
+        "name": "visiting_vendor_ap22_miniquest_shop",
+        "label": {
+          "tw": "visiting_vendor_ap22_miniquest_shop",
+          "cn": "visiting_vendor_ap22_miniquest_shop",
+          "en": "visiting_vendor_ap22_miniquest_shop"
+        },
         "start": "2026-10-31 15:58:00",
         "end": "2026-11-01 15:58:00",
         "duration_minutes": 1440,
@@ -6616,20 +6616,6 @@
         },
         "start": "2026-10-31 16:12:00",
         "end": "2026-11-01 16:12:00",
-        "duration_minutes": 1440,
-        "duration_label": 1440,
-        "active": true,
-        "upcoming": false
-      },
-      {
-        "name": "visiting_vendor_ap22_miniquest_shop",
-        "label": {
-          "tw": "visiting_vendor_ap22_miniquest_shop",
-          "cn": "visiting_vendor_ap22_miniquest_shop",
-          "en": "visiting_vendor_ap22_miniquest_shop"
-        },
-        "start": "2026-10-31 16:13:00",
-        "end": "2026-11-01 16:13:00",
         "duration_minutes": 1440,
         "duration_label": 1440,
         "active": true,
@@ -6852,6 +6838,20 @@
           "cn": "wildlifepark_cycle_overcast_night",
           "en": "wildlifepark_cycle_overcast_night"
         },
+        "start": "2026-11-01 15:56:00",
+        "end": "2026-11-01 15:57:00",
+        "duration_minutes": 1,
+        "duration_label": 1,
+        "active": false,
+        "upcoming": false
+      },
+      {
+        "name": "wildlifepark_cycle_overcast_night",
+        "label": {
+          "tw": "wildlifepark_cycle_overcast_night",
+          "cn": "wildlifepark_cycle_overcast_night",
+          "en": "wildlifepark_cycle_overcast_night"
+        },
         "start": "2026-11-01 16:08:00",
         "end": "2026-11-01 16:09:00",
         "duration_minutes": 1,
@@ -6868,20 +6868,6 @@
         },
         "start": "2026-11-01 16:20:00",
         "end": "2026-11-01 16:21:00",
-        "duration_minutes": 1,
-        "duration_label": 1,
-        "active": false,
-        "upcoming": true
-      },
-      {
-        "name": "wildlifepark_cycle_overcast_night",
-        "label": {
-          "tw": "wildlifepark_cycle_overcast_night",
-          "cn": "wildlifepark_cycle_overcast_night",
-          "en": "wildlifepark_cycle_overcast_night"
-        },
-        "start": "2026-11-01 16:32:00",
-        "end": "2026-11-01 16:33:00",
         "duration_minutes": 1,
         "duration_label": 1,
         "active": false,
@@ -6941,6 +6927,20 @@
         "duration_minutes": 1440,
         "duration_label": 1440,
         "active": true,
+        "upcoming": false
+      },
+      {
+        "name": "visiting_vendor_ap22_miniquest_social",
+        "label": {
+          "tw": "visiting_vendor_ap22_miniquest_social",
+          "cn": "visiting_vendor_ap22_miniquest_social",
+          "en": "visiting_vendor_ap22_miniquest_social"
+        },
+        "start": "2026-10-31 15:57:00",
+        "end": "2026-11-01 15:57:00",
+        "duration_minutes": 1440,
+        "duration_label": 1440,
+        "active": false,
         "upcoming": false
       },
       {
@@ -7148,20 +7148,6 @@
         },
         "start": "2026-10-31 16:12:00",
         "end": "2026-11-01 16:12:00",
-        "duration_minutes": 1440,
-        "duration_label": 1440,
-        "active": true,
-        "upcoming": false
-      },
-      {
-        "name": "visiting_vendor_ap22_miniquest_social",
-        "label": {
-          "tw": "visiting_vendor_ap22_miniquest_social",
-          "cn": "visiting_vendor_ap22_miniquest_social",
-          "en": "visiting_vendor_ap22_miniquest_social"
-        },
-        "start": "2026-10-31 16:13:00",
-        "end": "2026-11-01 16:13:00",
         "duration_minutes": 1440,
         "duration_label": 1440,
         "active": true,

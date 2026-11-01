@@ -5,7 +5,7 @@
       "has_recorded_diff": true,
       "recorded_at_fmt": "2026-11-01 16:00:16",
       "previous_fetched_at_fmt": "2026-11-01 15:45:07",
-      "unchanged_since_last_change": false,
+      "unchanged_since_last_change": true,
       "added": [
         {
           "name": "aurora_minigame_3",
