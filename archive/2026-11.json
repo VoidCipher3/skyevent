@@ -644,7 +644,7 @@
       "aurora_exhaleinhale_wrap",
       "aurora_eyesofachild",
       "aurora_eyesofachild_countdown",
-      "aurora_minigame_4",
+      "aurora_minigame_1",
       "aurora_minigame_vote_rotation",
       "aurora_orbit",
       "aurora_orbit_countdown",
@@ -729,9 +729,6 @@
       "feast_toyvendorforever",
       "fetch_manta_fertilizer_01",
       "fireworks_show_act1",
-      "fireworks_show_act2",
-      "fireworks_show_act3",
-      "fireworks_show_act4",
       "fireworks_show_medpad",
       "gen_shop_daily_reset",
       "gen_shop_monthly_reset",
@@ -749,7 +746,6 @@
       "global_mainstreet",
       "global_merchandise_live",
       "global_musicshop_sale",
-      "global_nature_geyser",
       "global_newyear_firework_interval",
       "global_office_open",
       "global_office_shop",
@@ -777,7 +773,7 @@
       "mainstreet_cycle_day_B",
       "mainstreet_cycle_morning_B",
       "mainstreet_cycle_night_B",
-      "mainstreet_cycle_overcast_day_B",
+      "mainstreet_cycle_sunset_B",
       "musicshop_weekly_rotation_05",
       "nature_geyser_on",
       "personality_quiz_evergreen",
@@ -1028,11 +1024,14 @@
       "social_eelwatercreature",
       "social_feed_prompt_jellyfish_friends",
       "social_feed_prompt_music_nook",
+      "social_nature2022turtle",
       "social_prairie_cozycave",
       "social_rain_bonfirecamp",
       "social_rain_grandmatable",
       "social_skyway_speedtube",
       "social_sunset_labyrinth",
+      "social_sunsetskater",
+      "social_turtle_despawn",
       "social_turtle_on",
       "social_wax_on",
       "spiritshopitem_ap06unlock_ap07_fetch_01",
@@ -1226,6 +1225,6 @@
       "wing_buff_conversion_period"
     ],
     "total": 817,
-    "active_count": 555
+    "active_count": 554
   }
 }
