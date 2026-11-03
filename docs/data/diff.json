@@ -3,21 +3,67 @@
   "diff": {
     "event_schedule": {
       "has_recorded_diff": true,
-      "recorded_at_fmt": "2026-11-03 16:30:55",
-      "previous_fetched_at_fmt": "2026-11-03 16:00:54",
+      "recorded_at_fmt": "2026-11-03 17:00:53",
+      "previous_fetched_at_fmt": "2026-11-03 16:30:55",
       "unchanged_since_last_change": false,
       "added": [
         {
-          "name": "aurora_minigame_1",
+          "name": "aurora_minigame_2",
           "label": {
-            "tw": "aurora_minigame_1",
-            "cn": "aurora_minigame_1",
-            "en": "aurora_minigame_1"
+            "tw": "aurora_minigame_2",
+            "cn": "aurora_minigame_2",
+            "en": "aurora_minigame_2"
           },
-          "start": "2026-11-03 17:00:00",
-          "end": "2026-11-03 17:12:00",
+          "start": "2026-11-03 17:15:00",
+          "end": "2026-11-03 17:27:00",
           "duration_label": 12
         },
+        {
+          "name": "aurora_minigame_3",
+          "label": {
+            "tw": "aurora_minigame_3",
+            "cn": "aurora_minigame_3",
+            "en": "aurora_minigame_3"
+          },
+          "start": "2026-11-03 17:30:00",
+          "end": "2026-11-03 17:42:00",
+          "duration_label": 12
+        },
+        {
+          "name": "mainstreet_cycle_overcast_day_B",
+          "label": {
+            "tw": "mainstreet_cycle_overcast_day_B",
+            "cn": "mainstreet_cycle_overcast_day_B",
+            "en": "mainstreet_cycle_overcast_day_B"
+          },
+          "start": "2026-11-03 17:10:00",
+          "end": "2026-11-03 17:15:00",
+          "duration_label": 5
+        },
+        {
+          "name": "skyfest_fireworks_show_act2",
+          "label": {
+            "tw": "skyfest_fireworks_show_act2",
+            "cn": "skyfest_fireworks_show_act2",
+            "en": "skyfest_fireworks_show_act2"
+          },
+          "start": "2026-11-03 17:25:00",
+          "end": "2026-11-03 17:28:00",
+          "duration_label": 3
+        },
+        {
+          "name": "skyfest_fireworks_show_act3",
+          "label": {
+            "tw": "skyfest_fireworks_show_act3",
+            "cn": "skyfest_fireworks_show_act3",
+            "en": "skyfest_fireworks_show_act3"
+          },
+          "start": "2026-11-03 17:28:00",
+          "end": "2026-11-03 17:29:00",
+          "duration_label": 1
+        }
+      ],
+      "removed": [
         {
           "name": "mainstreet_cycle_sunset_B",
           "label": {
@@ -30,193 +76,15 @@
           "duration_label": 10
         },
         {
-          "name": "social_nature2022turtle",
+          "name": "social_rain_grandmatable",
           "label": {
-            "tw": "social_nature2022turtle",
-            "cn": "social_nature2022turtle",
-            "en": "social_nature2022turtle"
+            "tw": "social_rain_grandmatable",
+            "cn": "social_rain_grandmatable",
+            "en": "social_rain_grandmatable"
           },
-          "start": "2026-11-03 16:50:00",
-          "end": "2026-11-03 17:00:00",
-          "duration_label": 10
-        },
-        {
-          "name": "social_turtle_despawn",
-          "label": {
-            "tw": "social_turtle_despawn",
-            "cn": "social_turtle_despawn",
-            "en": "social_turtle_despawn"
-          },
-          "start": "2026-11-03 17:00:00",
-          "end": "2026-11-03 17:10:00",
-          "duration_label": 10
-        }
-      ],
-      "removed": [
-        {
-          "name": "day_boat",
-          "label": {
-            "tw": "day_boat",
-            "cn": "day_boat",
-            "en": "day_boat"
-          },
-          "start": "2026-11-02 16:00:00",
-          "end": "2026-11-03 16:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "dusk_darkstone_0",
-          "label": {
-            "tw": "dusk_darkstone_0",
-            "cn": "dusk_darkstone_0",
-            "en": "dusk_darkstone_0"
-          },
-          "start": "2026-11-02 16:00:00",
-          "end": "2026-11-03 16:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "dusk_quest",
-          "label": {
-            "tw": "dusk_quest",
-            "cn": "dusk_quest",
-            "en": "dusk_quest"
-          },
-          "start": "2026-11-02 16:00:00",
-          "end": "2026-11-03 16:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "event_night_tcandle_master",
-          "label": {
-            "tw": "event_night_tcandle_master",
-            "cn": "event_night_tcandle_master",
-            "en": "event_night_tcandle_master"
-          },
-          "start": "2026-11-02 16:00:00",
-          "end": "2026-11-03 16:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "event_night_tcandles1",
-          "label": {
-            "tw": "event_night_tcandles1",
-            "cn": "event_night_tcandles1",
-            "en": "event_night_tcandles1"
-          },
-          "start": "2026-11-02 16:00:00",
-          "end": "2026-11-03 16:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "global_nature_geyser",
-          "label": {
-            "tw": "global_nature_geyser",
-            "cn": "global_nature_geyser",
-            "en": "global_nature_geyser"
-          },
-          "start": "2026-11-03 16:00:00",
-          "end": "2026-11-03 16:15:00",
+          "start": "2026-11-03 16:30:00",
+          "end": "2026-11-03 16:45:00",
           "duration_label": 15
-        },
-        {
-          "name": "halloween_day_smoke",
-          "label": {
-            "tw": "halloween_day_smoke",
-            "cn": "halloween_day_smoke",
-            "en": "halloween_day_smoke"
-          },
-          "start": "2026-11-02 16:00:00",
-          "end": "2026-11-03 16:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "mainstreet_cycle_overcast_day_B",
-          "label": {
-            "tw": "mainstreet_cycle_overcast_day_B",
-            "cn": "mainstreet_cycle_overcast_day_B",
-            "en": "mainstreet_cycle_overcast_day_B"
-          },
-          "start": "2026-11-03 16:10:00",
-          "end": "2026-11-03 16:15:00",
-          "duration_label": 5
-        },
-        {
-          "name": "quest_tgc_office_yui",
-          "label": {
-            "tw": "quest_tgc_office_yui",
-            "cn": "quest_tgc_office_yui",
-            "en": "quest_tgc_office_yui"
-          },
-          "start": "2026-11-02 16:00:00",
-          "end": "2026-11-03 16:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "rain_darkstone_0",
-          "label": {
-            "tw": "rain_darkstone_0",
-            "cn": "rain_darkstone_0",
-            "en": "rain_darkstone_0"
-          },
-          "start": "2026-11-02 16:00:00",
-          "end": "2026-11-03 16:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "season_a_dusk_candles1",
-          "label": {
-            "tw": "season_a_dusk_candles1",
-            "cn": "season_a_dusk_candles1",
-            "en": "season_a_dusk_candles1"
-          },
-          "start": "2026-11-02 16:00:00",
-          "end": "2026-11-03 16:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "skyfest_fireworks_show_act2",
-          "label": {
-            "tw": "skyfest_fireworks_show_act2",
-            "cn": "skyfest_fireworks_show_act2",
-            "en": "skyfest_fireworks_show_act2"
-          },
-          "start": "2026-11-03 16:25:00",
-          "end": "2026-11-03 16:28:00",
-          "duration_label": 3
-        },
-        {
-          "name": "skyfest_fireworks_show_act3",
-          "label": {
-            "tw": "skyfest_fireworks_show_act3",
-            "cn": "skyfest_fireworks_show_act3",
-            "en": "skyfest_fireworks_show_act3"
-          },
-          "start": "2026-11-03 16:28:00",
-          "end": "2026-11-03 16:29:00",
-          "duration_label": 1
-        },
-        {
-          "name": "skyfest_skibi",
-          "label": {
-            "tw": "skyfest_skibi",
-            "cn": "skyfest_skibi",
-            "en": "skyfest_skibi"
-          },
-          "start": "2026-11-02 16:00:00",
-          "end": "2026-11-03 16:00:00",
-          "duration_label": 1440
-        },
-        {
-          "name": "stormy_rain",
-          "label": {
-            "tw": "stormy_rain",
-            "cn": "stormy_rain",
-            "en": "stormy_rain"
-          },
-          "start": "2026-11-02 16:00:00",
-          "end": "2026-11-03 16:00:00",
-          "duration_label": 1440
         }
       ]
     },
