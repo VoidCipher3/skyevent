@@ -1866,7 +1866,7 @@
       "aurora_exhaleinhale_wrap",
       "aurora_eyesofachild",
       "aurora_eyesofachild_countdown",
-      "aurora_minigame_4",
+      "aurora_minigame_1",
       "aurora_minigame_vote_rotation",
       "aurora_orbit",
       "aurora_orbit_countdown",
@@ -1967,7 +1967,6 @@
       "global_mainstreet",
       "global_merchandise_live",
       "global_musicshop_sale",
-      "global_nature_geyser",
       "global_newyear_firework_interval",
       "global_office_open",
       "global_office_shop",
@@ -1995,7 +1994,7 @@
       "mainstreet_cycle_day_B",
       "mainstreet_cycle_morning_B",
       "mainstreet_cycle_night_B",
-      "mainstreet_cycle_overcast_day_B",
+      "mainstreet_cycle_sunset_B",
       "musicshop_weekly_rotation_05",
       "nature_geyser_on",
       "night_quest",
@@ -2247,11 +2246,13 @@
       "social_eelwatercreature",
       "social_feed_prompt_festive_joke",
       "social_feed_prompt_music_nook",
+      "social_nature2022turtle",
       "social_prairie_cozycave",
       "social_rain_bonfirecamp",
       "social_rain_grandmatable",
       "social_skyway_speedtube",
       "social_sunset_labyrinth",
+      "social_turtle_despawn",
       "social_turtle_on",
       "social_wax_on",
       "spiritshopitem_ap06unlock_ap07_fetch_01",
@@ -2443,7 +2444,7 @@
       "wildlifepark_cycle_sunset",
       "wing_buff_conversion_period"
     ],
-    "total": 810,
+    "total": 814,
     "active_count": 589
   }
 }
