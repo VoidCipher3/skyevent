@@ -3,10 +3,45 @@
   "diff": {
     "event_schedule": {
       "has_recorded_diff": true,
-      "recorded_at_fmt": "2026-11-04 19:01:01",
-      "previous_fetched_at_fmt": "2026-11-04 17:30:52",
+      "recorded_at_fmt": "2026-11-04 19:30:54",
+      "previous_fetched_at_fmt": "2026-11-04 19:01:01",
       "unchanged_since_last_change": false,
       "added": [
+        {
+          "name": "aurora_minigame_4",
+          "label": {
+            "tw": "aurora_minigame_4",
+            "cn": "aurora_minigame_4",
+            "en": "aurora_minigame_4"
+          },
+          "start": "2026-11-04 19:45:00",
+          "end": "2026-11-04 19:57:00",
+          "duration_label": 12
+        },
+        {
+          "name": "global_nature_geyser",
+          "label": {
+            "tw": "global_nature_geyser",
+            "cn": "global_nature_geyser",
+            "en": "global_nature_geyser"
+          },
+          "start": "2026-11-04 20:00:00",
+          "end": "2026-11-04 20:15:00",
+          "duration_label": 15
+        },
+        {
+          "name": "mainstreet_cycle_sunset_B",
+          "label": {
+            "tw": "mainstreet_cycle_sunset_B",
+            "cn": "mainstreet_cycle_sunset_B",
+            "en": "mainstreet_cycle_sunset_B"
+          },
+          "start": "2026-11-04 19:40:00",
+          "end": "2026-11-04 19:50:00",
+          "duration_label": 10
+        }
+      ],
+      "removed": [
         {
           "name": "aurora_minigame_1",
           "label": {
@@ -49,41 +84,6 @@
           },
           "start": "2026-11-04 19:00:00",
           "end": "2026-11-04 19:10:00",
-          "duration_label": 10
-        }
-      ],
-      "removed": [
-        {
-          "name": "aurora_minigame_4",
-          "label": {
-            "tw": "aurora_minigame_4",
-            "cn": "aurora_minigame_4",
-            "en": "aurora_minigame_4"
-          },
-          "start": "2026-11-04 17:45:00",
-          "end": "2026-11-04 17:57:00",
-          "duration_label": 12
-        },
-        {
-          "name": "global_nature_geyser",
-          "label": {
-            "tw": "global_nature_geyser",
-            "cn": "global_nature_geyser",
-            "en": "global_nature_geyser"
-          },
-          "start": "2026-11-04 18:00:00",
-          "end": "2026-11-04 18:15:00",
-          "duration_label": 15
-        },
-        {
-          "name": "mainstreet_cycle_sunset_B",
-          "label": {
-            "tw": "mainstreet_cycle_sunset_B",
-            "cn": "mainstreet_cycle_sunset_B",
-            "en": "mainstreet_cycle_sunset_B"
-          },
-          "start": "2026-11-04 17:40:00",
-          "end": "2026-11-04 17:50:00",
           "duration_label": 10
         }
       ]
