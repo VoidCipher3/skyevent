@@ -3,111 +3,10 @@
   "diff": {
     "event_schedule": {
       "has_recorded_diff": true,
-      "recorded_at_fmt": "2026-11-25 06:00:40",
-      "previous_fetched_at_fmt": "2026-11-25 05:30:39",
+      "recorded_at_fmt": "2026-11-25 06:06:31",
+      "previous_fetched_at_fmt": "2026-11-25 06:00:40",
       "unchanged_since_last_change": false,
       "added": [
-        {
-          "name": "every_other_minute",
-          "label": {
-            "tw": "every_other_minute",
-            "cn": "every_other_minute",
-            "en": "every_other_minute"
-          },
-          "start": "2026-11-25 06:00:00",
-          "end": "2026-11-25 06:01:00",
-          "duration_label": 1
-        },
-        {
-          "name": "global_fashion",
-          "label": {
-            "tw": "global_fashion",
-            "cn": "global_fashion",
-            "en": "global_fashion"
-          },
-          "start": "2026-11-27 16:00:00",
-          "end": "2026-12-11 16:00:00",
-          "duration_label": 20160
-        },
-        {
-          "name": "global_feast",
-          "label": {
-            "tw": "global_feast",
-            "cn": "global_feast",
-            "en": "global_feast"
-          },
-          "start": "2026-12-18 16:00:00",
-          "end": "2027-01-08 16:00:00",
-          "duration_label": 30240
-        },
-        {
-          "name": "global_weekly_reset_time_mon",
-          "label": {
-            "tw": "global_weekly_reset_time_mon",
-            "cn": "global_weekly_reset_time_mon",
-            "en": "global_weekly_reset_time_mon"
-          },
-          "start": "2026-11-23 16:00:00",
-          "end": "2026-11-30 16:00:00",
-          "duration_label": 10080
-        },
-        {
-          "name": "mainstreet_cycle_overcast_day_B",
-          "label": {
-            "tw": "mainstreet_cycle_overcast_day_B",
-            "cn": "mainstreet_cycle_overcast_day_B",
-            "en": "mainstreet_cycle_overcast_day_B"
-          },
-          "start": "2026-11-25 06:10:00",
-          "end": "2026-11-25 06:15:00",
-          "duration_label": 5
-        },
-        {
-          "name": "skyfest_fireworks_show_act2",
-          "label": {
-            "tw": "skyfest_fireworks_show_act2",
-            "cn": "skyfest_fireworks_show_act2",
-            "en": "skyfest_fireworks_show_act2"
-          },
-          "start": "2026-11-25 06:25:00",
-          "end": "2026-11-25 06:28:00",
-          "duration_label": 3
-        },
-        {
-          "name": "skyfest_fireworks_show_act3",
-          "label": {
-            "tw": "skyfest_fireworks_show_act3",
-            "cn": "skyfest_fireworks_show_act3",
-            "en": "skyfest_fireworks_show_act3"
-          },
-          "start": "2026-11-25 06:28:00",
-          "end": "2026-11-25 06:29:00",
-          "duration_label": 1
-        },
-        {
-          "name": "social_rain_grandmatable",
-          "label": {
-            "tw": "social_rain_grandmatable",
-            "cn": "social_rain_grandmatable",
-            "en": "social_rain_grandmatable"
-          },
-          "start": "2026-11-25 06:30:00",
-          "end": "2026-11-25 06:45:00",
-          "duration_label": 15
-        }
-      ],
-      "removed": [
-        {
-          "name": "aurora_minigame_3",
-          "label": {
-            "tw": "aurora_minigame_3",
-            "cn": "aurora_minigame_3",
-            "en": "aurora_minigame_3"
-          },
-          "start": "2026-11-25 05:30:00",
-          "end": "2026-11-25 05:42:00",
-          "duration_label": 12
-        },
         {
           "name": "mainstreet_cycle_sunset_B",
           "label": {
@@ -115,20 +14,88 @@
             "cn": "mainstreet_cycle_sunset_B",
             "en": "mainstreet_cycle_sunset_B"
           },
-          "start": "2026-11-25 05:40:00",
-          "end": "2026-11-25 05:50:00",
+          "start": "2026-11-25 06:40:00",
+          "end": "2026-11-25 06:50:00",
+          "duration_label": 10
+        }
+      ],
+      "removed": [
+        {
+          "name": "aurora_minigame_4",
+          "label": {
+            "tw": "aurora_minigame_4",
+            "cn": "aurora_minigame_4",
+            "en": "aurora_minigame_4"
+          },
+          "start": "2026-11-25 05:45:00",
+          "end": "2026-11-25 05:57:00",
+          "duration_label": 12
+        },
+        {
+          "name": "day_fairyring",
+          "label": {
+            "tw": "day_fairyring",
+            "cn": "day_fairyring",
+            "en": "day_fairyring"
+          },
+          "start": "2026-11-25 05:50:00",
+          "end": "2026-11-25 06:00:00",
           "duration_label": 10
         },
         {
-          "name": "stormy_intensity_1",
+          "name": "global_newyear_firework_interval",
           "label": {
-            "tw": "stormy_intensity_1",
-            "cn": "stormy_intensity_1",
-            "en": "stormy_intensity_1"
+            "tw": "global_newyear_firework_interval",
+            "cn": "global_newyear_firework_interval",
+            "en": "global_newyear_firework_interval"
           },
-          "start": "2026-11-25 01:50:00",
-          "end": "2026-11-25 05:50:00",
-          "duration_label": 240
+          "start": "2026-11-25 06:00:00",
+          "end": "2026-11-25 06:05:00",
+          "duration_label": 5
+        },
+        {
+          "name": "mainstreet_cycle_night_B",
+          "label": {
+            "tw": "mainstreet_cycle_night_B",
+            "cn": "mainstreet_cycle_night_B",
+            "en": "mainstreet_cycle_night_B"
+          },
+          "start": "2026-11-25 05:50:00",
+          "end": "2026-11-25 06:00:00",
+          "duration_label": 10
+        },
+        {
+          "name": "radiant_darkstone_despawn",
+          "label": {
+            "tw": "radiant_darkstone_despawn",
+            "cn": "radiant_darkstone_despawn",
+            "en": "radiant_darkstone_despawn"
+          },
+          "start": "2026-11-25 05:59:00",
+          "end": "2026-11-25 06:00:00",
+          "duration_label": 1
+        },
+        {
+          "name": "radiant_darkstone_despawn_warning",
+          "label": {
+            "tw": "radiant_darkstone_despawn_warning",
+            "cn": "radiant_darkstone_despawn_warning",
+            "en": "radiant_darkstone_despawn_warning"
+          },
+          "start": "2026-11-25 05:58:00",
+          "end": "2026-11-25 05:59:00",
+          "duration_label": 1
+        },
+        {
+          "name": "sunset_colosseum_firework_interval",
+          "label": {
+            "tw": "sunset_colosseum_firework_interval",
+            "cn": "sunset_colosseum_firework_interval",
+            "en": "sunset_colosseum_firework_interval"
+          },
+          "start": "2026-11-25 06:00:00",
+          "end": "2026-11-25 06:03:00",
+          "duration_label": 3
         }
       ]
     },
